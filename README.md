@@ -22,7 +22,7 @@ licensor (but not in any way that suggests that they endorse you or your use of 
 the resulting work only under the same or similar license to this one.
 
 
-Help expand the icons!
+Help add more icons!
 -------------
 
 You are free to clone this public repository to 1)get the latest version and 2)add new icons:
