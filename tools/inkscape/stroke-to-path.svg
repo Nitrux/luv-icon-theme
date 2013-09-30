@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="22"
+   height="22"
+   id="svg8472"
+   inkscape:version="0.48+devel r12387"
+   sodipodi:docname="stroke-to-path.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     id="namedview49"
+     showgrid="false"
+     inkscape:zoom="30.341309"
+     inkscape:cx="4.0785122"
+     inkscape:cy="7.156538"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8472" />
+  <defs
+     id="defs8474" />
+  <metadata
+     id="metadata8477">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Stroke To Path</dc:title>
+        <dc:date>2006-05-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Lapo Calamandrei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>stroke</rdf:li>
+            <rdf:li>line</rdf:li>
+            <rdf:li>border</rdf:li>
+            <rdf:li>convert</rdf:li>
+            <rdf:li>path</rdf:li>
+            <rdf:li>curve</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m 22,0.53821401 c -6.192047,0 -11.774715,2.39943159 -15.7094841,6.61769009 L 11.605502,12.470885 C 14.155232,9.6231518 17.84317,8.0733924 22,8.0733924 Z"
+     inkscape:connector-curvature="0"
+     id="path6842"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 6.5764514,6.8623774 C 2.6873024,10.754218 0.25227982,16.102983 0.25229058,22 l 7.53517032,0 c 0,-3.868855 1.5494786,-7.339343 4.0703371,-9.856276 L 6.5764514,6.8623774 Z"
+     inkscape:connector-curvature="0"
+     id="path6899"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="path6848"
+     inkscape:connector-curvature="0"
+     d="m 5.2038996,9.5804262 0,4.9516818 -4.95160902,0 0,-4.9516818 L 5.2038996,9.5804262 Z" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="path6861"
+     inkscape:connector-curvature="0"
+     d="m 14.892011,-9.518569e-8 0,4.951683395185691 -4.951612,0 0,-4.951683395185691 L 14.892011,-9.518569e-8 Z" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="path6867"
+     inkscape:connector-curvature="0"
+     d="m 19.197823,6.3510404 0,4.9516826 -4.951612,0 0,-4.9516826 L 19.197823,6.3510404 Z" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="path6873"
+     inkscape:connector-curvature="0"
+     d="m 11.662646,13.886207 0,4.951683 -4.9516057,0 0,-4.951683 L 11.662646,13.886207 Z" />
+  <path
+     d="m 13.65409,1.2379395 0,2.4758042 -2.47577,0 0,-2.4758042 L 13.65409,1.2379395 Z"
+     inkscape:connector-curvature="0"
+     id="path4122"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <path
+     d="m 17.959902,7.5889798 0,2.4758042 -2.475771,0 0,-2.4758042 L 17.959902,7.5889798 Z"
+     inkscape:connector-curvature="0"
+     id="path4124"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <path
+     d="m 10.424729,15.124143 0,2.475811 -2.4757679,0 0,-2.475811 L 10.424729,15.124143 Z"
+     inkscape:connector-curvature="0"
+     id="path4126"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <path
+     d="m 3.9659788,10.818362 0,2.47581 -2.4757674,0 0,-2.47581 L 3.9659788,10.818362 Z"
+     inkscape:connector-curvature="0"
+     id="path4128"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+</svg>

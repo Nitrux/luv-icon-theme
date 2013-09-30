@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="22"
+   height="22"
+   id="svg8472"
+   inkscape:version="0.48+devel r12387"
+   sodipodi:docname="node-distribute-vertical.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     id="namedview63"
+     showgrid="false"
+     inkscape:zoom="21.454545"
+     inkscape:cx="6.9897798"
+     inkscape:cy="7.817453"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8472" />
+  <defs
+     id="defs8474" />
+  <metadata
+     id="metadata8477">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:date>2006-05-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Lapo Calamandrei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>node</rdf:li>
+            <rdf:li>distribute</rdf:li>
+            <rdf:li>horizontal</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:none;stroke:none"
+     id="rect8920"
+     y="0"
+     x="-22"
+     height="22"
+     width="21.999981"
+     transform="matrix(0,-1,1,0,0,0)" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="0.44650087"
+     y="16.041668"
+     id="rect8938"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="5.0298343"
+     y="16.041668"
+     id="rect8940"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="9.6131678"
+     y="16.041668"
+     id="rect8942"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="14.196502"
+     y="16.041668"
+     id="rect8944"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="-21.529917"
+     y="-17.875"
+     transform="scale(-1,-1)"
+     id="rect8946"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2.74999881;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path10022"
+     inkscape:connector-curvature="0"
+     d="m 7.7916664,20.624983 0,-5.858686 c 0,-4.9746826 6.4166666,-2.511115 6.4166666,-7.5326016 l 0,-5.858696" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="0.44650087"
+     y="4.1250176"
+     id="rect8950"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="5.0298343"
+     y="4.1250176"
+     id="rect8952"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="9.6131678"
+     y="4.1250176"
+     id="rect8954"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="14.196502"
+     y="4.1250176"
+     id="rect8956"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="2.7500839"
+     height="1.8333317"
+     x="-21.529917"
+     y="-5.9583497"
+     transform="scale(-1,-1)"
+     id="rect8958"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <rect
+     width="5.4999952"
+     height="5.5"
+     rx="0"
+     ry="0"
+     x="-19.708336"
+     y="5.0416689"
+     id="rect9031"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(0,-1,1,0,0,0)" />
+  <rect
+     width="5.4999952"
+     height="5.5"
+     rx="0"
+     ry="0"
+     x="-7.7916789"
+     y="11.458329"
+     id="rect9694"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(0,-1,1,0,0,0)" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4122"
+     y="12.45833"
+     x="-6.7916789"
+     ry="0"
+     rx="0"
+     height="3.4999981"
+     width="3.4999952"
+     transform="matrix(0,-1,1,0,0,0)" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4124"
+     y="6.0416698"
+     x="-18.708336"
+     ry="0"
+     rx="0"
+     height="3.4999981"
+     width="3.4999952"
+     transform="matrix(0,-1,1,0,0,0)" />
+</svg>

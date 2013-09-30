@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48+devel r12388"
+   sodipodi:docname="document-encrypt.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-11.831338"
+     inkscape:cy="40.833959"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 34.67237,1026.2197 -2.101069,0 0.0063,-6.1904 c 0,-3.6832 -3.825268,-6.6671 -8.554687,-6.6671 -4.723123,0 -8.554686,2.9839 -8.554686,6.6671 l -0.03977,6.1904 -2.147009,0 c -1.182326,0 -2.092634,0.954 -2.092634,1.875 l -0.04607,13.3925 c 0,0.9208 1.002326,1.875 2.184643,1.875 l 21.395088,0 c 1.178171,0 2.088479,-0.9542 2.088479,-1.875 l 0.04607,-13.3925 C 36.857012,1027.1737 35.850406,1026.2197 34.67237,1026.2197 z m -14.95821,-6.4289 c 0,-1.8374 1.954552,-3.096 4.308749,-3.096 2.356339,0 4.262678,1.2586 4.262678,3.096 l -0.02935,6.4289 -8.542096,0 L 19.71416,1019.7908 Z"
+       id="path829" />
+  </g>
+</svg>

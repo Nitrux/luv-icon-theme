@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="22"
+   height="22"
+   id="svg2928"
+   inkscape:version="0.48+devel r12387"
+   sodipodi:docname="color-fill.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     id="namedview37"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-17.991525"
+     inkscape:cy="10.62712"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2928" />
+  <defs
+     id="defs2930" />
+  <metadata
+     id="metadata2933">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Fill Tool</dc:title>
+        <dc:date>2005-08-19</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>fill</rdf:li>
+            <rdf:li>bucket</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     id="path546"
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 10.911559,10.232075 c -0.382579,3.087005 -2.3399845,3.723068 -2.3399845,5.867583 0,1.324608 1.1114958,2.400342 2.4281875,2.400342 1.317162,0 2.428657,-1.075734 2.428657,-2.400342 0,-2.144515 -1.957399,-2.780578 -2.339981,-5.867583 C 11.076369,10.139225 10.923615,10.139225 10.911559,10.232075 Z M 15.7099,3.5696439 c -0.01216,-0.092859 -0.165283,-0.092859 -0.177352,0 -0.382582,3.087005 -2.339981,3.7226 -2.339981,5.8675821 0,1.324602 1.111961,2.398483 2.428657,2.398483 1.316696,0 2.428192,-1.073881 2.428192,-2.398483 C 18.049416,7.2922439 16.092006,6.6566489 15.709901,3.5696439 z m -9.2429156,0 c -0.01155,-0.092859 -0.1648235,-0.092859 -0.1764328,0 -0.3825628,3.087005 -2.3399678,3.7226 -2.3399678,5.8675821 0,1.324602 1.1114808,2.398483 2.4281923,2.398483 1.3171607,0 2.4281913,-1.073881 2.4281913,-2.398483 0,-2.1449821 -1.9574198,-2.7805771 -2.3399829,-5.8675821" />
+</svg>
