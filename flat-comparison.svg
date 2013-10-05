@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.65851649"
-     inkscape:cx="462.0571"
-     inkscape:cy="311.98499"
+     inkscape:zoom="0.93128295"
+     inkscape:cx="591.87023"
+     inkscape:cy="355.93154"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -161,15 +161,6 @@
          sodipodi:role="line"
          x="-35.153687"
          y="90.053085">simple user  interface elements such as buttons or icons.</tspan></text>
-    <path
-       sodipodi:type="arc"
-       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path4230"
-       sodipodi:cx="27.829473"
-       sodipodi:cy="96.958992"
-       sodipodi:rx="0.70604444"
-       sodipodi:ry="0.70557731"
-       d="m 28.535518,96.958992 c 0,0.369439 -0.336419,0.705577 -0.705873,0.705556 -0.369454,-2.2e-5 -0.705238,-0.336158 -0.705238,-0.705556 0,-0.369398 0.335784,-0.705534 0.705238,-0.705556 0.369454,-2.1e-5 0.705873,0.336117 0.705873,0.705556 z" />
     <text
        sodipodi:linespacing="125%"
        id="text4232"
@@ -181,7 +172,7 @@
          x="29.099962"
          sodipodi:role="line"
          style="font-size:3.88055563px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COM4t Fine Regular;-inkscape-font-specification:'COM4t Fine Regular, Regular,'"
-         id="tspan4242">Lack of depth, no gradients or shadows or bevels or three-dimensional effects.</tspan><tspan
+         id="tspan4242" /><tspan
          y="102.64426"
          x="29.099962"
          sodipodi:role="line"
