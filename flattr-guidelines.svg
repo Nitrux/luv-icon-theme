@@ -13,7 +13,7 @@
    height="573.65997"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12628"
+   inkscape:version="0.48+devel r12653"
    viewBox="0 0 176.29068 161.89961"
    sodipodi:docname="flattr-guidelines.svg">
   <defs
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.08"
+     inkscape:zoom="1.0877143"
      inkscape:cx="296.04999"
-     inkscape:cy="420.88452"
+     inkscape:cy="407.88467"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -111,11 +111,11 @@
          sodipodi:role="line"
          x="-38.119164"
          y="283.60104"
-         id="tspan4169">3) Generally speaking there's no restrictions on the size of the objects however to keep constency and to remain visually</tspan><tspan
+         id="tspan4169">3) Generally speaking there's no restrictions on the size of the objects however to keep consistency and to remain visually</tspan><tspan
          sodipodi:role="line"
          x="-38.119164"
          y="287.56979"
-         id="tspan4171">pleasent make sure that your icons are in these sizes:</tspan><tspan
+         id="tspan4171">pleasant make sure that your icons are in these sizes:</tspan><tspan
          sodipodi:role="line"
          x="-38.119164"
          y="291.53854"
@@ -175,7 +175,7 @@
          sodipodi:role="line"
          x="-38.119164"
          y="347.10104"
-         id="tspan4255">if the icons is vertical rectangle:                 30-46 x 46px</tspan><tspan
+         id="tspan4255">if the icon is a vertical rectangle:                 30-46 x 46px</tspan><tspan
          sodipodi:role="line"
          x="-38.119164"
          y="351.06979"
