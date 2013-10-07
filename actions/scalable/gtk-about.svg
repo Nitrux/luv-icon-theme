@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12388"
+   inkscape:version="0.48+devel r12662"
    sodipodi:docname="gtk-about.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.4238368"
-     inkscape:cx="-2.4536068"
-     inkscape:cy="31.630516"
+     inkscape:zoom="11.52699"
+     inkscape:cx="26.376761"
+     inkscape:cy="25.577393"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,24 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="9,9"
+       orientation="-30,0"
+       id="guide3262" />
+    <sodipodi:guide
+       position="9,39"
+       orientation="0,30"
+       id="guide3264" />
+    <sodipodi:guide
+       position="39,39"
+       orientation="30,0"
+       id="guide3266" />
+    <sodipodi:guide
+       position="39,9"
+       orientation="0,-30"
+       id="guide3268" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -43,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,10 +69,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path290"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 38.906163,1024.9698 c -0.215538,-0.6706 -0.792601,-1.1622 -1.487851,-1.272 l -7.929305,-1.2519 -3.796077,-8.0116 c -0.309378,-0.6546 -0.969872,-1.0721 -1.69294,-1.0721 -0.723045,0 -1.387007,0.4175 -1.696408,1.0721 l -3.792586,8.0116 -7.929306,1.2519 c -0.69525,0.1098 -1.272311,0.6014 -1.49132,1.272 C 9.03126,1025.1603 9,1025.3557 9,1025.5497 c 0,0.4895 0.19119,0.9686 0.549243,1.3256 l 5.853986,5.8534 -1.679019,8.3912 c -0.142537,0.7161 0.142538,1.4507 0.733497,1.8818 0.326767,0.2392 0.716108,0.3605 1.105449,0.3605 0.312845,0 0.625715,-0.078 0.907297,-0.2357 l 7.529536,-4.1819 7.52609,4.1819 c 0.28505,0.1578 0.597919,0.2357 0.910766,0.2357 0.38934,0 0.778682,-0.1213 1.105448,-0.3605 0.587491,-0.4311 0.876011,-1.1657 0.730028,-1.8818 l -1.675549,-8.3912 5.853985,-5.8534 C 38.805341,1026.5183 39,1026.0392 39,1025.5497 c 0,-0.194 -0.03129,-0.3894 -0.09383,-0.5799" />
+    <polygon
+       style="fill:#4d4d4d"
+       points="32,12 20,12 16,0 12,12 0,12 9.875,19.594 6,32 16.016,24.32 26.008,32 22.137,19.625 "
+       id="polygon3268"
+       transform="matrix(0.9375,0,0,0.9375,9,1013.3622)" />
   </g>
 </svg>

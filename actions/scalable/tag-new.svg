@@ -13,7 +13,7 @@
    height="48"
    id="svg3815"
    version="1.1"
-   inkscape:version="0.48+devel r12388"
+   inkscape:version="0.48+devel r12662"
    sodipodi:docname="tag-new.svg">
   <defs
      id="defs3817" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="19.647649"
-     inkscape:cy="25.862283"
+     inkscape:zoom="8.0343727"
+     inkscape:cx="17.089316"
+     inkscape:cy="34.733807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,40 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="9,39.000017"
+       orientation="30,0"
+       id="guide3266" />
+    <sodipodi:guide
+       position="9,9.0000174"
+       orientation="0,30"
+       id="guide3268" />
+    <sodipodi:guide
+       position="39,9.0000174"
+       orientation="-30,0"
+       id="guide3270" />
+    <sodipodi:guide
+       position="39,39.000017"
+       orientation="0,-30"
+       id="guide3272" />
+    <sodipodi:guide
+       position="9,39.000017"
+       orientation="11,0"
+       id="guide3278" />
+    <sodipodi:guide
+       position="9,28.000017"
+       orientation="0,11"
+       id="guide3280" />
+    <sodipodi:guide
+       position="20,28.000017"
+       orientation="-11,0"
+       id="guide3282" />
+    <sodipodi:guide
+       position="20,39.000017"
+       orientation="0,-11"
+       id="guide3284" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3820">
     <rdf:RDF>
@@ -52,11 +85,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <path
-       id="path839"
-       d="m 13.45178,1013.3622 6.995797,0 17.807368,17.8075 c 0.993407,0.9933 0.993407,2.6041 0,3.5974 l -7.849987,7.8498 c -0.993408,0.9938 -2.604182,0.9938 -3.59759,0 l -17.8073671,-17.807 0,-6.9958 c 0,-1.4838 0,-2.9682 0.7419621,-3.7098 C 10.483926,1013.3622 11.967856,1013.3622 13.45178,1013.3622 z m 1.908012,3.8159 c -1.40496,0 -2.543931,1.1388 -2.543931,2.5439 0,1.4052 1.138971,2.5439 2.543931,2.5439 1.404958,0 2.54385,-1.1387 2.54385,-2.5439 C 17.903642,1018.3169 16.76475,1017.1781 15.359792,1017.1781 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3262"
+       width="30"
+       height="30"
+       x="9"
+       y="1013.3622" />
     <g
        id="g839"
        transform="translate(-359.19928,689.31354)">
@@ -64,5 +99,28 @@
          id="text872"
          style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold" />
     </g>
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 9 9 L 9 21.728516 L 26.271484 39 L 39 26.271484 L 21.728516 9 L 9 9 z M 16 14 C 17.04727 13.999938 18 14.95277 18 16 C 18 17.04723 17.04727 18.000062 16 18 C 14.95273 17.999938 14 17.047113 14 16 C 14 14.952887 14.95273 14.000062 16 14 z "
+       transform="translate(0,1004.3622)"
+       id="rect4092" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path4086"
+       sodipodi:cx="14.499307"
+       sodipodi:cy="1023.3622"
+       sodipodi:rx="1.0006928"
+       sodipodi:ry="1.0000308"
+       d="m 15.5,1023.3622 a 1.0006928,1.0000308 0 1 1 0,0 1.0006928,1.0000308 0 1 1 0,0 z" />
+    <path
+       d="m 20,1018.8622 a 1.0006928,1.0000308 0 1 1 0,0 1.0006928,1.0000308 0 1 1 0,0 z"
+       sodipodi:ry="1.0000308"
+       sodipodi:rx="1.0006928"
+       sodipodi:cy="1018.8622"
+       sodipodi:cx="18.999308"
+       id="path4088"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
   </g>
 </svg>

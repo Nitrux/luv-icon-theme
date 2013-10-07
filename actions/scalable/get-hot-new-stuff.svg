@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12388"
+   inkscape:version="0.48+devel r12662"
    sodipodi:docname="get-hot-new-stuff.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="29.370028"
-     inkscape:cy="18.032478"
+     inkscape:zoom="11.52699"
+     inkscape:cx="26.376761"
+     inkscape:cy="25.577393"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,24 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="9,9"
+       orientation="-30,0"
+       id="guide3262" />
+    <sodipodi:guide
+       position="9,39"
+       orientation="0,30"
+       id="guide3264" />
+    <sodipodi:guide
+       position="39,39"
+       orientation="30,0"
+       id="guide3266" />
+    <sodipodi:guide
+       position="39,9"
+       orientation="0,-30"
+       id="guide3268" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,10 +69,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path290"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 38.904806,1024.9703 c -0.21554,-0.6706 -0.792604,-1.1622 -1.487853,-1.2721 l -7.929307,-1.2517 -3.796076,-8.0114 c -0.309378,-0.6547 -0.969873,-1.0724 -1.692938,-1.0724 -0.723045,0 -1.387009,0.4177 -1.696409,1.0724 l -3.792585,8.0114 -7.929307,1.2517 c -0.6952495,0.1099 -1.272312,0.6015 -1.4913204,1.2721 -0.059107,0.1904 -0.090369,0.3858 -0.090369,0.58 0,0.4895 0.1911902,0.9684 0.5492437,1.3254 l 5.8539857,5.8533 -1.679019,8.3913 c -0.142538,0.716 0.142537,1.4504 0.733497,1.8817 0.326767,0.2393 0.716108,0.3607 1.105449,0.3607 0.312845,0 0.625715,-0.079 0.907297,-0.2357 l 7.529536,-4.1819 7.526087,4.1819 c 0.285053,0.1579 0.597921,0.2357 0.91077,0.2357 0.38934,0 0.778681,-0.1214 1.105446,-0.3607 0.587492,-0.4312 0.876011,-1.1657 0.73003,-1.8817 l -1.67555,-8.3913 5.853983,-5.8533 c 0.354585,-0.357 0.549245,-0.8359 0.549245,-1.3254 0,-0.1942 -0.03129,-0.3896 -0.09384,-0.58" />
+    <polygon
+       style="fill:#4d4d4d"
+       points="32,12 20,12 16,0 12,12 0,12 9.875,19.594 6,32 16.016,24.32 26.008,32 22.137,19.625 "
+       id="polygon3268"
+       transform="matrix(0.9375,0,0,0.9375,9,1013.3622)" />
   </g>
 </svg>

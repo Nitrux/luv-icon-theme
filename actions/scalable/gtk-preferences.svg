@@ -13,8 +13,8 @@
    height="48"
    id="svg3780"
    version="1.1"
-   inkscape:version="0.48+devel r12397"
-   sodipodi:docname="application-menu.svg">
+   inkscape:version="0.48+devel r12660"
+   sodipodi:docname="bonobo-component-browser.svg">
   <defs
      id="defs3782" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.3250063"
-     inkscape:cx="-9.9390041"
-     inkscape:cy="9.8484212"
+     inkscape:zoom="8.7753751"
+     inkscape:cx="24.574525"
+     inkscape:cy="23.155265"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,24 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="9,39.000017"
+       orientation="30,0"
+       id="guide3264" />
+    <sodipodi:guide
+       position="9,9.0000174"
+       orientation="0,30"
+       id="guide3266" />
+    <sodipodi:guide
+       position="39,9.0000174"
+       orientation="-30,0"
+       id="guide3268" />
+    <sodipodi:guide
+       position="39,39.000017"
+       orientation="0,-30"
+       id="guide3270" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3785">
     <rdf:RDF>
@@ -52,10 +69,45 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3260"
+       width="30"
+       height="30"
+       x="9"
+       y="1013.3622" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="M 23.125 9 C 21.210352 9 19.606379 10.252594 19.03125 11.96875 C 17.407747 11.149981 15.359293 11.421957 14 12.78125 L 12.78125 14 C 11.421957 15.359293 11.149981 17.407747 11.96875 19.03125 C 10.252594 19.606379 9 21.210352 9 23.125 L 9 24.875 C 9 26.789648 10.252594 28.393621 11.96875 28.96875 C 11.149981 30.592253 11.421957 32.640707 12.78125 34 L 14 35.21875 C 15.359293 36.578043 17.407747 36.850019 19.03125 36.03125 C 19.606379 37.747406 21.210352 39 23.125 39 L 24.875 39 C 26.789648 39 28.393621 37.747406 28.96875 36.03125 C 30.592253 36.850019 32.640707 36.578043 34 35.21875 L 35.21875 34 C 36.578043 32.640707 36.850019 30.592253 36.03125 28.96875 C 37.747406 28.393621 39 26.789648 39 24.875 L 39 23.125 C 39 21.210352 37.747406 19.606379 36.03125 19.03125 C 36.850019 17.407747 36.578043 15.359293 35.21875 14 L 34 12.78125 C 32.640707 11.421957 30.592253 11.149981 28.96875 11.96875 C 28.393621 10.252594 26.789648 9 24.875 9 L 23.125 9 z M 24 16.09375 C 28.359105 16.09375 31.90625 19.640895 31.90625 24 C 31.90625 28.359105 28.359105 31.90625 24 31.90625 C 19.640895 31.90625 16.09375 28.359105 16.09375 24 C 16.09375 19.640895 19.640895 16.09375 24 16.09375 z "
-       transform="translate(0,1004.3622)"
-       id="rect4046" />
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3272"
+       sodipodi:cx="23.998613"
+       sodipodi:cy="1041.3622"
+       sodipodi:rx="2.0013857"
+       sodipodi:ry="2.0000615"
+       d="m 25.999999,1041.3622 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3278"
+       width="4"
+       height="30"
+       x="1017.3622"
+       y="-39"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-39"
+       x="1035.3622"
+       height="30"
+       width="4"
+       id="rect3286"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3288"
+       width="4"
+       height="30"
+       x="1026.3622"
+       y="-39"
+       transform="matrix(0,1,-1,0,0,0)" />
   </g>
 </svg>

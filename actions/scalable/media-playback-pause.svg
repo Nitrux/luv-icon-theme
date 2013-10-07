@@ -13,8 +13,8 @@
    height="48"
    id="svg4169"
    version="1.1"
-   inkscape:version="0.48+devel r12388"
-   sodipodi:docname="gtk-media-pause.svg">
+   inkscape:version="0.48+devel r12660"
+   sodipodi:docname="media-playback-pause.svg">
   <defs
      id="defs4171" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-1.6545732"
-     inkscape:cy="65.292793"
+     inkscape:zoom="9.4330376"
+     inkscape:cx="14.721347"
+     inkscape:cy="24.814646"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,24 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="9,39.000017"
+       orientation="30,0"
+       id="guide3266" />
+    <sodipodi:guide
+       position="9,9.0000174"
+       orientation="0,30"
+       id="guide3268" />
+    <sodipodi:guide
+       position="39,9.0000174"
+       orientation="-30,0"
+       id="guide3270" />
+    <sodipodi:guide
+       position="39,39.000017"
+       orientation="0,-30"
+       id="guide3272" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4174">
     <rdf:RDF>
@@ -52,28 +69,44 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <g
-       transform="matrix(0,1,1.28,0,-741.68316,454.07649)"
-       id="layer1-6"
-       inkscape:label="Capa 1">
-      <rect
-         transform="matrix(0,1,1,0,0,0)"
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         id="rect4048"
-         width="5"
-         height="30"
-         x="601.60883"
-         y="559.28571"
-         ry="2.5" />
-      <rect
-         ry="2.5"
-         y="559.28571"
-         x="589.77112"
-         height="30"
-         width="5"
-         id="rect4047"
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0,1,1,0,0,0)" />
-    </g>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3262"
+       width="30"
+       height="30"
+       x="9"
+       y="1013.3622" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3274"
+       sodipodi:cx="10.998614"
+       sodipodi:cy="1028.3622"
+       sodipodi:rx="2.0013857"
+       sodipodi:ry="2.0000615"
+       d="m 13,1028.3622 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z" />
+    <path
+       d="m 39.000001,1028.3622 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z"
+       sodipodi:ry="2.0000615"
+       sodipodi:rx="2.0013857"
+       sodipodi:cy="1028.3622"
+       sodipodi:cx="36.998615"
+       id="path3276"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3278"
+       width="7"
+       height="30"
+       x="13"
+       y="1013.3622" />
+    <rect
+       y="1013.3622"
+       x="28.000002"
+       height="30"
+       width="7"
+       id="rect3280"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   </g>
 </svg>

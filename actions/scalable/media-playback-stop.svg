@@ -13,7 +13,7 @@
    height="48"
    id="svg4169"
    version="1.1"
-   inkscape:version="0.48+devel r12388"
+   inkscape:version="0.48+devel r12662"
    sodipodi:docname="gtk-media-stop.svg">
   <defs
      id="defs4171" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-4.3415927"
-     inkscape:cy="23.95773"
+     inkscape:zoom="5.6811595"
+     inkscape:cx="41.695246"
+     inkscape:cy="24.450407"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,24 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="9,39.000017"
+       orientation="30,0"
+       id="guide3264" />
+    <sodipodi:guide
+       position="9,9.0000174"
+       orientation="0,30"
+       id="guide3266" />
+    <sodipodi:guide
+       position="39,9.0000174"
+       orientation="-30,0"
+       id="guide3268" />
+    <sodipodi:guide
+       position="39,39.000017"
+       orientation="0,-30"
+       id="guide3270" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4174">
     <rdf:RDF>
@@ -52,10 +69,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 11.12263,1013.3622 c -1.17204,0 -2.12264,0.8392 -2.12264,1.875 l 0,26.25 c 0,0.1295 0.007,0.2529 0.0354,0.375 0.0283,0.122 0.0878,0.2315 0.14151,0.3437 0.31529,0.6865 1.05574,1.1563 1.94575,1.1563 l 15.000002,0 10.754716,0 c 1.172434,0 2.122642,-0.839 2.122642,-1.875 l 0,-9.5 0,-7.25 0,-9.5 c 0,-1.0361 -0.950208,-1.875 -2.122642,-1.875 l -10.754716,0 L 11.12263,1013.3622 Z"
-       id="path4042"
-       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#4d4d4d;stroke:none"
+       id="rect3260"
+       width="30"
+       height="30"
+       x="9"
+       y="1013.3622" />
   </g>
 </svg>

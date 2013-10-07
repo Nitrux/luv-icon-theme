@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12388"
+   inkscape:version="0.48+devel r12662"
    sodipodi:docname="media-playlist-repeat.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="29.743528"
-     inkscape:cy="37.368643"
+     inkscape:zoom="11.477675"
+     inkscape:cx="15.236531"
+     inkscape:cy="33.212272"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,52 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="9,39.000017"
+       orientation="30,0"
+       id="guide3265" />
+    <sodipodi:guide
+       position="9,9.0000174"
+       orientation="0,30"
+       id="guide3267" />
+    <sodipodi:guide
+       position="39,9.0000174"
+       orientation="-30,0"
+       id="guide3269" />
+    <sodipodi:guide
+       position="39,39.000017"
+       orientation="0,-30"
+       id="guide3271" />
+    <sodipodi:guide
+       position="9,31.500017"
+       orientation="4,0"
+       id="guide4097" />
+    <sodipodi:guide
+       position="9,27.500017"
+       orientation="0,4"
+       id="guide4099" />
+    <sodipodi:guide
+       position="13,27.500017"
+       orientation="-4,0"
+       id="guide4101" />
+    <sodipodi:guide
+       position="13,31.500017"
+       orientation="0,-4"
+       id="guide4103" />
+    <sodipodi:guide
+       position="35.099998,20.500017"
+       orientation="4,0"
+       id="guide4105" />
+    <sodipodi:guide
+       position="35.099998,16.500017"
+       orientation="0,4"
+       id="guide4107" />
+    <sodipodi:guide
+       position="39.099998,20.500017"
+       orientation="0,-4"
+       id="guide4111" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,15 +97,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <polygon
-       id="polygon826"
-       points="320,224 192,224 192,240 160,272 160,208 176,192 320,192 320,176 352,208 320,240 "
-       transform="matrix(0.18750002,0,0,0.18750002,-24.000002,980.36218)"
-       style="fill:#000000;fill-opacity:1" />
-    <polygon
-       id="polygon828"
-       points="192,288 320,288 320,272 352,240 352,304 336,320 192,320 192,336 160,304 192,272 "
-       transform="matrix(0.18750002,0,0,0.18750002,-24.000002,980.36218)"
-       style="fill:#000000;fill-opacity:1" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3261"
+       width="30"
+       height="30"
+       x="9"
+       y="1013.3622" />
+    <path
+       style="fill:#4d4d4d;stroke:none"
+       d="M 35 20.5 L 35 31.5 L 16 31.5 L 16 28 L 9 33.5 L 16 39 L 16 35.5 L 39 35.5 L 39 31.5 L 39 20.5 L 35 20.5 z "
+       transform="translate(0,1004.3622)"
+       id="rect4081" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 32 9 L 32 12.5 L 9 12.5 L 9 16.5 L 9 27.5 L 13 27.5 L 13 16.5 L 32 16.5 L 32 20 L 39 14.5 L 32 9 z "
+       transform="translate(0,1004.3622)"
+       id="path4083" />
   </g>
 </svg>

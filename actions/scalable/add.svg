@@ -13,7 +13,7 @@
    height="48"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48+devel r12397"
+   inkscape:version="0.48+devel r12660"
    sodipodi:docname="add.svg">
   <defs
      id="defs3762" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="22.85882"
-     inkscape:cy="24.464112"
+     inkscape:zoom="5.7388379"
+     inkscape:cx="20.116571"
+     inkscape:cy="38.59052"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,24 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="8.9999856,39.000012"
+       orientation="30,0"
+       id="guide3265" />
+    <sodipodi:guide
+       position="8.9999856,9.0000118"
+       orientation="0,30"
+       id="guide3267" />
+    <sodipodi:guide
+       position="38.999986,9.0000118"
+       orientation="-30,0"
+       id="guide3269" />
+    <sodipodi:guide
+       position="38.999986,39.000012"
+       orientation="0,-30"
+       id="guide3271" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3765">
     <rdf:RDF>
@@ -57,21 +74,33 @@
      id="layer1"
      transform="translate(-550.28572,-582.6479)">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect4046"
-       width="10.421804"
+       style="fill:none;stroke:none"
+       id="rect3261"
+       width="30"
        height="30"
-       x="569.07483"
-       y="591.64789"
-       ry="4.3310289" />
+       x="559.28571"
+       y="591.64789" />
     <rect
-       ry="4.3310289"
-       y="-589.28571"
-       x="601.43701"
+       style="fill:none;stroke:none"
+       id="rect3260"
+       width="30"
        height="30"
-       width="10.421804"
-       id="rect4048"
-       style="fill:#000000;fill-opacity:1;stroke:none"
+       x="525.75183"
+       y="583.98181" />
+    <rect
+       y="-576.28571"
+       x="591.64789"
+       height="4"
+       width="30"
+       id="rect3280"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3282"
+       width="30"
+       height="4"
+       x="559.28571"
+       y="604.64789" />
   </g>
 </svg>

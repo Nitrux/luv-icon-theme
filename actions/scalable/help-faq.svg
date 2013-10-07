@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12388"
+   inkscape:version="0.48+devel r12662"
    sodipodi:docname="gnome-help.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4217714"
-     inkscape:cx="-70.443359"
-     inkscape:cy="25.141448"
+     inkscape:zoom="7.0433438"
+     inkscape:cx="34.461781"
+     inkscape:cy="31.744626"
      inkscape:document-units="px"
      inkscape:current-layer="g846"
      showgrid="false"
@@ -34,7 +34,40 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="23.400014,15.000005"
+       orientation="0,0"
+       id="guide3263" />
+    <sodipodi:guide
+       position="26.400063,19.800005"
+       orientation="2.4,0"
+       id="guide3265" />
+    <sodipodi:guide
+       position="26.400063,17.400005"
+       orientation="0,-6.000029"
+       id="guide3267" />
+    <sodipodi:guide
+       position="20.400034,17.400005"
+       orientation="-1.8,0"
+       id="guide3269" />
+    <sodipodi:guide
+       position="20.400034,30.600005"
+       orientation="1.8,0"
+       id="guide3271" />
+    <sodipodi:guide
+       position="20.400034,28.800005"
+       orientation="0,-6.000031"
+       id="guide3273" />
+    <sodipodi:guide
+       position="14.400003,28.800005"
+       orientation="-1.2,0"
+       id="guide3275" />
+    <sodipodi:guide
+       position="24.000041,39.000005"
+       orientation="0,0"
+       id="guide3277" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -59,7 +92,7 @@
          id="path829"
          d="m 84.443686,1052.0103 c 1.656911,0 3.000049,1.3429 3.000049,3 0,1.6571 -1.343138,3 -3.000049,3 -1.656837,0 -2.99998,-1.3429 -2.99998,-3 C 81.443706,1053.3532 82.786849,1052.0103 84.443686,1052.0103 z m 0.600027,-24 c 5.301931,0 9.599955,3.4293 9.599955,8.4 0,1.8 -1.199978,4.8 -3.599926,6 -2.400028,1.2 -3.600007,2.8115 -3.600007,4.8 l 0,2.4 -6.000029,0 0,-1.8 c 0,-4.0811 3.600007,-6.6 4.79998,-7.8 2.400028,-2.4 2.400028,-2.733 2.400028,-3.6 0,-1.9885 -1.611819,-3.6 -3.600001,-3.6 -1.988263,0 -3.600007,1.6115 -3.600007,3.6 l 0,1.8 -6.000031,0 0,-1.2 C 75.443676,1032.0396 79.741776,1028.0103 85.043713,1028.0103 Z"
          inkscape:connector-curvature="0"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round" />
+         style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round" />
     </g>
   </g>
 </svg>

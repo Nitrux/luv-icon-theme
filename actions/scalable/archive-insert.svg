@@ -13,7 +13,7 @@
    height="48"
    id="svg3979"
    version="1.1"
-   inkscape:version="0.48+devel r12399"
+   inkscape:version="0.48+devel r12660"
    sodipodi:docname="add-files-to-archive.svg">
   <defs
      id="defs3981" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="24.069872"
-     inkscape:cy="25.5719"
+     inkscape:zoom="8.2335643"
+     inkscape:cx="41.457203"
+     inkscape:cy="22.801505"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,68 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="1.4433594e-05,39"
+       orientation="30.000031,0"
+       id="guide3282" />
+    <sodipodi:guide
+       position="1.4433594e-05,8.9999696"
+       orientation="0,30"
+       id="guide3284" />
+    <sodipodi:guide
+       position="30.000014,8.9999696"
+       orientation="-30.000031,0"
+       id="guide3286" />
+    <sodipodi:guide
+       position="30.000014,39"
+       orientation="0,-30"
+       id="guide3288" />
+    <sodipodi:guide
+       position="30.000014,26.99997"
+       orientation="18,0"
+       id="guide3292" />
+    <sodipodi:guide
+       position="30.000014,8.9999696"
+       orientation="0,18"
+       id="guide3294" />
+    <sodipodi:guide
+       position="48.000014,8.9999696"
+       orientation="-18,0"
+       id="guide3296" />
+    <sodipodi:guide
+       position="48.000014,26.99997"
+       orientation="0,-18"
+       id="guide3298" />
+    <sodipodi:guide
+       position="19.000014,28"
+       orientation="0,11"
+       id="guide3310" />
+    <sodipodi:guide
+       position="30.000014,28"
+       orientation="-11,0"
+       id="guide3312" />
+    <sodipodi:guide
+       position="30.000014,39"
+       orientation="0,-11"
+       id="guide3314" />
+    <sodipodi:guide
+       position="17.000014,28"
+       orientation="-10.999969,0"
+       id="guide3347" />
+    <sodipodi:guide
+       position="17.000014,38.99997"
+       orientation="0,9"
+       id="guide3349" />
+    <sodipodi:guide
+       position="26.000014,38.99997"
+       orientation="10.999969,0"
+       id="guide3351" />
+    <sodipodi:guide
+       position="26.000014,28"
+       orientation="0,-9"
+       id="guide3353" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3984">
     <rdf:RDF>
@@ -56,37 +117,67 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-601.71428,-491.21933)">
-    <g
-       transform="translate(131.49999,-8.57142)"
-       id="layer1-8"
-       inkscape:label="Capa 1">
-      <path
-         sodipodi:nodetypes="cccsssssscccccccc"
-         d="m 487.58951,520.16582 -1.6e-4,0 -1e-5,-11.37505 -13.25027,0 c -1.0353,0 -1.87485,0.83958 -1.87485,1.87522 l 0,26.24987 c 0,1.03601 0.83955,1.87488 1.87485,1.87488 l 22.75008,0 c 1.03565,0 1.8752,-0.83888 1.8752,-1.87488 L 498.96435,520.16582 z m 3.87523,-11.37505 c 0.49679,0 0.97342,0.1978 1.32523,0.54964 l 5.6253,5.62494 c 0.35148,0.35148 0.54893,0.82844 0.54893,1.32559 l -7.49946,0 0,-7.50017"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path318"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(0.73333334,0,0,0.73333334,178.89048,141.39181)"
-       id="g4034">
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         id="rect4036"
-         width="5.2109022"
-         height="15"
-         x="628.85889"
-         y="515.2193"
-         ry="2.1655145" />
-      <rect
-         ry="2.1655145"
-         y="-638.96436"
-         x="520.11389"
-         height="15"
-         width="5.2109022"
-         id="rect4038"
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0,1,-1,0,0,0)" />
-    </g>
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 0 9 L 0 39 L 26 39 L 26 24 L 22 24 L 22 35 L 4 35 L 4 13 L 13 13 L 13 9 L 0 9 z "
+       transform="translate(601.71428,491.21933)"
+       id="rect3278" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3300"
+       width="18"
+       height="18"
+       x="631.71429"
+       y="512.21936" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3302"
+       sodipodi:cx="616.71289"
+       sodipodi:cy="528.21936"
+       sodipodi:rx="2.0013857"
+       sodipodi:ry="2.0000615"
+       d="m 618.71428,528.21936 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z" />
+    <path
+       d="m 631.71428,528.21936 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z"
+       sodipodi:ry="2.0000615"
+       sodipodi:rx="2.0013857"
+       sodipodi:cy="528.21936"
+       sodipodi:cx="629.71289"
+       id="path3316"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3320"
+       width="9"
+       height="10.999969"
+       x="618.71429"
+       y="-511.21933"
+       transform="scale(1,-1)" />
+    <path
+       d="m 605.71428,515.21936 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z"
+       sodipodi:ry="2.0000615"
+       sodipodi:rx="2.0013857"
+       sodipodi:cy="515.21936"
+       sodipodi:cx="603.71289"
+       id="path3367"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3372"
+       width="4"
+       height="18"
+       x="638.71429"
+       y="512.21936" />
+    <rect
+       y="-649.71429"
+       x="519.21936"
+       height="18"
+       width="4"
+       id="rect3374"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
   </g>
 </svg>
