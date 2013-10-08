@@ -14,7 +14,7 @@
    id="svg865"
    version="1.1"
    inkscape:version="0.48+devel r12667"
-   sodipodi:docname="folder_home.svg">
+   sodipodi:docname="user-home.svg">
   <defs
      id="defs867" />
   <sodipodi:namedview
@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.955351"
-     inkscape:cx="18.068412"
+     inkscape:zoom="23.120497"
+     inkscape:cx="21.528545"
      inkscape:cy="36.355239"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -118,6 +118,22 @@
        position="34,31.000017"
        orientation="0,-20.000002"
        id="guide3302" />
+    <sodipodi:guide
+       position="23.000001,35.000017"
+       orientation="-1.9999999,0"
+       id="guide4038" />
+    <sodipodi:guide
+       position="23.000001,37.000017"
+       orientation="0,2"
+       id="guide4040" />
+    <sodipodi:guide
+       position="25,37.000017"
+       orientation="1.9999999,0"
+       id="guide4042" />
+    <sodipodi:guide
+       position="25,35.000017"
+       orientation="0,-2"
+       id="guide4044" />
   </sodipodi:namedview>
   <metadata
      id="metadata870">
@@ -140,7 +156,7 @@
        style="fill:#34495e;fill-opacity:1;stroke:none"
        id="rect4130"
        width="18"
-       height="2.0000005"
+       height="6.0000005"
        x="4"
        y="1011.3622" />
     <rect

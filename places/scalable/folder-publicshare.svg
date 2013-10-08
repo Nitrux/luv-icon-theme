@@ -14,7 +14,7 @@
    id="svg865"
    version="1.1"
    inkscape:version="0.48+devel r12667"
-   sodipodi:docname="folder-public.svg">
+   sodipodi:docname="folder-publicshare.svg">
   <defs
      id="defs867" />
   <sodipodi:namedview
@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.625544"
+     inkscape:zoom="23.795512"
      inkscape:cx="27.929126"
      inkscape:cy="37.603539"
      inkscape:document-units="px"
@@ -127,6 +127,22 @@
        orientation="0,1"
        position="22,21.269552"
        id="guide3363" />
+    <sodipodi:guide
+       position="23.000001,35.000017"
+       orientation="-1.9999999,0"
+       id="guide4117" />
+    <sodipodi:guide
+       position="23.000001,37.000017"
+       orientation="0,2"
+       id="guide4119" />
+    <sodipodi:guide
+       position="25,37.000017"
+       orientation="1.9999999,0"
+       id="guide4121" />
+    <sodipodi:guide
+       position="25,35.000017"
+       orientation="0,-2"
+       id="guide4123" />
   </sodipodi:namedview>
   <metadata
      id="metadata870">
@@ -149,7 +165,7 @@
        style="fill:#34495e;fill-opacity:1;stroke:none"
        id="rect4130"
        width="18"
-       height="2.0000005"
+       height="6.0000005"
        x="4"
        y="1011.3622" />
     <rect

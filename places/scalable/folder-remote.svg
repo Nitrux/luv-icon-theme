@@ -14,7 +14,7 @@
    id="svg865"
    version="1.1"
    inkscape:version="0.48+devel r12667"
-   sodipodi:docname="folder-network.svg">
+   sodipodi:docname="folder-remote.svg">
   <defs
      id="defs867" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="46.576071"
-     inkscape:cx="20.817109"
-     inkscape:cy="38.075625"
+     inkscape:zoom="23.455575"
+     inkscape:cx="28.145735"
+     inkscape:cy="35.895507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -118,6 +118,22 @@
        position="34,31.000017"
        orientation="0,-20.000002"
        id="guide3302" />
+    <sodipodi:guide
+       position="23.000001,35.000017"
+       orientation="-1.9999999,0"
+       id="guide4048" />
+    <sodipodi:guide
+       position="23.000001,37.000017"
+       orientation="0,2"
+       id="guide4050" />
+    <sodipodi:guide
+       position="25,37.000017"
+       orientation="1.9999999,0"
+       id="guide4052" />
+    <sodipodi:guide
+       position="25,35.000017"
+       orientation="0,-2"
+       id="guide4054" />
   </sodipodi:namedview>
   <metadata
      id="metadata870">
@@ -140,7 +156,7 @@
        style="fill:#34495e;fill-opacity:1;stroke:none"
        id="rect4130"
        width="18"
-       height="2.0000005"
+       height="6.0000005"
        x="4"
        y="1011.3622" />
     <rect
