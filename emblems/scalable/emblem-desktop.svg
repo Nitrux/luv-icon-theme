@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12347"
+   inkscape:version="0.48+devel r12662"
    sodipodi:docname="emblem-desktop.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.274609"
-     inkscape:cx="-0.89364167"
-     inkscape:cy="15.998862"
+     inkscape:zoom="24.905004"
+     inkscape:cx="10.052532"
+     inkscape:cy="12.580028"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,24 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="4.5,19.500017"
+       orientation="15,0"
+       id="guide3264" />
+    <sodipodi:guide
+       position="4.5,4.5000174"
+       orientation="0,15"
+       id="guide3266" />
+    <sodipodi:guide
+       position="19.5,4.5000174"
+       orientation="-15,0"
+       id="guide3268" />
+    <sodipodi:guide
+       position="19.5,19.500017"
+       orientation="0,-15"
+       id="guide3270" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -53,9 +70,63 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       id="path815"
-       d="m 14.9472,1040.3623 c 0.69764,0 1.26316,0.5652 1.26316,1.2632 l -8.420968,0 c 0,-0.698 0.565552,-1.2632 1.263152,-1.2632 l 2.105264,0 8.8e-5,-3.369 -3.368424,0 2.52632,-4.6311 3.368416,0 2.52632,4.6311 -3.368424,0 -8e-5,3.369 L 14.9472,1040.3623 Z M 4,1042.4678 l 16,0 -4e-5,5.8944 -1.684216,0 4.8e-5,-4.2104 -12.631584,0 0,4.2104 L 4,1048.3622 4,1042.4678 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round" />
+       style="fill:#34495e;stroke:none;fill-opacity:1"
+       d="M 4.5 4.5 L 4.5 17.5 L 19.5 17.5 L 19.5 4.5 L 4.5 4.5 z M 6.5 6.5 L 17.5 6.5 L 17.5 15.5 L 6.5 15.5 L 6.5 6.5 z "
+       transform="translate(0,1028.3622)"
+       id="rect3260" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#501616;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3272"
+       sodipodi:cx="11.999307"
+       sodipodi:cy="1046.8622"
+       sodipodi:rx="1.0006928"
+       sodipodi:ry="1.0000308"
+       d="m 13,1046.8622 a 1.0006928,1.0000308 0 1 1 0,0 1.0006928,1.0000308 0 1 1 0,0 z" />
+    <path
+       d="m 13,1044.8621 a 1.0006928,1.0000308 0 1 1 0,0 1.0006928,1.0000308 0 1 1 0,0 z"
+       sodipodi:ry="1.0000308"
+       sodipodi:rx="1.0006928"
+       sodipodi:cy="1044.8621"
+       sodipodi:cx="11.999307"
+       id="path3276"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3278"
+       sodipodi:cx="11.999307"
+       sodipodi:cy="1033.8621"
+       sodipodi:rx="1.0006928"
+       sodipodi:ry="1.0000308"
+       d="m 13,1033.8621 a 1.0006928,1.0000308 0 1 1 0,0 1.0006928,1.0000308 0 1 1 0,0 z" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3280"
+       sodipodi:cx="1039.3613"
+       sodipodi:cy="-5.5"
+       sodipodi:rx="1.0006928"
+       sodipodi:ry="1.0000308"
+       d="m 1040.362,-5.5 a 1.0006928,1.0000308 0 1 1 0,0 1.0006928,1.0000308 0 1 1 0,0 z"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <path
+       d="m 1040.362,-18.5 a 1.0006928,1.0000308 0 1 1 0,0 1.0006928,1.0000308 0 1 1 0,0 z"
+       sodipodi:ry="1.0000308"
+       sodipodi:rx="1.0006928"
+       sodipodi:cy="-18.5"
+       sodipodi:cx="1039.3613"
+       id="path3282"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#34495e;stroke:none;fill-opacity:1"
+       id="rect3284"
+       width="6"
+       height="2"
+       x="9"
+       y="1045.8622" />
   </g>
 </svg>
