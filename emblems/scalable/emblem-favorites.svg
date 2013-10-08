@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12347"
+   inkscape:version="0.48+devel r12667"
    sodipodi:docname="emblem-favorites.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4181726"
-     inkscape:cx="-79.224731"
-     inkscape:cy="-13.531972"
+     inkscape:zoom="13.870845"
+     inkscape:cx="31.181121"
+     inkscape:cy="22.120846"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,17 +54,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1028.3622)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3762"
-       width="48"
-       height="48"
-       x="0"
-       y="1004.3622" />
     <path
        id="path817"
-       d="m 3.3333475,1038.3622 6.523789,0 2.1428645,-6 2.142863,6 6.523788,0 -5.433051,3.8924 2.433051,6.1076 -5.666651,-3.3333 -5.0000005,3.3333 1.883326,-6.0167 L 3.3333475,1038.3622 Z"
+       d="m 3.8750138,1038.4872 6.1160522,0 2.008935,-5.625 2.008934,5.625 6.116051,0 -5.093485,3.6491 2.280985,5.7259 -5.312485,-3.125 -4.6875,3.125 1.7656181,-5.6407 -5.2031053,-3.7343 z"
        inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round" />
+       style="fill:#34495e;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round" />
   </g>
 </svg>

@@ -13,7 +13,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12347"
+   inkscape:version="0.48+devel r12667"
    sodipodi:docname="emblem-photos.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54246622"
-     inkscape:cx="-55.781932"
-     inkscape:cy="-258.48995"
+     inkscape:zoom="17.610498"
+     inkscape:cx="2.8153123"
+     inkscape:cy="8.9923086"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,6 +40,22 @@
     <inkscape:grid
        type="xygrid"
        id="grid3825" />
+    <sodipodi:guide
+       position="4.5,19.500017"
+       orientation="15,0"
+       id="guide3265" />
+    <sodipodi:guide
+       position="4.5,4.5000174"
+       orientation="0,15"
+       id="guide3267" />
+    <sodipodi:guide
+       position="19.5,4.5000174"
+       orientation="-15,0"
+       id="guide3269" />
+    <sodipodi:guide
+       position="19.5,19.500017"
+       orientation="0,-15"
+       id="guide3271" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -59,9 +75,25 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       id="path817"
-       d="m 2.545465,1032.3622 18.90907,0 0,16 -18.90907,0 L 2.545465,1032.3622 z m 1.454512,1.4546 0,13.0908 16,0 0,-13.0908 L 3.999977,1033.8168 z m 1.454558,12.3636 2.90907,-2.9091 1.454558,1.4545 5.818186,-5.8182 2.181814,2.1819 1.454512,-1.4546 0,6.5455 L 5.454535,1046.1804 z m 2.90907,-10.9091 c 0,1.6067 -1.302428,2.9091 -2.90907,2.9091 -0.251115,0 -0.494835,-0.032 -0.727256,-0.092 l 0,-3.5447 3.54469,0 C 8.331819,1034.7765 8.363605,1035.0202 8.363605,1035.2713 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round" />
+       style="fill:#34495e;stroke:none;fill-opacity:1"
+       d="M 4.5 4.5 L 4.5 19.5 L 19.5 19.5 L 19.5 17.5 L 19.5 4.5 L 4.5 4.5 z M 6.5 6.5 L 17.5 6.5 L 17.5 14.5 L 13.5 8.5 L 10.699219 12.699219 L 10 11.5 L 6.5 17.5 L 6.5 6.5 z "
+       transform="translate(0,1028.3622)"
+       id="rect3261" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3281"
+       width="2"
+       height="2"
+       x="4.5"
+       y="1045.8622"
+       ry="1" />
+    <rect
+       ry="1"
+       y="1045.8622"
+       x="17.5"
+       height="2"
+       width="2"
+       id="rect3283"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   </g>
 </svg>

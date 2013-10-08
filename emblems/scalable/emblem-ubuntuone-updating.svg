@@ -13,8 +13,8 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12347"
-   sodipodi:docname="emblem-ubuntuone-updating.svg">
+   inkscape:version="0.48+devel r12667"
+   sodipodi:docname="emblem-synchronizing.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.849982"
-     inkscape:cx="-9.6459062"
+     inkscape:zoom="13.036214"
+     inkscape:cx="-0.78597161"
      inkscape:cy="8.7281952"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,9 +59,9 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       style="fill:#4c81bb;fill-opacity:1"
+       style="fill:#2980b9;fill-opacity:1"
        id="path3865"
        inkscape:connector-curvature="0"
-       d="m 5.3807072,1032.3764 0,5.2291 c 0,4.3484 0.152744,5.3893 0.3228047,6.1016 0.6393309,2.6776 2.3592888,4.2126 5.1310281,4.5831 1.500402,0.2005 4.530735,-0.032 6.913942,-0.5296 l 0.870811,-0.1788 0,-15.2054 -4.412857,-0.014 0,12.1353 -4.4128641,0 0,-8.5499 -1.6548255,0 L 10.345183,1032.3654 Z" />
+       d="m 5.7942846,1032.8753 0,4.9024 c 0,4.0767 0.1432005,5.0526 0.3026357,5.7203 0.5993851,2.5103 2.211879,3.9494 4.8104377,4.2968 1.406656,0.188 4.247652,-0.03 6.481955,-0.4965 l 0.816402,-0.1676 0,-14.2554 -4.137139,-0.013 0,11.377 -4.1371452,0 0,-8.0156 -1.551431,0 2.0685772,-3.3586 z" />
   </g>
 </svg>

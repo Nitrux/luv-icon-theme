@@ -13,8 +13,8 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12347"
-   sodipodi:docname="emblem-noread.svg">
+   inkscape:version="0.48+devel r12667"
+   sodipodi:docname="emblem-insync-error.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.5115096"
-     inkscape:cx="3.9687891"
-     inkscape:cy="-3.6274347"
+     inkscape:zoom="14.249604"
+     inkscape:cx="12.391587"
+     inkscape:cy="17.2837"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,24 @@
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="4.5,19.500017"
+       orientation="15,0"
+       id="guide3264" />
+    <sodipodi:guide
+       position="4.5,4.5000174"
+       orientation="0,15"
+       id="guide3266" />
+    <sodipodi:guide
+       position="19.5,4.5000174"
+       orientation="-15,0"
+       id="guide3268" />
+    <sodipodi:guide
+       position="19.5,19.500017"
+       orientation="0,-15"
+       id="guide3270" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -54,10 +71,28 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1028.3622)">
-    <path
-       id="path813"
-       d="m 6.4000227,1032.3622 5.5999773,5.6 5.599977,-5.5999 2.399998,2.3999 -5.599977,5.6 5.599977,5.6 -2.399947,2.4 -5.600028,-5.6 -5.5999773,5.6 -2.3999975,-2.4 5.6000279,-5.6 -5.5999769,-5.6 L 6.4000227,1032.3622 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3260"
+       width="15"
+       height="15"
+       x="4.5"
+       y="1032.8622" />
+    <rect
+       y="734.52594"
+       x="-728.16187"
+       height="19.212999"
+       width="2"
+       id="rect3272"
+       style="fill:#34495e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+    <rect
+       transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)"
+       style="fill:#34495e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3274"
+       width="2"
+       height="19.212999"
+       x="743.13245"
+       y="-736.76837" />
   </g>
 </svg>
