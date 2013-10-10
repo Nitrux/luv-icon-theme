@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12351"
+   inkscape:version="0.48+devel r12676"
    sodipodi:docname="beatbox.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="26.756636"
-     inkscape:cy="24.973944"
+     inkscape:zoom="8"
+     inkscape:cx="11.021049"
+     inkscape:cy="22.162712"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,42 @@
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
+    <sodipodi:guide
+       position="8.9999928,39"
+       orientation="30,0"
+       id="guide3278" />
+    <sodipodi:guide
+       position="8.9999928,9"
+       orientation="0,30"
+       id="guide3280" />
+    <sodipodi:guide
+       position="38.999993,9"
+       orientation="-30,0"
+       id="guide3282" />
+    <sodipodi:guide
+       position="38.999993,39"
+       orientation="0,-30"
+       id="guide3284" />
+    <sodipodi:guide
+       position="12.499993,33.000244"
+       orientation="18,0"
+       id="guide3288" />
+    <sodipodi:guide
+       position="12.499993,15.000244"
+       orientation="0,18"
+       id="guide3290" />
+    <sodipodi:guide
+       position="30.499993,15.000244"
+       orientation="-18,0"
+       id="guide3292" />
+    <sodipodi:guide
+       position="30.499993,33.000244"
+       orientation="0,-18"
+       id="guide3294" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,16 +92,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-180.23661,-689.8125)">
-    <path
-       sodipodi:type="arc"
+    <ellipse
        style="fill:#2c2c2c;fill-opacity:1;stroke:none"
        id="path826"
-       sodipodi:cx="50.25"
-       sodipodi:cy="25.75"
-       sodipodi:rx="19"
-       sodipodi:ry="19"
-       d="m 69.25,25.75 a 19,19 0 1 1 -38,0 A 19,19 0 1 1 69.25,25.75 Z"
-       transform="matrix(1.0367475,0,0,1.037593,155.44184,687.09455)" />
+       cx="206.22275"
+       cy="713.8125"
+       rx="20.013857"
+       ry="20.000616" />
     <rect
        y="693.27673"
        x="181.23662"
@@ -77,33 +109,75 @@
     <rect
        style="fill:#ff8000;fill-opacity:1;stroke:none"
        id="rect824"
-       width="41"
-       height="41.071396"
-       x="181.23662"
-       y="693.27673" />
+       width="39.000011"
+       height="40.000015"
+       x="182.2366"
+       y="693.81226" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 21.503906 15 L 21.503906 27.835938 C 20.959175 27.328213 20.248805 26.999956 19.501953 27 C 17.931046 27.000093 16.503906 28.42933 16.503906 30 C 16.503906 31.57067 17.931046 32.999907 19.501953 33 C 21.07286 33.000093 22.503906 31.570846 22.503906 30 L 22.503906 19.384766 C 24.596355 20.639877 25.900391 22.943771 25.900391 25.400391 C 25.900391 26.032001 25.796101 26.651427 25.613281 27.248047 C 26.173321 26.258867 26.5 25.14542 26.5 24 C 26.5 22.16553 25.871922 20.41576 24.576172 19.125 C 23.978363 18.529484 22.525728 17.427104 22.503906 15.050781 L 22.503906 15 L 22.5 15 L 21.503906 15 z "
+       transform="translate(180.23661,689.8125)"
+       id="path4112" />
     <g
-       id="g829"
-       transform="matrix(0.06404897,1.6769689e-8,-1.6769689e-8,0.06404897,185.34009,697.41589)"
-       style="fill:#ffffff">
-	<path
-   id="path831"
-   d="m 199.5,318.466 c -16,-4.635 -7.93,-7.499 -18.514,-7.499 -25.814,0 -41.969,16.406 -41.969,36.634 0,20.242 12.41,36.649 38.227,36.649 25.831,0 38.256,-16.407 38.256,-36.649 l 0,-109.934 112,-54.951 0,117.417 c -16,-4.634 -6.475,-7.483 -17.057,-7.483 -25.801,0 -41.25,16.407 -41.25,36.634 0,20.243 11.33,36.649 37.146,36.649 25.831,0 37.16,-16.406 37.16,-36.649 l 0,-201.534 -144,73.284 L 199.499,318.466 Z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-	<path
-   id="path833"
-   d="M 256,-0.5 C 114.349,-0.5 -0.5,114.333 -0.5,256 -0.5,397.667 114.349,512.5 256,512.5 397.683,512.5 512.5,397.667 512.5,256 512.5,114.333 397.683,-0.5 256,-0.5 z m 0,472.922 C 136.485,472.422 39.578,375.53 39.578,256 39.578,136.47 136.485,39.578 256,39.578 375.546,39.578 472.422,136.47 472.422,256 472.422,375.53 375.546,472.422 256,472.422 Z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-
-</g>
-    <rect
-       y="693.22314"
-       x="181.23662"
-       height="1"
-       width="41"
-       id="rect965"
-       style="fill:#ffffff;fill-opacity:0.31372549;stroke:none" />
+       id="g4152">
+      <ellipse
+         ry="3.5001078"
+         rx="3.502425"
+         cy="713.8125"
+         cx="224.73419"
+         id="ellipse3274"
+         style="fill:none;stroke:none" />
+      <rect
+         y="704.81226"
+         x="192.7366"
+         height="18"
+         width="18"
+         id="rect4148"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <ellipse
+         ry="1.0000308"
+         rx="1.0006928"
+         cy="713.8125"
+         cx="181.23592"
+         id="path3266"
+         style="fill:none;stroke:none" />
+      <ellipse
+         style="fill:none;stroke:none"
+         id="ellipse3268"
+         cx="227.23592"
+         cy="713.8125"
+         rx="1.0006928"
+         ry="1.0000308" />
+      <ellipse
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:none;stroke:none"
+         id="ellipse3270"
+         cx="-735.8139"
+         cy="204.2366"
+         rx="2.0013857"
+         ry="2.0000615" />
+      <ellipse
+         transform="matrix(0,-1,1,0,0,0)"
+         ry="2.0000615"
+         rx="2.0013857"
+         cy="204.2366"
+         cx="-691.8139"
+         id="ellipse3272"
+         style="fill:none;stroke:none" />
+      <ellipse
+         ry="2.0000615"
+         rx="2.0013857"
+         cy="720.81219"
+         cx="194.73833"
+         id="path4146"
+         style="fill:none;stroke:none" />
+      <ellipse
+         style="fill:none;stroke:none"
+         id="ellipse4150"
+         cx="208.73521"
+         cy="713.81226"
+         rx="2.0013857"
+         ry="2.0000615" />
+    </g>
   </g>
 </svg>
