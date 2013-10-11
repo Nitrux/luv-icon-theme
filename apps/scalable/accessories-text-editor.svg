@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12676"
+   inkscape:version="0.48+devel r12677"
    sodipodi:docname="accessories-text-editor.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.1825094"
-     inkscape:cx="18.74421"
-     inkscape:cy="36.011554"
+     inkscape:zoom="8.3691826"
+     inkscape:cx="3.8682053"
+     inkscape:cy="26.452675"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -212,15 +212,15 @@
     <ellipse
        style="fill:none;stroke:none"
        id="path3283"
-       cx="183.73419"
+       cx="183.7366"
        cy="713.8125"
-       rx="3.502425"
+       rx="3.5"
        ry="3.5001078" />
     <ellipse
        ry="3.5001078"
-       rx="3.502425"
+       rx="3.5"
        cy="713.8125"
-       cx="224.73419"
+       cx="224.7366"
        id="ellipse3285"
        style="fill:none;stroke:none" />
     <ellipse
@@ -229,20 +229,23 @@
        cx="204.23523"
        cy="691.8125"
        rx="2.0013857"
-       ry="2.0000615" />
+       ry="2.0000615"
+       d="m 206.23662,691.8125 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,2.00006 z" />
     <ellipse
        ry="2.0000615"
        rx="2.0013857"
        cy="735.8125"
        cx="204.23523"
        id="ellipse3289"
-       style="fill:none;stroke:none" />
+       style="fill:none;stroke:none"
+       d="m 206.23662,735.8125 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,2.00006 z" />
     <ellipse
        ry="2.0000615"
        rx="2.0013857"
        cy="695.8125"
        cx="204.23523"
        id="ellipse3323"
-       style="fill:none;stroke:none" />
+       style="fill:none;stroke:none"
+       d="m 206.23662,695.8125 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,2.00006 z" />
   </g>
 </svg>

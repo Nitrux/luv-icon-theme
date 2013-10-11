@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12676"
+   inkscape:version="0.48+devel r12677"
    sodipodi:docname="inkscape.svg">
   <defs
      id="defs4" />
@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="47.617006"
+     inkscape:zoom="5.785908"
+     inkscape:cx="26.099208"
      inkscape:cy="39.376983"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -122,33 +122,35 @@
      id="layer1"
      transform="translate(-180.23661,-689.8125)">
     <ellipse
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:none;stroke:none"
        id="path3270"
-       cx="181.23592"
+       cx="181.2366"
        cy="713.8125"
-       rx="1.0006928"
+       rx="1"
        ry="1.0000308" />
     <ellipse
        ry="1.0000308"
-       rx="1.0006928"
+       rx="1"
        cy="713.8125"
-       cx="227.23592"
+       cx="227.2366"
        id="ellipse3272"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       style="fill:none;stroke:none" />
     <ellipse
        ry="2.0000615"
        rx="2.0013857"
        cy="691.8125"
        cx="204.23523"
        id="ellipse3274"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 206.23662,691.8125 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,2.00006 z" />
     <ellipse
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="ellipse3276"
        cx="204.23523"
        cy="735.8125"
        rx="2.0013857"
-       ry="2.0000615" />
+       ry="2.0000615"
+       d="m 206.23662,735.8125 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,2.00006 z" />
     <path
        style="fill:#006cff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 2 4 L 2 44 L 46 44 L 46 15 L 35 4 L 2 4 z "

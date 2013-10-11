@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12676"
+   inkscape:version="0.48+devel r12677"
    sodipodi:docname="transmission.svg">
   <defs
      id="defs4" />
@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="26.458955"
+     inkscape:zoom="11.571816"
+     inkscape:cx="15.700056"
      inkscape:cy="24.788605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -142,9 +142,9 @@
     <ellipse
        style="fill:none;stroke:none"
        id="path3263"
-       cx="183.73419"
+       cx="183.7366"
        cy="713.8125"
-       rx="3.502425"
+       rx="3.5"
        ry="3.5001078" />
     <ellipse
        style="fill:none;stroke:none"
@@ -152,14 +152,16 @@
        cx="204.23523"
        cy="691.8125"
        rx="2.0013857"
-       ry="2.0000615" />
+       ry="2.0000615"
+       d="m 206.23662,691.8125 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,2.00006 z" />
     <ellipse
        ry="2.0000615"
        rx="2.0013857"
        cy="735.8125"
        cx="204.23523"
        id="ellipse3269"
-       style="fill:none;stroke:none" />
+       style="fill:none;stroke:none"
+       d="m 206.23662,735.8125 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,2.00006 z" />
     <path
        style="fill:#88c941;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 7 4 L 7 44 L 9 44 L 30 44 L 41 33 L 41 4 L 39 4 L 9 4 L 7 4 z "
@@ -174,9 +176,9 @@
        y="704.8125" />
     <ellipse
        ry="3.5001078"
-       rx="3.502425"
+       rx="3.5"
        cy="713.8125"
-       cx="224.73419"
+       cx="224.7366"
        id="ellipse3297"
        style="fill:none;stroke:none" />
     <path
@@ -221,6 +223,7 @@
        cx="204.23592"
        cy="717.8125"
        rx="1.0006928"
-       ry="1.0000308" />
+       ry="1.0000308"
+       d="m 205.23661,717.8125 a 1.0006928,1.0000308 0 0 1 -1.00069,1.00003 1.0006928,1.0000308 0 0 1 -1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,1.00003 z" />
   </g>
 </svg>

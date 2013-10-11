@@ -13,8 +13,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12676"
-   sodipodi:docname="claws-mail.svg">
+   inkscape:version="0.48+devel r12677"
+   sodipodi:docname="evolution.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="35.417088"
-     inkscape:cy="26.048036"
+     inkscape:zoom="8.1825096"
+     inkscape:cx="16.978012"
+     inkscape:cy="7.2151782"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,49 +122,49 @@
        transform="translate(180.23661,689.8125)"
        id="path4238" />
     <ellipse
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:none;stroke:none"
        id="path3265"
-       cx="181.23592"
+       cx="181.2366"
        cy="713.8125"
-       rx="1.0006928"
+       rx="1"
        ry="1.0000308" />
     <ellipse
        ry="1.0000308"
-       rx="1.0006928"
+       rx="1"
        cy="713.8125"
-       cx="227.23592"
+       cx="227.2366"
        id="ellipse3267"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       style="fill:none;stroke:none" />
     <ellipse
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:none;stroke:none"
        id="ellipse3271"
-       cx="735.8111"
+       cx="735.8125"
        cy="-204.2366"
-       rx="2.0013857"
+       rx="2"
        ry="2.0000615"
        transform="matrix(0,1,-1,0,0,0)" />
     <ellipse
        transform="matrix(0,1,-1,0,0,0)"
        ry="2.0000615"
-       rx="2.0013857"
+       rx="2"
        cy="-204.2366"
-       cx="731.8111"
+       cx="731.8125"
        id="ellipse3325"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       style="fill:none;stroke:none" />
     <ellipse
        ry="2.0000615"
-       rx="2.0013857"
+       rx="2"
        cy="-204.2366"
-       cx="691.8111"
+       cx="691.8125"
        id="ellipse3269"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:none;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
     <ellipse
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:none;stroke:none"
        id="ellipse3323"
-       cx="695.8111"
+       cx="695.8125"
        cy="-204.2366"
-       rx="2.0013857"
+       rx="2"
        ry="2.0000615"
        transform="matrix(0,1,-1,0,0,0)" />
     <path
@@ -179,7 +179,8 @@
        cx="716.8111"
        cy="-204.2366"
        rx="2.0013857"
-       ry="2.0000615" />
+       ry="2.0000615"
+       d="m 718.81248,-204.2366 a 2.0013857,2.0000615 0 0 1 -2.00138,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00138,2.00006 z" />
     <ellipse
        transform="matrix(0,1,-1,0,0,0)"
        ry="1.0000308"
@@ -187,6 +188,7 @@
        cy="-204.2366"
        cx="719.81177"
        id="ellipse4234"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 720.81246,-204.2366 a 1.0006928,1.0000308 0 0 1 -1.00069,1.00003 1.0006928,1.0000308 0 0 1 -1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,1.00003 z" />
   </g>
 </svg>

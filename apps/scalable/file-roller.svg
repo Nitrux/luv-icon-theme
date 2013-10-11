@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12676"
+   inkscape:version="0.48+devel r12677"
    sodipodi:docname="file-roller.svg">
   <defs
      id="defs4">
@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="38.173589"
-     inkscape:cy="45.597863"
+     inkscape:zoom="5.7859082"
+     inkscape:cx="27.655612"
+     inkscape:cy="12.3404"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -102,31 +102,31 @@
     <ellipse
        style="fill:none;stroke:none"
        id="path3294"
-       cx="181.23592"
+       cx="181.23523"
        cy="713.8125"
-       rx="1.0006928"
+       rx="1"
        ry="1.0000308" />
     <ellipse
        ry="1.0000308"
-       rx="1.0006928"
+       rx="1"
        cy="713.8125"
-       cx="227.23592"
+       cx="227.23523"
        id="ellipse3296"
        style="fill:none;stroke:none" />
     <ellipse
        ry="2.0000615"
-       rx="2.0013857"
+       rx="2"
        cy="-204.2366"
-       cx="691.8111"
+       cx="691.8125"
        id="ellipse3298"
        style="fill:none;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
     <ellipse
        style="fill:none;stroke:none"
        id="ellipse3300"
-       cx="735.8111"
+       cx="735.8125"
        cy="-204.2366"
-       rx="2.0013857"
+       rx="2"
        ry="2.0000615"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
@@ -164,7 +164,8 @@
        cx="707.31006"
        cy="-204.23659"
        rx="3.502425"
-       ry="3.5001078" />
+       ry="3.5001078"
+       d="m 710.81248,-204.23659 a 3.502425,3.5001078 0 0 1 -3.50242,3.50011 3.502425,3.5001078 0 0 1 -3.50243,-3.50011 3.502425,3.5001078 0 0 1 3.50243,-3.50011 3.502425,3.5001078 0 0 1 3.50242,3.50011 z" />
     <rect
        y="697.81232"
        x="189.2366"
@@ -185,7 +186,8 @@
        cx="204.2359"
        cy="711.8125"
        rx="1.0006928"
-       ry="1.0000308" />
+       ry="1.0000308"
+       d="m 205.23659,711.8125 a 1.0006928,1.0000308 0 0 1 -1.00069,1.00003 1.0006928,1.0000308 0 0 1 -1.00069,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,1.00003 z" />
     <rect
        y="712.8125"
        x="202.23659"
@@ -199,7 +201,8 @@
        cy="713.8125"
        cx="204.2359"
        id="ellipse3391"
-       style="fill:none;stroke:none" />
+       style="fill:none;stroke:none"
+       d="m 205.23659,713.8125 a 1.0006928,1.0000308 0 0 1 -1.00069,1.00003 1.0006928,1.0000308 0 0 1 -1.00069,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,1.00003 z" />
     <rect
        style="fill:#dedfe2;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3372"

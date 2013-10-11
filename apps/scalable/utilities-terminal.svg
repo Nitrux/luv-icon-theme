@@ -13,8 +13,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12676"
-   sodipodi:docname="bash.svg">
+   inkscape:version="0.48+devel r12677"
+   sodipodi:docname="utilities-terminal.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0912547"
-     inkscape:cx="56.38402"
-     inkscape:cy="45.332369"
+     inkscape:zoom="11.835812"
+     inkscape:cx="8.5409218"
+     inkscape:cy="11.988407"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -100,34 +100,34 @@
     <ellipse
        style="fill:none;stroke:none"
        id="path3266"
-       cx="691.8111"
+       cx="691.8125"
        cy="-204.2366"
-       rx="2.0013857"
+       rx="2"
        ry="2.0000615"
        transform="matrix(0,1,-1,0,0,0)" />
     <ellipse
        ry="2.0000615"
-       rx="2.0013857"
+       rx="2"
        cy="-204.2366"
-       cx="735.8111"
+       cx="735.8125"
        id="ellipse3268"
        style="fill:none;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
     <ellipse
        transform="scale(-1,-1)"
        ry="1.0000308"
-       rx="1.0006928"
+       rx="1"
        cy="-713.8125"
-       cx="-227.2373"
+       cx="-227.2366"
        id="ellipse3270"
        style="fill:none;stroke:none" />
     <ellipse
        transform="scale(-1,-1)"
        style="fill:none;stroke:none"
        id="ellipse3272"
-       cx="-181.2373"
+       cx="-181.2366"
        cy="-713.8125"
-       rx="1.0006928"
+       rx="1"
        ry="1.0000308" />
     <rect
        y="698.8125"

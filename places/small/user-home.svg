@@ -14,7 +14,7 @@
    id="svg865"
    version="1.1"
    inkscape:version="0.48+devel r12677"
-   sodipodi:docname="user-home.svg">
+   sodipodi:docname="gnome-home.svg">
   <defs
      id="defs867" />
   <sodipodi:namedview
@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.4819881"
-     inkscape:cx="13.81568"
+     inkscape:zoom="8.6754935"
+     inkscape:cx="17.907666"
      inkscape:cy="32.90948"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -323,32 +323,100 @@
        cy="1028.3622"
        cx="45.998615"
        id="path3267"
-       style="fill:none;stroke:none" />
+       style="fill:none;stroke:none"
+       d="m 48.000001,1028.3622 a 2.0013857,2.0000615 0 0 1 -2.001386,2 2.0013857,2.0000615 0 0 1 -2.001385,-2 2.0013857,2.0000615 0 0 1 2.001385,-2.0001 2.0013857,2.0000615 0 0 1 2.001386,2.0001 z" />
     <ellipse
        style="fill:none;stroke:none"
        id="path3273"
        cx="44"
        cy="1028.3622"
        rx="2"
-       ry="2.0000615" />
+       ry="2.0000615"
+       d="m 46,1028.3622 a 2,2.0000615 0 0 1 -2,2 2,2.0000615 0 0 1 -2,-2 2,2.0000615 0 0 1 2,-2.0001 2,2.0000615 0 0 1 2,2.0001 z" />
     <ellipse
        style="fill:none;stroke:none"
        id="path4132"
        cx="46"
        cy="1028.3622"
        rx="2"
-       ry="2.0000615" />
+       ry="2.0000615"
+       d="m 48,1028.3622 a 2,2.0000615 0 0 1 -2,2 2,2.0000615 0 0 1 -2,-2 2,2.0000615 0 0 1 2,-2.0001 2,2.0000615 0 0 1 2,2.0001 z" />
     <ellipse
        style="fill:none;stroke:none"
        id="path3277"
        cx="47"
        cy="1028.3622"
        rx="1"
-       ry="1.0000308" />
+       ry="1.0000308"
+       d="m 48,1028.3622 a 1,1.0000308 0 0 1 -1,1 1,1.0000308 0 0 1 -1,-1 1,1.0000308 0 0 1 1,-1 1,1.0000308 0 0 1 1,1 z" />
     <ellipse
        style="fill:none;stroke:none"
        id="path3312"
        cx="-2.0013843"
+       cy="1028.3622"
+       rx="2.0013857"
+       ry="2.0000615"
+       transform="scale(-1,1)"
+       d="m 1.4305115e-6,1028.3622 a 2.0013857,2.0000615 0 0 1 -2.0013857305115,2 2.0013857,2.0000615 0 0 1 -2.0013856,-2 2.0013857,2.0000615 0 0 1 2.0013856,-2.0001 2.0013857,2.0000615 0 0 1 2.0013857305115,2.0001 z" />
+    <ellipse
+       ry="2.0000615"
+       rx="2"
+       cy="1028.3622"
+       cx="-4"
+       id="ellipse3314"
+       style="fill:none;stroke:none"
+       transform="scale(-1,1)"
+       d="m -2,1028.3622 a 2,2.0000615 0 0 1 -2,2 2,2.0000615 0 0 1 -2,-2 2,2.0000615 0 0 1 2,-2.0001 2,2.0000615 0 0 1 2,2.0001 z" />
+    <ellipse
+       ry="2.0000615"
+       rx="2"
+       cy="1028.3622"
+       cx="-1.9999995"
+       id="ellipse3316"
+       style="fill:none;stroke:none"
+       transform="scale(-1,1)"
+       d="m 4.7683716e-7,1028.3622 a 2,2.0000615 0 0 1 -1.99999997683716,2 2,2.0000615 0 0 1 -2,-2 2,2.0000615 0 0 1 2,-2.0001 2,2.0000615 0 0 1 1.99999997683716,2.0001 z" />
+    <ellipse
+       ry="1.0000308"
+       rx="1"
+       cy="1028.3622"
+       cx="-0.99999952"
+       id="ellipse3318"
+       style="fill:none;stroke:none"
+       transform="scale(-1,1)"
+       d="m 4.7683716e-7,1028.3622 a 1,1.0000308 0 0 1 -0.99999999683716,1 1,1.0000308 0 0 1 -0.99999998,-1 1,1.0000308 0 0 1 0.99999998,-1 1,1.0000308 0 0 1 0.99999999683716,1 z" />
+    <ellipse
+       ry="2.0000615"
+       rx="2.0013857"
+       cy="1028.3622"
+       cx="45.998615"
+       id="path3267-6"
+       style="fill:none;stroke:none" />
+    <ellipse
+       style="fill:none;stroke:none"
+       id="path3273-8"
+       cx="44"
+       cy="1028.3622"
+       rx="2"
+       ry="2.0000615" />
+    <ellipse
+       style="fill:none;stroke:none"
+       id="path4132-9"
+       cx="46"
+       cy="1028.3622"
+       rx="2"
+       ry="2.0000615" />
+    <ellipse
+       style="fill:none;stroke:none"
+       id="path3277-5"
+       cx="47"
+       cy="1028.3622"
+       rx="1"
+       ry="1.0000308" />
+    <ellipse
+       style="fill:none;stroke:none"
+       id="path3312-0"
+       cx="-2.0013852"
        cy="1028.3622"
        rx="2.0013857"
        ry="2.0000615"
@@ -357,24 +425,24 @@
        ry="2.0000615"
        rx="2"
        cy="1028.3622"
-       cx="-4"
-       id="ellipse3314"
+       cx="-4.000001"
+       id="ellipse3314-4"
        style="fill:none;stroke:none"
        transform="scale(-1,1)" />
     <ellipse
        ry="2.0000615"
        rx="2"
        cy="1028.3622"
-       cx="-1.9999995"
-       id="ellipse3316"
+       cx="-2.0000005"
+       id="ellipse3316-8"
        style="fill:none;stroke:none"
        transform="scale(-1,1)" />
     <ellipse
        ry="1.0000308"
        rx="1"
        cy="1028.3622"
-       cx="-0.99999952"
-       id="ellipse3318"
+       cx="-1.0000005"
+       id="ellipse3318-6"
        style="fill:none;stroke:none"
        transform="scale(-1,1)" />
   </g>

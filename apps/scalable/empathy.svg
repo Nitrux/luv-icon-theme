@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.3691826"
-     inkscape:cx="38.760105"
-     inkscape:cy="36.233016"
+     inkscape:zoom="8.5601145"
+     inkscape:cx="24.215907"
+     inkscape:cy="26.887347"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -147,21 +147,19 @@
        id="path878"
        inkscape:connector-curvature="0" />
     <ellipse
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:none;stroke:none"
        id="path3268"
-       cx="181.23592"
+       cx="181.2366"
        cy="713.8125"
-       rx="1.0006928"
-       ry="1.0000308"
-       d="m 182.23661,713.8125 a 1.0006928,1.0000308 0 0 1 -1.00069,1.00003 1.0006928,1.0000308 0 0 1 -1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,1.00003 z" />
+       rx="1"
+       ry="1.0000308" />
     <ellipse
        ry="1.0000308"
-       rx="1.0006928"
+       rx="1"
        cy="713.8125"
-       cx="227.23592"
+       cx="227.2366"
        id="ellipse3270"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 228.23661,713.8125 a 1.0006928,1.0000308 0 0 1 -1.00069,1.00003 1.0006928,1.0000308 0 0 1 -1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,1.00003 z" />
+       style="fill:none;stroke:none" />
     <ellipse
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="ellipse3272"
