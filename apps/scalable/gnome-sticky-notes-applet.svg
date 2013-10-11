@@ -13,8 +13,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12397"
-   sodipodi:docname="gnome-sticky-notes-applet.svg">
+   inkscape:version="0.48+devel r12677"
+   sodipodi:docname="basket.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="115.24418"
-     inkscape:cy="29.703693"
+     inkscape:zoom="5.7277567"
+     inkscape:cx="1.4618811"
+     inkscape:cy="24.372101"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,65 +54,110 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
+    <circle
+       style="fill:none;stroke:none"
+       id="path3267"
+       cx="3.5"
+       cy="1028.3622"
+       r="3.5" />
+    <circle
+       r="3.5"
+       cy="1028.3622"
+       cx="44.5"
+       id="circle3269"
+       style="fill:none;stroke:none" />
+    <circle
+       style="fill:none;stroke:none"
+       id="circle3271"
+       cx="24"
+       cy="1006.3622"
+       r="2" />
+    <circle
+       r="2"
+       cy="1050.3622"
+       cx="24"
+       id="circle3273"
+       style="fill:none;stroke:none" />
     <rect
        style="fill:#ae8566;fill-opacity:1;stroke:none"
        id="rect4043"
-       width="40"
-       height="46"
-       x="4"
-       y="1005.3622" />
+       width="34"
+       height="40"
+       x="7"
+       y="1008.3622" />
     <rect
-       y="1007.1122"
-       x="5.7391357"
-       height="42.499996"
-       width="36.5"
+       y="1010.3622"
+       x="9"
+       height="35.999973"
+       width="29.999998"
        id="rect4047"
        style="fill:#fdf4a9;fill-opacity:1;stroke:none" />
+    <circle
+       style="fill:none;stroke:none"
+       id="circle3277"
+       cx="40"
+       cy="1028.3622"
+       r="1" />
+    <circle
+       r="1"
+       cy="1028.3622"
+       cx="8"
+       id="circle3279"
+       style="fill:none;stroke:none" />
+    <circle
+       style="fill:none;stroke:none"
+       id="circle3281"
+       cx="24"
+       cy="1047.3622"
+       r="1" />
     <rect
-       y="-42.239151"
-       x="1018.1622"
-       height="36.5"
-       width="2.3999996"
+       y="-39"
+       x="1017.3622"
+       height="30"
+       width="2"
        id="rect4051"
        style="fill:#fbef82;fill-opacity:1;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
+    <circle
+       style="fill:none;stroke:none"
+       id="circle3283"
+       cx="24"
+       cy="1013.8622"
+       r="3.5" />
+    <circle
+       r="3.5"
+       cy="1042.8622"
+       cx="24"
+       id="circle3285"
+       style="fill:none;stroke:none" />
     <rect
        transform="matrix(0,1,-1,0,0,0)"
        style="fill:#fbef82;fill-opacity:1;stroke:none"
-       id="rect4055"
-       width="2.3999996"
-       height="36.5"
-       x="1024.1622"
-       y="-42.239151" />
+       id="rect3287"
+       width="2"
+       height="30"
+       x="1037.3622"
+       y="-39" />
     <rect
-       y="-42.239151"
-       x="1030.1622"
-       height="36.5"
-       width="2.3999996"
-       id="rect4057"
+       y="-39"
+       x="1027.3622"
+       height="30"
+       width="2"
+       id="rect3289"
        style="fill:#fbef82;fill-opacity:1;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
-    <rect
-       transform="matrix(0,1,-1,0,0,0)"
-       style="fill:#fbef82;fill-opacity:1;stroke:none"
-       id="rect4059"
-       width="2.3999996"
-       height="36.5"
-       x="1036.1622"
-       y="-42.239151" />
     <rect
        style="fill:#ed8484;fill-opacity:1;stroke:none"
        id="rect4049"
        width="0.49999991"
-       height="42.499992"
-       x="11.739136"
-       y="1007.1122" />
-    <rect
-       style="fill:#c2b029;fill-opacity:1;stroke:none"
-       id="rect4061"
-       width="36.5"
-       height="1.2000008"
-       x="5.7391357"
-       y="1048.4117" />
+       height="36"
+       x="13"
+       y="1010.3622" />
+    <circle
+       style="fill:none;stroke:none"
+       id="circle3295"
+       cx="11"
+       cy="1028.3622"
+       r="2" />
   </g>
 </svg>
