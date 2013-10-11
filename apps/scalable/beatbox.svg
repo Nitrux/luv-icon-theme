@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.785908"
-     inkscape:cx="22.076618"
-     inkscape:cy="26.415978"
+     inkscape:zoom="8.2438018"
+     inkscape:cx="21.654603"
+     inkscape:cy="45.986956"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,35 +45,35 @@
     <sodipodi:guide
        position="8.9999928,39"
        orientation="30,0"
-       id="guide3278" />
+       id="guide3336" />
     <sodipodi:guide
        position="8.9999928,9"
        orientation="0,30"
-       id="guide3280" />
+       id="guide3338" />
     <sodipodi:guide
        position="38.999993,9"
        orientation="-30,0"
-       id="guide3282" />
+       id="guide3340" />
     <sodipodi:guide
        position="38.999993,39"
        orientation="0,-30"
-       id="guide3284" />
+       id="guide3342" />
     <sodipodi:guide
-       position="12.499993,33.000244"
-       orientation="18,0"
-       id="guide3288" />
+       position="1.9999928,44.000244"
+       orientation="40,0"
+       id="guide3346" />
     <sodipodi:guide
-       position="12.499993,15.000244"
-       orientation="0,18"
-       id="guide3290" />
+       position="1.9999928,4.0002441"
+       orientation="0,39.000015"
+       id="guide3348" />
     <sodipodi:guide
-       position="30.499993,15.000244"
-       orientation="-18,0"
-       id="guide3292" />
+       position="41.000008,4.0002441"
+       orientation="-40,0"
+       id="guide3350" />
     <sodipodi:guide
-       position="30.499993,33.000244"
-       orientation="0,-18"
-       id="guide3294" />
+       position="41.000008,44.000244"
+       orientation="0,-39.000015"
+       id="guide3352" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -92,14 +92,19 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-180.23661,-689.8125)">
-    <ellipse
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3332"
+       width="30"
+       height="30"
+       x="189.2366"
+       y="698.8125" />
+    <circle
        style="fill:#2c2c2c;fill-opacity:1;stroke:none"
        id="path826"
-       cx="206.22275"
+       cx="206.23662"
        cy="713.8125"
-       rx="20.013857"
-       ry="20.000616"
-       d="m 226.2366,713.8125 a 20.013857,20.000616 0 0 1 -20.01385,20.00062 20.013857,20.000616 0 0 1 -20.01386,-20.00062 20.013857,20.000616 0 0 1 20.01386,-20.00062 20.013857,20.000616 0 0 1 20.01385,20.00062 z" />
+       r="20" />
     <rect
        style="fill:#ff8000;fill-opacity:1;stroke:none"
        id="rect824"
@@ -109,106 +114,38 @@
        y="693.81226" />
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 21.503906 15 L 21.503906 27.835938 C 20.959175 27.328213 20.248805 26.999956 19.501953 27 C 17.931046 27.000093 16.503906 28.42933 16.503906 30 C 16.503906 31.57067 17.931046 32.999907 19.501953 33 C 21.07286 33.000093 22.503906 31.570846 22.503906 30 L 22.503906 19.384766 C 24.596355 20.639877 25.900391 22.943771 25.900391 25.400391 C 25.900391 26.032001 25.796101 26.651427 25.613281 27.248047 C 26.173321 26.258867 26.5 25.14542 26.5 24 C 26.5 22.16553 25.871922 20.41576 24.576172 19.125 C 23.978363 18.529484 22.525728 17.427104 22.503906 15.050781 L 22.503906 15 L 22.5 15 L 21.503906 15 z "
-       transform="translate(180.23661,689.8125)"
-       id="path4112" />
-    <g
-       id="g4152">
-      <ellipse
-         ry="3.5001078"
-         rx="3.502425"
-         cy="713.8125"
-         cx="224.73419"
-         id="ellipse3274"
-         style="fill:none;stroke:none"
-         d="m 228.23662,713.8125 a 3.502425,3.5001078 0 0 1 -3.50243,3.50011 3.502425,3.5001078 0 0 1 -3.50242,-3.50011 3.502425,3.5001078 0 0 1 3.50242,-3.50011 3.502425,3.5001078 0 0 1 3.50243,3.50011 z" />
-      <rect
-         y="704.81226"
-         x="192.7366"
-         height="18"
-         width="18"
-         id="rect4148"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-      <ellipse
-         ry="1.0000308"
-         rx="1.0006928"
-         cy="713.8125"
-         cx="181.23592"
-         id="path3266"
-         style="fill:none;stroke:none"
-         d="m 182.23661,713.8125 a 1.0006928,1.0000308 0 0 1 -1.00069,1.00003 1.0006928,1.0000308 0 0 1 -1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,1.00003 z" />
-      <ellipse
-         style="fill:none;stroke:none"
-         id="ellipse3268"
-         cx="227.23592"
-         cy="713.8125"
-         rx="1.0006928"
-         ry="1.0000308"
-         d="m 228.23661,713.8125 a 1.0006928,1.0000308 0 0 1 -1.00069,1.00003 1.0006928,1.0000308 0 0 1 -1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.0007,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,1.00003 z" />
-      <ellipse
-         transform="matrix(0,-1,1,0,0,0)"
-         style="fill:none;stroke:none"
-         id="ellipse3270"
-         cx="-735.8139"
-         cy="204.2366"
-         rx="2.0013857"
-         ry="2.0000615"
-         d="m -733.81252,204.2366 a 2.0013857,2.0000615 0 0 1 -2.00138,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00138,2.00006 z" />
-      <ellipse
-         transform="matrix(0,-1,1,0,0,0)"
-         ry="2.0000615"
-         rx="2.0013857"
-         cy="204.2366"
-         cx="-691.8139"
-         id="ellipse3272"
-         style="fill:none;stroke:none"
-         d="m -689.81252,204.2366 a 2.0013857,2.0000615 0 0 1 -2.00138,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00138,2.00006 z" />
-      <ellipse
-         ry="2.0000615"
-         rx="2.0013857"
-         cy="720.81219"
-         cx="194.73833"
-         id="path4146"
-         style="fill:none;stroke:none"
-         d="m 196.73971,720.81219 a 2.0013857,2.0000615 0 0 1 -2.00138,2.00007 2.0013857,2.0000615 0 0 1 -2.00139,-2.00007 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00138,2.00006 z" />
-      <ellipse
-         style="fill:none;stroke:none"
-         id="ellipse4150"
-         cx="208.73521"
-         cy="713.81226"
-         rx="2.0013857"
-         ry="2.0000615"
-         d="m 210.7366,713.81226 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00138,-2.00006 2.0013857,2.0000615 0 0 1 2.00138,-2.00007 2.0013857,2.0000615 0 0 1 2.00139,2.00007 z" />
-    </g>
+       d="m 201.74052,704.81251 0,12.83593 c -0.54474,-0.50772 -1.2551,-0.83598 -2.00196,-0.83593 -1.5709,9e-5 -2.99804,1.42933 -2.99804,3 0,1.57067 1.42714,2.9999 2.99804,3 1.57091,9e-5 3.00196,-1.42916 3.00196,-3 l 0,-10.61524 c 2.09244,1.25511 3.39648,3.55901 3.39648,6.01563 0,0.63161 -0.10429,1.25103 -0.28711,1.84765 0.56004,-0.98918 0.88672,-2.10262 0.88672,-3.24804 0,-1.83447 -0.62808,-3.58424 -1.92383,-4.875 -0.59781,-0.59552 -2.05044,-1.6979 -2.07226,-4.07422 l 0,-0.0508 -0.004,0 -0.99609,0 z"
+       id="path4112"
+       inkscape:connector-curvature="0" />
     <circle
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:none;stroke:none"
        id="path3280"
        cx="181.2366"
        cy="713.8125"
        r="1" />
     <circle
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:none;stroke:none"
        id="circle3288"
-       cx="224.7366"
+       cx="224.73662"
        cy="713.8125"
        r="3.5" />
     <circle
        r="1"
        cy="713.8125"
-       cx="227.2366"
+       cx="227.23662"
        id="circle3282"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       style="fill:none;stroke:none" />
     <circle
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:none;stroke:none"
        id="circle3284"
-       cx="204.2366"
+       cx="204.23662"
        cy="691.8125"
        r="2" />
     <circle
        r="2"
        cy="735.8125"
-       cx="204.2366"
+       cx="204.23662"
        id="circle3286"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       style="fill:none;stroke:none" />
   </g>
 </svg>
