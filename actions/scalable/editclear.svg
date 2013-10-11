@@ -13,7 +13,7 @@
    height="48"
    id="svg3754"
    version="1.1"
-   inkscape:version="0.48+devel r12660"
+   inkscape:version="0.48+devel r12677"
    sodipodi:docname="editclear.svg">
   <defs
      id="defs3756">
@@ -36,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.371754"
-     inkscape:cx="126.5384"
-     inkscape:cy="84.188211"
+     inkscape:zoom="6.8613752"
+     inkscape:cx="38.51181"
+     inkscape:cy="29.360216"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,10 +51,6 @@
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1">
-    <sodipodi:guide
-       position="17.999981,38.999993"
-       orientation="30,0"
-       id="guide3268" />
     <sodipodi:guide
        position="17.999981,8.9999929"
        orientation="0,30"
@@ -139,33 +135,9 @@
        id="rect3262"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <path
-       sodipodi:type="star"
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path3284"
-       sodipodi:sides="3"
-       sodipodi:cx="830.5509"
-       sodipodi:cy="672.46252"
-       sodipodi:r1="9.4684792"
-       sodipodi:r2="4.7342396"
-       sodipodi:arg1="2.3561945"
-       sodipodi:arg2="3.403392"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 823.85568,679.15775 4.2446,-15.84107 11.59647,11.59647 z"
-       inkscape:transform-center-x="3.0000002"
-       transform="matrix(0.89616096,1.2934969,-0.89616096,1.2934969,638.89879,-1270.0667)" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 18 9 L 18 39 L 48 39 L 48 9 L 18 9 z M 26.828125 15 L 33 21.171875 L 39.171875 15 L 42 17.828125 L 35.828125 24 L 42 30.171875 L 39.171875 33 L 33 26.828125 L 26.828125 33 L 24 30.171875 L 30.171875 24 L 24 17.828125 L 26.828125 15 z "
+       d="M 18 9 L 0 24 L 18 39 L 48 39 L 48 9 L 18 9 z M 26.828125 15 L 33 21.171875 L 39.171875 15 L 42 17.828125 L 35.828125 24 L 42 30.171875 L 39.171875 33 L 33 26.828125 L 26.828125 33 L 24 30.171875 L 30.171875 24 L 24 17.828125 L 26.828125 15 z "
        transform="translate(768.57143,650.07647)"
-       id="rect3286" />
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3275"
-       width="30"
-       height="30"
-       x="727.78644"
-       y="659.60681" />
+       id="path3284" />
   </g>
 </svg>

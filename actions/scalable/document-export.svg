@@ -13,7 +13,7 @@
    height="48"
    id="svg18107"
    version="1.1"
-   inkscape:version="0.48+devel r12660"
+   inkscape:version="0.48+devel r12677"
    sodipodi:docname="document-export.svg">
   <defs
      id="defs18109">
@@ -36,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0343727"
-     inkscape:cx="29.349888"
-     inkscape:cy="23.933798"
+     inkscape:zoom="11.621535"
+     inkscape:cx="23.589314"
+     inkscape:cy="24.13841"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -144,7 +144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -200,18 +200,16 @@
        inkscape:transform-center-x="-1.6666518"
        transform="matrix(0.85675307,-1.3355459,0.85675307,1.3355459,-854.73727,-335.45971)"
        inkscape:transform-center-y="4.2358279e-05" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+    <ellipse
+       style="fill:none;stroke:none"
        id="path3406"
-       sodipodi:cx="-46.001385"
-       sodipodi:cy="1034.3622"
-       sodipodi:rx="2.0013857"
-       sodipodi:ry="2.0000615"
-       d="m -43.999999,1034.3622 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       cx="-46"
+       cy="1034.3622"
+       rx="2"
+       ry="2.0000615" />
     <path
-       d="m -29.999999,1034.3622 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z"
+       d="m -29.999999,1034.3622 a 2.0013857,2.0000615 0 0 1 -2.001386,2 2.0013857,2.0000615 0 0 1 -2.001385,-2 2.0013857,2.0000615 0 0 1 2.001385,-2.0001 2.0013857,2.0000615 0 0 1 2.001386,2.0001 z"
        sodipodi:ry="2.0000615"
        sodipodi:rx="2.0013857"
        sodipodi:cy="1034.3622"

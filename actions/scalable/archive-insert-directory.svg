@@ -13,8 +13,8 @@
    height="48"
    id="svg3979"
    version="1.1"
-   inkscape:version="0.48+devel r12660"
-   sodipodi:docname="add-folder-to-archive.svg">
+   inkscape:version="0.48+devel r12677"
+   sodipodi:docname="archive-insert-directory.svg">
   <defs
      id="defs3981" />
   <sodipodi:namedview
@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.324818"
-     inkscape:cx="23.131985"
+     inkscape:zoom="12.605993"
+     inkscape:cx="13.25573"
      inkscape:cy="25.05351"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -177,15 +177,13 @@
        sodipodi:cy="528.21936"
        sodipodi:rx="2.0013857"
        sodipodi:ry="2.0000615"
-       d="m 614.71428,528.21936 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z" />
-    <path
-       d="m 605.71428,515.21936 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z"
-       sodipodi:ry="2.0000615"
-       sodipodi:rx="2.0013857"
-       sodipodi:cy="515.21936"
-       sodipodi:cx="603.71289"
+       d="m 614.71428,528.21936 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,-2.00006 2.0013857,2.0000615 0 0 1 2.00139,2.00006 z" />
+    <ellipse
        id="path3333"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       sodipodi:type="arc" />
+       style="fill:none;stroke:none"
+       cx="603.71429"
+       cy="515.21936"
+       rx="2"
+       ry="2.0000615" />
   </g>
 </svg>
