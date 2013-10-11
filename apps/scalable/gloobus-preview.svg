@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.5965426"
-     inkscape:cx="25.00307"
-     inkscape:cy="29.477784"
+     inkscape:zoom="5.494112"
+     inkscape:cx="51.877514"
+     inkscape:cy="29.693046"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,7 +80,7 @@
        inkscape:connector-curvature="0"
        d="m 24.522306,1029.4381 c -0.296574,-1.3172 1.257039,-2.0803 2.314921,-1.9395 2.067834,0.2754 3.048284,2.637 2.572133,4.5293 -0.724081,2.878 -3.93174,4.1727 -6.561578,3.3107 -3.573526,-1.171 -5.13992,-5.3949 -3.915724,-8.8634 1.559364,-4.4188 6.642974,-6.3241 10.808256,-4.6819 5.08715,2.0058 7.256625,8.1661 5.259305,13.1976 -2.368242,5.9658 -9.360853,8.4891 -15.054926,6.0529 -6.604777,-2.8263 -9.381422,-10.9413 -6.602899,-17.5317 3.168729,-7.5152 12.081237,-10.6599 19.301626,-7.424 8.124203,3.6404 11.50969,13.7184 7.946448,21.8657 -3.965569,9.0666 -14.802841,12.8332 -23.548263,8.7953 -9.6446851,-4.4527 -13.6399391,-16.4961 -9.2900731,-26.1998 3.4107571,-7.6081 11.2078671,-12.3955 19.3673011,-12.1801" />
     <circle
-       style="fill:#ff8080;stroke:none"
+       style="fill:none;stroke:none"
        id="path3264"
        cx="2"
        cy="1028.3622"
@@ -90,11 +90,11 @@
        cy="1028.3622"
        cx="46"
        id="circle3266"
-       style="fill:#ff8080;stroke:none"
+       style="fill:none;stroke:none"
        r="2"
        d="m 48,1028.3622 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
     <circle
-       style="fill:#ff5555;stroke:none"
+       style="fill:none;stroke:none"
        id="circle3268"
        cx="24"
        cy="1006.3622"
@@ -105,17 +105,17 @@
        cy="1050.3622"
        cx="24"
        id="circle3270"
-       style="fill:#ff5555;stroke:none"
+       style="fill:none;stroke:none"
        d="m 26,1050.3622 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
     <circle
        r="1"
        cy="1028.3622"
        cx="5"
        id="circle4084"
-       style="fill:#ff8080;stroke:none"
+       style="fill:none;stroke:none"
        d="m 6,1028.3622 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
     <circle
-       style="fill:#ff8080;stroke:none"
+       style="fill:none;stroke:none"
        id="circle4086"
        cx="43"
        cy="1028.3622"
