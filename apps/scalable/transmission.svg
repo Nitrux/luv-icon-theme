@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12351"
+   inkscape:version="0.48+devel r12676"
    sodipodi:docname="transmission.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="23.247778"
-     inkscape:cy="19.241837"
+     inkscape:zoom="11.313709"
+     inkscape:cx="26.458955"
+     inkscape:cy="24.788605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,76 @@
      inkscape:window-height="714"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="8.9999928,39"
+       orientation="30,0"
+       id="guide3281" />
+    <sodipodi:guide
+       position="8.9999928,9"
+       orientation="0,30"
+       id="guide3283" />
+    <sodipodi:guide
+       position="38.999993,9"
+       orientation="-30,0"
+       id="guide3285" />
+    <sodipodi:guide
+       position="38.999993,39"
+       orientation="0,-30"
+       id="guide3287" />
+    <sodipodi:guide
+       position="7,44"
+       orientation="40,0"
+       id="guide3308" />
+    <sodipodi:guide
+       position="7,4"
+       orientation="0,2"
+       id="guide3310" />
+    <sodipodi:guide
+       position="9,4"
+       orientation="0,30"
+       id="guide3312" />
+    <sodipodi:guide
+       position="39,4"
+       orientation="0,2"
+       id="guide3314" />
+    <sodipodi:guide
+       position="41,4"
+       orientation="-40,0"
+       id="guide3316" />
+    <sodipodi:guide
+       position="41,44"
+       orientation="0,-2"
+       id="guide3318" />
+    <sodipodi:guide
+       position="39,44"
+       orientation="0,-30"
+       id="guide3320" />
+    <sodipodi:guide
+       position="9,44"
+       orientation="0,-2"
+       id="guide3322" />
+    <sodipodi:guide
+       position="7,44"
+       orientation="0,0"
+       id="guide3324" />
+    <sodipodi:guide
+       position="29.999993,15"
+       orientation="11,0"
+       id="guide3330" />
+    <sodipodi:guide
+       position="29.999993,4"
+       orientation="0,11"
+       id="guide3332" />
+    <sodipodi:guide
+       position="40.999993,4"
+       orientation="-11,0"
+       id="guide3334" />
+    <sodipodi:guide
+       position="40.999993,15"
+       orientation="0,-11"
+       id="guide3336" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -47,7 +116,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,25 +125,102 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-180.23661,-689.8125)">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3326"
+       width="11"
+       height="11"
+       x="210.2366"
+       y="722.8125" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3289"
+       width="30"
+       height="30"
+       x="189.2366"
+       y="698.8125" />
+    <ellipse
+       style="fill:none;stroke:none"
+       id="path3263"
+       cx="183.73419"
+       cy="713.8125"
+       rx="3.502425"
+       ry="3.5001078" />
+    <ellipse
+       style="fill:none;stroke:none"
+       id="ellipse3267"
+       cx="204.23523"
+       cy="691.8125"
+       rx="2.0013857"
+       ry="2.0000615" />
+    <ellipse
+       ry="2.0000615"
+       rx="2.0013857"
+       cy="735.8125"
+       cx="204.23523"
+       id="ellipse3269"
+       style="fill:none;stroke:none" />
     <path
-       style="fill:#88c941;fill-opacity:1;stroke:none"
-       d="M 5.5 1.875 L 5.5 46.125 L 33.25 46.125 L 42.5 36.875 L 42.5 1.875 L 5.5 1.875 z "
+       style="fill:#88c941;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 7 4 L 7 44 L 9 44 L 30 44 L 41 33 L 41 4 L 39 4 L 9 4 L 7 4 z "
        transform="translate(180.23661,689.8125)"
-       id="rect856" />
+       id="rect3303" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3349"
+       width="18"
+       height="18"
+       x="195.2366"
+       y="704.8125" />
+    <ellipse
+       ry="3.5001078"
+       rx="3.502425"
+       cy="713.8125"
+       cx="224.73419"
+       id="ellipse3297"
+       style="fill:none;stroke:none" />
     <path
-       style="fill:#dcdede;fill-opacity:1;stroke:none"
-       d="m 213.48661,735.9375 9.25,-9.25 -9.25,0 L 213.48661,735.9375 Z"
-       id="rect858"
+       style="fill:#d4e8f4;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 210.2366,722.8125 0,11 11.00001,-11.00001 z"
+       id="path3338"
        inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3347"
+       width="11"
+       height="4"
+       x="198.7366"
+       y="718.8125" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3359"
+       width="7"
+       height="5"
+       x="200.7366"
+       y="704.81183" />
     <path
-       inkscape:connector-curvature="0"
-       id="path866"
-       d="m 213.48661,726.6875 -9.25,9.25 9.25,0 L 213.48661,726.6875 Z"
-       style="fill:#000000;fill-opacity:0.125;stroke:none" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 200.66519,706.3125 0,5 -2.5,0 6.07143,5.17857 5.89285,-5.17857 -2.5,0 0,-5 L 200.66519,706.3125 z m -3.03572,10.89286 0,4.10714 13.21429,0 0,-4.10714 L 197.62947,717.20536 Z"
-       id="path879"
-       inkscape:connector-curvature="0" />
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3361"
+       sodipodi:sides="3"
+       sodipodi:cx="204.2366"
+       sodipodi:cy="713.659"
+       sodipodi:r1="3.4202962"
+       sodipodi:r2="1.710148"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 204.2366,717.07929 -2.96206,-5.13044 5.92413,0 z"
+       inkscape:transform-center-y="1.166655"
+       transform="matrix(1.8568137,0,0,1.3644042,-174.99272,-261.5735)" />
+    <ellipse
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3363"
+       cx="204.23592"
+       cy="717.8125"
+       rx="1.0006928"
+       ry="1.0000308" />
   </g>
 </svg>
