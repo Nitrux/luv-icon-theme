@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12392"
+   inkscape:version="0.48+devel r12677"
    sodipodi:docname="gloobus-preview.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2614427"
-     inkscape:cx="2.3117322"
-     inkscape:cy="24.591509"
+     inkscape:zoom="5.2517549"
+     inkscape:cx="24.819232"
+     inkscape:cy="30.950341"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,6 +40,22 @@
     <inkscape:grid
        type="xygrid"
        id="grid3850" />
+    <sodipodi:guide
+       position="9,39.000017"
+       orientation="30,0"
+       id="guide3276" />
+    <sodipodi:guide
+       position="9,9.0000174"
+       orientation="0,30"
+       id="guide3278" />
+    <sodipodi:guide
+       position="39,9.0000174"
+       orientation="-30,0"
+       id="guide3280" />
+    <sodipodi:guide
+       position="39,39.000017"
+       orientation="0,-30"
+       id="guide3282" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -67,11 +83,55 @@
        style="fill:#128ddb;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path3239-0"
        inkscape:connector-curvature="0"
-       d="m 24.59995,1029.7254 c -0.336424,-1.4651 1.425918,-2.3139 2.6259,-2.1572 2.345633,0.3062 3.457816,2.9329 2.917687,5.0376 -0.821345,3.201 -4.45995,4.6411 -7.443091,3.6823 -4.053585,-1.3024 -5.830408,-6.0004 -4.441773,-9.8582 1.76887,-4.9148 7.53542,-7.0339 12.260267,-5.2074 5.770571,2.231 8.231522,9.0827 5.96585,14.6789 -2.686384,6.6354 -10.618403,9.442 -17.077437,6.7323 -7.492054,-3.1435 -10.6417243,-12.1694 -7.489933,-19.4994 3.594423,-8.3589 13.704261,-11.8565 21.894633,-8.2574 9.215651,4.049 13.05595,15.2582 9.01401,24.32 -4.498314,10.0843 -16.79149,14.2737 -26.711801,9.7825 -10.9403718,-4.9525 -15.47235716,-18.3477 -10.5381176,-29.1405 3.8689781,-8.4622 12.7135446,-13.7869 21.9691346,-13.5472" />
+       d="m 24.522305,1029.4381 c -0.296574,-1.3172 1.257039,-2.0803 2.314921,-1.9395 2.067834,0.2754 3.048284,2.637 2.572133,4.5293 -0.724081,2.878 -3.93174,4.1727 -6.561578,3.3107 -3.573526,-1.171 -5.13992,-5.3949 -3.915724,-8.8634 1.559364,-4.4188 6.642974,-6.3241 10.808256,-4.6819 5.08715,2.0058 7.256625,8.1661 5.259305,13.1976 -2.368242,5.9658 -9.360853,8.4891 -15.054926,6.0529 -6.604777,-2.8263 -9.381422,-10.9413 -6.602899,-17.5317 3.168729,-7.5152 12.081237,-10.6599 19.301626,-7.424 8.124203,3.6404 11.50969,13.7184 7.946448,21.8657 -3.965569,9.0666 -14.802841,12.8332 -23.548263,8.7953 -9.6446856,-4.4527 -13.6399397,-16.4961 -9.2900731,-26.1998 3.4107571,-7.6081 11.2078671,-12.3955 19.3673011,-12.1801" />
     <path
        style="fill:none;stroke:none;stroke-width:1.6514858;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path3180"
        inkscape:connector-curvature="0"
        d="m 27.511369,1006.185 c -8.03748,0.7025 -16.357572,4.3319 -20.6838379,11.4392 -5.92641318,9.3856 -3.2576402,23.2104 6.0760749,29.3817 7.481855,4.9819 18.352361,4.7451 25.249014,-1.1803 7.682465,-6.8161 8.334529,-20.0647 1.096317,-27.4321 -3.228582,-3.4661 -7.914719,-5.1307 -12.58687,-5.1814" />
+    <circle
+       style="fill:none;stroke:none"
+       id="path3264"
+       cx="2"
+       cy="1028.3622"
+       r="2" />
+    <circle
+       cy="1028.3622"
+       cx="46"
+       id="circle3266"
+       style="fill:none;stroke:none"
+       r="2" />
+    <circle
+       style="fill:none;stroke:none"
+       id="circle3268"
+       cx="24"
+       cy="1006.3622"
+       r="2" />
+    <circle
+       r="2"
+       cy="1050.3622"
+       cx="24"
+       id="circle3270"
+       style="fill:none;stroke:none" />
+    <rect
+       style="fill:none;fill-opacity:0.46408841;fill-rule:evenodd;stroke:none"
+       id="rect3272"
+       width="30"
+       height="30"
+       x="9"
+       y="1013.3622"
+       ry="0" />
+    <circle
+       r="1"
+       cy="1028.3622"
+       cx="5"
+       id="circle4084"
+       style="fill:none;stroke:none" />
+    <circle
+       style="fill:none;stroke:none"
+       id="circle4086"
+       cx="43"
+       cy="1028.3622"
+       r="1" />
   </g>
 </svg>
