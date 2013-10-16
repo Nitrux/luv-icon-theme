@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.283271"
-     inkscape:cx="25.359058"
-     inkscape:cy="32.252397"
+     inkscape:zoom="8.1604959"
+     inkscape:cx="17.990572"
+     inkscape:cy="23.702493"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,17 +35,21 @@
      inkscape:showpageshadow="false"
      borderlayer="true">
     <sodipodi:guide
-       position="8.9999996,38.999975"
-       orientation="30.000028,0"
-       id="guide3266" />
-    <sodipodi:guide
-       position="8.9999996,8.9999467"
-       orientation="0,30.000001"
-       id="guide3268" />
-    <sodipodi:guide
-       position="39.000001,38.999975"
+       position="39.000007,38.999975"
        orientation="0,-30.000001"
-       id="guide3272" />
+       id="guide3284" />
+    <sodipodi:guide
+       position="9.0000064,38.999975"
+       orientation="30.000028,0"
+       id="guide3286" />
+    <sodipodi:guide
+       position="9.0000064,8.9999467"
+       orientation="0,30.000001"
+       id="guide3288" />
+    <sodipodi:guide
+       position="39.000007,8.9999467"
+       orientation="-30.000028,0"
+       id="guide3290" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -55,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,14 +103,13 @@
        ry="0.56444448"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       transform="matrix(0,1,-1,0,0,0)"
        style="fill:#34495e;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3361"
        width="11.28889"
        height="11.28889"
-       x="284.58221"
-       y="-12.417778"
-       ry="5.6444449" />
+       x="1.1288881"
+       y="284.58221"
+       ry="0" />
     <rect
        ry="0"
        y="-11.006669"
