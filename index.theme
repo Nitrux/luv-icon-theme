@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Flattr
-Comment=Flattr is a minimalistic icon set using smooth colors, simple shapes and recognizable glyphs
-Inherits=
+Name=Flattr Icons KDE
+Comment=Flattr Icons KDE is a fork of Flattr Icons
+Inherits=Flattr
 
 Example=x-directory-normal
 
@@ -65,10 +65,10 @@ Type=Fixed
 #Context=Emblems
 #Type=Fixed
 
-#The different MIMEtype sizes are for Google Chrome and Chromium's Download Tab 
-#(when you download something it recognizes the file type and shows the 
-#corresponding icon, for example you download a DEB file you get a DEB MIME icon). 
-#Other software works fine with SVG files. 
+#The different MIMEtype sizes are for Google Chrome and Chromium's Download Tab
+#(when you download something it recognizes the file type and shows the
+#corresponding icon, for example you download a DEB file you get a DEB MIME icon).
+#Other software works fine with SVG files.
 #
 #-------------------------------Note yet in Flattr--------------------------------
 #
