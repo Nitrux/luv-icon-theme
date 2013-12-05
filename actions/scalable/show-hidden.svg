@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="shape0" transform="translate(5.26174, 11.7289)" fill="none" stroke="#595959" stroke-width="2.48953187189" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M0 11.251C11.7423 -2.52977 23.9837 -4.76734 35.7584 10.8214C20.0577 25.3696 10.1613 18.1069 0 11.251Z"/>
+  <ellipse id="shape1" transform="translate(20.5783, 16.6406)" rx="4.14367977528pt" ry="4.06048689139pt" cx="4.14367977528pt" cy="4.06048689139pt" fill="none" stroke="#595959" stroke-width="5.01449687602" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180"/>
+ </g>
+</svg>
