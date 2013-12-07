@@ -4,9 +4,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="translate(10.5298, 1.14351)" fill="#ff8800" fill-rule="evenodd" stroke="#ff7700" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M13.9604 0C9.30616 12.2846 4.65416 23.2594 0 35.544C8.70602 37.919 17.9056 38.7236 28.3616 35.5306Z"/>
-  <path id="shape1" transform="translate(13.0537, 22.9772)" fill="#f3f3f3" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 7.13522C6.45262 9.21853 13.3971 10.0415 23.3353 7.51639L20.4121 0.106167C14.2554 2.10342 8.40805 1.6549 2.72423 0Z"/>
-  <path id="shape2" transform="translate(19.6057, 7.18608)" fill="#f3f3f3" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 6.27066C3.04392 6.93828 6.25129 7.27533 9.97925 6.48836L7.52745 0C5.74638 0.371114 4.13606 0.482707 2.46961 0.121956Z"/>
-  <path id="shape0" transform="translate(1.6086, 34.4699)" fill="#ff8800" fill-rule="evenodd" stroke="#ff9e22" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M0 8.3647L45.2705 8.59449L38.1926 0L39.5714 3.21719C27.0561 7.87812 16.6047 6.43686 6.84802 3.21719L7.81318 0.505558Z"/>
+  <path id="shape0" transform="translate(2.35176, 6.39196)" fill="#ff8800" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 37.4472L42.6935 37.3869L42.6332 32.4422L36.5427 31.2362L23.9397 0L18.8744 0.0603015C14.6734 10.8744 10.593 20.4221 6.39196 31.2362L0.120603 32.4422Z"/>
+  <path id="shape1" transform="translate(10.0011, 27.5064)" fill="#ffffff" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 6.84658L27.6143 6.86441C27.5787 6.79487 25.6754 2.09045 24.8111 0L2.75015 0Z"/>
+  <path id="shape2" transform="translate(15.8037, 13.7574)" fill="#ffffff" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 6.24877L15.9897 6.24877L13.4699 0L2.52826 0Z"/>
  </g>
 </svg>
