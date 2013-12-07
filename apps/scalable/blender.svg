@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="shape0" transform="translate(14.5924, 14.5523)" fill="#ff9e22" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M31.4762 15.8311C31.3506 6.98287 24.2374 -0.0952824 15.5678 0.000970137C6.89818 0.0972232 -0.0624479 7.33163 0.000422564 16.1806C0.0632931 25.0296 7.12599 32.1603 15.796 32.1281C24.4661 32.0961 31.478 24.9133 31.478 16.0642"/>
+  <path id="shape1" transform="matrix(0.933126 -0.359601 0.348356 0.937381 9.6768 16.2424)" fill="none" stroke="#ff9e22" stroke-width="6.87013001195" stroke-linecap="round" stroke-linejoin="bevel" d="M23.6892 11.5596L0 0"/>
+  <path id="shape2" transform="matrix(0.752425 0.668765 -0.738129 0.672838 25.8244 5.88424)" fill="none" stroke="#ff9e22" stroke-width="6.87013001195" stroke-linecap="round" stroke-linejoin="bevel" d="M22.891 3.40985L0 0"/>
+  <path id="shape3" transform="matrix(0.613082 -0.790085 0.777467 0.629006 5.12563 33.873)" fill="none" stroke="#ff9e22" stroke-width="6.87013001195" stroke-linecap="round" stroke-linejoin="bevel" d="M26.1209 7.33714L0 0"/>
+  <path id="shape4" transform="translate(21.3454, 21.4382)" fill="#e6e6e6" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M17.9174 9.14376C17.9174 4.09381 13.9064 3.09221e-16 8.95869 0C4.01095 -3.09221e-16 6.05925e-16 4.09381 0 9.14376C-6.05925e-16 14.1936 4.01095 18.2875 8.95869 18.2875C13.9064 18.2875 17.9174 14.1936 17.9174 9.14376"/>
+  <path id="shape5" transform="translate(26.6281, 26.6076)" fill="#006bff" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M7.62442 3.89097C7.62442 1.74204 5.91763 1.31583e-16 3.81221 0C1.70678 -1.31583e-16 2.5784e-16 1.74204 0 3.89097C-2.5784e-16 6.03988 1.70678 7.78192 3.81221 7.78192C5.91763 7.78192 7.62442 6.03988 7.62442 3.89097"/>
+ </g>
+</svg>
