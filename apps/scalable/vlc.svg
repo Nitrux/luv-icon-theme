@@ -4,8 +4,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="translate(2.35176, 6.39196)" fill="#ff8800" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 37.4472L42.6935 37.3869L42.6332 32.4422L36.5427 31.2362L23.9397 0L18.8744 0.0603015C14.6734 10.8744 10.593 20.4221 6.39196 31.2362L0.120603 32.4422Z"/>
-  <path id="shape1" transform="translate(10.0011, 27.5064)" fill="#ffffff" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 6.84658L27.6143 6.86441C27.5787 6.79487 25.6754 2.09045 24.8111 0L2.75015 0Z"/>
-  <path id="shape2" transform="translate(15.8037, 13.7574)" fill="#ffffff" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 6.24877L15.9897 6.24877L13.4699 0L2.52826 0Z"/>
+  <path id="shape0" transform="translate(5.84925, 6.39196)" fill="#ff8800" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 37.4472L36.3618 37.3869L36.3105 32.4422L31.1232 31.2362L20.3893 0L16.0752 0.0603015C12.4973 10.8744 9.022 20.4221 5.444 31.2362L0.102717 32.4422Z"/>
+  <path id="shape1" transform="matrix(1 0 0 1 12.3641 27.5064)" fill="#ffffff" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 6.84658L23.5189 6.86441C23.4886 6.79487 21.8676 2.09045 21.1315 0L2.34229 0Z"/>
+  <path id="shape2" transform="matrix(1 0 0 1 17.3062 13.7574)" fill="#ffffff" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 6.24877L13.6183 6.24877L11.4722 0L2.1533 0Z"/>
  </g>
 </svg>
