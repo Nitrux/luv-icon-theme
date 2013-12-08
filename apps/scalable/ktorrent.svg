@@ -4,7 +4,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="translate(5.30653, 32.1407)" fill="#b6d4ff" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M36.9043 4.8908C36.8551 2.17891 28.5674 -0.00980666 18.3853 3.30472e-05C8.20319 0.00987275 -0.0245743 2.21455 5.51513e-05 4.92646C0.0246846 7.63838 8.2924 9.83242 18.4746 9.82914C28.6568 9.82586 36.9045 7.6265 36.9045 4.91457"/>
-  <path id="shape1" transform="translate(2.47236, 1.38462)" fill="#6daaff" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M10.8543 17.4295L0 17.3112L21.3166 36.0626L42.6332 17.3112L31.7789 17.3089L31.7789 0L10.8543 0.120555Z"/>
+  <path id="shape1" transform="translate(3.54331, 3.54331)" fill="#6daaff" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M10.3744 19.6941L0 19.5604L20.3741 40.7481L40.7481 19.5604L30.3737 19.5578L30.3737 0L10.3744 0.136218Z"/>
  </g>
 </svg>
