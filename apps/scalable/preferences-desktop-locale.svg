@@ -1,54 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48+devel r12691"
-   viewBox="0 0 13.546667 13.546667"
-   sodipodi:docname="preferences-desktop-locale.svg">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="4.0501356"
-     inkscape:cx="37.788114"
-     inkscape:cy="26.690767"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:showpageshadow="false"
-     borderlayer="true" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-283.45333)" />
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="shape0" transform="translate(5.40667, 4.75425)" fill="none" stroke="#4c4c4c" stroke-width="1.86484575032" stroke-linecap="square" stroke-linejoin="bevel" d="M0 28.9096L31.03 0"/>
+  <path id="shape1" transform="translate(6.75412, 6.2005)" fill="none" stroke="#4c4c4c" stroke-width="1.86484575032" stroke-linecap="square" stroke-linejoin="bevel" d="M0 26.6289C18.9105 45.8273 46.5629 19.8382 29.4524 0"/>
+  <path id="shape2" transform="translate(4.87226, 3.07474)" fill="#2f7cbc" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M32.7601 15.8629C32.4738 6.86958 24.9885 -0.210008 15.9932 0.00475986C6.99786 0.219528 -0.141069 7.64828 0.00211675 16.645C0.145303 25.6417 7.51702 32.8395 16.5146 32.768C25.5122 32.6964 32.7684 25.3821 32.7684 16.3843"/>
+  <path id="shape3" transform="translate(14.262, 43.6631)" fill="none" stroke="#4c4c4c" stroke-width="1.86484575032" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M0 2.97267L18.9428 3.02439C12.3797 -1.35185 6.10744 -0.633296 0 2.97267Z"/>
+  <path id="shape4" transform="translate(23.9162, 40.5801)" fill="none" stroke="#4c4c4c" stroke-width="1.86484575032" stroke-linecap="square" stroke-linejoin="bevel" d="M0 2.7178L0 0"/>
+ </g>
 </svg>
