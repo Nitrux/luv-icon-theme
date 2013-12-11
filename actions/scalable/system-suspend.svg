@@ -4,7 +4,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <rect id="rect3282" transform="matrix(1 0 0 -1 6.43757 26.2247)" fill="#4d4d4d" fill-rule="evenodd" width="28.13637222111pt" height="3.94154836445pt"/>
-  <path id="shape0" transform="translate(4.42914, 4.42914)" fill="none" stroke="#4c4c4c" stroke-width="4.42914153125" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M38.9754 19.6699C38.7063 8.958 29.8345 -0.198577 19.1211 0.00327517C8.40774 0.205127 -0.133003 9.01837 0.00156865 19.7329C0.136141 30.4474 8.89555 39.0433 19.6106 38.9761C30.3257 38.9087 38.9764 30.2035 38.9764 19.4881"/>
+  <rect id="rect3282" transform="matrix(0 1 1 0 21.7251 10.6859)" fill="#595959" fill-rule="evenodd" width="11.89580415079pt" height="3.54331322500pt"/>
+  <path id="shape0" transform="translate(4.42914, 4.42914)" fill="none" stroke="#595959" stroke-width="4.42914153125" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M38.9754 19.6699C38.7063 8.958 29.8345 -0.198577 19.1211 0.00327517C8.40774 0.205127 -0.133003 9.01837 0.00156866 19.7329C0.136141 30.4474 8.89555 39.0433 19.6106 38.9761C30.3257 38.9087 38.9764 30.2035 38.9764 19.4881"/>
+  <rect id="rect32821" transform="matrix(-1 0 0 1 39.6338 22.8898)" fill="#595959" fill-rule="evenodd" width="14.34023316642pt" height="2.12598793500pt"/>
  </g>
 </svg>
