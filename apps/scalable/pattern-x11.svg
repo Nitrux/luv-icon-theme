@@ -4,6 +4,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="matrix(-1 0 0 1 41.1859 4.64322)" fill="#595959" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0.964824 0L14.4121 17.8492L0 37.9899L8.20101 37.9296L18.5729 22.9749L28.8844 38.2915L34.9146 38.2312L21.6482 19.5377L36 0.241206L27.799 0.180905L17.2462 14.8945C10.1709 5.00503 6.61307 0.0603015 6.57286 0.0603015C6.53266 0.0603015 4.66332 0.040201 0.964824 0Z"/>
+  <path id="shape0" transform="translate(4.00394, 4.00394)" fill="#595959" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M38.9319 0L23.9889 18.6475L40.004 39.6889L30.8909 39.6259L19.3654 24.0024L7.90704 40.004L1.20609 39.9411L15.948 20.4115L0 0.251994L9.11313 0.188996L20.8396 15.5606C28.7019 5.22886 32.6554 0.0629984 32.7001 0.0629984C32.7448 0.0629984 34.822 0.0419989 38.9319 0Z"/>
  </g>
 </svg>
