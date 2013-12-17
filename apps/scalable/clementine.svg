@@ -4,7 +4,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="mandarin" transform="translate(1.29634, 2.99625)" fill="#ff7f45" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="1.98425543308" d="M7.1531 0C12.0349 6.88 14.7164 14.2847 21.655 21.573C28.3765 27.7831 37.5931 30.0112 44.3067 34.397C38.5585 43.8293 16.9639 46.3236 8.05197 36.794C-1.81344 27.2373 -3.191 8.62395 7.1531 0Z"/>
-  <path id="korka" transform="translate(4.13129, 5.31814)" fill="none" stroke="#ffffff" stroke-width="1.68768008907" stroke-linecap="butt" stroke-linejoin="bevel" d="M5.99032 0C-0.135245 4.77481 -3.80842 19.0786 6.33867 31.0341C13.7624 40.6456 33.2441 39.6203 38.8427 30.4506"/>
+  <path id="mandarin" transform="translate(4.00394, 4.00394)" fill="#ff7f45" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="1.98425543308" d="M6.76299 0.144866C7.35135 -0.258342 8.75321 0.170574 9.37152 1.5518C9.40764 1.63232 10.2814 3.51099 10.2961 3.54567C10.8207 4.91825 12.9169 12.2148 19.5449 19.063C26.1728 25.9111 33.2238 27.6037 35.6536 28.4194C35.7088 28.4247 36.8373 28.8894 37.6387 29.1971C39.1522 29.9513 40.388 30.9926 39.8933 32.0449C35.5854 41.2084 15.311 43.1217 7.36415 34.2839C-1.43294 25.4209 -3.20166 6.97368 6.76299 0.144866Z"/>
+  <path id="korka" transform="translate(7.72953, 6.53106)" fill="none" stroke="#ffffff" stroke-width="2.32547646957" stroke-linecap="butt" stroke-linejoin="bevel" d="M6.11375 0C0.124965 2.91806 -3.56535 17.0574 5.23252 28.356C12.0463 37.1063 30.1615 33.9938 32.92 26.2697"/>
  </g>
 </svg>
