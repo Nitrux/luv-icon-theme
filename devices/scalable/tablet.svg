@@ -5,7 +5,7 @@
 <defs/>
 <g id="layer1">
   <path id="shape0" transform="translate(1.98848, 4.97297)" fill="#333333" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0.0104918 36.7939C0.192959 36.8123 43.3731 36.798 43.8494 36.688L43.7169 0.105792C43.1148 -0.00793008 0.133975 0.0317117 0 0Z"/>
-  <path id="shape1" transform="translate(4.12641, 7.80736)" fill="#2480ff" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 30.395L39.4899 30.3106L39.3803 0.0844306Z"/>
+  <path id="shape1" transform="translate(4.12641, 7.80736)" fill="#2980B9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 30.395L39.4899 30.3106L39.3803 0.0844306Z"/>
   <path id="shape11" transform="translate(4.11932, 35.3525)" fill="#000000" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 2.85658L39.5071 2.79888L39.5329 0.0577087Z"/>
   <path id="shape12" transform="translate(4.10811, 7.79268)" fill="#000000" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 1.2732L39.4008 1.26338L39.4266 0.0462701Z"/>
  </g>
