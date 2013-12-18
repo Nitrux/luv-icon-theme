@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer0">
+  <path id="shape0" transform="matrix(1 0 0 1 14.038 26.5051)" fill="none" stroke="#e6e6e6" stroke-width="2.48031925750" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M19.8983 6.9437C17.9024 2.80639 14.2101 0.17979 10.1498 0.00886831C6.08951 -0.162053 2.24523 2.14729 1.11022e-15 6.10606"/>
+  <path id="shape1" transform="matrix(1 0 0 1 18.3843 31.9922)" fill="none" stroke="#e6e6e6" stroke-width="2.48031925750" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M10.9907 3.54044C9.76796 1.3962 7.75507 0.080678 5.57891 0.00358328C3.40274 -0.0735114 1.32769 1.09719 0 3.15108"/>
+  <path id="shape2" transform="matrix(1 0 0 1 9.65447 20.5215)" fill="none" stroke="#e6e6e6" stroke-width="2.48031925750" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M28.6803 11.2061C26.0839 4.61996 20.7022 0.314778 14.693 0.0165254C8.68374 -0.281727 3.03063 3.47578 0 9.78265"/>
+  <path id="shape3" transform="matrix(1 0 0 1 5.0819 14.5057)" fill="none" stroke="#e6e6e6" stroke-width="2.48031925750" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M38.1491 15.6216C34.9517 6.53013 27.7456 0.467726 19.6112 0.0258318C11.4768 -0.416062 3.85348 4.84075 0 13.5492"/>
+  <path id="shape4" transform="matrix(1 0 0 1 20.372 35.6004)" fill="#e6e6e6" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M7.07882 3.30782C6.95025 1.37816 5.29815 -0.0919741 3.36662 0.0044875C1.43508 0.100949 -0.0623257 1.72837 0.00199689 3.66124C0.0663195 5.59411 1.66861 7.11838 3.60228 7.08621C5.53596 7.05405 7.08666 5.47733 7.08666 3.54339"/>
+ </g>
+</svg>
