@@ -3,23 +3,21 @@ Flattr icon theme
 
 Flattr is an icon theme for GTK based desktops the set is inspired by the latest flat design trend.
 
-Icons are licensed under the Creative Commons License (CC BY-NC-SA 3.0).
+Icons are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 
 You are **free** to:
 
-*to Share — to copy, distribute and transmit the work*
+*to Share — copy and redistribute the material in any medium or format*
 
-*to Remix — to adapt the work*
+*to Remix — remix, transform, and build upon the material*
 
 Under the following conditions:
 
-**Attribution** — You must attribute the work in the manner specified by the author or 
-licensor (but not in any way that suggests that they endorse you or your use of the work).
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-**Noncommercial** — You may not use this work for commercial purposes.
+**Noncommercial** — You may not use the material for commercial purposes.
 
-**Share Alike** — If you alter, transform, or build upon this work, you may distribute 
-the resulting work only under the same or similar license to this one.
+**Share Alike** —  If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 
 Help add more icons!
