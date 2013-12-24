@@ -4,40 +4,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <rect id="rect907" transform="translate(1.87879, 2.21212)" fill="#bfbfbf" width="30.64242424242pt" height="23.67823077345pt"/>
-  <rect id="rect920" transform="translate(1.87879, 2.21212)" fill="#37353a" width="30.64241658182pt" height="2.78567543762pt"/>
-  <rect id="rect914" transform="matrix(1 0 0 1 5.36088 9.17631)" fill="none" width="3.36032810584pt" height="2.47603145581pt"/>
+  <rect id="rect907" transform="translate(1.87879, 2.21212)" fill="#4c4c4c" width="30.64242424242pt" height="23.67823077345pt"/>
+  <rect id="rect914" transform="translate(5.36088, 9.17631)" fill="none" width="3.36032810584pt" height="2.47603145581pt"/>
   <path id="path3290" transform="translate(6, 20.3114)" fill="none" d="M0 0"/>
-  <path id="path3292" transform="matrix(1 0 0 1 5.36088 7.43526)" fill="none" d="M0 0"/>
+  <path id="path3292" transform="translate(5.36088, 7.43526)" fill="none" d="M0 0"/>
   <path id="path3294" transform="translate(9.41258, 20)" fill="none" d="M0 0"/>
   <path id="path3296" transform="translate(9.41258, 26)" fill="none" d="M0 0"/>
-  <rect id="rect825" transform="matrix(1 0 0 1 30.7901 2.91098)" fill="#ffffff" width="1.66744612135pt" height="1.66744612135pt"/>
-  <rect id="rect827" transform="matrix(1 0 0 1 34.6154 2.91098)" fill="#ffffff" width="1.66744612135pt" height="1.66744612135pt"/>
-  <path id="path3303" transform="matrix(1 0 0 1 40.1818 3.95317)" fill="none" d="M0 0"/>
-  <path id="path3305" transform="matrix(1 0 0 1 34.6154 3.95317)" fill="none" d="M0 0"/>
-  <path id="path3307" transform="matrix(1 0 0 1 30.79 3.95317)" fill="none" d="M0 0"/>
-  <rect id="rect3309" transform="matrix(1 0 0 1 26.9647 2.91098)" fill="#ffffff" width="1.66744612135pt" height="1.66744612135pt"/>
+  <path id="path3303" transform="translate(40.1818, 3.95317)" fill="none" d="M0 0"/>
+  <path id="path3305" transform="translate(34.6154, 3.95317)" fill="none" d="M0 0"/>
+  <path id="path3307" transform="translate(30.79, 3.95317)" fill="none" d="M0 0"/>
   <path id="path3311" transform="translate(27.5, 44.5)" fill="none" d="M0 0"/>
   <path id="path3313" transform="translate(27.5, 3.5)" fill="none" d="M0 0"/>
   <path id="path3315" transform="translate(2, 24)" fill="none" d="M0 0"/>
-  <path id="path3317" transform="matrix(1 0 0 1 22.3514 14.1937)" fill="none" d="M0 0"/>
-  <rect id="rect9071" transform="translate(7.51516, 11.2424)" fill="#2980b9" stroke="#00fff0" stroke-width="0.63779638050" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="30.88484528485pt" height="23.86555607583pt"/>
-  <rect id="rect9201" transform="translate(7.81818, 11.3939)" fill="#37353a" width="30.40000000000pt" height="2.65124686662pt"/>
+  <path id="path3317" transform="translate(22.3514, 14.1937)" fill="none" d="M0 0"/>
+  <rect id="rect9071" transform="translate(7.51182, 11.2323)" fill="#737373" stroke="#00daae" stroke-width="0.35433132250" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="30.88484528485pt" height="23.86555607583pt"/>
   <rect id="rect9141" transform="translate(35.0909, 28.6364)" fill="none" width="3.86012304000pt" height="2.84430144000pt"/>
   <path id="path32901" transform="translate(35.0909, 33.9478)" fill="none" d="M0 0"/>
   <path id="path32921" transform="translate(35.0909, 26.6364)" fill="none" d="M0 0"/>
   <path id="path32941" transform="translate(38.5035, 33.6364)" fill="none" d="M0 0"/>
   <path id="path32961" transform="translate(38.5035, 39.6364)" fill="none" d="M0 0"/>
-  <rect id="rect8251" transform="matrix(1 0 0 1 36.6551 11.9468)" fill="#ffffff" width="1.68063776780pt" height="1.68063776780pt"/>
-  <rect id="rect8271" transform="matrix(1 0 0 1 40.5108 11.9468)" fill="#ffffff" width="1.68063776780pt" height="1.68063776780pt"/>
   <path id="path33031" transform="translate(75.0909, 22.6364)" fill="none" d="M0 0"/>
   <path id="path33051" transform="translate(68.6966, 22.6364)" fill="none" d="M0 0"/>
   <path id="path33071" transform="translate(64.3023, 22.6364)" fill="none" d="M0 0"/>
-  <rect id="rect33091" transform="matrix(1 0 0 1 32.7995 11.9468)" fill="#ffffff" width="1.68063776780pt" height="1.68063776780pt"/>
   <path id="path33151" transform="translate(31.0909, 37.6364)" fill="none" d="M0 0"/>
   <path id="path33171" transform="translate(77.0909, 37.6364)" fill="none" d="M0 0"/>
-  <rect id="rect3369" transform="matrix(1 0 0 1 11.0248 18.2617)" fill="#1abc9c" width="4.21157057731pt" height="2.80771371821pt"/>
-  <rect id="rect3453" transform="matrix(1 0 0 1 11.0248 23.5262)" fill="#1abc9c" width="4.21157057731pt" height="2.80771371821pt"/>
-  <rect id="rect3455" transform="matrix(1 0 0 1 11.0248 28.7906)" fill="#1abc9c" width="4.21157057731pt" height="2.80771371821pt"/>
+  <rect id="rect9071" transform="translate(42.2803, 12.4863)" fill="#00daae" width="2.10345926297pt" height="2.26012242922pt"/>
+  <rect id="rect9072" transform="translate(38.0663, 12.5026)" fill="#00daae" width="2.10345926298pt" height="2.26012242922pt"/>
+  <rect id="rect9073" transform="translate(33.8803, 12.5026)" fill="#00daae" width="2.10345926298pt" height="2.26012242922pt"/>
+  <rect id="rect9074" transform="translate(36.4949, 3.29126)" fill="#8c8c8c" width="2.04329118043pt" height="2.19547309881pt"/>
+  <rect id="rect9075" transform="translate(32.4014, 3.30707)" fill="#8c8c8c" width="2.04329118043pt" height="2.19547309881pt"/>
+  <rect id="rect9076" transform="translate(28.3351, 3.30707)" fill="#8c8c8c" width="2.04329118043pt" height="2.19547309881pt"/>
  </g>
 </svg>

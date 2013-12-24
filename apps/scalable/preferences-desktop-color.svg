@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="shape0" transform="translate(12.1894, 5.66157)" fill="#fffb00" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M24.5435 10.8707C23.7625 4.2567 17.8644 -0.537824 11.2303 0.0485103C4.59617 0.634844 -0.369565 6.38952 0.021606 13.038C0.412777 19.6865 6.01908 24.8192 12.6762 24.6235C19.3333 24.4278 24.6285 18.9747 24.6285 12.3148"/>
+  <path id="shape1" transform="translate(19.4928, 19.0684)" fill="#0059fe" fill-opacity="0.65490196078" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M24.5435 10.8707C23.7625 4.2567 17.8644 -0.537824 11.2303 0.0485103C4.59617 0.634844 -0.369565 6.38952 0.021606 13.038C0.412777 19.6865 6.01908 24.8192 12.6762 24.6235C19.3333 24.4278 24.6285 18.9747 24.6285 12.3148"/>
+  <path id="shape2" transform="translate(3.96192, 19.116)" fill="#ff3328" fill-opacity="0.80000000000" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M24.5435 10.8707C23.7625 4.2567 17.8644 -0.537824 11.2303 0.0485103C4.59617 0.634844 -0.369565 6.38952 0.021606 13.038C0.412777 19.6865 6.01908 24.8192 12.6762 24.6235C19.3333 24.4278 24.6285 18.9747 24.6285 12.3148"/>
+ </g>
+</svg>
