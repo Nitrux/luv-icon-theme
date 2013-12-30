@@ -4,7 +4,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <rect id="rect3282" transform="matrix(3.54331 0 0 3.54331 6.54548 23.0303)" fill="#00da68" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="7.90905189230pt" height="4.72079239938pt"/>
-  <path id="shape0" transform="translate(7.02977, 4.78788)" fill="none" stroke="#4c4c4c" stroke-width="4.36748788114" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M0.0464799 38.5455L33.9622 38.5455L33.8626 8.72727L26.4248 8.66667L26.3642 0.121212L7.51568 0L7.48373 8.60606L0 8.60606Z"/>
+  <rect id="rect3282" transform="matrix(3.54331 0 0 3.54331 13.3668 19.5038)" fill="#00da68" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="4.82884589468pt" height="5.51699764964pt"/>
+  <path id="shape0" transform="translate(13.6544, 4.78788)" fill="none" stroke="#4c4c4c" stroke-width="3.10890302361" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M0.0364643 38.5455L20.7436 38.5455L20.6747 4.9944L16.1336 4.9338L16.1047 0.121212L4.59676 0L4.56917 4.87319L0 4.87319Z"/>
  </g>
 </svg>
