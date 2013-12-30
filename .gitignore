@@ -1,0 +1,4 @@
+# Compiled source #
+###################
+*.directory
+*.bak
