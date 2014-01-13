@@ -1,9 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <path id="shape0" transform="matrix(0.995721 -0.092408 0.092408 0.995721 3.02188 10.4563)" fill="#00a3e0" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0.000458756 15.6465C-0.0571252 9.12601 5.30675 1.36727 15.8521 0.171771C26.3974 -1.02372 39.4818 4.09266 39.6569 13.2861C39.8319 22.4795 32.3507 28.6124 24.0891 30.395C23.9679 31.025 17.2018 36.9409 16.7328 37.1956C16.8213 36.7507 17.8765 31.9185 18.0695 30.9328C3.96646 31.4403 0.0580427 22.167 0.000458756 15.6465Z"/>
- </g>
-</svg>
+./empathy.svg
