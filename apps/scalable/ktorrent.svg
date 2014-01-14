@@ -4,16 +4,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <rect id="rect3359" transform="translate(12.5238, 15.0372)" fill="#6dbeff" fill-rule="evenodd" width="18.01027823838pt" height="8.09378430380pt"/>
-  <path id="path3361" transform="translate(3.70633, 23.8785)" fill="#6dbeff" fill-rule="evenodd" d="M20.1203 19.8684L0 0L40.2409 0Z"/>
-  <rect id="rect33591" transform="translate(25.0047, 10.0038)" fill="#6dbeff" fill-rule="evenodd" width="6.03270318787pt" height="4.37468354430pt"/>
-  <rect id="rect33592" transform="translate(12.5024, 7.53418)" fill="#6dbeff" fill-rule="evenodd" width="6.01488299946pt" height="6.51341772152pt"/>
-  <rect id="rect33593" transform="translate(15.0157, 5.04304)" fill="#6dbeff" fill-rule="evenodd" width="3.98700815964pt" height="2.52759493671pt"/>
-  <rect id="rect33594" transform="translate(25.0203, 7.57714)" fill="#6dbeff" fill-rule="evenodd" width="1.96860759494pt" height="2.47898734177pt"/>
-  <rect id="rect33595" transform="translate(30.0608, 3.85823)" fill="#6dbeff" fill-rule="evenodd" width="1.96860759494pt" height="5.27392405063pt"/>
-  <rect id="rect33596" transform="translate(19.5699, 12.5024)" fill="#6dbeff" fill-rule="evenodd" width="2.34108084672pt" height="2.33645592850pt"/>
-  <rect id="rect33597" transform="translate(14.9924, 2.52152)" fill="#6dbeff" fill-rule="evenodd" width="1.96860759494pt" height="2.47898734177pt"/>
-  <rect id="rect33598" transform="translate(19.9291, 2.50894)" fill="#6dbeff" fill-rule="evenodd" width="2.05307645570pt" height="3.99797468354pt"/>
-  <rect id="rect33599" transform="translate(32.4911, 6.31139)" fill="#6dbeff" fill-rule="evenodd" width="1.98488724509pt" height="3.94329113924pt"/>
+  <path id="rect3359" transform="translate(3.71875, 2.5)" fill="#6dbeff" fill-rule="evenodd" d="M16.2188 0L16.2188 2.53125L13.75 2.53125L13.75 0.03125L11.2812 0.03125L11.3125 5.03125L8.78125 5.03125L8.8125 21.375L0 21.375L20.0938 41.25L40.2188 21.375L31.3125 21.375L31.3125 12.5312L28.8125 12.5312L28.8125 8.75L31.25 8.75L31.25 3.8125L28.8125 3.8125L28.8125 1.34375L26.3438 1.34375L26.3438 7.5L23.75 7.5L23.75 5.0625L21.3125 5.0625L21.2812 12.5312L18.7812 12.5312L18.7812 10L16.3125 10L16.3125 5.03125L16.2812 5.03125L16.2812 5L18.7812 5L18.7812 0Z"/>
  </g>
 </svg>
