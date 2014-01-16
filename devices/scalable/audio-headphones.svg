@@ -4,8 +4,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="translate(5.44045, 4.80101)" fill="none" stroke="#4c4c4c" stroke-width="3.73358914518" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M35.5936 25.0761C39.0035 15.2433 34.9005 7.33808 28.6614 3.16816C22.4222 -1.00176 14.1251 -1.06017 7.82188 3.02144C1.51867 7.10306 -1.9927 14.6991 1.19901 24.6615"/>
-  <path id="shape1" transform="matrix(0.997291 0.0741882 -0.0490475 0.99882 12.2812 24.1341)" fill="none" stroke="#4c4c4c" stroke-width="5.59843489550" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L2.48054 10.1233"/>
-  <path id="shape2" transform="matrix(-1 0 0 1 35.3872 25.0281)" fill="none" stroke="#4c4c4c" stroke-width="5.59843489550" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L1.98536 9.69302"/>
+  <path id="shape0" transform="translate(6.46498, 4.80101)" fill="none" stroke="#635a4f" stroke-width="3.72047888625" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M33.6131 25.0761C36.8333 15.2433 32.9586 7.33808 27.0667 3.16816C21.1746 -1.00176 13.3392 -1.06017 7.38666 3.02144C1.43417 7.10306 -1.88183 14.6991 1.13229 24.6615"/>
+  <path id="shape1" transform="matrix(0.997291 0.0741882 -0.0490475 0.99882 12.2812 24.1341)" fill="none" stroke="#001424" stroke-width="5.59843489550" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L2.48054 10.1233"/>
+  <path id="shape2" transform="matrix(-1 0 0 1 35.3872 25.0281)" fill="none" stroke="#001424" stroke-width="5.59843489550" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L1.98536 9.69302"/>
+  <path id="shape01" transform="matrix(0.213788 -0.97688 0.97688 0.213788 35.7716 35.9044)" fill="#635a4f" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M0 0.0487904C0.0243016 3.49564 2.56453 6.27189 5.68175 6.25846C8.79897 6.24502 11.3196 3.44695 11.3196 -1.10127e-17"/>
+  <path id="shape11" transform="matrix(-0.213788 -0.97688 -0.97688 0.213788 11.8813 35.0611)" fill="#635a4f" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0.0487904C0.0243016 3.49564 2.56453 6.27189 5.68175 6.25846C8.79897 6.24502 11.3196 3.44695 11.3196 4.22668e-16"/>
  </g>
 </svg>
