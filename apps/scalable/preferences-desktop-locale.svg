@@ -4,10 +4,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="matrix(1 0 0 1 8.56077 6.06641)" fill="none" stroke="#4c4c4c" stroke-width="1.86484575032" stroke-linecap="square" stroke-linejoin="bevel" d="M0 25.7428L27.8909 0"/>
-  <path id="shape1" transform="matrix(1 0 0 1 9.77191 7.35423)" fill="none" stroke="#4c4c4c" stroke-width="1.86484575032" stroke-linecap="square" stroke-linejoin="bevel" d="M0 23.7119C16.9974 40.8072 41.8524 17.6651 26.4729 0"/>
-  <path id="shape2" transform="matrix(1 0 0 1 8.08043 4.57087)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M29.446 14.1252C29.1886 6.11706 22.4606 -0.187003 14.3753 0.00423846C6.28993 0.19548 -0.126798 6.81046 0.00190261 14.8217C0.130604 22.8328 6.75657 29.2422 14.8439 29.1785C22.9313 29.1147 29.4534 22.6017 29.4534 14.5895"/>
-  <path id="shape3" transform="matrix(1 0 0 1 14.105 40.7131)" fill="#4c4c4c" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M0 3.79578L21.857 3.86182C14.2842 -1.72617 7.04702 -0.808651 0 3.79578Z"/>
-  <path id="shape4" transform="matrix(1 0 0 1 25.1978 37.9678)" fill="none" stroke="#4c4c4c" stroke-width="1.86484575032" stroke-linecap="square" stroke-linejoin="bevel" d="M0 2.42008L0 0"/>
+  <path id="shape0" transform="translate(8.56077, 6.06641)" fill="none" stroke="#34495e" stroke-width="1.87795600925" stroke-linecap="square" stroke-linejoin="bevel" d="M0 25.7428L27.8909 0"/>
+  <path id="shape1" transform="translate(9.77191, 7.35423)" fill="none" stroke="#34495e" stroke-width="1.87795600925" stroke-linecap="square" stroke-linejoin="bevel" d="M0 23.7119C16.9974 40.8072 41.8524 17.6651 26.4729 0"/>
+  <path id="shape2" transform="translate(8.08043, 4.57087)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M29.446 14.1252C29.1886 6.11706 22.4606 -0.187003 14.3753 0.00423846C6.28993 0.19548 -0.126798 6.81046 0.00190261 14.8217C0.130604 22.8328 6.75657 29.2422 14.8439 29.1785C22.9313 29.1147 29.4534 22.6017 29.4534 14.5895"/>
+  <path id="shape3" transform="translate(14.105, 40.7131)" fill="#34495e" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M0 3.79578L21.857 3.86182C14.2842 -1.72617 7.04702 -0.80865 0 3.79578Z"/>
+  <path id="shape4" transform="translate(25.1978, 37.9678)" fill="none" stroke="#34495e" stroke-width="1.87795600925" stroke-linecap="square" stroke-linejoin="bevel" d="M0 2.42008L0 0"/>
  </g>
 </svg>

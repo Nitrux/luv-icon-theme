@@ -4,7 +4,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="translate(5.84925, 6.39196)" fill="#ff8800" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 37.4472L36.3618 37.3869L36.3105 32.4422L31.1232 31.2362L20.3893 0L16.0752 0.0603015C12.4973 10.8744 9.022 20.4221 5.444 31.2362L0.102717 32.4422Z"/>
+  <path id="shape0" transform="translate(5.84925, 6.39196)" fill="#ff9e22" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 37.4472L36.3618 37.3869L36.3105 32.4422L31.1232 31.2362L20.3893 0L16.0752 0.0603015C12.4973 10.8744 9.022 20.4221 5.444 31.2362L0.102717 32.4422Z"/>
   <path id="shape1" transform="translate(12.3641, 27.5064)" fill="#f5f5f5" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 6.84658L23.5189 6.86441C23.4886 6.79487 21.8676 2.09045 21.1315 0L2.34229 0Z"/>
   <path id="shape2" transform="translate(17.3062, 13.7574)" fill="#f5f5f5" fill-rule="evenodd" stroke="#ff6600" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 6.24877L13.6183 6.24877L11.4722 0L2.1533 0Z"/>
  </g>

@@ -4,9 +4,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="translate(1.98848, 4.97297)" fill="#333333" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0.0104918 36.7939C0.192959 36.8123 43.3731 36.798 43.8494 36.688L43.7169 0.105792C43.1148 -0.00793008 0.133975 0.0317117 0 0Z"/>
-  <path id="shape1" transform="translate(4.12641, 7.80736)" fill="#2980B9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 30.395L39.4899 30.3106L39.3803 0.0844306Z"/>
-  <path id="shape11" transform="translate(4.11932, 35.3525)" fill="#000000" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 2.85658L39.5071 2.79888L39.5329 0.0577087Z"/>
-  <path id="shape12" transform="translate(4.10811, 7.79268)" fill="#000000" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 1.2732L39.4008 1.26338L39.4266 0.0462701Z"/>
+  <rect id="shape0" transform="translate(1.88354, 5.04304)" fill="#34495e" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="35.14329113924pt" height="28.00910541497pt" rx="2.93155439456pt" ry="2.93155439456pt"/>
+  <path id="shape1" transform="translate(5.8723, 9.43493)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 26.3686L35.9997 26.2954L35.8998 0.0732461Z"/>
+  <path id="shape11" transform="translate(5.86583, 33.2742)" fill="#001424" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 2.53533L36.0154 2.48412L36.0389 0.0512188Z"/>
+  <path id="shape12" transform="translate(5.85562, 9.15256)" fill="#001424" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 1.75077L35.9184 1.73727L35.942 0.0636257Z"/>
  </g>
 </svg>

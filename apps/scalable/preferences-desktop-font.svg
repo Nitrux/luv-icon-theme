@@ -3,5 +3,10 @@
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
-<g id="layer1"/>
+<g id="layer1">
+  <rect id="shape0" transform="translate(4.42144, 4.61172)" fill="#de6143" fill-rule="evenodd" stroke="#de6143" stroke-width="1.87795600925" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" width="21.15882756846pt" height="2.02310273457pt"/>
+  <rect id="shape1" transform="translate(16.3659, 6.49442)" fill="#de6143" fill-rule="evenodd" stroke="#de6143" stroke-width="1.87795600925" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" width="2.02310273457pt" height="21.71818808658pt"/>
+  <rect id="shape2" transform="translate(17.5622, 15.0975)" fill="#34495e" fill-rule="evenodd" stroke="#34495e" stroke-width="1.87795600925" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" width="21.15882756846pt" height="2.02310273456pt"/>
+  <rect id="shape3" transform="translate(29.5066, 17.4204)" fill="#34495e" fill-rule="evenodd" stroke="#34495e" stroke-width="1.87795600925" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" width="2.03431114994pt" height="21.36601517719pt"/>
+ </g>
 </svg>
