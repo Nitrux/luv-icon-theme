@@ -4,6 +4,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="mandarin" transform="translate(4.05123, 3.81015)" fill="#ff9a5b" fill-rule="evenodd" stroke="#f2f2f2" stroke-width="1.24015962875" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="1.98425540600" d="M6.76396 0.351872C8.12287 -0.536591 8.67478 0.378729 9.32423 1.74559C9.6945 2.52485 12.8696 12.4086 19.4976 19.2568C26.1255 26.1049 36.8065 29.0456 37.5914 29.3909C39.1375 30.071 40.3407 31.1864 39.846 32.2387C35.5381 41.4022 15.4766 43.1143 7.31686 34.4777C-1.2565 25.4033 -3.34444 6.96081 6.76396 0.351872Z"/>
+  <path id="mandarin" transform="translate(1.58498, 1.33425)" fill="#ff9a5b" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="1.98425540600" d="M7.5989 0.395307C9.12556 -0.602828 9.7456 0.425479 10.4752 1.96107C10.8912 2.83652 14.4582 13.9403 21.9044 21.6339C29.3504 29.3273 41.3499 32.631 42.2317 33.0189C43.9686 33.783 45.3204 35.0361 44.7646 36.2183C39.9249 46.5129 17.387 48.4363 8.22005 38.7336C-1.4116 28.5391 -3.75728 7.82005 7.5989 0.395307Z"/>
  </g>
 </svg>
