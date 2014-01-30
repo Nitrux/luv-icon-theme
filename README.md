@@ -3,7 +3,8 @@ Flattr (icon theme)
 
 Flattr is an icon theme for GTK based desktops the set is inspired by the latest flat design trend.
 
-Icons are licensed under the Creative Commons License (CC BY-NC-SA 4.0). Check **LICENSE.txt** for more information.
+Icons are licensed under the Creative Commons License (CC BY-NC-SA 4.0). 
+* Check **LICENSE.txt** for more information.
 
 
 Help add more icons!
