@@ -25,7 +25,10 @@ the resulting work only under the same or similar license to this one.
 Help add more icons!
 -------------
 
-You are free to clone this public repository to 1)get the latest version and 2)add new icons:
+* You are free to clone this public repository to:
+
+  * Get the latest version 
+  * And to add new icons
 
 `git clone https://github.com/NitruxSA/flattr-icons.git`
 
