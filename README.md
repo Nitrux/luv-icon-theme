@@ -1,7 +1,7 @@
 Flattr (icon theme)
 ============
 
-Flattr is an icon theme Linux desktops, the set is inspired by the latest flat design trend.
+Flattr is an icon theme for Linux desktops, the set is inspired by the latest flat design trend.
 
 ![Flattr preview](http://store.nitrux.in/images/pic40.png "Flattr is a flat icon theme for Linux")
 
