@@ -1,10 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <path id="shape0" transform="matrix(1.06512e-15 1 -1 1.06512e-15 24.1206 5.43769)" fill="#595959" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M0.000116721 0C-0.0228359 6.50823 3.34079 12.5334 8.82126 15.8011C14.3017 19.0689 21.0644 19.0815 26.5563 15.8341C32.0483 12.5868 35.4331 6.57417 35.4331 0.0659004"/>
-  <path id="shape1" transform="matrix(0 1 1 0 24.0603 6.99497)" fill="none" stroke="#595959" stroke-width="3.12732825238" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M0.000106272 0C-0.0207917 6.17325 3.04174 11.8883 8.03163 14.9878C13.0215 18.0875 19.1788 18.0993 24.1791 15.0191C29.1795 11.939 32.2613 6.23579 32.2613 0.0625085"/>
- </g>
-</svg>
+preferences-desktop-screensaver.svg
