@@ -6,7 +6,7 @@
 #shape color again, you must replace the original value with the new value and run it again. 
 
 backColor=34495d
-frontColor=e67e22
+frontColor=1abc9c
 paperColor=ffffff
 shapeColorOriginal=34495e
 shapeColorNew=304050

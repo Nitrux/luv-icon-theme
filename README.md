@@ -1,17 +1,21 @@
-Flattr
+Flattr (icon theme)
 ============
 
-Flattr is an icon theme for GTK based desktops the set is inspired by the latest flat design trend.
+Flattr is an icon theme for Linux desktops, the set is inspired by the latest flat design trend.
 
-Icons are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+![Flattr preview](http://store.nitrux.in/images/pic40.png "Flattr is a flat icon theme for Linux")
 
-![Screenshot](http://store.nitrux.in/images/pic40.png)
+Icons are licensed under the Creative Commons License (CC BY-NC-SA 4.0). 
+* Check **LICENSE.txt** for more information.
 
 
 Help add more icons!
 -------------
 
-You are free to clone this public repository to 1)get the latest version and 2)add new icons:
+* You are free to clone this public repository to:
+
+  * Get the latest version 
+  * And to add new icons
 
 `git clone https://github.com/NitruxSA/flattr-icons.git`
 
