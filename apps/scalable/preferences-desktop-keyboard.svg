@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <rect id="shape1" transform="translate(32.6322, 9.80521)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="11.77176886053pt" height="11.77176886053pt"/>
+  <rect id="shape11" transform="translate(16.7972, 9.80521)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="11.77176886053pt" height="11.77176886053pt"/>
+  <rect id="shape12" transform="translate(0.789649, 9.7979)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="11.77176886055pt" height="11.77176886055pt"/>
+  <text id="shape0" fill="#f2f2f2" font-family="Droid Sans" font-size="10.00000000000pt" text-anchor="middle" x="3.09375000000pt" y="7.25000000000pt" transform="matrix(0.909703 0 0 0.909703 4.11887 12.544)"><tspan x="-3.86719"  y="9.0625">Q</tspan></text>
+  <text id="shape01" fill="#f2f2f2" font-family="Droid Sans" font-size="10.00000000000pt" text-anchor="middle" x="4.32031250000pt" y="7.14062500000pt" transform="matrix(0.909703 0 0 0.909703 19.3604 13.1483)"><tspan x="-5.40039"  y="8.92578">W</tspan></text>
+  <text id="shape011" fill="#f2f2f2" font-family="Droid Sans" font-size="11.00000000000pt" text-anchor="middle" x="2.64843750000pt" y="7.85937500000pt" transform="matrix(0.909703 0 0 0.909703 37.2816 12.785)"><tspan x="-3.31055"  y="9.82422">R</tspan></text>
+  <rect id="shape14" transform="translate(24.8605, 25.6229)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="11.77176886055pt" height="11.77176886055pt"/>
+  <rect id="shape15" transform="translate(8.85286, 25.6158)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="11.77176886055pt" height="11.77176886055pt"/>
+  <text id="shape02" fill="#f2f2f2" font-family="Droid Sans" font-size="10.00000000000pt" text-anchor="middle" x="2.10937500000pt" y="7.23437500000pt" transform="matrix(0.909703 0 0 0.909703 29.8161 28.8269)"><tspan x="-2.63672"  y="9.04297">S</tspan></text>
+  <text id="shape03" fill="#f2f2f2" font-family="Droid Sans" font-size="10.00000000000pt" text-anchor="middle" x="3.03906250000pt" y="7.17187500000pt" transform="matrix(0.909703 0 0 0.909703 12.7595 28.9947)"><tspan x="-3.79883"  y="8.96484">A</tspan></text>
+ </g>
+</svg>
