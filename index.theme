@@ -70,7 +70,7 @@ Type=Fixed
 #corresponding icon, for example you download a DEB file you get a DEB MIME icon). 
 #Other software works fine with SVG files. 
 #
-#-------------------------------Note yet in Flattr--------------------------------
+#--------------------------------Not yet in Flattr--------------------------------
 #
 #[mimetypes/16]
 #Size=16
