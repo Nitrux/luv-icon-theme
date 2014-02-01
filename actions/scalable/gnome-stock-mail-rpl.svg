@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg18109"
+   version="1.1"
+   inkscape:version="0.48+devel r12662"
+   sodipodi:docname="mail_reply.svg">
+  <defs
+     id="defs18111" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.3528913"
+     inkscape:cx="30.357765"
+     inkscape:cy="30.129825"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="9,9.0000174"
+       orientation="0,30"
+       id="guide3264" />
+    <sodipodi:guide
+       position="39,9.0000174"
+       orientation="-30,0"
+       id="guide3266" />
+    <sodipodi:guide
+       position="39,39.000017"
+       orientation="0,-30"
+       id="guide3268" />
+    <sodipodi:guide
+       position="9,28.000017"
+       orientation="0,11"
+       id="guide3280" />
+    <sodipodi:guide
+       position="20,39.000017"
+       orientation="0,-11"
+       id="guide3284" />
+    <sodipodi:guide
+       position="9,39.000017"
+       orientation="11,0"
+       id="guide3275" />
+    <sodipodi:guide
+       position="13,28.000017"
+       orientation="-11,0"
+       id="guide3279" />
+    <sodipodi:guide
+       position="13,39.000017"
+       orientation="0,-4"
+       id="guide3281" />
+    <sodipodi:guide
+       position="20,32.000017"
+       orientation="0,-11"
+       id="guide3283" />
+    <sodipodi:guide
+       position="9,32.000017"
+       orientation="4,0"
+       id="guide3285" />
+    <sodipodi:guide
+       position="20,28.000017"
+       orientation="-4,0"
+       id="guide3289" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata18114">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 23.994141 9 C 20.066877 9.0002328 16.165567 10.617701 13.390625 13.394531 C 11.571188 15.215206 10.262416 17.522114 9.5683594 20 L 13.771484 20 C 14.322492 18.592007 15.14984 17.292294 16.21875 16.222656 C 18.253707 14.186314 21.114147 13.000171 23.994141 13 C 26.874134 12.999829 29.737836 14.18435 31.775391 16.220703 C 33.812945 18.257056 35 21.120118 35 24 C 35 26.879882 33.812945 29.742944 31.775391 31.779297 C 29.739216 33.81427 26.878019 34.998567 24 35 L 24 39 C 27.925286 38.998626 31.826415 37.382885 34.603516 34.607422 C 37.381999 31.830578 39 27.927112 39 24 C 39 20.072888 37.381999 16.169422 34.603516 13.392578 C 31.825033 10.615734 27.921404 8.9997672 23.994141 9 z "
+       transform="translate(0,1004.3622)"
+       id="path3270" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3274"
+       sodipodi:cx="23.998613"
+       sodipodi:cy="1041.3622"
+       sodipodi:rx="2.0013857"
+       sodipodi:ry="2.0000615"
+       d="m 25.999999,1041.3622 c 0,1.0472 -0.953629,2 -2.0009,2 -1.04727,-10e-5 -1.9991,-0.9529 -1.9991,-2 0,-1.0471 0.95183,-2 1.9991,-2 1.047271,-10e-5 2.0009,0.9528 2.0009,2 z" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4125"
+       width="4"
+       height="11"
+       x="9"
+       y="1013.3622" />
+    <rect
+       y="-20"
+       x="1020.3622"
+       height="11"
+       width="4"
+       id="rect4127"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+  </g>
+</svg>

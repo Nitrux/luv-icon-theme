@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="shape0" transform="translate(10.7412, 19.5776)" fill="#a8b2b8" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M0 0.13465C0.0402583 17.5517 4.75608 25.1541 13.6956 25.1837C22.6353 25.2133 27.248 17.4172 27.3185 0C21.8548 0.02693 12.7486 0.0718133 0 0.13465Z"/>
+  <path id="shape1" transform="matrix(1 -0.000535645 -0.000598519 -1 10.7902 20.6049)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M0 0.0127553C0.00352529 9.13184 2.69101 16.3804 13.5583 16.4178C24.4256 16.4551 27.2077 9.11872 27.2754 0"/>
+  <rect id="shape2" transform="matrix(-1 0 0 1 26.4381 8.77991)" fill="#34495e" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="3.26356674702pt" height="7.60637217123pt" rx="1.63178337350pt" ry="1.97418067822pt"/>
+  <rect id="shape3" transform="translate(23.8588, 4.19953)" fill="#34495e" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="0.85114623397pt" height="13.09404688608pt"/>
+  <rect id="shape4" transform="matrix(-1 0 0 1 25.592 10.2472)" fill="#f2f2f2" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="1.91762906611pt" height="5.33562345465pt" rx="0.95881453306pt" ry="1.38482373638pt"/>
+  <rect id="shape5" transform="matrix(0 -1 1 0 10.7399 21.423)" fill="#34495e" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="0.73570682770pt" height="21.83508125756pt"/>
+ </g>
+</svg>

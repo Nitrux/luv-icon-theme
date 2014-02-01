@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <rect id="shape0" transform="translate(4.00394, 2.12245)" fill="#c4cbcf" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="32.00320504820pt" height="33.50839786453pt"/>
+  <rect id="shape1" transform="translate(6.29116, 9.2155)" fill="#a8b2b8" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="28.75210601361pt" height="23.45208979592pt"/>
+  <rect id="shape3" transform="translate(7.83444, 12.147)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="10.73615304161pt" height="1.94966471246pt"/>
+  <rect id="shape4" transform="translate(27.503, 12.2728)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="10.73615304161pt" height="1.94966471246pt"/>
+  <rect id="shape7" transform="translate(7.88506, 21.0744)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="10.73615304161pt" height="1.94966471246pt"/>
+  <rect id="shape8" transform="translate(27.4447, 21.0914)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="10.73615304161pt" height="1.94966471246pt"/>
+  <rect id="shape9" transform="translate(7.90623, 25.6099)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="10.73615304161pt" height="1.94966471246pt"/>
+  <rect id="shape11" transform="translate(7.88506, 29.9408)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="10.73615304161pt" height="1.94966471246pt"/>
+  <rect id="shape31" transform="translate(7.83673, 16.6448)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="26.38367346939pt" height="1.94966471246pt"/>
+  <rect id="shape32" transform="matrix(1.11022e-16 1 -1 1.11022e-16 25.5392 4.8801)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="29.65222504982pt" height="1.94966471246pt"/>
+  <g id="Group" transform="translate(29.3598, 25.8817)" fill="none">
+   <path id="Triangle 295" transform="translate(-1.76956, -0.061054)" fill="#435564" fill-rule="evenodd" d="M0 0L8.87233 7.28013L5.55999 8.63909L7.88651 13.6502L5.91489 14.5603L3.55359 9.46225L0 10.9202ZM0 0"/>
+  </g>
+ </g>
+</svg>
