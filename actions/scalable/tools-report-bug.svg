@@ -1,1 +1,18 @@
-../../apps/scalable/kbugbuster.svg
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="body" transform="translate(14.291, 9.04388)" fill="#4d4d4d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M20.8491 12.5786C19.9445 4.64225 14.8152 -0.85983 9.22617 0.110965C3.63715 1.08176 -0.419151 8.17936 0.034632 16.194C0.488415 24.2087 5.29052 30.2833 10.9161 29.959C16.5418 29.6347 20.9854 23.0271 20.9854 14.9863"/>
+  <rect id="actionrect" transform="translate(9.84422, 9)" fill="none" width="24.00000000000pt" height="24.00000000000pt"/>
+  <rect id="leg6" transform="matrix(1 0 0 -1 9.86014 26.1469)" fill="#4d4d4d" fill-rule="evenodd" width="3.94834563149pt" height="3.20000000000pt"/>
+  <rect id="leg5" transform="matrix(0.96441 -0.264412 -0.264412 -0.96441 11.3007 32.9214)" fill="#4d4d4d" fill-rule="evenodd" width="3.94834563149pt" height="3.20000000000pt"/>
+  <rect id="leg4" transform="matrix(0.950874 0.309579 0.309579 -0.950874 10.2258 19.2819)" fill="#4d4d4d" fill-rule="evenodd" width="3.94834563149pt" height="3.20000000000pt"/>
+  <path id="wing2" transform="matrix(-1 0 0 1 24.0603 16.3096)" fill="#e74c3c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M1.95356e-15 3.70291C4.41266 3.70184 7.02718 1.06382 8.24101 0C9.93717 3.44582 10.4406 9.55758 8.774 14.2843C7.10739 19.011 3.96219 22.2585 0 22.7003"/>
+  <rect id="leg3" transform="matrix(-1 0 0 -1 39.8422 26.1086)" fill="#4d4d4d" fill-rule="evenodd" width="3.94834563149pt" height="3.20000000000pt"/>
+  <rect id="leg2" transform="matrix(-0.96441 -0.264412 0.264412 -0.96441 38.4016 32.8831)" fill="#4d4d4d" fill-rule="evenodd" width="3.94834563149pt" height="3.20000000000pt"/>
+  <rect id="leg1" transform="matrix(-0.950874 0.309579 -0.309579 -0.950874 39.4766 19.2436)" fill="#4d4d4d" fill-rule="evenodd" width="3.94834563149pt" height="3.20000000000pt"/>
+  <path id="wing" transform="matrix(-1 0 0 1 35.2898 16.1817)" fill="#e74c3c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M9.74457 3.8233C5.28773 3.8223 2.39562 0.645804 1.62583 0C-0.228263 3.68742 -0.61863 9.79834 1.09283 14.5188C2.80427 19.2393 6.00826 22.6051 9.74867 22.7695"/>
+ </g>
+</svg>

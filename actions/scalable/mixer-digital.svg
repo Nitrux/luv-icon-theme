@@ -1,1 +1,13 @@
-../../devices/scalable/audio-input-line.svg
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <rect id="rect3264" transform="translate(9, 9)" fill="none" width="24.00000000000pt" height="24.00000000000pt"/>
+  <rect id="shape0" transform="translate(14.8459, 9.09527)" fill="#4d4d4d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" width="2.90031978072pt" height="23.93584557950pt"/>
+  <rect id="shape1" transform="translate(9.04523, 14.1577)" fill="#4d4d4d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="11.96381909548pt" height="7.10194450513pt" rx="0.20345204282pt" ry="0.20345204282pt"/>
+  <rect id="shape2" transform="matrix(1 0 0 -1 29.8862 38.8444)" fill="#4d4d4d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="2.88277752399pt" height="23.93584557951pt"/>
+  <rect id="shape3" transform="matrix(1 0 0 -1 24.1206 33.782)" fill="#4d4d4d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="11.89145728643pt" height="7.10194450513pt" rx="0.25169324885pt" ry="0.25169324885pt"/>
+ </g>
+</svg>
