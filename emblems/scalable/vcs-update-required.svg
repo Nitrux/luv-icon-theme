@@ -4,11 +4,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer0">
-  <rect id="rect3259" transform="translate(9, 9)" fill="none" width="24.00000000000pt" height="24.00000000000pt"/>
-  <path id="path3273" transform="translate(26, 37)" fill="none" d="M0 0"/>
-  <path id="path3304" transform="translate(9.01773, 9.01594)" fill="#2980b9" fill-rule="evenodd" d="M14.9941 3.34549e-07C11.0669 0.000233135 7.16556 1.6177 4.39062 4.39454C1.61569 7.17136 0 11.0733 0 15C0 18.9266 1.61569 22.8286 4.39062 25.6055C7.16556 28.3823 11.0669 29.9998 14.9941 30C18.9214 30.0003 22.825 28.3843 25.6035 25.6074C28.382 22.8306 30 18.9271 30 15L26 15C26 17.8799 24.813 20.743 22.7754 22.7793C20.7379 24.8156 17.8741 26.0001 14.9941 26C12.1142 25.9999 9.25371 24.8136 7.21875 22.7774C5.18379 20.741 4 17.8795 4 15C4 12.1204 5.18379 9.259 7.21875 7.22266C9.25371 5.18631 12.1142 4.00018 14.9941 4C14.9961 4 14.998 4 15 4L15 3.34549e-07C14.998 -3.65451e-07 14.9961 2.34549e-07 14.9941 3.34549e-07Z"/>
-  <rect id="rect3314" transform="matrix(-1 0 0 -1 23.388 28.488)" fill="#f1c40f" width="3.20000000000pt" height="8.80000000000pt"/>
-  <rect id="rect3320" transform="matrix(4.44089e-16 -1 -1 -4.44089e-16 30.388 28.488)" fill="#f1c40f" width="3.20000000000pt" height="8.80000000000pt"/>
-  <rect id="rect3282" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 36.9877 13.7168)" fill="#f1c40f" width="3.20000000000pt" height="16.71187754205pt"/>
+  <rect id="shape0" transform="translate(9.00002, 9.00002)" fill="#2c3e50" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" width="24.00949041260pt" height="24.00949041260pt"/>
+  <rect id="rect3314" transform="matrix(-1 0 0 -1 19.4727 32.5561)" fill="#f1c40f" width="3.20000000000pt" height="8.80000000000pt"/>
+  <rect id="rect3320" transform="matrix(0 -1 -1 0 26.4727 32.5561)" fill="#f1c40f" width="3.20000000000pt" height="8.80000000000pt"/>
+  <rect id="rect3282" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 33.0724 17.7849)" fill="#f1c40f" width="3.20000000000pt" height="16.71187754205pt"/>
  </g>
 </svg>

@@ -4,8 +4,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="matrix(0 -1 -1 0 44.008 44.008)" fill="#88c941" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0L16.2106 30.9471L0 40.004Z"/>
-  <path id="shape1" transform="matrix(0.905176 0.425037 0.425037 -0.905176 4.01013 44.1114)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0L18.6921 31.9263L3.05554 45.5157Z"/>
-  <path id="shape2" transform="matrix(0 -1 -1 0 43.9513 43.9763)" fill="#e74c3c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M39.8518 17.8725L0 0L9.34776 17.8855Z"/>
+  <path id="shape0" transform="matrix(0 -1 -1 0 44.008 44.008)" fill="#88c941" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0L11.2586 21.6485L0 40.004Z"/>
+  <path id="shape01" transform="matrix(-0.48602 -0.873948 0.873948 -0.48602 33.65 49.8562)" fill="#e74c3c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M39.5174 11.5434L17.9648 0L0 11.901Z"/>
+  <path id="shape02" transform="matrix(-0.469508 -0.882928 0.882928 -0.469508 4.08336 43.986)" fill="#3498db" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0L1.49394 24.3731L20.6289 34.2889Z"/>
  </g>
 </svg>
