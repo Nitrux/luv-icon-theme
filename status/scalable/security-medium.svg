@@ -4,9 +4,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shield" transform="translate(12.3866, 8.99241)" fill="#f1c40f" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M23.4317 9.6C23.4317 3.38771 18.1864 0 11.7159 0C5.24539 0 -1.68615e-14 3.38771 4.02284e-29 9.6C6.36065e-16 13.7415 3.9053 20.566 11.7159 30.0734C19.5265 20.566 23.4317 13.7415 23.4317 9.6Z"/>
-  <g id="sign" transform="translate(17.2883, 1.62771)" fill="none">
-   <path id="path336" transform="translate(4.76725, 11.5466)" fill="#f2f2f2" d="M4.22841 16.1608L0 16.1608L0 12.1205L4.22841 12.1205ZM4.22841 9.56327L0 9.56327L0 0L4.22841 0Z"/>
+  <path id="shield" transform="translate(12.6502, 9.00002)" fill="#f1c40f" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M23.5348 1.52649C14.8695 -0.752491 7.20575 -0.249703 0.00037816 1.52649C-0.0728412 19.7355 10.5094 26.4617 11.7676 26.4835C13.0258 26.5053 23.5563 19.6517 23.5348 1.52649Z"/>
+  <g id="sign" transform="translate(22.1677, 13.7659)" fill="none">
+   <path id="path336" transform="translate(0.0235117, -1.43725)" fill="#f2f2f2" d="M4.76786 16.072L0 16.072L0 12.054L4.76786 12.054ZM4.76786 9.51078L0 9.51078L0 0L4.76786 0Z"/>
   </g>
  </g>
 </svg>
