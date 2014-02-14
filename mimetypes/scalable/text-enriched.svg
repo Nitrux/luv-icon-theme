@@ -6,11 +6,11 @@
 <g id="layer1">
   <path id="rect4090" transform="translate(7, 4)" fill="#bdc3c7" d="M0 0L0 40L34 40L34 11L23 0Z"/>
   <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#ecf0f1" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
-  <rect id="line2" transform="translate(12.3094, 16.5316)" fill="#e67e22" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="18.68962025316pt" height="2.54486931516pt"/>
-  <rect id="line" transform="translate(12.3398, 10.1695)" fill="#c0392b" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="14.11380213465pt" height="2.54486931516pt"/>
-  <rect id="line21" transform="translate(12.3009, 22.8938)" fill="#f1c40f" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="18.68962025316pt" height="2.54486931516pt"/>
-  <rect id="line22" transform="translate(12.3448, 29.256)" fill="#27ae60" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="18.68962025316pt" height="2.54486931516pt"/>
-  <rect id="line23" transform="translate(12.3363, 35.6181)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="18.68962025316pt" height="2.54486931516pt"/>
+  <rect id="line2" transform="translate(12.3094, 16.5316)" fill="#f39c12" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="18.68962025316pt" height="2.54486931516pt"/>
+  <rect id="line" transform="translate(12.3398, 10.1695)" fill="#7f8c8d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="14.11380213465pt" height="2.54486931516pt"/>
+  <rect id="line21" transform="translate(12.3009, 22.8938)" fill="#7f8c8d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="18.68962025316pt" height="2.54486931516pt"/>
+  <rect id="line22" transform="translate(12.3448, 29.256)" fill="#c0392b" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="18.68962025316pt" height="2.54486931516pt"/>
+  <rect id="line23" transform="translate(12.3363, 35.6181)" fill="#7f8c8d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="18.68962025316pt" height="2.54486931516pt"/>
   <path id="path4252" transform="matrix(3.54331 0 0 3.54331 29.9999 15)" fill="#000000" fill-opacity="0.11764705882" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
  </g>
 </svg>
