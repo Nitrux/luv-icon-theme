@@ -5,7 +5,7 @@ Inherits=Flattr
 
 Example=x-directory-normal
 
-Directories=actions/scalable,actions/symbolic,apps/scalable,apps/small,categories/scalable,devices/scalable,devices/small,emblems/scalable,places/scalable,places/small,status/scalable
+Directories=actions/scalable,actions/symbolic,apps/scalable,apps/small,categories/scalable,devices/scalable,devices/small,emblems/scalable,places/scalable,places/small,status/scalable,mimetypes/scalable
 
 [actions/scalable]
 Size=96
@@ -92,12 +92,12 @@ Type=Fixed
 #Context=MimeTypes
 #Type=Fixed
 #
-#[mimetypes/scalable]
-#Size=512
-#Context=MimeTypes
-#Type=Scalable
-#MinSize=48
-#MaxSize=512
+[mimetypes/scalable]
+Size=512
+Context=MimeTypes
+Type=Scalable
+MinSize=48
+MaxSize=512
 
 [places/scalable]
 Size=96
