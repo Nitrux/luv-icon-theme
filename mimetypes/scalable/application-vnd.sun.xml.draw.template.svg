@@ -1,17 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <path id="rect4090" transform="matrix(1 0 0 1 7 4)" fill="#33cc99" d="M0 0L0 40L34 40L34 11L23 0Z"/>
-  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#5edbb1" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
-  <path id="path4252" transform="matrix(3.54331 0 0 3.54331 29.9999 15)" fill="#000000" fill-opacity="0.11764705882" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
-  <path id="rect4254" transform="matrix(1 0 0 1 15 29)" fill="#c7f1e2" d="M0 0L0 4L4 4L4 0ZM1 1L3 1L3 3L1 3Z"/>
-  <rect id="rect4281" transform="matrix(3.54331 0 0 3.54331 19 30.5)" fill="#c7f1e2" width="2.48354184000pt" height="0.22578124800pt" rx="0.00000005310pt" ry="0.00000005310pt"/>
-  <path id="path4283" transform="matrix(1 0 0 1 16 15)" fill="#c7f1e2" d="M0.300781 7.40741e-12C0.200436 0.00343148 0.10016 0.00864064 0 0.015625L0 1.00977C0.100185 1.0045 0.200465 1.00124 0.300781 1C4.44292 0.999994 7.80079 4.35786 7.80078 8.5C7.80023 11.6001 5.89237 14.3804 3 15.4961L3 16.5527C6.46259 15.3932 8.79765 12.1516 8.80078 8.5C8.80079 3.80558 4.9952 -6.13037e-06 0.300781 7.40741e-12Z"/>
-  <path id="path4288" transform="matrix(3.54331 0 0 3.54331 29 29)" fill="#c7f1e2" d="M0.564445 0C0.252713 -1.49127e-07 2.61229e-06 0.252708 0 0.56444C2.61229e-06 0.876172 0.252713 1.12888 0.564445 1.12888C0.876177 1.12888 1.12889 0.876172 1.12889 0.56444C1.12889 0.252708 0.876177 4.03154e-07 0.564445 0ZM0.564445 0.28222C0.720311 0.28222 0.846666 0.408574 0.846667 0.56444C0.846666 0.720306 0.720311 0.84666 0.564445 0.84666C0.408579 0.84666 0.282224 0.720306 0.282223 0.56444C0.282224 0.408574 0.408579 0.28222 0.564445 0.28222Z"/>
-  <rect id="rect4297" transform="matrix(3.54331 0 0 3.54331 16 15)" fill="#c7f1e2" width="3.16086160000pt" height="0.22578124800pt" rx="0.00000005310pt" ry="0.00000005310pt"/>
-  <rect id="shape01" transform="translate(7.01576, 4.00394)" fill="#f1c40f" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="5.10237104400pt" height="32.00320504820pt"/>
- </g>
-</svg>
+x-office-drawing.svg
