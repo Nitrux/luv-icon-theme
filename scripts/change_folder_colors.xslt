@@ -1,14 +1,14 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:s="http://www.w3.org/2000/svg" version="1.0">
-    <xsl:param name="backColor" select="'34495e'"/>
+    <xsl:param name="backColor" select="'34495d'"/>
     <xsl:param name="paperColor" select="'ffffff'"/>
-    <xsl:param name="frontColor" select="'c0392b'"/>
+    <xsl:param name="frontColor" select="'1abc9c'"/>
     <xsl:output indent="yes"/>
     <xsl:template match="@*|node()">
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="//s:rect[@id = 'rect4130']">
+    <xsl:template match="//s:rect[@id = 'folderTab']">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
             <xsl:attribute name="style">
@@ -16,7 +16,7 @@
             </xsl:attribute>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="//s:rect[@id = 'rect4128']">
+    <xsl:template match="//s:rect[@id = 'folderBackground']">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
             <xsl:attribute name="style">
@@ -24,7 +24,7 @@
             </xsl:attribute>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="//s:rect[@id = 'rect870']">
+    <xsl:template match="//s:rect[@id = 'folderPaper']">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
             <xsl:attribute name="style">
@@ -32,7 +32,7 @@
             </xsl:attribute>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="//s:rect[@id = 'rect821']">
+    <xsl:template match="//s:rect[@id = 'folderFront']">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
             <xsl:attribute name="style">

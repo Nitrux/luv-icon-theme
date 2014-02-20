@@ -14,7 +14,7 @@
    id="svg865"
    version="1.1"
    inkscape:version="0.49 r12742"
-   sodipodi:docname="folder-cyan.svg">
+   sodipodi:docname="folder-ubuntuone.svg">
   <defs
      id="defs867" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.181364"
-     inkscape:cx="17.228902"
-     inkscape:cy="20.267446"
+     inkscape:zoom="11.313709"
+     inkscape:cx="5.1077771"
+     inkscape:cy="24.157115"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
@@ -151,7 +151,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -159,24 +159,32 @@
      inkscape:groupmode="layer"
      id="folderLayer"
      inkscape:label="folder">
-    <path
-       inkscape:connector-curvature="0"
-       id="folderBack"
-       d="M 4,7 4,9 4,13 4,39 44,39 44,9 22,9 22,7 4,7 Z"
+    <rect
+       y="6.9996953"
+       x="4"
+       height="10"
+       width="18"
+       id="folderTab"
        style="fill:#34495d;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="folderPaper"
-       width="35.999992"
-       height="27.999756"
-       x="6"
-       y="10.9998" />
+       style="fill:#34495d;fill-opacity:1;stroke:none"
+       id="folderBackground"
+       width="40"
+       height="30"
+       x="4"
+       y="9" />
     <rect
        y="12.999983"
        x="2"
        height="28.000008"
        width="43.999996"
        id="folderFront"
-       style="fill:#00d9ff;fill-opacity:1;stroke:none" />
+       style="fill:#1abc9c;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#304050;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 15.900152,16.999987 0,9.5 0.02539,0 c -0.0082,0.166746 -0.02539,0.331151 -0.02539,0.5 0,5.54 2.659693,10 8.199693,10 l 6,0 2,0 0,-10 0,-0.5 0,-0.09961 0,-9.40039 -2,0 -3.399998,0 0,15 -4,0 0,-10.025391 -3.5,0 3.482422,-4.974609 z"
+       id="folderGlyph"
+       sodipodi:nodetypes="cccsscccccccccccccc" />
   </g>
 </svg>
