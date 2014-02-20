@@ -4,14 +4,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="rect4090" transform="translate(7, 4)" fill="#bdc3c7" d="M0 0L0 40L34 40L34 11L23 0Z"/>
-  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#ecf0f1" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
+  <path id="rect4090" transform="translate(7, 4)" fill="#ecf0f1" d="M0 0L0 40L34 40L34 11L23 0Z"/>
+  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#ffffff" opacity="0.50000000000" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
   <path id="path4252" transform="matrix(3.54331 0 0 3.54331 29.9999 15)" fill="#000000" fill-opacity="0.11764705882" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
-  <g id="layer1-8" transform="translate(8.42594, 13.8335)" fill="none">
-   <path id="rect3262" transform="translate(13.4264, 1.23483)" fill="#2c3e50" fill-rule="evenodd" d="M1.95976 2.84674e-09C2.98653 -5.95415e-05 3.92169 0.933991 3.92169 1.96053C3.92169 2.98708 2.98653 3.92113 1.95976 3.92109C0.932986 3.92104 0 2.98699 0 1.96053C0 0.93409 0.932986 5.95469e-05 1.95976 2.84674e-09Z"/>
-   <rect id="rect3274" transform="matrix(3.54331 0 0 3.54331 14.4898 9.74113)" fill="#2c3e50" fill-rule="evenodd" width="0.64027814059pt" height="2.88081353440pt"/>
-   <rect id="rect3276" transform="matrix(3.54331 0 0 3.54331 12.7174 20.3741)" fill="#2c3e50" fill-rule="evenodd" width="1.44062567453pt" height="0.48013561175pt"/>
-   <rect id="rect3278" transform="matrix(3.54331 0 0 3.54331 11.6539 9.74113)" fill="#2c3e50" fill-rule="evenodd" width="0.64027814059pt" height="0.32009041918pt"/>
+  <g id="layer1-8" transform="translate(17.8653, 18.0961)" fill="none">
+   <path id="rect3262" transform="translate(4.04207, -1.44303)" fill="#2c3e50" fill-rule="evenodd" d="M2.02057 2.48889e-09C3.07921 -5.20569e-05 4.04338 0.816585 4.04338 1.71408C4.04338 2.61159 3.07921 3.42823 2.02057 3.4282C0.961938 3.42815 0 2.61151 0 1.71408C0 0.816672 0.961938 5.20616e-05 2.02057 2.48889e-09Z"/>
+   <rect id="rect3274" transform="matrix(3.54331 0 0 3.54331 5.13847 5.99398)" fill="#2c3e50" fill-rule="evenodd" width="0.66014669466pt" height="2.51868516088pt"/>
+   <rect id="rect3276" transform="matrix(3.54331 0 0 3.54331 3.31107 15.2904)" fill="#2c3e50" fill-rule="evenodd" width="1.48532991679pt" height="0.41978087998pt"/>
+   <rect id="rect3278" transform="matrix(3.54331 0 0 3.54331 2.21457 5.99398)" fill="#2c3e50" fill-rule="evenodd" width="0.66014669466pt" height="0.27985392991pt"/>
   </g>
  </g>
 </svg>
