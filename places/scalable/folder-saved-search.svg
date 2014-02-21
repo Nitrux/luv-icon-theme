@@ -41,10 +41,10 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode="layer" id="folderLayer" inkscape:label="folder">
-    <rect y="6.9996953" x="4" height="10" width="18" id="folderTab" style="fill:#34495d;fill-opacity:1;stroke:none"/>
-    <rect style="fill:#34495d;fill-opacity:1;stroke:none" id="folderBackground" width="40" height="30" x="4" y="9"/>
+    <rect y="6.9996953" x="4" height="10" width="18" id="folderTab" style="fill:#1abc9c;fill-opacity:1;stroke:none"/>
+    <rect style="fill:#1abc9c;fill-opacity:1;stroke:none" id="folderBackground" width="40" height="30" x="4" y="9"/>
     <rect style="fill:#ffffff;fill-opacity:1;stroke:none" id="folderPaper" width="35.999992" height="27.999756" x="6" y="10.9998"/>
-    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#1abc9c;fill-opacity:1;stroke:none"/>
-    <path inkscape:connector-curvature="0" id="folderGlyph" d="M 19.498047,17 C 16.618054,17.000171 14,19.620439 14,22.5 14,25.379561 16.618054,27.999829 19.498047,28 22.37804,28.000171 25,25.379882 25,22.5 25,19.620118 22.37804,16.999829 19.498047,17 Z m 0,2 C 21.33077,18.999891 23,20.667348 23,22.5 23,24.332652 21.33077,26.000109 19.498047,26 17.665324,25.999891 16,24.332448 16,22.5 16,20.667552 17.665324,19.000109 19.498047,19 Z M 26.414062,28 25,29.414062 32.585938,37 34,35.585938 26.414062,28 Z" style="fill:#304050;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    <path inkscape:connector-curvature="0" id="folderGlyph" d="M 19.498047,17 C 16.618054,17.000171 14,19.620439 14,22.5 14,25.379561 16.618054,27.999829 19.498047,28 22.37804,28.000171 25,25.379882 25,22.5 25,19.620118 22.37804,16.999829 19.498047,17 Z m 0,2 C 21.33077,18.999891 23,20.667348 23,22.5 23,24.332652 21.33077,26.000109 19.498047,26 17.665324,25.999891 16,24.332448 16,22.5 16,20.667552 17.665324,19.000109 19.498047,19 Z M 26.414062,28 25,29.414062 32.585938,37 34,35.585938 26.414062,28 Z" style="fill:#1abc9c;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
   </g>
 </svg>

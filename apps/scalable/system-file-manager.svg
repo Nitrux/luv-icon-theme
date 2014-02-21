@@ -156,7 +156,7 @@
        y="689.8125"
        ry="2" />
     <path
-       style="fill:#885607;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#1abc9c;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 182.23661,693.8125 0,40 18,0 26,0 0,-36 -24,0 0,-4 z"
        id="rect3330"
        inkscape:connector-curvature="0"
@@ -178,7 +178,7 @@
        ry="2"
        transform="matrix(0,1,-1,0,0,0)" />
     <path
-       style="fill:#f39c12;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#34495e;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 206.23661,701.81267 0,4.00022 -24,0 0,27.99761 26,0 0,0.002 18,0 0,-32.00017 z"
        id="rect3364"
        inkscape:connector-curvature="0"
