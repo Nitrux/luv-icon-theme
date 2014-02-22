@@ -7,6 +7,6 @@
   <path id="shape0" transform="translate(4.01074, 4.00634)" fill="#e74c3c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M6.86362 33.1432C-2.28563 23.9935 -2.285 9.16562 6.84827 0L19.5117 19.4517L40.0086 33.173C30.8429 42.3062 16.0129 42.2928 6.86362 33.1432Z"/>
   <rect id="appRect" transform="translate(3.79289, 4.32053)" fill="none" width="32.00000000000pt" height="32.00000000000pt"/>
   <path id="shape1" transform="translate(5.62657, 5.47784)" fill="#f2f2f2" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M6.44058 30.229C-1.9843 21.8037 -2.22179 8.43996 6.18837 0C10.0929 5.98995 13.9865 11.9895 17.891 17.9794L36.7152 30.5525C28.2751 38.9626 14.8654 38.6542 6.44058 30.229Z"/>
-  <path id="shape2" transform="translate(7.1855, 6.82915)" fill="#f08048" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M6.03644 27.3611C-1.6577 19.6666 -2.17274 7.70791 5.50796 0L16.3321 16.6281L33.3183 27.9784C25.6103 35.659 13.7306 35.0555 6.03644 27.3611Z"/>
+  <path id="shape2" transform="translate(7.1855, 6.82915)" fill="#e67e22" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M6.03644 27.3611C-1.6577 19.6666 -2.17274 7.70791 5.50796 0L16.3321 16.6281L33.3183 27.9784C25.6103 35.659 13.7306 35.0555 6.03644 27.3611Z"/>
  </g>
 </svg>
