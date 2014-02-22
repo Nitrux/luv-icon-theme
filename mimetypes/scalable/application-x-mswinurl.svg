@@ -5,9 +5,8 @@
 <defs/>
 <g id="layer1">
   <path id="rect4090" transform="translate(7, 4)" fill="#ecf0f1" d="M0 0L0 40L34 40L34 11L23 0Z"/>
-  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#ffffff" opacity="0.50000000000" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
+  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#ffffff" fill-opacity="0.75294117647" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
   <path id="path4252" transform="matrix(3.54331 0 0 3.54331 29.9999 15)" fill="#000000" fill-opacity="0.11764705882" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
-  <rect id="rect4099" transform="matrix(3.06859 -1.77165 1.77165 3.06859 15.2877 22.63)" fill="#3498db" width="0.33917100788pt" height="3.32896333945pt"/>
-  <path id="rect4101" transform="translate(16.5645, 15.1741)" fill="#3498db" d="M0 7.06903C6.72711 5.08963 1.22784 4.35434 11.1498 0L15.0837 7.48239C6.4789 8.92669 10.021 13.4272 3.93393 14.5514Z"/>
+  <path id="shape0" transform="translate(14.603, 16.8346)" fill="#008eff" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M18.0287 8.87848C17.9535 3.91358 13.8777 -0.0557564 8.91255 0.000592596C3.94743 0.0569418 -0.0373029 4.11777 0.000263449 9.08309C0.0378298 14.0484 4.08354 18.0485 9.049 18.0297C14.0144 18.0109 18.0297 13.9803 18.0297 9.01487"/>
  </g>
 </svg>

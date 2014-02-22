@@ -191,12 +191,12 @@
      id="layer1"
      transform="translate(38.119153,-397.84494)">
     <path
-       style="fill:#33cc99;fill-opacity:1;stroke:none"
+       style="fill:#f39c12;fill-opacity:1;stroke:none"
        d="M 7 4 L 7 44 L 41 44 L 41 15 L 30 4 L 7 4 z "
        id="rect4090"
        transform="matrix(0.28222225,0,0,0.28222225,-38.119154,397.84494)" />
     <path
-       style="fill:#5edbb1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#f1c40f;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m -29.652504,398.97379 0,3.10449 3.104462,0 z"
        id="path4151"
        inkscape:connector-curvature="0" />
