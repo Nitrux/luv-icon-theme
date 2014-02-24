@@ -1,26 +1,44 @@
+function processFolderFile(text) {
+    return processMatchingCondition(text,
+                             /^[^#].*/,
+                             function(line) {
+                                 var item = ({
+                                     image: line[0]
+                                 });
+                                 return item;
+                             });
+}
 
-function processGimpPalette(text)
-{
+function processGimpPalette(text) {
+    return processMatchingCondition(text,
+                             /^(\d+)\s+(\d+)\s+(\d+)\s+(.*)/,
+                             function(line) {
+                                 var item = ({
+                                     color: rgbToHex(line[1],
+                                                     line[2],
+                                                     line[3]),
+                                     colorName: line[4]
+                                 });
+                                 return item;
+                             });
+}
+
+function processMatchingCondition(text, condition, formFunction) {
     var lines = text.split('\n');
-    var colors = [];
+    var items = [];
 
     for (var i = 0; i < lines.length; ++i) {
-        var splitLine = lines[i].match(/^(\d+)\s+(\d+)\s+(\d+)\s+(.*)/);
-        if (splitLine) {
-            colors.push( {
-                color: rgbToHex(splitLine[1], splitLine[2], splitLine[3]),
-                colorName: splitLine[4]
-            });
-        }
+        var splitLine = lines[i].match(condition);
+        if (splitLine) items.push(formFunction(splitLine));
     }
-    return colors;
+    return items;
+}
+
+function rgbToHex(r, g, b) {
+    return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
 }
 
 function componentToHex(c) {
     var hex = parseInt(c).toString(16);
     return hex.length === 1 ? "0" + hex : hex;
-}
-
-function rgbToHex(r, g, b) {
-    return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
 }

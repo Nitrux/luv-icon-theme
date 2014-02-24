@@ -1,11 +1,11 @@
 import QtQuick 2.0
 import "FlattrTraits.js" as FlattrTraits
 
-Item {
+Flow {
     id: root
 
-    property alias spacing: flow.spacing
-    property int rectSize: 75
+    spacing: 30
+    property int rectSize: 70
     property url colorTable
 
     signal colorClicked(color color)
@@ -22,30 +22,27 @@ Item {
         request.send();
     }
 
-    Flow {
-        id: flow
-        anchors.fill: parent
-        spacing: 15
+    Repeater {
+        id: colorRepeater
 
-        Repeater {
-            id: colorRepeater
+        Item {
+            width: rectSize
+            height: rectSize
 
-            Item {
-                width: rectSize
-                height: rectSize
+            Rectangle {
+                id: rect
+                anchors.fill: parent
+                color: modelData.color
+                anchors.margins: mouseArea.containsMouse ? 0 : 5;
+                Behavior on anchors.margins {
+                    NumberAnimation { duration: 100 }
+                }
 
-                Rectangle {
-                    id: rect
+                MouseArea{
+                    id: mouseArea
                     anchors.fill: parent
-                    color: modelData.color
-                    anchors.margins: mouseArea.containsMouse ? 0 : 5;
-
-                    MouseArea{
-                        id: mouseArea
-                        anchors.fill: parent
-                        onClicked: colorClicked(rect.color)
-                        hoverEnabled: true
-                    }
+                    onClicked: colorClicked(rect.color)
+                    hoverEnabled: true
                 }
             }
         }
