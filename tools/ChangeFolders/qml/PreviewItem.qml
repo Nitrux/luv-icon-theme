@@ -1,5 +1,5 @@
 import QtQuick 2.0
-import "FlattrTraits.js" as FlattrTraits
+import "../js/FlattrTraits.js" as FlattrTraits
 
 Flow {
     id: root
@@ -25,7 +25,7 @@ Flow {
         id: previewRepeater
 
         Image {
-            source: modelData.image
+            source: "../" + modelData.image
             sourceSize.width: imageSize
             sourceSize.height: imageSize
         }

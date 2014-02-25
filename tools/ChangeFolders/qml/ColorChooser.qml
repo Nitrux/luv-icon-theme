@@ -1,5 +1,5 @@
 import QtQuick 2.0
-import "FlattrTraits.js" as FlattrTraits
+import "../js/FlattrTraits.js" as FlattrTraits
 
 Flow {
     id: root

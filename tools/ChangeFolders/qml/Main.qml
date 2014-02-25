@@ -3,8 +3,8 @@ import QtQuick 2.0
 Rectangle {
     id: main
 
-    property url folderListsPath: "folders.txt"
-    property url palettePath: "../../extras/flattr.gpl"
+    property url folderListsPath: "../folders.txt"
+    property url palettePath: "../../../extras/flattr.gpl"
 
     width: 1024
     height: 768
@@ -49,6 +49,14 @@ Rectangle {
 
     function paintFolders(color) {
         // TODO
+        exec('~/./play.sh /media/external/',
+          function (error, stdout, stderr) {
+            console.log('stdout: ' + stdout);
+            console.log('stderr: ' + stderr);
+            if (error !== null) {
+              console.log('exec error: ' + error);
+            }
+        });
     }
 }
 
