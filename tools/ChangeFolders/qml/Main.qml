@@ -55,11 +55,13 @@ Rectangle {
         var filenames = previewItem.getFolderFilenames();
 
         filenames.forEach( function(filename) {
-            console.log(filename);
             console.log(process.execute(script + " " +
                                         filename + " " +
-                                        color));
+                                        color.toString().substr(1)));
         });
+
+        previewItem.file = ""
+        previewItem.file = folderListsPath
     }
 }
 
