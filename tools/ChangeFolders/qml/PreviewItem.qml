@@ -7,14 +7,6 @@ Flow {
     property url file
     property int imageSize: 100
 
-    function getFolderFilenames() {
-        var folderFilenames = [];
-        previewRepeater.model.forEach( function(item) {
-            folderFilenames.push(item.image);
-        });
-        return folderFilenames;
-    }
-
     spacing: 30
 
     onFileChanged: {
@@ -24,6 +16,7 @@ Flow {
             if (request.readyState === XMLHttpRequest.DONE) {
                 previewRepeater.model =
                         FlattrTraits.processFolderFile(request.responseText);
+                updateImages();
             }
         }
         request.send();
@@ -39,4 +32,22 @@ Flow {
         }
     }
 
+    function getFolderFilenames() {
+        var folderFilenames = [];
+        previewRepeater.model.forEach( function(item) {
+            folderFilenames.push(item.image);
+        });
+        return folderFilenames;
+    }
+
+    function updateImages() {
+        console.log("trololo")
+        for (var i = 0; i < previewRepeater.count; ++i)
+        {
+            var source = previewRepeater.itemAt(i).source;
+            console.log(source);
+            previewRepeater.itemAt(i).source = "";
+            previewRepeater.itemAt(i).source = source;
+        }
+    }
 }

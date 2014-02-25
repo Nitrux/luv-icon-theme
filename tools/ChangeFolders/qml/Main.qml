@@ -59,9 +59,7 @@ Rectangle {
                                         filename + " " +
                                         color.toString().substr(1)));
         });
-
-        previewItem.file = ""
-        previewItem.file = folderListsPath
+        previewItem.updateImages();
     }
 }
 
