@@ -6,7 +6,7 @@ Rectangle {
 
     property url folderListsPath: "../folders.txt"
     property url palettePath: "../../../extras/flattr.gpl"
-    property string scriptPath: "../../script.sh"
+    property string script: "/script.sh"
 
     color: "#192430"
 
@@ -52,7 +52,14 @@ Rectangle {
     }
 
     function paintFolders(color) {
-        console.log(process.execute(scriptPath + " ../places/scalable/folder-development.svg", 5))
+        var filenames = previewItem.getFolderFilenames();
+
+        filenames.forEach( function(filename) {
+            console.log(filename);
+            console.log(process.execute(script + " " +
+                                        filename + " " +
+                                        color));
+        });
     }
 }
 

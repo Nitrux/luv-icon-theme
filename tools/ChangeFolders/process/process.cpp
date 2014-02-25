@@ -1,6 +1,8 @@
 #include "process.h"
 
 #include <QProcess>
+#include <QDir>
+#include <QDebug>
 
 class Process::ProcessPrivate
 {
@@ -22,7 +24,9 @@ Process::~Process()
 
 QString Process::execute(const QString& program, int timeout)
 {
-    d->processObject->start(program);
+    qDebug() << QDir::currentPath() + program;
+
+    d->processObject->start(QDir::currentPath() + program);
     d->processObject->waitForFinished(timeout);
     QByteArray bytes = d->processObject->readAllStandardOutput();
     return QString::fromLocal8Bit(bytes);

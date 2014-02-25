@@ -7,6 +7,14 @@ Flow {
     property url file
     property int imageSize: 100
 
+    function getFolderFilenames() {
+        var folderFilenames = [];
+        previewRepeater.model.forEach( function(item) {
+            folderFilenames.push(item.image);
+        });
+        return folderFilenames;
+    }
+
     spacing: 30
 
     onFileChanged: {
