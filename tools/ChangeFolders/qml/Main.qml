@@ -1,13 +1,13 @@
 import QtQuick 2.0
+import CustomTypes 1.0
 
 Rectangle {
     id: main
 
     property url folderListsPath: "../folders.txt"
     property url palettePath: "../../../extras/flattr.gpl"
+    property string scriptPath: "../../script.sh"
 
-    width: 1024
-    height: 768
     color: "#192430"
 
     Flickable {
@@ -47,16 +47,12 @@ Rectangle {
         }
     }
 
+    Process {
+        id: process
+    }
+
     function paintFolders(color) {
-        // TODO
-        exec('~/./play.sh /media/external/',
-          function (error, stdout, stderr) {
-            console.log('stdout: ' + stdout);
-            console.log('stderr: ' + stderr);
-            if (error !== null) {
-              console.log('exec error: ' + error);
-            }
-        });
+        console.log(process.execute(scriptPath + " ../places/scalable/folder-development.svg", 5))
     }
 }
 

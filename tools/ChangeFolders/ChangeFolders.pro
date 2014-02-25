@@ -5,7 +5,8 @@ TEMPLATE = app
 QMAKE_CXXFLAGS += -std=c++0x
 
 SOURCES += \
-    main.cpp
+    main.cpp \
+    process/process.cpp
 
 RESOURCES +=
 
@@ -14,3 +15,6 @@ OTHER_FILES += \
     qml/ColorChooser.qml \
     qml/PreviewItem.qml \
     js/FlattrTraits.js
+
+HEADERS += \
+    process/process.h
