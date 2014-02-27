@@ -1,4 +1,5 @@
 import QtQuick 2.0
+import CustomTypes 1.0
 import "../js/FlattrTraits.js" as FlattrTraits
 
 Flow {
@@ -25,10 +26,10 @@ Flow {
     Repeater {
         id: previewRepeater
 
-        Image {
-            source: "../" + modelData.image
-            sourceSize.width: imageSize
-            sourceSize.height: imageSize
+        SvgImage {
+            source: modelData.image
+            width: imageSize
+            height: imageSize
         }
     }
 
@@ -41,13 +42,10 @@ Flow {
     }
 
     function updateImages() {
-        console.log("trololo")
+
         for (var i = 0; i < previewRepeater.count; ++i)
         {
-            var source = previewRepeater.itemAt(i).source;
-            console.log(source);
-            previewRepeater.itemAt(i).source = "";
-            previewRepeater.itemAt(i).source = source;
+            previewRepeater.itemAt(i).loadSource();
         }
     }
 }
