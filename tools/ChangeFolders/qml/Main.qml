@@ -43,7 +43,7 @@ Rectangle {
             id: colorChooser
             width: parent.width
             colorTable: palettePath
-            onColorClicked: paintFolders(color)
+            onColorPicked: paintFolders(color)
         }
     }
 
