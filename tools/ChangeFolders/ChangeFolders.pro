@@ -15,7 +15,8 @@ OTHER_FILES += \
     qml/Main.qml \
     qml/ColorChooser.qml \
     qml/PreviewItem.qml \
-    js/FlattrTraits.js
+    js/FlattrTraits.js \
+    qml/Button.qml
 
 HEADERS += \
     process/process.h \

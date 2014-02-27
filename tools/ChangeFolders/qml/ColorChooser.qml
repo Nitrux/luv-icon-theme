@@ -46,7 +46,7 @@ Column {
                     MouseArea {
                         id: mouseArea
                         anchors.fill: parent
-                        onClicked: picker.color = rect.color
+                        onClicked: colorIndicator.color = rect.color
                         hoverEnabled: true
                     }
                 }
@@ -60,7 +60,7 @@ Column {
         spacing: 25
 
         Rectangle {
-            id: picker
+            id: colorIndicator
             width: parent.height
             height: parent.height
         }
@@ -70,33 +70,14 @@ Column {
 
             Text {
                 color: "#F2F2F2"
-                text: picker.color
+                text: colorIndicator.color
                 font.pointSize: 28
             }
 
-            Rectangle {
+            Button {
                 id: applilyButton
-                height: buttonText.height * 1.5
-                width: buttonText.width * 1.5
-                color: buttonMouseArea.containsMouse ? "#1ABC9C" : "#2A3E4F"
-                Behavior on color {
-                    ColorAnimation { duration: 100 }
-                }
-
-                Text {
-                    anchors.centerIn: parent
-                    id: buttonText
-                    color: "#F2F2F2"
-                    text: qsTr("Appily")
-                    font.pointSize: 32
-                }
-
-                MouseArea {
-                    id: buttonMouseArea
-                    anchors.fill: parent
-                    onPressed: colorPicked(picker.color)
-                    hoverEnabled: true
-                }
+                text: qsTr("Appily")
+                onClicked: colorPicked(colorIndicator.color)
             }
         }
     }
