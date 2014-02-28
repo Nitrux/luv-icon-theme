@@ -16,7 +16,10 @@ OTHER_FILES += \
     qml/ColorChooser.qml \
     qml/PreviewItem.qml \
     js/FlattrTraits.js \
-    qml/Button.qml
+    qml/Button.qml \
+    script.sh \
+    change_folder_colors.xslt \
+    folders.txt
 
 HEADERS += \
     process/process.h \

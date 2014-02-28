@@ -5,11 +5,15 @@ Rectangle {
 
     property alias text: textItem.text
     property alias icons: iconitem.source
+
+    property color passiveColor: "#2A3E4F"
+    property color activeColor:  "#1ABC9C"
+
     signal clicked()
 
     height: 75
     width: contentsRow.width + 50
-    color: mouseArea.containsMouse ? "#1ABC9C" : "#2A3E4F"
+    color: mouseArea.containsMouse ? activeColor : passiveColor
 
     Behavior on color { ColorAnimation { duration: 100 } }
 
@@ -25,7 +29,6 @@ Rectangle {
         Text {
             id: textItem
             anchors.verticalCenter: parent.verticalCenter
-            color: "#F2F2F2"
             font.pointSize: 32
         }
     }

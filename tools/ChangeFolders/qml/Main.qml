@@ -43,7 +43,7 @@ Rectangle {
             id: colorChooser
             width: parent.width
             colorTable: palettePath
-            onColorPicked: paintFolders(color)
+            onColorPicked: paintFolders(front, back, paper, glyph)
         }
     }
 
@@ -51,13 +51,16 @@ Rectangle {
         id: process
     }
 
-    function paintFolders(color) {
+    function paintFolders(front, back, paper, glyph) {
         var filenames = previewItem.getFolderFilenames();
 
         filenames.forEach( function(filename) {
             console.log(process.execute(script + " " +
                                         filename + " " +
-                                        color.toString().substr(1)));
+                                        front.toString().substr(1) + " " +
+                                        back.toString().substr(1) + " " +
+                                        paper.toString().substr(1) + " " +
+                                        glyph.toString().substr(1) ));
         });
         previewItem.updateImages();
     }
