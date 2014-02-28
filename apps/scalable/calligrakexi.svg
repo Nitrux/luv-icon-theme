@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="kexi.svg">
+   sodipodi:docname="calligrakexi.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -106,7 +106,7 @@
      showgrid="false"
      inkscape:window-width="541"
      inkscape:window-height="553"
-     inkscape:window-x="1279"
+     inkscape:window-x="1250"
      inkscape:window-y="176"
      inkscape:window-maximized="0" />
   <metadata
@@ -117,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,21 +156,13 @@
          style="opacity:0.1;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
     </g>
     <rect
-       style="fill:#000000;fill-opacity:0.01960784;stroke:none"
-       id="rect5263"
-       width="44.399963"
-       height="44.399963"
-       x="1.8000183"
-       y="1006.1622"
-       ry="6.2786646" />
-    <rect
        style="fill:#9b59b6;fill-opacity:1;stroke:none"
        id="rect5237"
        width="42"
        height="42"
        x="3"
        y="1007.3622"
-       ry="0" />
+       ry="25" />
     <g
        transform="matrix(0.36107049,0,0,-0.36107049,-94.767574,1006.746)"
        id="g312"
