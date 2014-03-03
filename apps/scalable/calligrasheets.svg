@@ -1,93 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="calligrasheets.svg">
-  <defs
-     id="defs4">
-    <linearGradient
-       gradientTransform="translate(0,9.5800782e-5)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient4708"
-       id="linearGradient7167"
-       x1="29.135878"
-       y1="1049.4602"
-       x2="29.135878"
-       y2="1007.4396"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4708">
-      <stop
-         style="stop-color:#47b73d;stop-opacity:1"
-         offset="0"
-         id="stop4710" />
-      <stop
-         style="stop-color:#ade355;stop-opacity:1"
-         offset="1"
-         id="stop4712" />
-    </linearGradient>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.6239223"
-     inkscape:cx="5.6012721"
-     inkscape:cy="0.80526591"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="899"
-     inkscape:window-height="681"
-     inkscape:window-x="970"
-     inkscape:window-y="192"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:#2ecc71;fill-opacity:1;stroke:none"
-       id="rect5237"
-       width="42"
-       height="42"
-       x="3"
-       y="1007.3622"
-       ry="25" />
-    <path
-       style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:none"
-       d="M 11 11 L 11 12 L 11 19 L 11 20 L 11 36 L 11 37 L 12 37 L 37 37 L 37 36 L 37 11 L 12 11 L 11 11 z M 12 12 L 23.5 12 L 23.5 19 L 12 19 L 12 12 z M 24.5 12 L 36 12 L 36 19 L 24.5 19 L 24.5 12 z M 12.75 12.5 L 12.75 18.5 L 22.75 18.5 L 22.75 12.5 L 12.75 12.5 z M 12 20 L 23.5 20 L 23.5 36 L 12 36 L 12 20 z M 24.5 20 L 36 20 L 36 36 L 24.5 36 L 24.5 20 z "
-       transform="translate(0,1004.3622)"
-       id="rect3427" />
-  </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <rect id="background" transform="translate(17.3509, 10.4819)" fill="#ecf0f1" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="21.32325957473pt" height="26.82086457926pt"/>
+  <rect id="shape0" transform="translate(4.10553, 4.00394)" fill="#bdc3c7" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="10.65036699960pt" height="32.00189509166pt"/>
+  <rect id="shape1" transform="translate(4.00394, 4.04507)" fill="#bdc3c7" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.92400082835pt" height="5.20280097836pt"/>
+  <rect id="5" transform="translate(4.09004, 10.1879)" fill="#95a5a6" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.93433137853pt" height="0.49192711959pt"/>
+  <rect id="4" transform="translate(4.09004, 16.9518)" fill="#95a5a6" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.93433137853pt" height="0.49192711959pt"/>
+  <rect id="3" transform="translate(4.09004, 23.7159)" fill="#95a5a6" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.93433137853pt" height="0.49192711959pt"/>
+  <rect id="2" transform="translate(4.09004, 30.4798)" fill="#95a5a6" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.93433137853pt" height="0.49192711959pt"/>
+  <rect id="1" transform="translate(4.09004, 37.2439)" fill="#95a5a6" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.93433137853pt" height="0.49192711959pt"/>
+  <rect id="v2" transform="matrix(0 1 -1 0 30.9839 4.03987)" fill="#95a5a6" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.97318610868pt" height="0.49906131820pt"/>
+  <rect id="v1" transform="matrix(0 1 -1 0 17.687 4.03414)" fill="#95a5a6" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.97776929495pt" height="0.49906131820pt"/>
+ </g>
 </svg>
