@@ -1,31 +1,73 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <g id="group0" transform="translate(3.38513, 3.26361)" fill="none">
-   <g id="group1" transform="" fill="none">
-    <path id="shape0" transform="translate(0.625, 0.625)" fill="#4c4c4c" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" d="M35.4076 40.1013L35.4076 40.1013C34.0562 40.1013 32.7866 39.5799 31.8314 38.6334L29.261 36.0861C26.4933 37.6217 23.3859 38.4304 20.2329 38.4304C17.0799 38.4304 13.9725 37.6217 11.2048 36.0861L8.63439 38.6334C7.67923 39.5799 6.40962 40.1013 5.05823 40.1013C3.70684 40.1013 2.43722 39.5799 1.48206 38.6334C0.526056 37.686 0 36.4278 0 35.0886C0 33.7494 0.526056 32.4912 1.48206 31.5447L4.05164 28.9982C2.50214 26.2546 1.68608 23.1752 1.68608 20.0506C1.68608 16.9261 2.50214 13.8466 4.05164 11.1039L1.48206 8.55744C0.526056 7.61005 0 6.35187 0 5.01266C0 3.67344 0.526056 2.41527 1.48206 1.46787C2.43722 0.522152 3.70684 0 5.05823 0C6.40962 0 7.67923 0.522152 8.63439 1.46871L11.2048 4.01514C13.9725 2.47959 17.0799 1.67089 20.2329 1.67089C23.3859 1.67089 26.4933 2.47959 29.261 4.01514L31.8314 1.46871C32.7866 0.522152 34.0562 0 35.4076 0C36.759 0 38.0286 0.522152 38.9838 1.46871C39.9398 2.41527 40.4658 3.67344 40.4658 5.01266C40.4658 6.35187 39.9398 7.61005 38.9838 8.55744L36.4133 11.1039C37.9637 13.8475 38.7797 16.9261 38.7797 20.0506C38.7797 23.1752 37.9637 26.2538 36.4133 28.9974L38.9838 31.5438C39.9398 32.4912 40.4658 33.7494 40.4658 35.0886C40.4658 36.4278 39.9398 37.686 38.9838 38.6334C38.0286 39.5799 36.759 40.1013 35.4076 40.1013Z"/>
-   </g>
-   <g id="group2" transform="translate(5.00554, 4.96044)" fill="none">
-    <path id="shape1" transform="translate(0.625, 0.625)" fill="#8e7e6d" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" d="M14.9131 29.5574C6.69016 29.5574 0 22.9275 0 14.7787C0 6.62989 6.69016 0 14.9131 0C23.1359 0 29.8261 6.62989 29.8261 14.7787C29.8261 22.9275 23.1359 29.5574 14.9131 29.5574Z"/>
-   </g>
-   <g id="group3" transform="translate(33.3703, 3.30696)" fill="none">
-    <path id="shape2" transform="translate(0.625, 0.625)" fill="#000000" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" d="M1.77975 0C0.795547 0 0 0.790143 0 1.76371C0 2.73728 0.795547 3.52743 1.77975 3.52743C2.76306 3.52743 3.55949 2.73728 3.55949 1.76371C3.55949 0.790143 2.76306 0 1.77975 0Z"/>
-   </g>
-   <g id="group4" transform="translate(3.33703, 3.30696)" fill="none">
-    <path id="shape3" transform="translate(0.625, 0.625)" fill="#000000" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" d="M1.77975 0C0.795547 0 0 0.790143 0 1.76371C0 2.73728 0.795547 3.52743 1.77975 3.52743C2.76306 3.52743 3.55949 2.73728 3.55949 1.76371C3.55949 0.790143 2.76306 0 1.77975 0Z"/>
-   </g>
-   <g id="group5" transform="translate(33.3703, 33.0696)" fill="none">
-    <path id="shape4" transform="translate(0.625, 0.625)" fill="#000000" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" d="M1.77975 0C0.795547 0 0 0.790143 0 1.76371C0 2.73728 0.795547 3.52743 1.77975 3.52743C2.76306 3.52743 3.55949 2.73728 3.55949 1.76371C3.55949 0.790143 2.76306 0 1.77975 0Z"/>
-   </g>
-   <g id="group6" transform="translate(3.33703, 33.0696)" fill="none">
-    <path id="shape5" transform="translate(0.625, 0.625)" fill="#000000" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" d="M1.77975 0C0.795547 0 0 0.790143 0 1.76371C0 2.73728 0.795547 3.52743 1.77975 3.52743C2.76306 3.52743 3.55949 2.73728 3.55949 1.76371C3.55949 0.790143 2.76306 0 1.77975 0Z"/>
-   </g>
-   <g id="group7" transform="translate(15.2134, 15.0706)" fill="none">
-    <path id="shape6" transform="translate(1.26248, 1.26248)" fill="#202020" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" d="M4.17128 8.26741C1.87124 8.26741 0 6.41303 0 4.1337C0 1.85438 1.87124 0 4.17128 0C6.47133 0 8.34256 1.85438 8.34256 4.1337C8.34256 6.41303 6.47133 8.26741 4.17128 8.26741Z"/>
-   </g>
-  </g>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="package_multimedia_audioplayer.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="19.666667"
+     inkscape:cx="28.83089"
+     inkscape:cy="12.360635"
+     inkscape:window-x="0"
+     inkscape:window-y="53"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <path
+     style="fill:#bdc3c7;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
+     d="M 4 4 L 4 44 L 44 44 L 44 4 L 4 4 z M 7.96875 6.21875 C 8.94556 6.211798 9.74074 6.991968 9.75 7.96875 C 9.75 8.94555 8.94559 9.74768 7.96875 9.75 C 6.991925 9.75232 6.1921347 8.97681 6.1875 8 C 6.1828652 7.023196 6.991945 6.2257021 7.96875 6.21875 z M 40.53125 6.21875 C 41.50805 6.211798 42.33445 6.991967 42.34375 7.96875 C 42.34375 8.94555 41.53932 9.74767 40.5625 9.75 C 39.585665 9.75231 38.78585 8.97681 38.78125 8 C 38.776616 7.023195 39.554435 6.2257 40.53125 6.21875 z M 40.53125 38.75 C 41.50805 38.743048 42.33445 39.523217 42.34375 40.5 C 42.34375 41.4768 41.53932 42.27895 40.5625 42.28125 C 39.585665 42.28356 38.78585 41.50806 38.78125 40.53125 C 38.776616 39.554445 39.554435 38.757 40.53125 38.75 z M 7.96875 38.84375 C 8.89171 38.837181 9.6475 39.57705 9.65625 40.5 C 9.65625 41.42296 8.89173 42.1853 7.96875 42.1875 C 7.045754 42.18968 6.2856294 41.45423 6.28125 40.53125 C 6.2768707 39.608284 7.045779 38.850319 7.96875 38.84375 z "
+     id="shape0" />
+  <path
+     style="fill:#7f8c8d;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
+     inkscape:connector-curvature="0"
+     d="M 23.86825,7.5553605 C 14.80955,7.6198336 7.5121566,15.0043 7.5551389,24.06314 c 0.042982,9.0589 7.4101211,16.3738 16.4691111,16.3523 9.0589,-0.0215 16.3909,-7.4492 16.3909,-16.5082 -0.086,-9.05854 -7.4881,-16.4163526 -16.5469,-16.3518795 z"
+     stroke-miterlimit="2.01260191180"
+     id="shape1" />
+  <path
+     style="fill:#34495e;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     inkscape:connector-curvature="0"
+     d="m 23.96152,19.247621 c -2.60569,0.01854 -4.704729,2.142659 -4.692366,4.748409 0.01236,2.60574 2.131466,4.70983 4.737196,4.70365 2.60576,-0.0062 4.71471,-2.14274 4.71471,-4.74849 -0.0247,-2.60567 -2.15386,-4.722115 -4.75954,-4.703569 z"
+     stroke-miterlimit="2.00000000000"
+     id="shape6" />
+  <path
+     style="fill:#2c3e50;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     inkscape:connector-curvature="0"
+     d="m 23.96304,20.562288 c -1.89131,0.01346 -3.414875,1.555262 -3.405901,3.446662 0.009,1.89141 1.547111,3.41868 3.438451,3.41419 1.89136,-0.0045 3.42213,-1.55533 3.42213,-3.44673 -0.01793,-1.89134 -1.56336,-3.427584 -3.45468,-3.414122 z"
+     stroke-miterlimit="2.00000000000"
+     id="shape7" />
 </svg>
