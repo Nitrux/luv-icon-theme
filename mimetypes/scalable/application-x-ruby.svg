@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer0">
+  <path id="rect4090" transform="translate(7.2449, 4.87075)" fill="#ecf0f1" d="M0 0L0 40L34 40L34 11L23 8.88178e-16Z"/>
+  <path id="path4151" transform="translate(29.9999, 3.99986)" fill="#ffffff" fill-opacity="0.75294117647" d="M0 0L0 11.0002L11.0001 11.0002Z"/>
+  <path id="shape0" transform="translate(14.2813, 17.6562)" fill="#c0392b" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M15.5625 0L11.9375 3.59375L17.875 6.3125L24.1875 0ZM24.75 0.5L18.5 6.75L24.75 23.6562ZM11.375 4.1875L4.15625 11.3438L6.875 17.2812L17.2812 6.90625ZM17.9062 7.34375L7.40625 17.875L24.0312 24.0312ZM3.5625 11.9062L0 15.4687L0 24.1562L6.3125 17.8438ZM6.8125 18.4688L0.5625 24.7188L23.7813 24.7188Z"/>
+  <path id="path4252" transform="translate(29.9999, 15)" fill="#000000" fill-opacity="0.11764705882" d="M11.0001 11.0002L11.0001 0L0 0Z"/>
+ </g>
+</svg>

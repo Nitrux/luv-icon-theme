@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <rect id="shape2" transform="matrix(-0.707107 -0.707107 0.707107 -0.707107 30.4536 32.554)" fill="#c4cbcf" fill-rule="evenodd" stroke="#4d4d4d" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.77753416117pt" height="3.13244990567pt"/>
+  <rect id="shape21" transform="matrix(-0.707107 -0.707107 0.707107 -0.707107 42.4721 46.6013)" fill="#f1cb6d" fill-rule="evenodd" stroke="#4d4d4d" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="16.01676920219pt" height="5.44667884659pt" rx="1.39026582975pt" ry="1.87581899158pt"/>
+  <path id="shape0" transform="translate(2.94534, 2.64155)" fill="#c4cbcf" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M14.4926 28.9853C6.48853 28.9853 0 22.4967 0 14.4926C0 6.48853 6.48853 0 14.4926 0C22.4967 0 28.9853 6.48853 28.9853 14.4926C28.9853 22.4967 22.4967 28.9853 14.4926 28.9853Z"/>
+  <path id="shape01" transform="translate(6.08859, 5.77959)" fill="#2980b9" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M11.3413 22.6825C5.07764 22.6825 0 17.6049 0 11.3413C0 5.07764 5.07764 0 11.3413 0C17.6049 0 22.6825 5.07764 22.6825 11.3413C22.6825 17.6049 17.6049 22.6825 11.3413 22.6825Z"/>
+  <path id="shape02" transform="translate(16.81, 9.84428)" fill="#52beea" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M3.34802 6.69603C1.49896 6.69603 0 5.19707 0 3.34802C0 1.49896 1.49896 0 3.34802 0C5.19707 0 6.69603 1.49896 6.69603 3.34802C6.69603 5.19707 5.19707 6.69603 3.34802 6.69603Z"/>
+ </g>
+</svg>

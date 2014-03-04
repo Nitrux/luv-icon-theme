@@ -4,7 +4,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="shape0" transform="translate(4.00186, 6.76008)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" d="M9.87195 0C1.87503 4.69828 -1.84299 14.2777 0.890457 23.1407C3.62391 32.0037 12.0917 37.8249 21.3457 37.2028C30.5998 36.5807 38.2122 29.6785 39.7347 20.5293L20.0041 17.2459Z"/>
-  <path id="shape1" transform="translate(13.7225, 13.7271)" fill="#52beea" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M20.5428 10.0261C20.4071 4.37823 15.7363 -0.100117 10.0878 0.00170233C4.43921 0.103522 -0.0671246 4.7473 0.000756932 10.3964C0.0686385 16.0454 4.68526 20.5796 10.3346 20.5456C15.984 20.5117 20.5458 15.9224 20.5458 10.2729"/>
+  <path id="shape0" transform="translate(4.00394, 6.76773)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M9.87195 0C1.87503 4.69828 -1.84299 14.2777 0.890455 23.1407C3.62391 32.0037 12.0917 37.8249 21.3457 37.2028C30.5998 36.5807 38.2122 29.6785 39.7347 20.5293L20.0041 17.2459Z"/>
+  <path id="shape1" transform="translate(12.7673, 13.2581)" fill="#3498db" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M22.209 10.8393C22.0623 4.73334 17.0126 -0.108237 10.906 0.0018404C4.79927 0.111919 -0.072569 5.13235 0.000818325 11.2397C0.0742057 17.3468 5.06527 22.2488 11.1728 22.212C17.2805 22.1754 22.2123 17.2138 22.2123 11.1061"/>
  </g>
 </svg>

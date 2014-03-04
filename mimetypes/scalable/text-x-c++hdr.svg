@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="rect4090" transform="translate(7, 4)" fill="#ecf0f1" d="M0 0L0 40L34 40L34 11L23 0Z"/>
+  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#ffffff" opacity="0.50000000000" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
+  <path id="path4252" transform="matrix(3.54331 0 0 3.54331 29.9999 15)" fill="#000000" fill-opacity="0.11764705882" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
+  <path id="shape0" transform="translate(13.1347, 11.9364)" fill="#a100e1" d="M3.54749 9.73437C4.52445 8.10149 6.55701 6.90495 8.67621 7.18262C10.6763 7.28454 12.3437 8.68234 12.8856 10.3643C13.6848 12.6052 13.3748 14.9791 13.4385 17.2923C13.4385 19.6532 13.4385 22.0141 13.4385 24.375C12.256 24.375 11.0735 24.375 9.89102 24.375C9.87949 20.6849 9.91471 16.9941 9.87224 13.3045C9.79862 12.0135 9.51242 10.4128 8.03897 9.8224C6.47896 9.23124 4.64838 9.97656 3.83692 11.2451C3.35785 11.7411 3.6095 12.4128 3.54749 13.0076C3.54749 16.7967 3.54749 20.5859 3.54749 24.375C2.36499 24.375 1.1825 24.375 0 24.375C0 16.25 0 8.125 0 0C1.18249 0 2.36499 0 3.54749 0C3.54749 3.24479 3.54749 6.48958 3.54749 9.73438Z"/>
+  <rect id="shape11" transform="matrix(0 1 -1 0 36.7019 22.0625)" fill="#8e44ad" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="1.61464998327pt" height="5.84941132324pt"/>
+  <rect id="shape111" transform="matrix(-1 0 0 -1 34.0203 26.6871)" fill="#8e44ad" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="1.56584340014pt" height="5.84418247785pt"/>
+  <rect id="shape112" transform="matrix(0 1 -1 0 36.7867 31.5006)" fill="#8e44ad" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="1.61464998327pt" height="5.90112409239pt"/>
+  <rect id="shape113" transform="matrix(-1 0 0 -1 34.0875 36.1284)" fill="#8e44ad" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="1.56584340014pt" height="5.84418247785pt"/>
+ </g>
+</svg>

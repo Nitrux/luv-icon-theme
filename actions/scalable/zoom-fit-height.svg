@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <rect id="rect3286" transform="translate(9, 8.96152)" fill="none" width="24.00000000000pt" height="24.00000000000pt"/>
+  <rect id="rect3306" transform="matrix(2.22045e-16 1 -1 2.22045e-16 26.0729 18.5196)" fill="#4d4d4d" width="8.80000000000pt" height="3.20000000000pt"/>
+  <rect id="rect3308" transform="translate(9, 28)" fill="#4d4d4d" width="3.20000000000pt" height="8.80000000000pt"/>
+  <rect id="rect3310" transform="translate(35, 28)" fill="#4d4d4d" width="3.20000000000pt" height="8.80000000000pt"/>
+  <rect id="rect3312" transform="translate(9, 9)" fill="#4d4d4d" width="3.20000000000pt" height="8.80000000000pt"/>
+  <rect id="rect3314" transform="translate(35, 9)" fill="#4d4d4d" width="3.20000000000pt" height="8.80000000000pt"/>
+  <rect id="rect3316" transform="matrix(0 -1 1 0 28 39)" fill="#4d4d4d" width="3.20000000000pt" height="8.80000000000pt"/>
+  <rect id="rect3318" transform="matrix(0 -1 1 0 9 13)" fill="#4d4d4d" width="3.20000000000pt" height="8.80000000000pt"/>
+  <rect id="rect3320" transform="matrix(0 1 1 0 28 9)" fill="#4d4d4d" width="3.20000000000pt" height="8.80000000000pt"/>
+  <rect id="rect3322" transform="matrix(0 1 1 0 9 35)" fill="#4d4d4d" width="3.20000000000pt" height="8.80000000000pt"/>
+  <path id="path3293" transform="matrix(-2.22045e-16 -1 -1 2.22045e-16 29.3371 35.0132)" fill="#4d4d4d" fill-rule="evenodd" d="M7.92918 10.6109L0 5.30538L7.92918 0Z"/>
+  <path id="path32931" transform="matrix(2.22045e-16 1 -1 2.22045e-16 29.3655 13.0408)" fill="#4d4d4d" fill-rule="evenodd" d="M7.92918 10.6109L0 5.30538L7.92918 0Z"/>
+ </g>
+</svg>

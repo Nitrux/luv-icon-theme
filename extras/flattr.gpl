@@ -2,32 +2,28 @@ GIMP Palette
 Name: Flattr
 Columns: 6
 #
-0   0   0   black
-242 242 242	lightgray
-196 203 207	bluegray
-168 178 184	gray
-77  77  77	darkgray
-52  73  94	bluegray
-0   20  36	darkblue
-67  85  100	glass
-13  88  135	blue
-41  128 185	aqua
-82  190 234	sky
-26  188 156	cyan
-118 189 116	lightgreen
-136 201 65	grass
-194 255 51  lime
-253 244 169 lemonade
-243 223 198 skin
-174 133 102 box
-142 126 109 brown
-241 203 109	gold
+236 240 241 clouds
+189 195 199 silver
+149 165 166 concrete
+127 140 141 asbestos
+77  77  77  carbon
+44  62  80  midnight blue
+52  73  94  wet_asphalt
+41  128 185 aqua
+52  152 219 sky
+26  188 156 turquoise
+22  160 133 green sea
+46  204 113 emerald
+39  174 96  nephritis
+139 201 65  lime
+117 160 57  olive
+241 196 15  lemon
 243 156 18  orange
-255 154 91	clementine
-222 97  67	brick
-199 70  64	ruby
-255 73  70	rose
-255 76  145 berry
-155 89  182	amethyst
-142 68  173	wisteria
-
+230 126 34  carrot
+211 84  0   pumpkin
+231 76  60  alizarin
+192 57  43  pomegranate
+222 69  103 coral
+240 0   95  wine
+155 89  182 amethyst
+142 68  173 wisteria

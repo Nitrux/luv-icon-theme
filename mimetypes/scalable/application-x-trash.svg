@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="rect4090" transform="translate(7, 4)" fill="#ecf0f1" d="M0 0L0 40L34 40L34 11L23 0Z"/>
+  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#fcfcfc" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
+  <path id="path3284" transform="matrix(1 0 0 1 27.428 12.6284)" fill="none" d="M0 0"/>
+  <path id="path3272" transform="matrix(1 0 0 1 36.2058 28.6074)" fill="none" d="M0 0"/>
+  <path id="path3274" transform="matrix(1 0 0 1 11.7534 28.6074)" fill="none" d="M0 0"/>
+  <path id="path3276" transform="matrix(1 0 0 1 37.1463 27.5653)" fill="none" d="M0 0"/>
+  <path id="path3278" transform="matrix(1 0 0 1 10.8129 27.5653)" fill="none" d="M0 0"/>
+  <rect id="rect3280" transform="matrix(1 0 0 1 14.5748 16.4493)" fill="#bdc3c7" fill-rule="evenodd" width="15.04761804446pt" height="16.67372652471pt"/>
+  <rect id="rect3340" transform="matrix(1 0 0 1 29.6224 19.2282)" fill="#7f8c8d" fill-rule="evenodd" width="2.00634920635pt" height="11.11581842420pt"/>
+  <rect id="rect3330" transform="matrix(1 0 0 1 22.7256 19.2282)" fill="#7f8c8d" fill-rule="evenodd" width="2.00634920635pt" height="11.11581842420pt"/>
+  <rect id="rect3334" transform="matrix(1 0 0 1 15.8288 19.2282)" fill="#7f8c8d" fill-rule="evenodd" width="2.00634920635pt" height="11.11581842420pt"/>
+  <rect id="rect3282" transform="matrix(1 0 0 1 12.6939 16.4494)" fill="#bdc3c7" fill-rule="evenodd" width="18.05714285716pt" height="3.89053644847pt"/>
+  <path id="path3296" transform="matrix(1 0 0 1 16.4558 16.4494)" fill="none" d="M0 0"/>
+  <path id="path3298" transform="matrix(1 0 0 1 31.5034 16.4494)" fill="none" d="M0 0"/>
+  <path id="path3376" transform="matrix(1 0 0 1 18.3367 11.5863)" fill="#bdc3c7" fill-rule="evenodd" d="M1.2898 0L0 3.24211L0 4.53896L1.2898 4.53896L1.2898 3.24211ZM10.3184 0L10.3184 3.24211L10.3184 4.53896L11.6082 4.53896L11.6082 3.24211Z"/>
+  <path id="path3381" transform="matrix(1 0 0 1 19.5907 11.5863)" fill="#7f8c8d" fill-rule="evenodd" d="M0 0L0 3.47369L8.93737 3.47369L8.93737 0Z"/>
+  <path id="path3302" transform="matrix(1 0 0 1 24.6066 15.7547)" fill="none" d="M0 0"/>
+  <path id="path3304" transform="matrix(1 0 0 1 19.5907 15.7547)" fill="none" d="M0 0"/>
+  <path id="path3306" transform="matrix(1 0 0 1 29.6224 15.7547)" fill="none" d="M0 0"/>
+  <path id="path3332" transform="matrix(1 0 0 1 23.9796 37.2914)" fill="none" d="M0 0"/>
+  <path id="path3336" transform="matrix(1 0 0 1 20.2177 37.2914)" fill="none" d="M0 0"/>
+  <path id="path3338" transform="matrix(1 0 0 1 27.7415 37.2914)" fill="none" d="M0 0"/>
+  <path id="path3268" transform="matrix(1 0 0 1 25.2336 10.1968)" fill="none" d="M0 0"/>
+  <path id="path4252" transform="matrix(3.54331 0 0 3.54331 29.9999 15)" fill="#000000" fill-opacity="0.11764705882" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
+ </g>
+</svg>

@@ -1,90 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   id="svg4062"
-   version="1.1"
-   inkscape:version="0.48+devel r12660"
-   sodipodi:docname="audio-cd-duplicate.svg">
-  <defs
-     id="defs4064" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="4.0171864"
-     inkscape:cx="48.258252"
-     inkscape:cy="14.081265"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="714"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1">
-    <sodipodi:guide
-       position="9,39.000017"
-       orientation="30,0"
-       id="guide3290" />
-    <sodipodi:guide
-       position="9,9.0000174"
-       orientation="0,30"
-       id="guide3292" />
-    <sodipodi:guide
-       position="39,9.0000174"
-       orientation="-30,0"
-       id="guide3294" />
-    <sodipodi:guide
-       position="39,39.000017"
-       orientation="0,-30"
-       id="guide3296" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata4067">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3286"
-       width="30"
-       height="30"
-       x="9"
-       y="1013.3622" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 23.994141 9 C 20.066877 9.0002328 16.165567 10.617701 13.390625 13.394531 C 10.615683 16.171361 9 20.073326 9 24 C 9 27.926674 10.615683 31.828639 13.390625 34.605469 C 16.165567 37.382299 20.066877 38.999767 23.994141 39 C 27.921404 39.000233 31.825033 37.384266 34.603516 34.607422 C 37.381999 31.830578 39 27.927112 39 24 C 39 20.072888 37.381999 16.169422 34.603516 13.392578 C 31.825033 10.615734 27.921404 8.9997672 23.994141 9 z M 23.996094 13 C 26.876086 12.9998 29.737836 14.184303 31.775391 16.220703 C 33.812946 18.256903 35 21.1201 35 24 C 35 26.8799 33.812946 29.743097 31.775391 31.779297 C 29.737836 33.815697 26.876086 35.0002 23.996094 35 C 21.116099 34.9998 18.255659 33.813644 16.220703 31.777344 C 14.185745 29.740944 13 26.8795 13 24 C 13 21.1205 14.185745 18.259056 16.220703 16.222656 C 18.255659 14.186356 21.116099 13.0002 23.996094 13 z "
-       transform="translate(0,1004.3622)"
-       id="path3298" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 23.999023,1024.8622 c -0.916362,2e-4 -1.827124,0.3775 -2.47461,1.0253 -0.647486,0.6481 -1.024413,1.5586 -1.024413,2.4747 0,0.9161 0.376927,1.8266 1.024413,2.4747 0.647486,0.6478 1.558248,1.0251 2.47461,1.0253 0.916362,2e-4 1.827273,-0.3775 2.475587,-1.0253 0.648312,-0.6479 1.02539,-1.5583 1.02539,-2.4747 0,-0.9164 -0.377078,-1.8268 -1.02539,-2.4747 -0.648314,-0.6478 -1.559225,-1.0255 -2.475587,-1.0253 z"
-       id="path3334"
-       inkscape:connector-curvature="0" />
-  </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="path3298" transform="translate(0.19598, 9)" fill="#4d4d4d" fill-rule="evenodd" d="M14.9941 2.51498e-08C11.0669 0.000232825 7.16557 1.6177 4.39062 4.39453C1.61568 7.17136 0 11.0733 0 15C0 18.9267 1.61568 22.8286 4.39062 25.6055C7.16557 28.3823 11.0669 29.9998 14.9941 30C18.9214 30.0002 22.825 28.3843 25.6035 25.6074C28.382 22.8306 30 18.9271 30 15C30 11.0729 28.382 7.16942 25.6035 4.39258C22.825 1.61573 18.9214 -0.000232775 14.9941 2.51498e-08ZM14.9961 4C17.8761 3.9998 20.7378 5.1843 22.7754 7.2207C24.8129 9.2569 26 12.1201 26 15C26 17.8799 24.8129 20.7431 22.7754 22.7793C20.7378 24.8157 17.8761 26.0002 14.9961 26C12.1161 25.9998 9.25566 24.8136 7.2207 22.7773C5.18575 20.7409 4 17.8795 4 15C4 12.1205 5.18575 9.25906 7.2207 7.22266C9.25566 5.18636 12.1161 4.0002 14.9961 4Z"/>
+  <path id="path3334" transform="translate(11.696, 20.5)" fill="#4d4d4d" fill-rule="evenodd" d="M3.49902 7.9388e-08C2.58266 0.000200079 1.6719 0.3775 1.02441 1.0253C0.376927 1.6734 0 2.5839 0 3.5C0 4.4161 0.376927 5.3266 1.02441 5.9747C1.6719 6.6225 2.58266 6.9998 3.49902 7C4.41538 7.0002 5.3263 6.6225 5.97461 5.9747C6.62292 5.3268 7 4.4164 7 3.5C7 2.5836 6.62292 1.6732 5.97461 1.0253C5.3263 0.3775 4.41538 -0.000199921 3.49902 7.9388e-08Z"/>
+  <path id="path32981" transform="matrix(0.707107 -0.707107 0.707107 0.707107 11.9843 24.1966)" fill="#4d4d4d" fill-rule="evenodd" d="M18.1867 0C19.3849 18.1702 2.88218 18.4879 0.000904133 17.7168C-0.0417355 19.2556 1.42476 22.3954 4.1997 25.1723C6.97464 27.949 10.876 29.5665 14.8032 29.5668C18.7305 29.567 22.6341 27.951 25.4126 25.1741C28.1911 22.3974 29.8091 18.4939 29.8091 14.5668C29.8091 10.6397 28.1911 6.73619 25.4126 3.95934C22.6341 1.18251 19.7901 0.0637266 18.1867 0ZM15.8518 11.2407C16.783 11.7199 17.7524 12.8369 17.7311 14.203C17.7098 15.5692 16.6883 17.4865 14.4905 17.4863C12.2927 17.486 11.8062 15.908 11.4763 15.4728C13.4503 14.3226 14.9532 12.6522 15.8518 11.2407Z"/>
+ </g>
 </svg>

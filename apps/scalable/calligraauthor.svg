@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
+<defs/>
+<g id="layer1">
+  <path id="shape0" transform="translate(13.7331, 3.70633)" fill="#2980b9" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M1.08929 34.703C-3.31664 29.1382 6.67352 9.02893 12.6832 4.59649L13.7302 7.0481L13.3692 4.10575C16.1887 2.14811 19.8436 1.58444 22.9049 0C24.1339 6.03693 18.4586 13.5349 15.803 16.2736L10.6297 17.1813L15.3099 17.0127C9.66284 24.8366 4.31115 24.1184 1.08929 34.703Z"/>
+  <path id="shape1" transform="translate(9.79228, 34.6838)" fill="#2c3e50" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M1.09254 0L9.46278 0.00354127L9.48367 2.35071L8.5315 2.3337C8.57696 4.06245 12.5309 9.33478 9.46979 9.3217C5.56304 9.32285 2.77251 9.32367 1.09818 9.32417C-1.81327 9.31558 1.97908 4.03168 2.03511 2.3337L1.08367 2.34929Z"/>
+  <path id="shape01" transform="translate(14.4035, 7.34675)" fill="#ecf0f1" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M0 27.3317C2.16552 16.4822 8.04528 15.2314 19.6665 0C11.7017 13.6538 3.28313 16.1202 1.17075 27.3317Z"/>
+ </g>
+</svg>
