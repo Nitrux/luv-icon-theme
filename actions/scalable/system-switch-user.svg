@@ -4,11 +4,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <rect id="rect3282" transform="matrix(-0.999998 -0.00190955 -0.00190955 0.999998 39.1096 30.8885)" fill="#4d4d4d" fill-rule="evenodd" width="28.12459175879pt" height="3.20000000000pt"/>
-  <rect id="rect32821" transform="matrix(-0.734732 0.678358 0.678358 0.734732 41.183 30.4029)" fill="#4d4d4d" fill-rule="evenodd" width="12.51857728643pt" height="3.20000000000pt"/>
-  <rect id="rect32822" transform="matrix(-0.688352 -0.725377 0.725377 -0.688352 41.1792 35.9114)" fill="#4d4d4d" fill-rule="evenodd" width="13.01637235518pt" height="3.20000000000pt"/>
-  <rect id="rect32821" transform="matrix(0.999998 -0.00190955 0.00190955 0.999998 8.56756 12.6413)" fill="#4d4d4d" fill-rule="evenodd" width="28.12459175879pt" height="3.20000000000pt"/>
-  <rect id="rect328211" transform="matrix(0.734732 0.678358 -0.678358 0.734732 6.49423 12.1557)" fill="#4d4d4d" fill-rule="evenodd" width="12.51857728643pt" height="3.20000000000pt"/>
-  <rect id="rect328221" transform="matrix(0.688352 -0.725377 -0.725377 -0.688352 6.49805 17.6641)" fill="#4d4d4d" fill-rule="evenodd" width="13.01637235518pt" height="3.20000000000pt"/>
+  <rect id="shape0" transform="translate(4.00394, 4.00394)" fill="#27ae60" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260191180" width="32.00320504820pt" height="32.00320504820pt"/>
+  <rect id="rect3282" transform="matrix(-0.999998 -0.00190955 -0.00190955 0.999998 36.7525 30.32)" fill="#ecf0f1" fill-rule="evenodd" width="23.75728208338pt" height="2.70308999750pt"/>
+  <rect id="rect32821" transform="matrix(-0.734732 0.678358 0.678358 0.734732 38.5039 29.9098)" fill="#ecf0f1" fill-rule="evenodd" width="10.57463782682pt" height="2.70308999750pt"/>
+  <rect id="rect32822" transform="matrix(-0.688352 -0.725377 0.725377 -0.688352 38.5007 34.5629)" fill="#ecf0f1" fill-rule="evenodd" width="10.99513309905pt" height="2.70308999750pt"/>
+  <rect id="rect328211" transform="matrix(0.999998 -0.00190955 0.00190955 0.999998 10.9531 14.9063)" fill="#ecf0f1" fill-rule="evenodd" width="23.75728208338pt" height="2.70308999750pt"/>
+  <rect id="rect328211" transform="matrix(0.734732 0.678358 -0.678358 0.734732 9.20175 14.4961)" fill="#ecf0f1" fill-rule="evenodd" width="10.57463782682pt" height="2.70308999750pt"/>
+  <rect id="rect328221" transform="matrix(0.688352 -0.725377 -0.725377 -0.688352 9.20498 19.1491)" fill="#ecf0f1" fill-rule="evenodd" width="10.99513309905pt" height="2.70308999750pt"/>
  </g>
 </svg>
