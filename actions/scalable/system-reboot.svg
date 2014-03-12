@@ -4,10 +4,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <rect id="shape0" transform="translate(4.00394, 4.00394)" fill="#e74c3c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="32.00320504820pt" height="32.00320504820pt"/>
+  <rect id="shape0" transform="translate(4.00394, 4.00394)" fill="#f39c12" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="32.00320504820pt" height="32.00320504820pt"/>
   <rect id="rect3271" transform="translate(9.48363, 9.71301)" fill="none" width="24.00000000000pt" height="24.00000000000pt"/>
   <path id="path3283" transform="translate(9.84635, 9.53165)" fill="#ecf0f1" fill-rule="evenodd" d="M14.836 2.51498e-08C10.9502 0.000232825 7.08999 1.6177 4.34432 4.39453C1.59865 7.17136 0 11.0733 0 15C0 18.9266 1.59865 22.8286 4.34432 25.6055C7.08999 28.3823 10.9502 29.9998 14.836 30C15.8355 30 16.8323 29.8896 17.8102 29.6836L17.8102 25.5645C16.8435 25.845 15.842 26 14.836 26C11.9864 25.9999 9.15611 24.8136 7.14261 22.7774C5.12911 20.741 3.95781 17.8795 3.95781 15C3.95781 12.1204 5.12911 9.259 7.14261 7.22265C9.15611 5.18631 11.9864 4.00018 14.836 4C17.6856 3.99983 20.5192 5.18435 22.5352 7.2207C23.841 8.53961 24.7875 10.2075 25.2967 12L29.3706 12C28.7818 9.14395 27.3769 6.45665 25.3335 4.39258C22.5843 1.61574 18.7218 -0.000232775 14.836 2.51498e-08Z"/>
-  <path id="path3287" transform="translate(22.4836, 35.713)" fill="#d35f5f" fill-rule="evenodd" d="M4.26667 2.13333C4.26667 3.25035 3.24947 4.26667 2.13237 4.26667C1.01529 4.26656 0 3.25024 0 2.13333C0 1.01643 1.01529 8.39467e-09 2.13237 8.39467e-09C3.24947 -0.000106658 4.26667 1.01632 4.26667 2.13333Z"/>
   <rect id="rect3290" transform="translate(9.48363, 21.713)" fill="none" width="14.40000000000pt" height="14.40000000000pt"/>
   <rect id="rect3280" transform="matrix(-1 0 0 1 27.8463 35.5317)" fill="#ecf0f1" fill-rule="evenodd" width="8.80000000000pt" height="3.20000000000pt"/>
   <rect id="rect3282" transform="matrix(0 -1 -1 0 27.8463 39.5317)" fill="#ecf0f1" fill-rule="evenodd" width="8.80000000000pt" height="3.20000000000pt"/>
