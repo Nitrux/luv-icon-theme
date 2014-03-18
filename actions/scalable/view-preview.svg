@@ -9,104 +9,53 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
+   id="svg7384"
    height="48"
-   id="svg3070"
+   width="48"
    version="1.1"
-   inkscape:version="0.48+devel r12662"
-   sodipodi:docname="view-preview.svg">
+   inkscape:version="0.48+devel r12820"
+   sodipodi:docname="view-preview.svg"
+   inkscape:export-filename="/home/uri/Descargas/NITRUX-KDE/NITRUX-KDE/16x16/actions/view-preview.png"
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30">
   <defs
-     id="defs3072" />
+     id="defs9" />
   <sodipodi:namedview
-     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.150813"
-     inkscape:cx="7.4884674"
-     inkscape:cy="31.548495"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="673"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="4.0074349"
+     inkscape:cx="-14.386883"
+     inkscape:cy="24.05896"
      inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1">
-    <sodipodi:guide
-       position="9.0000117,39.000012"
-       orientation="30,0"
-       id="guide3268" />
-    <sodipodi:guide
-       position="9.0000117,9.0000118"
-       orientation="0,30"
-       id="guide3270" />
-    <sodipodi:guide
-       position="39.000012,9.0000118"
-       orientation="-30,0"
-       id="guide3272" />
-    <sodipodi:guide
-       position="39.000012,39.000012"
-       orientation="0,-30"
-       id="guide3274" />
-  </sodipodi:namedview>
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <metadata
-     id="metadata3075">
+     id="metadata90">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-424.57143,-522.6479)">
-    <rect
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3264"
-       width="30"
-       height="30"
-       x="433.57144"
-       y="531.64789" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3280"
-       width="18"
-       height="18"
-       x="445.57144"
-       y="531.64789" />
-    <rect
-       y="531.64789"
-       x="433.57144"
-       height="7"
-       width="7"
-       id="rect4043"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect4053"
-       width="7"
-       height="7"
-       x="433.57144"
-       y="554.64789" />
-    <rect
-       y="554.64789"
-       x="456.57144"
-       height="7"
-       width="7"
-       id="rect4055"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-  </g>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="fill:#4d4d4d;stroke:none"
+     d="M 9 9 L 9 39 L 39 39 L 39 32 L 39 9 L 9 9 z M 11 11 L 37 11 L 37 32 L 35.5 32 L 30 23 L 27.054688 27.818359 L 21.054688 18 L 12.5 32 L 11 32 L 11 11 z M 30.369141 14.261719 C 28.50286 14.261719 27 15.764578 27 17.630859 C 27 19.49714 28.50286 21 30.369141 21 C 32.235422 21 33.738281 19.49714 33.738281 17.630859 C 33.738281 15.764578 32.235422 14.261719 30.369141 14.261719 z "
+     id="rect2983" />
 </svg>
