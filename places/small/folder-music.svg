@@ -40,9 +40,9 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode="layer" id="folderLayer" inkscape:label="folder">
-    <rect y="6.9996948" x="4" height="10" width="18" id="folderTab" style="fill:#1abc9c;fill-opacity:1;stroke:none"/>
-    <rect style="fill:#1abc9c;fill-opacity:1;stroke:none" id="folderBackground" width="40" height="30" x="4" y="9"/>
-    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
-    <path style="fill:#1abc9c;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 18.999998,16.999987 0,4 0,9.392578 c -0.465079,-0.241181 -0.973566,-0.392607 -1.501953,-0.392578 -1.832722,10e-5 -3.498047,1.6675 -3.498047,3.5 0,1.8324 1.665325,3.4999 3.498047,3.5 1.832723,1e-4 3.501953,-1.6674 3.501953,-3.5 l 0,-12.5 11,0 0,9.392578 c -0.465079,-0.241181 -0.973566,-0.392607 -1.501953,-0.392578 -1.832722,10e-5 -3.498047,1.6675 -3.498047,3.5 0,1.8324 1.665325,3.4999 3.498047,3.5 1.832723,1e-4 3.501953,-1.6674 3.501953,-3.5 l 0,-12.5 0,-4 -15,0 z" id="folderGlyph" inkscape:connector-curvature="0"/>
+    <rect y="6.9996948" x="4" height="10" width="18" id="folderTab" style="fill:#34495d;fill-opacity:1;stroke:none"/>
+    <rect style="fill:#34495d;fill-opacity:1;stroke:none" id="folderBackground" width="40" height="30" x="4" y="9"/>
+    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#1abc9c;fill-opacity:1;stroke:none"/>
+    <path style="fill:#304050;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 18.999998,16.999987 0,4 0,9.392578 c -0.465079,-0.241181 -0.973566,-0.392607 -1.501953,-0.392578 -1.832722,10e-5 -3.498047,1.6675 -3.498047,3.5 0,1.8324 1.665325,3.4999 3.498047,3.5 1.832723,1e-4 3.501953,-1.6674 3.501953,-3.5 l 0,-12.5 11,0 0,9.392578 c -0.465079,-0.241181 -0.973566,-0.392607 -1.501953,-0.392578 -1.832722,10e-5 -3.498047,1.6675 -3.498047,3.5 0,1.8324 1.665325,3.4999 3.498047,3.5 1.832723,1e-4 3.501953,-1.6674 3.501953,-3.5 l 0,-12.5 0,-4 -15,0 z" id="folderGlyph" inkscape:connector-curvature="0"/>
   </g>
 </svg>

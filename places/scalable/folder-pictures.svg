@@ -40,10 +40,10 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode="layer" id="folderLayer" inkscape:label="folder">
-    <rect y="6.9996948" x="4" height="10" width="18" id="folderTab" style="fill:#1abc9c;fill-opacity:1;stroke:none"/>
-    <rect style="fill:#1abc9c;fill-opacity:1;stroke:none" id="folderBackground" width="40" height="30" x="4" y="9"/>
+    <rect y="6.9996948" x="4" height="10" width="18" id="folderTab" style="fill:#34495d;fill-opacity:1;stroke:none"/>
+    <rect style="fill:#34495d;fill-opacity:1;stroke:none" id="folderBackground" width="40" height="30" x="4" y="9"/>
     <rect style="fill:#ffffff;fill-opacity:1;stroke:none" id="folderPaper" width="35.999992" height="27.999756" x="6" y="10.9998"/>
-    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
-    <path inkscape:connector-curvature="0" style="fill:#1abc9c;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.999998,16.999987 0,20 20,0 0,-20 -20,0 z m 2,2 16,0 0,12 -4,-8 -4.6875,9.375 -2.8125,-4.375 -4.5,7 0,-16 z" id="folderGlyph"/>
+    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#1abc9c;fill-opacity:1;stroke:none"/>
+    <path inkscape:connector-curvature="0" style="fill:#304050;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.999998,16.999987 0,20 20,0 0,-20 -20,0 z m 2,2 16,0 0,12 -4,-8 -4.6875,9.375 -2.8125,-4.375 -4.5,7 0,-16 z" id="folderGlyph"/>
   </g>
 </svg>

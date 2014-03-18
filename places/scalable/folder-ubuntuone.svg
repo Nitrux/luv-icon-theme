@@ -40,10 +40,10 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode="layer" id="folderLayer" inkscape:label="folder">
-    <rect y="6.9996953" x="4" height="10" width="18" id="folderTab" style="fill:#1abc9c;fill-opacity:1;stroke:none"/>
-    <rect style="fill:#1abc9c;fill-opacity:1;stroke:none" id="folderBackground" width="40" height="30" x="4" y="9"/>
+    <rect y="6.9996953" x="4" height="10" width="18" id="folderTab" style="fill:#34495d;fill-opacity:1;stroke:none"/>
+    <rect style="fill:#34495d;fill-opacity:1;stroke:none" id="folderBackground" width="40" height="30" x="4" y="9"/>
     <rect style="fill:#ffffff;fill-opacity:1;stroke:none" id="folderPaper" width="35.999992" height="27.999756" x="6" y="10.9998"/>
-    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
-    <path inkscape:connector-curvature="0" style="fill:#1abc9c;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 15.900152,16.999987 0,9.5 0.02539,0 c -0.0082,0.166746 -0.02539,0.331151 -0.02539,0.5 0,5.54 2.659693,10 8.199693,10 l 6,0 2,0 0,-10 0,-0.5 0,-0.09961 0,-9.40039 -2,0 -3.399998,0 0,15 -4,0 0,-10.025391 -3.5,0 3.482422,-4.974609 z" id="folderGlyph" sodipodi:nodetypes="cccsscccccccccccccc"/>
+    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#1abc9c;fill-opacity:1;stroke:none"/>
+    <path inkscape:connector-curvature="0" style="fill:#304050;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 15.900152,16.999987 0,9.5 0.02539,0 c -0.0082,0.166746 -0.02539,0.331151 -0.02539,0.5 0,5.54 2.659693,10 8.199693,10 l 6,0 2,0 0,-10 0,-0.5 0,-0.09961 0,-9.40039 -2,0 -3.399998,0 0,15 -4,0 0,-10.025391 -3.5,0 3.482422,-4.974609 z" id="folderGlyph" sodipodi:nodetypes="cccsscccccccccccccc"/>
   </g>
 </svg>

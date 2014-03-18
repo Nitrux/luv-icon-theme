@@ -41,7 +41,7 @@
   </metadata>
   <g inkscape:groupmode="layer" id="folderLayer" inkscape:label="folder">
     <path inkscape:connector-curvature="0" id="folderBack" d="M 4,7 4,9 4,13 4,39 44,39 44,9 22,9 22,7 4,7 Z" style="fill:#34495d;fill-opacity:1;stroke:none"/>
-    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
-    <path style="fill:#1abc9c;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.999998,16.999993 0,5 9.015625,0 0,9.999987 -3.5,0 0,1.5 -5.515625,0 0,2 5.515625,0 0,1.5 9,0 0,-1.5 5.484375,0 0,-2 -5.484375,0 0,-1.5 -3.5,0 0,-9.999987 8.984375,0 0,-5 z m 18,1 c 0.523635,-3.1e-5 1,0.476385 1,1 0,0.523615 -0.476365,1.000031 -1,1 -0.523635,-3.1e-5 -1,-0.476444 -1,-1 0,-0.523556 0.476365,-0.999969 1,-1 z M 24.015623,33.49998 c 0.523635,-3.1e-5 1,0.476385 1,1 0,0.523615 -0.476365,1.000031 -1,1 -0.523635,-3.1e-5 -1,-0.476444 -1,-1 0,-0.523556 0.476365,-0.999969 1,-1 z" id="folderGlyph" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccccccccssssssssss"/>
+    <rect y="12.999983" x="2" height="28.000008" width="43.999996" id="folderFront" style="fill:#1abc9c;fill-opacity:1;stroke:none"/>
+    <path style="fill:#304050;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 13.999998,16.999993 0,5 9.015625,0 0,9.999987 -3.5,0 0,1.5 -5.515625,0 0,2 5.515625,0 0,1.5 9,0 0,-1.5 5.484375,0 0,-2 -5.484375,0 0,-1.5 -3.5,0 0,-9.999987 8.984375,0 0,-5 z m 18,1 c 0.523635,-3.1e-5 1,0.476385 1,1 0,0.523615 -0.476365,1.000031 -1,1 -0.523635,-3.1e-5 -1,-0.476444 -1,-1 0,-0.523556 0.476365,-0.999969 1,-1 z M 24.015623,33.49998 c 0.523635,-3.1e-5 1,0.476385 1,1 0,0.523615 -0.476365,1.000031 -1,1 -0.523635,-3.1e-5 -1,-0.476444 -1,-1 0,-0.523556 0.476365,-0.999969 1,-1 z" id="folderGlyph" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccccccccssssssssss"/>
   </g>
 </svg>
