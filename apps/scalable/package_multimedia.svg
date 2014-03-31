@@ -1,18 +1,51 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <rect id="shape0" transform="matrix(0.98986 -0.14205 0.14205 0.98986 2.92056 10.0752)" fill="#4c4c4c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.98379746835pt" height="4.98625530325pt"/>
-  <rect id="shape01" transform="translate(3.79747, 16.2835)" fill="#4c4c4c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.98379746835pt" height="22.17952160516pt"/>
-  <rect id="shape011" transform="matrix(1 0 -0.401961 1 38.7342 16.2835)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape1" transform="matrix(1 0 -0.401961 1 28.7135 16.28)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape2" transform="matrix(1 0 -0.401961 1 18.7686 16.2835)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape3" transform="matrix(1 0 -0.401961 1 8.74326 16.2835)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape4" transform="matrix(-0.98986 0.14205 0.539935 0.932761 10.2737 8.99591)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape5" transform="matrix(-0.98986 0.14205 0.539935 0.932761 20.2083 7.57792)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape6" transform="matrix(-0.98986 0.14205 0.539935 0.932761 30.0667 6.15815)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape7" transform="matrix(-0.98986 0.14205 0.539935 0.932761 40.002 4.73106)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="package_multimedia.svg">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="726"
+     inkscape:window-height="480"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="4.9166665"
+     inkscape:cx="24.000001"
+     inkscape:cy="24.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
 </svg>

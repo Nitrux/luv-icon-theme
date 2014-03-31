@@ -1,25 +1,51 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <rect id="rect907" transform="translate(1.98426, 7.01576)" fill="#c4cbcf" width="35.19999360000pt" height="27.19998800000pt"/>
-  <rect id="rect914" transform="translate(5.98426, 15.0158)" fill="none" width="3.86012304000pt" height="2.84430144000pt"/>
-  <path id="path3290" transform="translate(5.98426, 20.3272)" fill="none" d="M0 0"/>
-  <path id="path3292" transform="translate(5.98426, 13.0158)" fill="none" d="M0 0"/>
-  <path id="path3294" transform="translate(9.39683, 20.0158)" fill="none" d="M0 0"/>
-  <path id="path3296" transform="translate(9.39683, 26.0158)" fill="none" d="M0 0"/>
-  <rect id="rect825" transform="translate(35.1956, 7.81856)" fill="#f2f2f2" width="1.91545200000pt" height="1.91545200000pt"/>
-  <rect id="rect827" transform="translate(39.5899, 7.81856)" fill="#f2f2f2" width="1.91545200000pt" height="1.91545200000pt"/>
-  <path id="path3303" transform="translate(45.9842, 9.01576)" fill="none" d="M0 0"/>
-  <path id="path3305" transform="translate(39.5899, 9.01576)" fill="none" d="M0 0"/>
-  <path id="path3307" transform="translate(35.1956, 9.01576)" fill="none" d="M0 0"/>
-  <rect id="rect3309" transform="translate(30.8013, 7.81856)" fill="#f2f2f2" width="1.91545200000pt" height="1.91545200000pt"/>
-  <path id="path3311" transform="translate(27.4843, 44.5158)" fill="none" d="M0 0"/>
-  <path id="path3315" transform="translate(1.98426, 24.0158)" fill="none" d="M0 0"/>
-  <path id="path3317" transform="translate(47.9843, 24.0158)" fill="none" d="M0 0"/>
-  <path id="path17" transform="translate(21.1832, 11.2254)" fill="#f2f2f2" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M4.79673 0C4.79673 0 0 0.455188 0 0.455188C0 0.455188 0 19.9573 0 19.9573C0 19.9573 4.74548 19.2491 4.74548 19.2491C4.74548 19.2491 4.74548 10.9345 4.74548 10.9345C4.74548 10.9345 11.1309 20.1596 11.1309 20.1596C11.1309 20.1596 16.1326 18.5917 16.1326 18.5917C16.1326 18.5917 9.59345 9.72069 9.59345 9.72069C9.59345 9.72069 16.1839 1.35544 16.1839 1.35544C16.1839 1.35544 11.0797 0.202305 11.0797 0.202305C11.0797 0.202305 4.74548 8.56758 4.74548 8.56758C4.74548 8.56758 4.79673 1.96932e-15 4.79673 1.96932e-15C4.79673 1.96932e-15 4.79673 0 4.79673 0Z"/>
-  <path id="gear_path" transform="translate(10.0379, 16.0513)" fill="#f2f2f2" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M4.9926 0.00198184C4.93889 0.00745969 4.88082 0.0220946 4.84044 0.0621291C4.84044 0.0621291 2.97323 1.90684 2.97323 1.90684C2.8948 1.98453 2.88524 2.10349 2.94281 2.19754C2.94281 2.19754 5.12455 5.75662 5.12455 5.75662C4.73715 6.40001 4.42255 7.0902 4.20107 7.82189C4.20107 7.82189 0.192803 8.64397 0.192803 8.64397C0.0812619 8.66676 0 8.77163 0 8.8846C0 8.8846 0 11.4912 0 11.4912C0 11.6014 0.0848333 11.6957 0.192803 11.7219C0.192803 11.7219 4.07933 12.6542 4.07933 12.6542C4.28717 13.5013 4.60821 14.3119 5.03321 15.0503C5.03321 15.0503 2.78044 18.4389 2.78044 18.4389C2.71761 18.5336 2.72986 18.6598 2.81086 18.7398C2.81086 18.7398 4.67804 20.5844 4.67804 20.5844C4.7567 20.6618 4.87734 20.6716 4.97231 20.6144C4.97231 20.6144 8.50365 18.4991 8.50365 18.4991C9.19634 18.894 9.94614 19.2106 10.7361 19.4214C10.7361 19.4214 11.5582 23.3315 11.5582 23.3315C11.5811 23.4418 11.6773 23.5219 11.7915 23.5219C11.7915 23.5219 14.4298 23.5219 14.4298 23.5219C14.5406 23.5219 14.637 23.4483 14.6632 23.3412C14.6632 23.3412 15.6373 19.4113 15.6373 19.4113C16.4521 19.1943 17.2203 18.8722 17.9308 18.4589C17.9308 18.4589 21.4114 20.7147 21.4114 20.7147C21.5073 20.7765 21.6344 20.7645 21.7158 20.6847C21.7158 20.6847 23.5729 18.8399 23.5729 18.8399C23.6517 18.7621 23.6711 18.6431 23.6134 18.5491C23.6134 18.5491 22.3449 16.4839 22.3449 16.4839C22.3449 16.4839 21.8023 16.6058 21.7665 16.5541C21.7665 16.5541 20.9652 15.3896 19.9196 13.8773C18.6692 16.2948 16.1189 17.9476 13.1816 17.9476C9.00788 17.9476 5.62176 14.6022 5.62176 10.4787C5.62176 7.44545 7.45765 4.84024 10.0867 3.67133C10.0867 3.67133 10.0867 1.74642 10.0867 1.74642C9.60827 1.91187 9.14595 2.11149 8.70662 2.34795C8.70578 2.34745 8.70744 2.33838 8.70662 2.33795C8.70662 2.33795 5.14484 0.032042 5.14484 0.032042C5.09692 0.00110975 5.04631 -0.00349601 4.9926 0.00198184C4.9926 0.00198184 4.9926 0.00198184 4.9926 0.00198184Z"/>
- </g><g id="g3269"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="kwin.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="726"
+     inkscape:window-height="480"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="4.9166665"
+     inkscape:cx="24.000001"
+     inkscape:cy="24.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
 </svg>

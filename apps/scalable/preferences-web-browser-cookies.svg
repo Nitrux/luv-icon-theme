@@ -1,23 +1,51 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <path id="shape0" transform="translate(4.00378, 4.0036)" fill="#f1cb6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M39.9707 18.8464C39.3388 7.9306 30.0587 -0.454899 19.135 0.0191465C8.21121 0.493192 -0.307567 9.65109 0.00851863 20.5806C0.324604 31.51 9.3584 40.1603 20.2913 40.0023C31.2242 39.8442 40.0042 30.9364 40.0042 20.0023"/>
-  <rect id="rect3281" transform="matrix(3.54331 0 0 3.54331 9 8.99996)" fill="none" width="6.77333376000pt" height="6.77333376000pt"/>
-  <rect id="rect3308" transform="matrix(3.54331 0 0 3.54331 44 21.9999)" fill="none" width="0.90311120000pt" height="0.90311120000pt" rx="0.45155558400pt" ry="0.45155558400pt"/>
-  <rect id="rect3310" transform="matrix(3.54331 0 0 3.54331 5.55112e-16 21.9999)" fill="none" width="0.90311120000pt" height="0.90311120000pt" rx="0.45155558400pt" ry="0.45155558400pt"/>
-  <rect id="rect3312" transform="matrix(0 3.54331 -3.54331 0 26 43.9999)" fill="none" width="0.90311120000pt" height="0.90311120000pt" rx="0.45155558400pt" ry="0.45155558400pt"/>
-  <rect id="rect3314" transform="matrix(0 3.54331 -3.54331 0 26 3.54331e-05)" fill="none" width="0.90311120000pt" height="0.90311120000pt" rx="0.45155558400pt" ry="0.45155558400pt"/>
-  <rect id="shape01" transform="translate(30.9266, 11.7873)" fill="#8e7e6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="5.38583610200pt" height="5.38583610200pt"/>
-  <rect id="shape1" transform="matrix(0.743294 -0.668965 0.668965 0.743294 12.2576 11.4592)" fill="#8e7e6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="3.62145238904pt" height="3.62145238904pt"/>
-  <rect id="shape2" transform="matrix(0.965723 -0.259574 0.259574 0.965723 26.0874 24.9536)" fill="#8e7e6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="2.24432377685pt" height="2.25878481315pt"/>
-  <rect id="shape3" transform="matrix(0.894766 0.446535 -0.446535 0.894766 33.79 26.7724)" fill="#8e7e6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="3.58026760843pt" height="3.60333664169pt"/>
-  <rect id="shape4" transform="matrix(0.99876 0.0497941 -0.0497941 0.99876 25.9481 36.8899)" fill="#8e7e6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="2.38466339495pt" height="2.40002869307pt"/>
-  <rect id="shape5" transform="matrix(0.841666 -0.539998 0.539998 0.841666 14.0368 33.8714)" fill="#8e7e6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="3.17689847908pt" height="3.19736845079pt"/>
-  <rect id="shape6" transform="matrix(0.911709 -0.410836 0.410836 0.911709 7.07808 22.3333)" fill="#8e7e6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="2.38466339495pt" height="2.40002869307pt"/>
-  <rect id="shape7" transform="matrix(0.894766 0.446535 -0.446535 0.894766 18.811 19.9528)" fill="#8e7e6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="3.58026760843pt" height="3.60333664169pt"/>
-  <rect id="shape8" transform="matrix(0.965723 -0.259574 0.259574 0.965723 23.5501 8.83602)" fill="#8e7e6d" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="2.24432377685pt" height="2.25878481315pt"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="preferences-web-browser-cookies.svg">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="726"
+     inkscape:window-height="480"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="4.9166665"
+     inkscape:cx="24.000001"
+     inkscape:cy="24.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
 </svg>

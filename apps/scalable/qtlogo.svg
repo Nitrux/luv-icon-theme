@@ -1,10 +1,51 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <path id="shape0" transform="translate(4.05591, 2.9334)" fill="#88c941" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M0 41.6295C0.206714 10.1851 -0.671176 4.61723 2.14072 1.89072C4.95261 -0.835784 7.81799 0.209443 40.3718 0.141979C40.4892 34.8684 41.5509 37.1998 38.8876 39.8807C36.2245 42.5616 33.6095 41.3351 0 41.6295Z"/>
-  <path id="path2400" transform="translate(11.0828, 7.7521)" fill="#f2f2f2" d="M13.3943 32.2943C13.9243 32.2943 13.9522 32.2181 13.9522 30.7695C13.9522 29.4132 13.9015 29.2446 13.4934 29.2446C12.6233 29.2446 11.8838 28.7188 11.4724 27.8077C11.2454 27.3051 11.1027 26.8608 11.1552 26.8206C11.2077 26.7805 11.7502 26.462 12.3607 26.1127C15.3918 24.3797 16.7506 20.4915 16.7593 13.5266C16.7697 5.14927 14.6575 1.17789 9.6494 0.158487C8.07465 -0.162059 6.28849 0.00995846 4.88702 0.617151C2.79358 1.52413 1.19916 3.95187 0.41452 7.42714C-0.143489 9.89872 -0.136735 16.6644 0.426383 19.2742C1.25246 23.1029 3.20198 25.9397 5.54225 26.7186C6.40894 27.0071 6.52977 27.1499 6.89407 28.3159C7.46062 30.1293 7.96686 31.0093 8.77364 31.5829C9.5806 32.1568 11.1782 32.5395 12.161 32.394C12.5324 32.3392 13.0874 32.2943 13.3943 32.2943ZM8.08311 23.5427C7.36686 23.1862 6.50699 21.939 6.20756 20.8223C5.22855 17.1713 5.31054 8.13204 6.34613 5.54733C6.81622 4.37405 7.90182 3.43901 8.79396 3.43901C9.78116 3.43901 11.0227 4.62777 11.484 6.01467C12.2997 8.46719 12.4371 16.7002 11.7201 20.1606C11.15 22.912 9.63889 24.3172 8.08311 23.5427ZM23.8186 25.245C26.0415 24.7521 26.1678 24.643 26.1678 23.2181C26.1678 22.1111 26.1129 21.9569 25.7567 22.0624C24.3478 22.4803 24.0195 22.4833 23.5743 22.0809C23.1397 21.688 23.1139 21.3252 23.1139 15.6016L23.1139 9.5385L24.5234 9.5385L25.9328 9.5385L25.9328 8.16125L25.9328 6.78397L24.5234 6.62471L23.1139 6.46547L23.1139 4.2623C23.1139 3.05055 23.0346 2.01094 22.9377 1.952C22.8408 1.89309 22.2409 1.80769 21.6049 1.76221L20.4482 1.67955L20.045 3.32172C19.8236 4.22491 19.5756 5.2542 19.4942 5.60902C19.3676 6.16097 19.2282 6.25416 18.5286 6.25416L17.7108 6.25416L17.7108 7.77903L17.7108 9.30391L18.4156 9.30391L19.1203 9.30391L19.1203 16.1165C19.1203 24.4407 19.214 24.7603 21.8219 25.3333C22.5718 25.4981 22.704 25.4922 23.8186 25.245Z"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="qtlogo.svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="726"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="4.9166665"
+     inkscape:cx="24.000001"
+     inkscape:cy="24.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
 </svg>

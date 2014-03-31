@@ -1,13 +1,51 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <rect id="rect4077" transform="translate(4, 4)" fill="#f2f2f2" width="32.00000000000pt" height="32.00000000000pt"/>
-  <g id="layer1-7" transform="translate(6.37499, 8.37499)" fill="none">
-   <path id="path3304" transform="matrix(9.4369e-16 1 -1 9.4369e-16 37.6221 -4.37626)" fill="#2980b9" fill-rule="evenodd" d="M0.00553604 13.2937C2.13427 14.3963 4.52349 14.9999 6.92239 15C10.8497 15.0002 14.7533 13.3843 17.5318 10.6074C20.3102 7.83058 21.9282 3.92711 21.9282 0L17.9282 0C17.9282 2.87988 16.7412 5.74294 14.7036 7.7793C12.6661 9.81565 9.80238 11.0002 6.92239 11C4.44418 10.9999 1.94852 10.1168 0 8.57427Z"/>
-  </g>
-  <path id="shape2" transform="translate(4.06824, 27.8057)" fill="#4d4d4d" d="M35.9369 7.30452C35.7546 5.37072 34.9087 3.5248 33.5405 2.17113C32.1225 0.773526 30.2818 0 28.3414 0C24.9004 0 21.9319 2.40847 21.0032 5.88934C20.4229 5.27403 19.4692 4.8609 18.5738 4.8609C17.6782 4.8609 16.7246 5.27403 16.1442 5.88934C15.2155 2.40847 12.2471 0 8.80596 0C6.87394 0 5.02488 0.764735 3.60697 2.16235C2.23881 3.5248 1.39303 5.37072 1.21061 7.30452L0 7.30452L0 8.88674L1.21061 8.88674C1.39303 10.8205 2.23881 12.6665 3.60697 14.0201C5.02488 15.4177 6.86565 16.1913 8.80596 16.1913C13.0182 16.1913 16.4427 12.5698 16.4427 8.10444C16.4427 8.09564 16.4427 8.09564 16.4427 8.09564L16.4427 8.09564C16.4427 7.22543 17.3964 6.19699 18.5738 6.19699C19.7512 6.19699 20.7047 7.22543 20.7047 8.09564L20.7047 8.09564C20.7047 8.09564 20.7047 8.09564 20.7047 8.10444C20.7047 12.5698 24.1292 16.1913 28.3414 16.1913C30.2735 16.1913 32.1225 15.4265 33.5405 14.0201C34.9087 12.6665 35.7546 10.8118 35.9369 8.87794L37.1475 8.87794L37.1475 7.29574L35.9369 7.29574ZM28.3414 14.864C24.8175 14.864 21.9568 11.8226 21.9568 8.09564C21.9568 4.35985 24.8259 1.3273 28.3414 1.3273C31.8656 1.3273 34.7262 4.36867 34.7262 8.09564C34.7262 11.8314 31.8656 14.864 28.3414 14.864ZM8.80596 14.864C5.2819 14.864 2.42122 11.8226 2.42122 8.09564C2.42122 4.35985 5.29019 1.3273 8.80596 1.3273C12.33 1.3273 15.1907 4.36867 15.1907 8.09564C15.1907 11.8314 12.33 14.864 8.80596 14.864Z"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="okular.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="726"
+     inkscape:window-height="480"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="4.9166665"
+     inkscape:cx="24.000001"
+     inkscape:cy="24.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
 </svg>

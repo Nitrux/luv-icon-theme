@@ -1,10 +1,51 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <path id="shape0" transform="translate(6.43432, 4.00394)" fill="#e74c3c" d="M24.1706 4.08118C21.0138 4.08118 17.8571 4.08118 14.7004 4.08118C14.7004 12.8784 14.7004 21.6756 14.7004 30.4728C12.9571 30.4728 11.2136 30.4728 9.47024 30.4728C9.47024 21.6756 9.47024 12.8784 9.47024 4.08118C6.31349 4.08118 3.15674 4.08118 0 4.08118C0 2.72078 0 1.36039 0 0C8.05688 0 16.1138 0 24.1706 0C24.1706 1.36039 24.1706 2.72078 24.1706 4.08118Z"/>
-  <path id="shape01" transform="translate(17.8614, 13.3051)" fill="#2c3e50" d="M23.6871 4.11308C20.5935 4.11308 17.4999 4.11308 14.4063 4.11308C14.4063 12.9791 14.4063 21.845 14.4063 30.711C12.6978 30.711 10.9893 30.711 9.28079 30.711C9.28079 21.845 9.28079 12.9791 9.28079 4.11308C6.1872 4.11308 3.0936 4.11308 0 4.11308C0 2.74205 0 1.37103 0 0C7.89571 0 15.7914 0 23.6871 0C23.6871 1.37103 23.6871 2.74205 23.6871 4.11308Z"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="preferences-desktop-font.svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="726"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="4.9166665"
+     inkscape:cx="24.000001"
+     inkscape:cy="24.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
 </svg>

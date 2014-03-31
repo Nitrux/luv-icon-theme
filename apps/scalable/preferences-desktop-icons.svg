@@ -1,13 +1,51 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <rect id="shape0" transform="translate(3.03797, 3.15949)" fill="#f2f2f2" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="34.12253164557pt" height="33.15037974684pt"/>
-  <path id="shape1" transform="translate(26.9513, 6.09044)" fill="#f0005f" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M15.9427 7.78315C15.8384 3.3998 12.2143 -0.0767987 7.83044 0.00129011C3.44655 0.079379 -0.0514868 3.68285 0.000573636 8.06712C0.0526341 12.4514 3.63526 15.9708 8.01974 15.9447C12.4041 15.9187 15.9449 12.357 15.9449 7.97247"/>
-  <path id="shape2" transform="translate(6.06439, 6.13016)" fill="#3498db" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M15.9427 7.78315C15.8384 3.3998 12.2143 -0.0767987 7.83044 0.00129011C3.44655 0.079379 -0.0514868 3.68285 0.000573636 8.06712C0.0526341 12.4514 3.63526 15.9708 8.01974 15.9447C12.4041 15.9187 15.9449 12.357 15.9449 7.97247"/>
-  <path id="shape3" transform="translate(5.93619, 25.7074)" fill="#8bc941" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M15.9427 7.78317C15.8385 3.3998 12.2144 -0.0767989 7.83044 0.00129012C3.44656 0.0793792 -0.0514869 3.68285 0.000573636 8.06713C0.0526344 12.4514 3.63527 15.9709 8.01977 15.9448C12.4043 15.9188 15.9449 12.357 15.9449 7.97248"/>
-  <path id="shape4" transform="translate(26.8886, 25.7074)" fill="#f1c40f" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M15.9427 7.78317C15.8385 3.3998 12.2144 -0.0767989 7.83044 0.00129012C3.44656 0.0793792 -0.0514869 3.68285 0.000573636 8.06713C0.0526344 12.4514 3.63527 15.9709 8.01977 15.9448C12.4043 15.9188 15.9449 12.357 15.9449 7.97248"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="preferences-desktop-icons.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="726"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="4.9166665"
+     inkscape:cx="24.000001"
+     inkscape:cy="24.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
 </svg>
