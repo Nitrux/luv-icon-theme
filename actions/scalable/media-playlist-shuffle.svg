@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12662"
+   inkscape:version="0.49 r12742"
    sodipodi:docname="media-playlist-shuffle.svg">
   <defs
      id="defs4" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.477676"
-     inkscape:cx="19.118937"
-     inkscape:cy="24.425325"
+     inkscape:cx="23.21839"
+     inkscape:cy="32.211806"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="9,39.000017"
@@ -141,17 +141,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3261"
-       width="30"
-       height="30"
-       x="9"
-       y="1013.3622" />
     <path
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 13.759766 8.6445312 L 13.144531 9 L 13.964844 9 L 13.759766 8.6445312 z M 27.222656 8.6445312 L 27.017578 9 L 27.837891 9 L 27.222656 8.6445312 z M 32 9 L 32 12.5 L 25 12.5 L 25 12.494141 L 14.027344 31.5 L 9 31.5 L 9 35.5 L 11.716797 35.5 L 16.300781 35.5 L 16.335938 35.5 L 16.400391 35.388672 L 27.304688 16.5 L 32 16.5 L 32 20 L 39 14.5 L 32 9 z M 15.982422 12.494141 L 15.982422 12.5 L 9 12.5 L 9 16.5 L 13.677734 16.5 L 15.876953 20.308594 L 18.185547 16.308594 L 16 12.525391 L 16 12.5 L 15.986328 12.5 L 15.982422 12.494141 z M 32 28 L 32 31.5 L 26.955078 31.5 L 25.109375 28.302734 L 22.800781 32.300781 L 24.582031 35.388672 L 24.646484 35.5 L 25 35.5 L 29.265625 35.5 L 32 35.5 L 32 39 L 39 33.5 L 32 28 z "
+       d="m 32,9 0,3.5 -7,0 0,-0.0059 L 14.027344,31.5 9,31.5 l 0,4 2.716797,0 4.583984,0 0.03516,0 0.06445,-0.111328 L 27.304688,16.5 32,16.5 32,20 39,14.5 Z m -16.017578,3.494141 0,0.0059 L 9,12.5 l 0,4 4.677734,0 2.199219,3.808594 2.308594,-4 L 16,12.525391 16,12.5 l -0.01367,0 z M 32,28 l 0,3.5 -5.044922,0 -1.845703,-3.197266 -2.308594,3.998047 1.78125,3.087891 L 24.646484,35.5 25,35.5 l 4.265625,0 2.734375,0 0,3.5 7,-5.5 z"
        id="path4083"
-       transform="translate(0,1004.3622)" />
+       transform="translate(0,1004.3622)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>

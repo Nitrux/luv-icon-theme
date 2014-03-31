@@ -13,7 +13,7 @@
    height="48"
    id="svg4105"
    version="1.1"
-   inkscape:version="0.48+devel r12660"
+   inkscape:version="0.49 r12742"
    sodipodi:docname="go-home.svg">
   <defs
      id="defs4107" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.067318"
-     inkscape:cx="10.293491"
-     inkscape:cy="21.678663"
+     inkscape:cx="23.22097"
+     inkscape:cy="21.512926"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      showguides="true">
     <sodipodi:guide
@@ -70,95 +70,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3287"
-       width="30"
-       height="30"
-       x="9"
-       y="1013.3622" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3289"
-       width="26"
-       height="4"
-       x="11"
-       y="1039.3622" />
-    <rect
-       y="33"
-       x="-1024.3622"
-       height="4"
-       width="11"
-       id="rect3291"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <rect
-       transform="matrix(0,-1,1,0,0,0)"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3293"
-       width="11"
-       height="4"
-       x="-1043.3622"
-       y="11" />
     <path
-       sodipodi:type="arc"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path4097"
-       sodipodi:cx="23.998613"
-       sodipodi:cy="1041.3622"
-       sodipodi:rx="2.0013857"
-       sodipodi:ry="2.0000615"
-       d="m 25.999999,1041.3622 c 0,1.0472 -0.953629,2 -2.0009,2 -1.04727,-10e-5 -1.9991,-0.9529 -1.9991,-2 0,-1.0471 0.95183,-2 1.9991,-2 1.047271,-10e-5 2.0009,0.9528 2.0009,2 z" />
-    <rect
-       y="-703.58472"
-       x="733.52588"
-       height="4"
-       width="21.212999"
-       id="rect3280"
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3282"
-       width="21.212999"
-       height="4"
-       x="699.58472"
-       y="733.52588"
-       transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:none"
-       id="path4124"
-       sodipodi:cx="9.9993067"
-       sodipodi:cy="1042.3622"
-       sodipodi:rx="1.0006928"
-       sodipodi:ry="1.0000308"
-       d="m 11,1042.3622 c 0,0.5236 -0.476815,1 -1.0004503,1 -0.5236351,0 -0.9995501,-0.4765 -0.9995501,-1 0,-0.5236 0.475915,-1 0.9995501,-1 0.5236353,0 1.0004503,0.4764 1.0004503,1 z" />
-    <path
-       d="m 38.999999,1042.3622 c 0,0.5236 -0.476815,1 -1.00045,1 -0.523635,0 -0.99955,-0.4765 -0.99955,-1 0,-0.5236 0.475915,-1 0.99955,-1 0.523635,0 1.00045,0.4764 1.00045,1 z"
-       sodipodi:ry="1.0000308"
-       sodipodi:rx="1.0006928"
-       sodipodi:cy="1042.3622"
-       sodipodi:cx="37.999306"
-       id="path4126"
-       style="fill:none;stroke:none"
-       sodipodi:type="arc" />
-    <path
-       d="m 25.999999,1015.3622 c 0,1.0472 -0.953629,2 -2.0009,2 -1.04727,-10e-5 -1.9991,-0.9529 -1.9991,-2 0,-1.0471 0.95183,-2 1.9991,-2 1.047271,-10e-5 2.0009,0.9528 2.0009,2 z"
-       sodipodi:ry="2.0000615"
-       sodipodi:rx="2.0013857"
-       sodipodi:cy="1015.3622"
-       sodipodi:cx="23.998613"
-       id="path4099"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       sodipodi:type="arc" />
-    <rect
-       y="33"
-       x="-1043.3622"
-       height="4"
-       width="11"
-       id="rect3273"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       transform="matrix(0,-1,1,0,0,0)" />
+       d="M 24 9 L 21.171875 11.828125 L 9 24 L 11.828125 26.828125 L 24 14.65625 L 36.171875 26.828125 L 39 24 L 35 20 L 37 20 L 37 9 L 33 9 L 33 18 L 24 9 z M 11 28 L 11 39 L 15 39 L 37 39 L 37 35 L 37 28 L 33 28 L 33 35 L 15 35 L 15 28 L 11 28 z "
+       transform="translate(0,1004.3622)"
+       id="rect3289" />
   </g>
 </svg>

@@ -1,20 +1,249 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <rect id="shape0" transform="matrix(0.98986 -0.14205 0.14205 0.98986 2.92056 10.0752)" fill="#4c4c4c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.98379746835pt" height="4.98625530325pt"/>
-  <rect id="shape01" transform="translate(3.79747, 16.2835)" fill="#4c4c4c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="31.98379746835pt" height="22.17952160516pt"/>
-  <rect id="shape011" transform="matrix(1 0 -0.401961 1 38.7342 16.2835)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape1" transform="matrix(1 0 -0.401961 1 28.7135 16.28)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape2" transform="matrix(1 0 -0.401961 1 18.7686 16.2835)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape3" transform="matrix(1 0 -0.401961 1 8.74326 16.2835)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape4" transform="matrix(-0.98986 0.14205 0.539935 0.932761 10.2737 8.99591)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape5" transform="matrix(-0.98986 0.14205 0.539935 0.932761 20.2083 7.57792)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape6" transform="matrix(-0.98986 0.14205 0.539935 0.932761 30.0667 6.15815)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <rect id="shape7" transform="matrix(-0.98986 0.14205 0.539935 0.932761 40.002 4.73106)" fill="#ebebeb" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.01513030529pt" height="5.00658227848pt"/>
-  <path id="shape0" transform="translate(25.0521, 29.7722)" fill="#ae8566" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M2.59343 0C5.24645 3.22024 5.67923 5.46823 11.3428 8.14177C14.8148 9.78075 17.352 14.244 17.8441 15.2506C14.271 18.4433 7.99086 17.0313 4.05165 13.1848C0.112449 9.3383 -1.97186 4.02945 2.59343 0Z"/>
-  <path id="shape1" transform="matrix(-1 0 0 -1 46.7512 43.8104)" fill="#ae8566" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="bevel" d="M2.64441 0C5.3496 3.13094 5.79088 5.31658 11.5658 7.91597C15.106 9.50948 17.6931 13.8489 18.1948 14.8277C14.5516 17.9319 8.14797 16.559 4.13131 12.8191C0.114659 9.07931 -2.01063 3.91769 2.64441 0Z"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="kaffeine.svg">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview21"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="4.9166665"
+     inkscape:cx="40.114755"
+     inkscape:cy="6.8291085"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <sodipodi:guide
+       position="9.5367432e-07,48.000001"
+       orientation="47.999999,0"
+       id="guide4081" />
+    <sodipodi:guide
+       position="9.5367432e-07,1.9073486e-06"
+       orientation="0,47.999999"
+       id="guide4083" />
+    <sodipodi:guide
+       position="48,1.9073486e-06"
+       orientation="-47.999999,0"
+       id="guide4085" />
+    <sodipodi:guide
+       position="48,48.000001"
+       orientation="0,-47.999999"
+       id="guide4087" />
+    <sodipodi:guide
+       position="4.000001,44.000001"
+       orientation="39.999999,0"
+       id="guide4089" />
+    <sodipodi:guide
+       position="4.000001,4.0000019"
+       orientation="0,39.999999"
+       id="guide4091" />
+    <sodipodi:guide
+       position="44,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4093" />
+    <sodipodi:guide
+       position="44,44.000001"
+       orientation="0,-39.999999"
+       id="guide4095" />
+    <sodipodi:guide
+       position="37,44.000001"
+       orientation="39.999999,0"
+       id="guide4074" />
+    <sodipodi:guide
+       position="37,4.0000019"
+       orientation="0,7"
+       id="guide4076" />
+    <sodipodi:guide
+       position="44,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4078" />
+    <sodipodi:guide
+       position="44,44.000001"
+       orientation="0,-7"
+       id="guide4080" />
+    <sodipodi:guide
+       position="4.000001,44.000001"
+       orientation="39.999999,0"
+       id="guide4082" />
+    <sodipodi:guide
+       position="4.000001,4.0000019"
+       orientation="0,7"
+       id="guide4084" />
+    <sodipodi:guide
+       position="11.000001,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4086" />
+    <sodipodi:guide
+       position="11.000001,44.000001"
+       orientation="0,-7"
+       id="guide4088" />
+    <sodipodi:guide
+       position="11.000001,7.0000019"
+       orientation="3,0"
+       id="guide4096" />
+    <sodipodi:guide
+       position="11.000001,4.0000019"
+       orientation="0,25.999999"
+       id="guide4098" />
+    <sodipodi:guide
+       position="37,4.0000019"
+       orientation="-3,0"
+       id="guide4100" />
+    <sodipodi:guide
+       position="37,7.0000019"
+       orientation="0,-25.999999"
+       id="guide4102" />
+    <sodipodi:guide
+       position="11.000001,25.500002"
+       orientation="3,0"
+       id="guide4104" />
+    <sodipodi:guide
+       position="11.000001,22.500002"
+       orientation="0,25.999999"
+       id="guide4106" />
+    <sodipodi:guide
+       position="37,22.500002"
+       orientation="-3,0"
+       id="guide4108" />
+    <sodipodi:guide
+       position="37,25.500002"
+       orientation="0,-25.999999"
+       id="guide4110" />
+    <sodipodi:guide
+       position="11.000001,44.000001"
+       orientation="3,0"
+       id="guide4112" />
+    <sodipodi:guide
+       position="11.000001,41.000001"
+       orientation="0,25.999999"
+       id="guide4114" />
+    <sodipodi:guide
+       position="37,41.000001"
+       orientation="-3,0"
+       id="guide4116" />
+    <sodipodi:guide
+       position="37,44.000001"
+       orientation="0,-25.999999"
+       id="guide4118" />
+    <sodipodi:guide
+       position="10,44.000001"
+       orientation="39.999999,0"
+       id="guide4128" />
+    <sodipodi:guide
+       position="10,4.0000019"
+       orientation="0,1"
+       id="guide4130" />
+    <sodipodi:guide
+       position="11,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4132" />
+    <sodipodi:guide
+       position="11,44.000001"
+       orientation="0,-1"
+       id="guide4134" />
+    <sodipodi:guide
+       position="4.000001,44.000001"
+       orientation="39.999999,0"
+       id="guide4136" />
+    <sodipodi:guide
+       position="4.000001,4.0000019"
+       orientation="0,1"
+       id="guide4138" />
+    <sodipodi:guide
+       position="5.000001,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4140" />
+    <sodipodi:guide
+       position="5.000001,44.000001"
+       orientation="0,-1"
+       id="guide4142" />
+    <sodipodi:guide
+       position="37,44.000001"
+       orientation="39.999999,0"
+       id="guide4144" />
+    <sodipodi:guide
+       position="37,4.0000019"
+       orientation="0,1"
+       id="guide4146" />
+    <sodipodi:guide
+       position="38,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4148" />
+    <sodipodi:guide
+       position="38,44.000001"
+       orientation="0,-1"
+       id="guide4150" />
+    <sodipodi:guide
+       position="43,44.000001"
+       orientation="39.999999,0"
+       id="guide4152" />
+    <sodipodi:guide
+       position="43,4.0000019"
+       orientation="0,1"
+       id="guide4154" />
+    <sodipodi:guide
+       position="44,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4156" />
+    <sodipodi:guide
+       position="44,44.000001"
+       orientation="0,-1"
+       id="guide4158" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <path
+     style="fill:#2c3e50;fill-opacity:1;stroke:none"
+     d="M 4 4 L 4 44 L 44 44 L 44 4 L 4 4 z M 5 9 L 10 9 L 10 14 L 5 14 L 5 9 z M 38 9 L 43 9 L 43 14 L 38 14 L 38 9 z M 5 17.5 L 10 17.5 L 10 22.5 L 5 22.5 L 5 17.5 z M 38 17.5 L 43 17.5 L 43 22.5 L 38 22.5 L 38 17.5 z M 5 25.5 L 10 25.5 L 10 30.5 L 5 30.5 L 5 25.5 z M 38 25.5 L 43 25.5 L 43 30.5 L 38 30.5 L 38 25.5 z M 5 34 L 10 34 L 10 39 L 5 39 L 5 34 z M 38 34 L 43 34 L 43 39 L 38 39 L 38 34 z "
+     id="rect4068" />
+  <rect
+     style="fill:#3498db;fill-opacity:1;stroke:none"
+     id="rect4160"
+     width="26"
+     height="15.499999"
+     x="11"
+     y="7.000001" />
+  <rect
+     style="fill:#3498db;fill-opacity:1;stroke:none"
+     id="rect4160-2"
+     width="26"
+     height="15.499999"
+     x="11"
+     y="25.500004" />
 </svg>

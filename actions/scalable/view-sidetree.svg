@@ -39,10 +39,10 @@
      inkscape:window-height="718"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="6.9532164"
-     inkscape:cx="18.236123"
-     inkscape:cy="12.308024"
-     inkscape:window-x="0"
+     inkscape:zoom="9.8333329"
+     inkscape:cx="19.396347"
+     inkscape:cy="23.838395"
+     inkscape:window-x="-2"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
@@ -81,64 +81,8 @@
   </sodipodi:namedview>
   <defs
      id="defs4" />
-  <rect
+  <path
      style="fill:#4d4d4d;fill-rule:evenodd"
-     y="9.000001"
-     x="-39"
-     height="7"
-     width="7"
-     transform="scale(-1,1)"
+     d="M 32 9 L 32 10.5 L 27 10.5 L 23 10.5 L 23 14.5 L 23 22 L 16 22 L 16 20.5 L 9 20.5 L 9 27.5 L 16 27.5 L 16 26 L 23 26 L 23 37.5 L 27 37.5 L 32 37.5 L 32 39 L 39 39 L 39 32 L 32 32 L 32 33.5 L 27 33.5 L 27 26 L 32 26 L 32 27.5 L 39 27.5 L 39 20.5 L 32 20.5 L 32 22 L 27 22 L 27 14.5 L 32 14.5 L 32 16 L 39 16 L 39 9 L 32 9 z "
      id="rect3278" />
-  <rect
-     style="fill:#4d4d4d;fill-rule:evenodd"
-     y="20.5"
-     x="-39"
-     height="7"
-     width="7"
-     transform="scale(-1,1)"
-     id="rect3280" />
-  <rect
-     style="fill:#4d4d4d;fill-rule:evenodd"
-     y="32"
-     x="-39"
-     height="7"
-     width="7"
-     transform="scale(-1,1)"
-     id="rect32801" />
-  <rect
-     id="rect4099"
-     transform="scale(-1,1)"
-     width="7"
-     height="7"
-     x="-16"
-     y="20.5"
-     style="fill:#4d4d4d;fill-rule:evenodd" />
-  <rect
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     id="rect4101"
-     width="4"
-     height="26.999998"
-     x="23"
-     y="10.500001" />
-  <rect
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     id="rect4103"
-     width="9"
-     height="4"
-     x="23"
-     y="10.500001" />
-  <rect
-     y="33.5"
-     x="23"
-     height="4"
-     width="9"
-     id="rect4105"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-  <rect
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     id="rect4107"
-     width="16"
-     height="4"
-     x="16"
-     y="22" />
 </svg>

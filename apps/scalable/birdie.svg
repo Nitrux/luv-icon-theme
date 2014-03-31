@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12676"
+   inkscape:version="0.49 r12742"
    viewBox="0 0 13.546667 13.546667"
    sodipodi:docname="birdie.svg">
   <defs
@@ -25,15 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="72.101902"
-     inkscape:cy="43.421913"
+     inkscape:zoom="8"
+     inkscape:cx="29.685989"
+     inkscape:cy="31.557412"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     units="px">
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1">
     <sodipodi:guide
        position="8.9999996,39.000048"
        orientation="30.000028,0"
@@ -59,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,47 +73,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-283.45333)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3281"
-       width="8.4666672"
-       height="8.4666672"
-       x="2.54"
-       y="285.99332" />
-    <rect
-       y="289.6622"
-       x="12.417778"
-       height="1.128889"
-       width="1.128889"
-       id="rect3308"
-       style="fill:none;stroke:none"
-       ry="0.56444448" />
-    <rect
-       ry="0.56444448"
-       style="fill:none;stroke:none"
-       id="rect3310"
-       width="1.128889"
-       height="1.128889"
-       x="0"
-       y="289.6622" />
-    <rect
-       ry="0.56444448"
-       style="fill:none;stroke:none"
-       id="rect3312"
-       width="1.128889"
-       height="1.128889"
-       x="295.87109"
-       y="-7.3377781"
-       transform="matrix(0,1,-1,0,0,0)" />
-    <rect
-       y="-7.3377781"
-       x="283.45334"
-       height="1.128889"
-       width="1.128889"
-       id="rect3314"
-       style="fill:none;stroke:none"
-       ry="0.56444448"
-       transform="matrix(0,1,-1,0,0,0)" />
     <rect
        y="284.58218"
        x="1.1288891"

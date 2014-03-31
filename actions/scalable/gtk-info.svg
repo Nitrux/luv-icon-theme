@@ -13,9 +13,9 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12660"
+   inkscape:version="0.49 r12742"
    viewBox="0 0 13.546667 13.546667"
-   sodipodi:docname="gtk-info.svg">
+   sodipodi:docname="document-info.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,12 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0343727"
-     inkscape:cx="2.5350753"
-     inkscape:cy="28.502947"
+     inkscape:cx="21.95165"
+     inkscape:cy="28.254017"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     units="px">
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1">
     <sodipodi:guide
        position="8.9999996,39.000048"
        orientation="30.000028,0"
@@ -57,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,39 +71,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-283.45333)">
-    <rect
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect4224"
-       width="8.4666672"
-       height="8.4666748"
-       x="2.54"
-       y="285.99332" />
     <path
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 6.7727823,285.99332 c 0.5172352,-3e-5 0.988329,0.47057 0.988329,0.98777 0,0.51721 -0.4710938,0.98781 -0.988329,0.98778 -0.5172352,-3e-5 -0.9872266,-0.47062 -0.9872266,-0.98778 0,-0.51715 0.4699914,-0.98774 0.9872266,-0.98777 z"
-       id="rect3262"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssss" />
-    <rect
-       y="289.37997"
-       x="6.208889"
-       height="5.0799999"
-       width="1.128889"
-       id="rect3274"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3276"
-       width="2.54"
-       height="0.84666669"
-       x="5.5033336"
-       y="293.61331" />
-    <rect
-       y="289.37997"
-       x="5.0799999"
-       height="0.56444448"
-       width="1.128889"
-       id="rect3278"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       d="M 23.998047 9 C 22.165324 9.0001063 20.5 10.667579 20.5 12.5 C 20.5 14.332457 22.165324 15.999894 23.998047 16 C 25.83077 16.000106 27.5 14.332634 27.5 12.5 C 27.5 10.667402 25.83077 8.9998937 23.998047 9 z M 18 21 L 18 23 L 22 23 L 22 36 L 19.5 36 L 19.5 39 L 28.5 39 L 28.5 36 L 26 36 L 26 21 L 22 21 L 18 21 z "
+       transform="matrix(0.28222223,0,0,0.28222223,0,283.45333)"
+       id="rect3262" />
   </g>
 </svg>

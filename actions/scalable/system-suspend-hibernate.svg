@@ -1,16 +1,108 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <rect id="rect3282" transform="matrix(0 -1 -1 0 25.8835 19.7543)" fill="#4d4d4d" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.62468612157" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="10.62968082693pt" height="2.42506297332pt"/>
-  <rect id="rect32821" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 28.5406 22.1809)" fill="#4d4d4d" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.62468612157" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="10.61597846321pt" height="2.42193690629pt"/>
-  <rect id="rect32822" transform="matrix(1 0 0 -1 28.8939 25.7783)" fill="#4d4d4d" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.62468612157" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="10.44160407731pt" height="2.38215500938pt"/>
-  <rect id="rect32823" transform="matrix(0.707107 0.707107 0.707107 -0.707107 26.2272 28.4717)" fill="#4d4d4d" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.62468612157" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="10.64216748038pt" height="2.42791168736pt"/>
-  <rect id="rect32824" transform="matrix(8.88178e-16 1 1 -8.88178e-16 22.605 28.8029)" fill="#4d4d4d" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.62468612157" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="10.51607184431pt" height="2.39914413891pt"/>
-  <rect id="rect32825" transform="matrix(-0.707107 0.707107 0.707107 0.707107 19.8966 26.2921)" fill="#4d4d4d" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.62468612157" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="10.57090526948pt" height="2.41165387568pt"/>
-  <rect id="rect32826" transform="matrix(-1 0 0 1 19.7909 22.607)" fill="#4d4d4d" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.62468612157" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="10.56958427332pt" height="2.41135250268pt"/>
-  <rect id="rect32827" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 22.1671 19.831)" fill="#4d4d4d" fill-rule="evenodd" stroke="#4c4c4c" stroke-width="0.62468612157" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" width="10.54850670416pt" height="2.40654385100pt"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="system-suspend-hibernate.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview10"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="13.906433"
+     inkscape:cx="16.33138"
+     inkscape:cy="25.280368"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true">
+    <sodipodi:guide
+       position="9.000001,39.000001"
+       orientation="29.999999,0"
+       id="guide4070" />
+    <sodipodi:guide
+       position="9.000001,9.0000019"
+       orientation="0,29.999999"
+       id="guide4072" />
+    <sodipodi:guide
+       position="39,9.0000019"
+       orientation="-29.999999,0"
+       id="guide4074" />
+    <sodipodi:guide
+       position="39,39.000001"
+       orientation="0,-29.999999"
+       id="guide4076" />
+    <sodipodi:guide
+       position="9.5367432e-07,48.000001"
+       orientation="47.999999,0"
+       id="guide4078" />
+    <sodipodi:guide
+       position="9.5367432e-07,1.9073486e-06"
+       orientation="0,47.999999"
+       id="guide4080" />
+    <sodipodi:guide
+       position="48,1.9073486e-06"
+       orientation="-47.999999,0"
+       id="guide4082" />
+    <sodipodi:guide
+       position="48,48.000001"
+       orientation="0,-47.999999"
+       id="guide4084" />
+    <sodipodi:guide
+       position="23.999998,24.000004"
+       orientation="15.000002,0"
+       id="guide4111" />
+    <sodipodi:guide
+       position="23.999998,9.0000019"
+       orientation="0,15.000002"
+       id="guide4113" />
+    <sodipodi:guide
+       position="39,9.0000019"
+       orientation="-15.000002,0"
+       id="guide4115" />
+    <sodipodi:guide
+       position="39,24.000004"
+       orientation="0,-15.000002"
+       id="guide4117" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <path
+     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+     d="M 22 9 L 22 19.171875 L 14.806641 11.978516 L 11.978516 14.806641 L 19.171875 22 L 9 22 L 9 26 L 19.171875 26 L 11.978516 33.193359 L 14.806641 36.021484 L 22 28.828125 L 22 39 L 26 39 L 26 28.828125 L 33.193359 36.021484 L 36.021484 33.193359 L 28.828125 26 L 39 26 L 39 22 L 28.828125 22 L 36.021484 14.806641 L 33.193359 11.978516 L 26 19.171875 L 26 9 L 22 9 z M 22.34375 20 L 25.65625 20 L 28 22.34375 L 28 25.65625 L 25.65625 28 L 22.34375 28 L 20 25.65625 L 20 22.34375 L 22.34375 20 z "
+     id="rect4215" />
 </svg>
