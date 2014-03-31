@@ -40,9 +40,9 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="9.8333329"
-     inkscape:cx="-10.781441"
-     inkscape:cy="19.566282"
-     inkscape:window-x="0"
+     inkscape:cx="21.354154"
+     inkscape:cy="27.498486"
+     inkscape:window-x="-2"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
@@ -81,56 +81,68 @@
   </sodipodi:namedview>
   <defs
      id="defs4" />
-  <rect
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     id="rect4086"
-     width="4"
-     height="9"
-     x="9.000001"
-     y="30" />
-  <rect
-     y="-39"
-     x="35"
-     height="30"
-     width="4"
-     id="rect4088"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     transform="matrix(0,1,-1,0,0,0)" />
-  <rect
-     y="30"
-     x="35"
-     height="9"
-     width="4"
-     id="rect4090"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-  <rect
-     y="9.0000038"
-     x="9.000001"
-     height="9"
-     width="4"
-     id="rect4094"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-  <rect
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     id="rect4096"
-     width="4"
-     height="9"
-     x="35"
-     y="9.0000038" />
-  <rect
-     transform="matrix(0,1,-1,0,0,0)"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     id="rect4154"
-     width="3"
-     height="30"
-     x="22.5"
-     y="-39" />
-  <rect
-     y="-39"
-     x="9.0000038"
-     height="30"
-     width="4"
-     id="rect4156"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-     transform="matrix(0,1,-1,0,0,0)" />
+  <g
+     transform="translate(-461.71429,-499.79075)"
+     id="layer1"
+     inkscape:label="Capa 1" />
+  <g
+     id="g4159"
+     transform="matrix(0,1,-1,0,48.000001,0)">
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-18.000002"
+       x="9.0000029"
+       height="9"
+       width="4"
+       id="rect4086"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(-1,-1)"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4088"
+       width="4"
+       height="30"
+       x="-13.000002"
+       y="-39" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4090"
+       width="4"
+       height="9"
+       x="35"
+       y="-18.000002" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4094"
+       width="4"
+       height="9"
+       x="9.0000029"
+       y="-39" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-39"
+       x="35"
+       height="9"
+       width="4"
+       id="rect4096"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+    <rect
+       y="-39"
+       x="-25.5"
+       height="30"
+       width="3"
+       id="rect4154"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       transform="scale(-1,-1)" />
+    <rect
+       transform="scale(-1,-1)"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4156"
+       width="4"
+       height="30"
+       x="-39"
+       y="-39" />
+  </g>
 </svg>

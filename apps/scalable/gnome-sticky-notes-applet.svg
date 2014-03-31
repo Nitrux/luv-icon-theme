@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12677"
+   inkscape:version="0.49 r12742"
    sodipodi:docname="basket.svg">
   <defs
      id="defs4" />
@@ -24,18 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.1425341"
-     inkscape:cx="24.438539"
-     inkscape:cy="32.600656"
+     inkscape:zoom="11.716856"
+     inkscape:cx="24.621843"
+     inkscape:cy="25.738771"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      showguides="true">
     <sodipodi:guide
@@ -104,34 +104,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <circle
-       style="fill:none;stroke:none"
-       id="path3267"
-       cx="3.5"
-       cy="1028.3622"
-       r="3.5"
-       d="m 7,1028.3622 a 3.5,3.5 0 0 1 -3.5,3.5 3.5,3.5 0 0 1 -3.5,-3.5 3.5,3.5 0 0 1 3.5,-3.5 3.5,3.5 0 0 1 3.5,3.5 z" />
-    <circle
-       r="3.5"
-       cy="1028.3622"
-       cx="44.5"
-       id="circle3269"
-       style="fill:none;stroke:none"
-       d="m 48,1028.3622 a 3.5,3.5 0 0 1 -3.5,3.5 3.5,3.5 0 0 1 -3.5,-3.5 3.5,3.5 0 0 1 3.5,-3.5 3.5,3.5 0 0 1 3.5,3.5 z" />
-    <circle
-       style="fill:none;stroke:none"
-       id="circle3271"
-       cx="24"
-       cy="1006.3622"
-       r="2"
-       d="m 26,1006.3622 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
-    <circle
-       r="2"
-       cy="1050.3622"
-       cx="24"
-       id="circle3273"
-       style="fill:none;stroke:none"
-       d="m 26,1050.3622 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
     <rect
        style="fill:#ae8566;fill-opacity:1;stroke:none"
        id="rect4043"
@@ -146,27 +118,6 @@
        width="29.999998"
        id="rect4047"
        style="fill:#fdf4a9;fill-opacity:1;stroke:none" />
-    <circle
-       style="fill:none;stroke:none"
-       id="circle3277"
-       cx="40"
-       cy="1028.3622"
-       r="1"
-       d="m 41,1028.3622 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
-    <circle
-       r="1"
-       cy="1028.3622"
-       cx="8"
-       id="circle3279"
-       style="fill:none;stroke:none"
-       d="m 9,1028.3622 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
-    <circle
-       style="fill:none;stroke:none"
-       id="circle3281"
-       cx="24"
-       cy="1047.3622"
-       r="1"
-       d="m 25,1047.3622 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
     <rect
        y="-39"
        x="1017.3622"
@@ -175,20 +126,6 @@
        id="rect4051"
        style="fill:#fbef82;fill-opacity:1;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
-    <circle
-       style="fill:none;stroke:none"
-       id="circle3283"
-       cx="24"
-       cy="1013.8622"
-       r="3.5"
-       d="m 27.5,1013.8622 a 3.5,3.5 0 0 1 -3.5,3.5 3.5,3.5 0 0 1 -3.5,-3.5 3.5,3.5 0 0 1 3.5,-3.5 3.5,3.5 0 0 1 3.5,3.5 z" />
-    <circle
-       r="3.5"
-       cy="1042.8622"
-       cx="24"
-       id="circle3285"
-       style="fill:none;stroke:none"
-       d="m 27.5,1042.8622 a 3.5,3.5 0 0 1 -3.5,3.5 3.5,3.5 0 0 1 -3.5,-3.5 3.5,3.5 0 0 1 3.5,-3.5 3.5,3.5 0 0 1 3.5,3.5 z" />
     <rect
        transform="matrix(0,1,-1,0,0,0)"
        style="fill:#fbef82;fill-opacity:1;stroke:none"
@@ -212,19 +149,5 @@
        height="36"
        x="13"
        y="1010.3622" />
-    <circle
-       style="fill:none;stroke:none"
-       id="circle3295"
-       cx="11"
-       cy="1028.3622"
-       r="2"
-       d="m 13,1028.3622 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3275"
-       width="30"
-       height="30"
-       x="9"
-       y="1013.3622" />
   </g>
 </svg>

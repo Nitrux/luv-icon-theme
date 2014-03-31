@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12677"
+   inkscape:version="0.49 r12742"
    sodipodi:docname="gpk-prefs.svg">
   <defs
      id="defs4" />
@@ -24,22 +24,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.1249261"
-     inkscape:cx="11.794832"
-     inkscape:cy="23.945453"
+     inkscape:zoom="8.6619536"
+     inkscape:cx="15.543432"
+     inkscape:cy="20.722603"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="718"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
-     showguides="true">
-    <sodipodi:guide
-       orientation="1,0"
-       position="-51.489539,15.354504"
-       id="guide3272" />
+     showguides="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
     <sodipodi:guide
        position="9,9.0000174"
        orientation="-30,0"
@@ -81,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,80 +88,29 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <circle
-       style="fill:#ecf0f1;fill-opacity:1;stroke:none"
-       id="path4064"
-       transform="scale(1,-1)"
-       cx="24"
-       cy="-1028.3622"
-       r="20" />
-    <circle
-       r="17"
-       cy="-1028.3622"
-       cx="24"
-       transform="scale(1,-1)"
-       id="circle3331"
-       style="fill:#2dc3a9;fill-opacity:0.99607843;stroke:none" />
     <g
-       id="g839"
-       transform="translate(-308.06918,674.42268)">
-      <g
-         id="text872"
-         style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold" />
+       id="g4080">
+      <circle
+         d="m 44,-1028.3622 a 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 20,20 0 0 1 20,20 z"
+         r="20"
+         cy="-1028.3622"
+         cx="24"
+         transform="scale(1,-1)"
+         id="path4064"
+         style="fill:#ecf0f1;fill-opacity:1;stroke:none" />
+      <circle
+         d="m 41,-1028.3622 a 17,17 0 0 1 -17,17 17,17 0 0 1 -17,-17 17,17 0 0 1 17,-17 17,17 0 0 1 17,17 z"
+         style="fill:#2dc3a9;fill-opacity:0.99607843;stroke:none"
+         id="circle3331"
+         transform="scale(1,-1)"
+         cx="24"
+         cy="-1028.3622"
+         r="17" />
+      <path
+         id="path3331"
+         transform="translate(0,1004.3622)"
+         d="M 23.996094 15 C 21.639736 15.0002 19.297777 15.970619 17.632812 17.636719 C 15.967848 19.302819 15 21.644 15 24 C 15 26.356 15.967849 28.697181 17.632812 30.363281 C 19.297777 32.029381 21.639736 32.9998 23.996094 33 C 26.35245 33.0002 28.694239 32.029381 30.361328 30.363281 C 32.028418 28.697181 33 26.3563 33 24 C 33 21.6437 32.028418 19.302819 30.361328 17.636719 C 28.694239 15.970619 26.35245 14.9998 23.996094 15 z M 23.996094 17 C 27.661538 16.9998 31 20.3347 31 24 C 31 27.6653 27.661538 31.0002 23.996094 31 C 20.330649 30.9998 17 27.665 17 24 C 17 20.335 20.330649 17.0002 23.996094 17 z M 24 19 L 18.5 25 L 22 25 L 22 29 L 26 29 L 26 25 L 29.5 25 L 24 19 z "
+         style="fill:#354b5f;fill-opacity:1;stroke:none" />
     </g>
-    <circle
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path3264"
-       cx="2"
-       cy="1028.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1028.3622"
-       cx="46"
-       id="circle3266"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <circle
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="circle3268"
-       cx="24"
-       cy="1006.3622"
-       r="2" />
-    <circle
-       r="2"
-       cy="1050.3622"
-       cx="24"
-       id="circle3270"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#354b5f;fill-opacity:1;stroke:none"
-       d="m 23.996094,1019.3622 c -2.356358,2e-4 -4.698317,0.9706 -6.363282,2.6367 C 15.967848,1023.665 15,1026.0062 15,1028.3622 c 0,2.356 0.967848,4.6972 2.632812,6.3633 1.664965,1.6661 4.006924,2.6365 6.363282,2.6367 2.356356,2e-4 4.698145,-0.9706 6.365234,-2.6367 1.66709,-1.6661 2.638672,-4.007 2.638672,-6.3633 0,-2.3563 -0.971582,-4.6972 -2.638672,-6.3633 -1.667089,-1.6661 -4.008878,-2.6369 -6.365234,-2.6367 z m 0,2 c 3.665444,-2e-4 7.003906,3.3347 7.003906,7 0,3.6653 -3.338462,7.0002 -7.003906,7 -3.665445,-2e-4 -6.996094,-3.335 -6.996094,-7 0,-3.665 3.330649,-6.9998 6.996094,-7 z"
-       id="path3331" />
-    <rect
-       style="fill:#354b5f;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect4351"
-       width="4"
-       height="7"
-       x="22"
-       y="-1033.3622"
-       transform="scale(1,-1)" />
-    <path
-       sodipodi:type="star"
-       style="fill:#354b5f;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path4353"
-       sodipodi:sides="3"
-       sodipodi:cx="24.000002"
-       sodipodi:cy="1033.1117"
-       sodipodi:r1="4.2504597"
-       sodipodi:r2="2.1252298"
-       sodipodi:arg1="1.5707963"
-       sodipodi:arg2="2.6179939"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 24.000002,1037.3622 -3.681006,-6.3757 7.362012,0 z"
-       inkscape:transform-center-y="-1.0001657"
-       transform="matrix(1.4941567,0,0,-0.94107467,-11.859764,1999.5974)" />
   </g>
 </svg>

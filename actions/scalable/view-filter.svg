@@ -40,9 +40,9 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="4.9166665"
-     inkscape:cx="37.694099"
-     inkscape:cy="43.929079"
-     inkscape:window-x="0"
+     inkscape:cx="12.473759"
+     inkscape:cy="43.5223"
+     inkscape:window-x="-2"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
@@ -179,12 +179,6 @@
      id="defs4" />
   <path
      style="fill:#4d4d4d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 9.000001,9.0000009 18.5,21 29.5,21 39,9.0000009 Z"
-     id="path4124"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#4d4d4d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 26.5,39 -3.999996,-4 0,-10 L 26.5,21 Z"
-     id="path4146"
-     inkscape:connector-curvature="0" />
+     d="M 9 9 L 18.5 21 L 26.5 21 L 29.5 21 L 39 9 L 9 9 z M 26.5 21 L 22.5 25 L 22.5 35 L 26.5 39 L 26.5 21 z "
+     id="path4124" />
 </svg>

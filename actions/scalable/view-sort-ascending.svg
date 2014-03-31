@@ -13,7 +13,7 @@
    height="48"
    id="svg3070"
    version="1.1"
-   inkscape:version="0.48+devel r12662"
+   inkscape:version="0.49 r12742"
    sodipodi:docname="gtk-sort-ascending.svg">
   <defs
      id="defs3072" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0171864"
-     inkscape:cx="24.840859"
-     inkscape:cy="24.008981"
+     inkscape:zoom="8.0343728"
+     inkscape:cx="10.052447"
+     inkscape:cy="22.582149"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,9 +35,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="9.0000117,39.000012"
@@ -73,73 +73,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-424.57143,-522.6479)">
-    <rect
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3264"
-       width="30"
-       height="30"
-       x="433.57144"
-       y="531.64789" />
-    <rect
-       y="554.64789"
-       x="433.57144"
-       height="7"
-       width="7"
-       id="rect3276"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3278"
-       width="7"
-       height="7"
-       x="433.57144"
-       y="531.64789" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3280"
-       width="7"
-       height="7"
-       x="433.57144"
-       y="543.14789" />
     <path
-       sodipodi:type="arc"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path3282"
-       sodipodi:cx="442.57007"
-       sodipodi:cy="535.14789"
-       sodipodi:rx="2.0013857"
-       sodipodi:ry="2.0000615"
-       d="m 444.57145,535.14789 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z" />
-    <rect
-       y="533.14789"
-       x="444.57144"
-       height="4"
-       width="19.000002"
-       id="rect3284"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-    <rect
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3286"
-       width="19.000002"
-       height="4"
-       x="444.57144"
-       y="544.64789" />
-    <path
-       sodipodi:type="star"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path3290"
-       sodipodi:sides="3"
-       sodipodi:cx="454.07144"
-       sodipodi:cy="555.31879"
-       sodipodi:r1="6.3290801"
-       sodipodi:r2="3.1645398"
-       sodipodi:arg1="1.5707963"
-       sodipodi:arg2="2.6179939"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 454.07144,561.64787 -5.48114,-9.49362 10.96229,0 z"
-       inkscape:transform-center-y="0.25464696"
-       transform="matrix(0.82099647,0,0,0.42133558,81.280392,323.50566)" />
+       d="M 9 9 L 9 16 L 16 16 L 16 9 L 9 9 z M 20 10.5 L 20 14.5 L 39 14.5 L 39 10.5 L 20 10.5 z M 9 20.5 L 9 27.5 L 16 27.5 L 16 20.5 L 9 20.5 z M 20 22 L 20 26 L 39 26 L 39 22 L 20 22 z M 9 32 L 9 39 L 16 39 L 16 32 L 9 32 z M 25 33.5 L 29.5 37.5 L 34 33.5 L 25 33.5 z "
+       transform="translate(424.57143,522.6479)"
+       id="rect3276" />
   </g>
 </svg>

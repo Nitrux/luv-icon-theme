@@ -13,7 +13,7 @@
    height="48"
    id="svg18107"
    version="1.1"
-   inkscape:version="0.48+devel r12677"
+   inkscape:version="0.49 r12742"
    sodipodi:docname="document-import.svg">
   <defs
      id="defs18109">
@@ -37,15 +37,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="1.5511827"
-     inkscape:cy="18.477839"
+     inkscape:cx="29.481899"
+     inkscape:cy="18.301062"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="18,39.000017"
@@ -129,66 +129,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3344"
-       width="30"
-       height="30"
-       x="18"
-       y="1013.3622" />
-    <rect
-       y="1025.3622"
-       x="0"
-       height="18"
-       width="18"
-       id="rect3346"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 21.999985,1013.3622 0,30 26,0 0,-15 -4,0 0,11 -18,0 0,-22 9,0 0,-4 -13,0 z"
+       d="M 22 9 L 22 39 L 48 39 L 48 24 L 44 24 L 44 35 L 26 35 L 26 13 L 35 13 L 35 9 L 22 9 z M 39 9 L 39 20 L 48 20 L 48 9 L 39 9 z M 4 21 L 4 39 L 14 30 L 4 21 z "
+       transform="translate(0,1004.3622)"
        id="rect3278" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3320"
-       width="9"
-       height="10.999969"
-       x="39"
-       y="-1024.3622"
-       transform="scale(1,-1)" />
-    <path
-       sodipodi:type="star"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path3404"
-       sodipodi:sides="3"
-       sodipodi:cx="7.7790766"
-       sodipodi:cy="1033.4435"
-       sodipodi:r1="5.5022216"
-       sodipodi:r2="2.7511108"
-       sodipodi:arg1="0.78539816"
-       sodipodi:arg2="1.8325957"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 11.669735,1037.3341 -9.2053963,-2.4665 6.7388176,-6.7389 z"
-       inkscape:transform-center-x="-1.6666522"
-       transform="matrix(0.85675307,-1.3355459,0.85675307,1.3355459,-884.73731,-335.45971)"
-       inkscape:transform-center-y="4.2358279e-05" />
-    <ellipse
-       style="fill:none;stroke:none"
-       id="path3406"
-       cx="2"
-       cy="1028.3622"
-       rx="2"
-       ry="2.0000615" />
-    <path
-       d="m 18,1034.3622 a 2.0013857,2.0000615 0 0 1 -2.001386,2 2.0013857,2.0000615 0 0 1 -2.001385,-2 2.0013857,2.0000615 0 0 1 2.001385,-2.0001 A 2.0013857,2.0000615 0 0 1 18,1034.3622 Z"
-       sodipodi:ry="2.0000615"
-       sodipodi:rx="2.0013857"
-       sodipodi:cy="1034.3622"
-       sodipodi:cx="15.998614"
-       id="path3408"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       sodipodi:type="arc" />
   </g>
 </svg>

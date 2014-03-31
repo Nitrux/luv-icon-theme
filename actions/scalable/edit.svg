@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12660"
+   inkscape:version="0.49 r12742"
    sodipodi:docname="document-edit.svg">
   <defs
      id="defs4" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="42.43255"
-     inkscape:cy="30.218226"
+     inkscape:zoom="16"
+     inkscape:cx="25.748522"
+     inkscape:cy="29.067374"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,9 +38,9 @@
      fit-margin-bottom="0"
      showguides="true"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="9,39.000017"
@@ -116,70 +116,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3265"
-       width="30"
-       height="30"
-       x="9"
-       y="1013.3622" />
-    <g
-       id="g839"
-       transform="translate(-283.57519,691.68465)">
-      <g
-         id="text872"
-         style="font-size:7.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold" />
-    </g>
-    <rect
-       y="1032.3622"
-       x="9"
-       height="11"
-       width="11"
-       id="rect3277"
-       style="fill:none;stroke:none" />
     <path
        style="fill:#4d4d4d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 20,1043.3622 -11,-11 0,11 z"
-       id="path3289"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 33.878906 19.464844 L 31.050781 22.292969 L 33.878906 25.121094 L 36.707031 22.292969 L 33.878906 19.464844 z "
-       id="path4158"
-       transform="translate(0,1004.3622)" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 28.535156 14.121094 L 25.707031 16.949219 L 31.050781 22.292969 L 33.878906 19.464844 L 28.535156 14.121094 z "
-       id="path4153"
-       transform="translate(0,1004.3622)" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 25.707031 11.292969 L 22.878906 14.121094 L 25.707031 16.949219 L 28.535156 14.121094 L 25.707031 11.292969 z "
-       id="path4151"
-       transform="translate(0,1004.3622)" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 32.760156,1024.9481 -15.585937,15.5859 2.828124,2.8282 15.585938,-15.586 -2.828125,-2.8281 z"
-       id="path4120" />
-    <path
-       id="path3316"
-       d="M 24.585937,1016.7762 9,1032.3621 l 2.828124,2.8282 15.585938,-15.586 -2.828125,-2.8281 z"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 28.998047,1013.3622 -1.394532,1.3945 10.001953,10.0019 L 39,1023.3641 28.998047,1013.3622 Z"
-       id="path4171"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 36.68212,1021.4444 a 1.0006928,1.0000308 0 1 1 0,0 1.0006928,1.0000308 0 1 1 0,0 z"
-       sodipodi:ry="1.0000308"
-       sodipodi:rx="1.0006928"
-       sodipodi:cy="1021.4444"
-       sodipodi:cx="35.681427"
-       id="path4175"
-       style="fill:none;fill-opacity:0.43093926;fill-rule:evenodd;stroke:none"
-       sodipodi:type="arc" />
+       d="M 28.998047 9 L 27.603516 10.394531 L 37.605469 20.396484 L 39 19.001953 L 28.998047 9 z M 25.707031 11.292969 L 24.585938 12.414062 L 22.878906 14.121094 L 9 28 L 9 39 L 20 39 L 20.001953 39 L 33.878906 25.121094 L 35.585938 23.414062 L 35.587891 23.414062 L 36.707031 22.292969 L 33.878906 19.464844 L 28.535156 14.121094 L 25.707031 11.292969 z M 25.707031 16.949219 L 31.050781 22.292969 L 17.173828 36.171875 L 11.828125 30.828125 L 25.707031 16.949219 z "
+       transform="translate(0,1004.3622)"
+       id="path3289" />
   </g>
 </svg>
