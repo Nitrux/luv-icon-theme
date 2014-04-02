@@ -33,8 +33,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.1825098"
-     inkscape:cx="8.7550475"
-     inkscape:cy="29.622481"
+     inkscape:cx="17.798727"
+     inkscape:cy="29.378057"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -102,10 +102,10 @@
     <g
        id="g4085">
       <path
-         id="rect3313"
+         style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="M 9 4 L 9 8 L 9 14 L 13 14 L 13 8 L 35 8 L 35 14 L 39 14 L 39 8 L 39 4 L 9 4 z "
          transform="translate(180.23661,689.8125)"
-         d="M 9 4 L 9 8 L 35 8 L 35 14 L 39 14 L 39 8 L 39 4 L 9 4 z "
-         style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         id="rect3313" />
       <rect
          y="698.8125"
          x="189.2366"
@@ -136,13 +136,6 @@
          id="ellipse3329"
          style="fill:none;stroke:none"
          transform="matrix(0,1,-1,0,0,0)" />
-      <rect
-         style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="rect3331"
-         width="4"
-         height="6.0000005"
-         x="189.2366"
-         y="697.81232" />
       <ellipse
          d="m 205.23659,711.8125 a 1.0006928,1.0000308 0 0 1 -1.00069,1.00003 1.0006928,1.0000308 0 0 1 -1.00069,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,-1.00003 1.0006928,1.0000308 0 0 1 1.00069,1.00003 z"
          ry="1.0000308"
