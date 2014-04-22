@@ -1,54 +1,538 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <path id="rect3300" transform="matrix(8.88178e-16 -1 1 8.88178e-16 4.00394 44.008)" fill="#76bd74" d="M0 0L0 39.9839L40.004 39.9839L40.004 0Z"/>
-  <rect id="rect3345" transform="matrix(8.88178e-16 -1 1 8.88178e-16 41.9891 39.0074)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect3589" transform="matrix(8.88178e-16 -1 1 8.88178e-16 38.9898 36.0071)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="3.99873112141pt"/>
-  <rect id="rect3595" transform="matrix(8.88178e-16 -1 1 8.88178e-16 38.9898 33.0069)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="3.99873112141pt"/>
-  <rect id="rect3611" transform="matrix(8.88178e-16 -1 1 8.88178e-16 38.9898 30.0065)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="3.99873112141pt"/>
-  <rect id="rect3628" transform="matrix(8.88178e-16 -1 1 8.88178e-16 38.9898 27.0062)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="3.99873112141pt"/>
-  <rect id="rect3634" transform="matrix(8.88178e-16 -1 1 8.88178e-16 38.9898 24.0059)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="3.99873112141pt"/>
-  <rect id="rect3640" transform="matrix(8.88178e-16 -1 1 8.88178e-16 38.9898 21.0056)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="3.99873112141pt"/>
-  <rect id="rect3646" transform="matrix(8.88178e-16 -1 1 8.88178e-16 38.9898 18.0053)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="3.99873112141pt"/>
-  <rect id="rect36461" transform="matrix(0 -1 1 0 38.9745 11.8155)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="3.99873112141pt"/>
-  <rect id="rect36462" transform="matrix(0 -1 1 0 38.9745 8.62911)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="3.99873112141pt"/>
-  <rect id="rect33451" transform="matrix(0 -1 1 0 42.0088 41.9486)" fill="#f1cb6d" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect33452" transform="matrix(0 -1 1 0 16.3004 12.8712)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect33453" transform="matrix(0 -1 1 0 16.3004 16.0334)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect33454" transform="matrix(0 -1 1 0 16.3004 19.08)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect33455" transform="matrix(0 -1 1 0 16.3004 22.2423)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect33456" transform="matrix(0 -1 1 0 7.42357 12.9675)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect33457" transform="matrix(0 -1 1 0 7.42357 16.1298)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect33458" transform="matrix(0 -1 1 0 7.42357 19.1764)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect33459" transform="matrix(0 -1 1 0 7.42357 22.3387)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="shape0" transform="translate(9.40308, 9.0173)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="5.48751582781pt" height="12.40226316326pt"/>
-  <rect id="rect334510" transform="matrix(0 -1 1 0 32.5555 12.6012)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect334511" transform="matrix(0 -1 1 0 32.5555 15.7635)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect334512" transform="matrix(0 -1 1 0 32.5555 18.8101)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect334513" transform="matrix(0 -1 1 0 32.5555 21.9723)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect334514" transform="matrix(0 -1 1 0 23.6786 12.6976)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect334515" transform="matrix(0 -1 1 0 23.6786 15.8598)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect334516" transform="matrix(0 -1 1 0 23.6786 18.9064)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="rect334517" transform="matrix(0 -1 1 0 23.6786 22.0687)" fill="#c4cbcf" fill-rule="evenodd" width="1.60015881525pt" height="1.59935579960pt"/>
-  <rect id="shape1" transform="translate(25.6582, 8.74729)" fill="#435564" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="5.48751582781pt" height="12.40226316326pt"/>
-  <rect id="rect334518" transform="matrix(0 -1 1 0 12.6127 41.0269)" fill="#c4cbcf" fill-rule="evenodd" width="11.22888563812pt" height="0.42844116276pt"/>
-  <rect id="rect334519" transform="matrix(0 -1 1 0 11.6681 37.9006)" fill="#8e7e6d" fill-rule="evenodd" width="6.13840027189pt" height="1.89226840635pt"/>
-  <rect id="rect334520" transform="matrix(0 -1 1 0 16.9944 40.9642)" fill="#c4cbcf" fill-rule="evenodd" width="11.22888563812pt" height="0.42844116276pt"/>
-  <rect id="rect334521" transform="matrix(0 -1 1 0 16.0498 37.838)" fill="#8e7e6d" fill-rule="evenodd" width="6.13840027189pt" height="1.89226840635pt"/>
-  <rect id="rect334522" transform="matrix(0 -1 1 0 8.2169 41.0626)" fill="#c4cbcf" fill-rule="evenodd" width="11.22888563812pt" height="0.42844116276pt"/>
-  <rect id="rect334523" transform="matrix(0 -1 1 0 7.27228 37.9363)" fill="#8e7e6d" fill-rule="evenodd" width="6.13840027189pt" height="1.89226840635pt"/>
-  <rect id="rect334524" transform="translate(23.1269, 32.4625)" fill="#c4cbcf" fill-rule="evenodd" width="10.72249245344pt" height="0.54811340093pt"/>
-  <rect id="rect334525" transform="translate(26.1122, 31.254)" fill="#f3dfc6" fill-rule="evenodd" width="5.86157457762pt" height="2.42081704985pt"/>
-  <rect id="rect334526" transform="translate(27.5849, 31.2732)" fill="#de6143" fill-rule="evenodd" width="0.66707761737pt" height="2.42081704985pt"/>
-  <rect id="rect334527" transform="translate(29.3982, 31.2732)" fill="#de6143" fill-rule="evenodd" width="0.66707761737pt" height="2.42081704985pt"/>
-  <rect id="rect334528" transform="translate(31.3092, 31.3032)" fill="#de6143" fill-rule="evenodd" width="0.66707761737pt" height="2.42081704985pt"/>
-  <rect id="rect334529" transform="translate(23.1136, 38.9481)" fill="#c4cbcf" fill-rule="evenodd" width="10.72249245344pt" height="0.54811340093pt"/>
-  <rect id="rect334530" transform="translate(26.0988, 37.7396)" fill="#f3dfc6" fill-rule="evenodd" width="5.86157457762pt" height="2.42081704985pt"/>
-  <rect id="rect334531" transform="translate(27.5715, 37.7588)" fill="#de6143" fill-rule="evenodd" width="0.66707761737pt" height="2.42081704985pt"/>
-  <rect id="rect334532" transform="translate(29.3849, 37.7588)" fill="#de6143" fill-rule="evenodd" width="0.66707761737pt" height="2.42081704985pt"/>
-  <rect id="rect334533" transform="translate(31.2959, 37.7888)" fill="#de6143" fill-rule="evenodd" width="0.66707761737pt" height="2.42081704985pt"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="hwinfo.svg">
+  <metadata
+     id="metadata55">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview53"
+     showgrid="false"
+     inkscape:zoom="6.9532164"
+     inkscape:cx="10.820838"
+     inkscape:cy="21.695457"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
+    <sodipodi:guide
+       position="9.5367432e-07,48.000001"
+       orientation="47.999999,0"
+       id="guide4164" />
+    <sodipodi:guide
+       position="9.5367432e-07,1.9073486e-06"
+       orientation="0,47.999999"
+       id="guide4166" />
+    <sodipodi:guide
+       position="48,1.9073486e-06"
+       orientation="-47.999999,0"
+       id="guide4168" />
+    <sodipodi:guide
+       position="48,48.000001"
+       orientation="0,-47.999999"
+       id="guide4170" />
+    <sodipodi:guide
+       position="4.000001,44.000001"
+       orientation="39.999999,0"
+       id="guide4172" />
+    <sodipodi:guide
+       position="4.000001,4.0000019"
+       orientation="0,39.999999"
+       id="guide4174" />
+    <sodipodi:guide
+       position="44,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4176" />
+    <sodipodi:guide
+       position="44,44.000001"
+       orientation="0,-39.999999"
+       id="guide4178" />
+    <sodipodi:guide
+       position="38,44.000001"
+       orientation="39.999999,0"
+       id="guide4228" />
+    <sodipodi:guide
+       position="38,4.0000019"
+       orientation="0,6"
+       id="guide4230" />
+    <sodipodi:guide
+       position="44,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4232" />
+    <sodipodi:guide
+       position="44,44.000001"
+       orientation="0,-6"
+       id="guide4234" />
+    <sodipodi:guide
+       position="4.000001,44.000001"
+       orientation="3,0"
+       id="guide4238" />
+    <sodipodi:guide
+       position="4.000001,41.000001"
+       orientation="0,39.999999"
+       id="guide4240" />
+    <sodipodi:guide
+       position="44,41.000001"
+       orientation="-3,0"
+       id="guide4242" />
+    <sodipodi:guide
+       position="44,44.000001"
+       orientation="0,-39.999999"
+       id="guide4244" />
+    <sodipodi:guide
+       position="38,39"
+       orientation="1,0"
+       id="guide4250" />
+    <sodipodi:guide
+       position="38,38"
+       orientation="0,6"
+       id="guide4252" />
+    <sodipodi:guide
+       position="44,38"
+       orientation="-1,0"
+       id="guide4254" />
+    <sodipodi:guide
+       position="44,39"
+       orientation="0,-6"
+       id="guide4256" />
+    <sodipodi:guide
+       position="38,35.999802"
+       orientation="4,0"
+       id="guide4260" />
+    <sodipodi:guide
+       position="38,31.999802"
+       orientation="0,6"
+       id="guide4262" />
+    <sodipodi:guide
+       position="44,31.999802"
+       orientation="-4,0"
+       id="guide4264" />
+    <sodipodi:guide
+       position="44,35.999802"
+       orientation="0,-6"
+       id="guide4266" />
+    <sodipodi:guide
+       position="38,32"
+       orientation="19.999998,0"
+       id="guide4270" />
+    <sodipodi:guide
+       position="38,12.000002"
+       orientation="0,6"
+       id="guide4272" />
+    <sodipodi:guide
+       position="44,12.000002"
+       orientation="-19.999998,0"
+       id="guide4274" />
+    <sodipodi:guide
+       position="44,32"
+       orientation="0,-6"
+       id="guide4276" />
+    <sodipodi:guide
+       position="38,11.999994"
+       orientation="1,0"
+       id="guide4296" />
+    <sodipodi:guide
+       position="38,10.999994"
+       orientation="0,6"
+       id="guide4298" />
+    <sodipodi:guide
+       position="44,10.999994"
+       orientation="-1,0"
+       id="guide4300" />
+    <sodipodi:guide
+       position="44,11.999994"
+       orientation="0,-6"
+       id="guide4302" />
+    <sodipodi:guide
+       position="38,8.9986019"
+       orientation="1,0"
+       id="guide4304" />
+    <sodipodi:guide
+       position="38,7.9986019"
+       orientation="0,6"
+       id="guide4306" />
+    <sodipodi:guide
+       position="44,7.9986019"
+       orientation="-1,0"
+       id="guide4308" />
+    <sodipodi:guide
+       position="44,8.9986019"
+       orientation="0,-6"
+       id="guide4310" />
+    <sodipodi:guide
+       position="34,44.000001"
+       orientation="39.999999,0"
+       id="guide4314" />
+    <sodipodi:guide
+       position="34,4.0000019"
+       orientation="0,4"
+       id="guide4316" />
+    <sodipodi:guide
+       position="38,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4318" />
+    <sodipodi:guide
+       position="38,44.000001"
+       orientation="0,-4"
+       id="guide4320" />
+    <sodipodi:guide
+       position="23,35.999802"
+       orientation="1,0"
+       id="guide4332" />
+    <sodipodi:guide
+       position="23,34.999802"
+       orientation="0,11"
+       id="guide4334" />
+    <sodipodi:guide
+       position="34,34.999802"
+       orientation="-1,0"
+       id="guide4336" />
+    <sodipodi:guide
+       position="34,35.999802"
+       orientation="0,-11"
+       id="guide4338" />
+    <sodipodi:guide
+       position="4.000001,44.000001"
+       orientation="39.999999,0"
+       id="guide4364" />
+    <sodipodi:guide
+       position="4.000001,4.0000019"
+       orientation="0,4"
+       id="guide4366" />
+    <sodipodi:guide
+       position="8.000001,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4368" />
+    <sodipodi:guide
+       position="8.000001,44.000001"
+       orientation="0,-4"
+       id="guide4370" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <path
+     style="fill:#76bd74;stroke:none"
+     inkscape:connector-curvature="0"
+     id="rect3300"
+     d="m 4.0000008,44.000001 40.0000002,0 0,-40 -40.0000002,0 z" />
+  <rect
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none"
+     y="42"
+     x="-39"
+     id="rect3345"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001986"
+     height="2" />
+  <rect
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none"
+     y="38"
+     x="-12.0002"
+     id="rect36461"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001986"
+     height="6" />
+  <rect
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none"
+     y="38"
+     x="-9.0000019"
+     id="rect36462"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001986"
+     height="6" />
+  <rect
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none"
+     y="42"
+     x="-42"
+     id="rect33451"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001986"
+     height="2" />
+  <rect
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none"
+     y="23"
+     x="-12.0002"
+     id="rect334514"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001986"
+     height="11" />
+  <rect
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none"
+     y="8.7499962"
+     x="-39.999802"
+     id="rect334522"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="14"
+     height="0.5" />
+  <rect
+     style="fill:#8e7e6d;fill-rule:evenodd;stroke:none"
+     y="7.9999967"
+     x="-36.499802"
+     id="rect334523"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="7"
+     height="2" />
+  <rect
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none"
+     y="32.249809"
+     x="23"
+     id="rect334524"
+     width="11"
+     height="0.5" />
+  <rect
+     style="fill:#f3dfc6;fill-rule:evenodd;stroke:none"
+     y="30.999809"
+     x="25"
+     id="rect334525"
+     width="7"
+     height="3" />
+  <rect
+     height="6"
+     width="2.0001988"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4278"
+     x="-21.000006"
+     y="38"
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none" />
+  <rect
+     height="6"
+     width="2.0001988"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4280"
+     x="-17.999809"
+     y="38"
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none"
+     y="38"
+     x="-27.000006"
+     id="rect4282"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001988"
+     height="6" />
+  <rect
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none"
+     y="38"
+     x="-23.999809"
+     id="rect4284"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001988"
+     height="6" />
+  <rect
+     height="6"
+     width="2.0001988"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4286"
+     x="-32.999992"
+     y="38"
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none" />
+  <rect
+     height="6"
+     width="2.0001988"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4288"
+     x="-29.999809"
+     y="38"
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#f1cb6d;fill-rule:evenodd;stroke:none"
+     y="38"
+     x="-36.000008"
+     id="rect4290"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001988"
+     height="6" />
+  <rect
+     height="11"
+     width="2.0001986"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4340"
+     x="-15.000399"
+     y="23"
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none"
+     y="23"
+     x="-18.000597"
+     id="rect4344"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001986"
+     height="11" />
+  <rect
+     height="11"
+     width="2.0001986"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4354"
+     x="-21.000795"
+     y="23"
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#435564;fill-rule:evenodd;stroke:none"
+     y="9.0000019"
+     x="25"
+     id="shape1"
+     stroke-miterlimit="2.00000000000"
+     width="7"
+     height="14" />
+  <rect
+     height="11"
+     width="2.0001986"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4372"
+     x="-12.0002"
+     y="7.999999"
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none"
+     y="7.999999"
+     x="-15.000399"
+     id="rect4374"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001986"
+     height="11" />
+  <rect
+     height="11"
+     width="2.0001986"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4376"
+     x="-18.000597"
+     y="7.999999"
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none"
+     y="7.999999"
+     x="-21.000795"
+     id="rect4378"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="2.0001986"
+     height="11" />
+  <rect
+     height="14"
+     width="7"
+     stroke-miterlimit="2.00000000000"
+     id="rect4380"
+     x="10.000004"
+     y="9.0000019"
+     style="fill:#435564;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#de6143;fill-rule:evenodd;stroke:none"
+     y="30.999809"
+     x="28"
+     id="rect4384"
+     width="1"
+     height="3" />
+  <rect
+     height="3"
+     width="1"
+     id="rect4386"
+     x="26"
+     y="30.999809"
+     style="fill:#de6143;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#de6143;fill-rule:evenodd;stroke:none"
+     y="30.999809"
+     x="30"
+     id="rect4388"
+     width="1"
+     height="3" />
+  <rect
+     height="0.5"
+     width="11"
+     id="rect4400"
+     x="23"
+     y="38.249809"
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none" />
+  <rect
+     height="3"
+     width="7"
+     id="rect4392"
+     x="25"
+     y="36.999809"
+     style="fill:#f3dfc6;fill-rule:evenodd;stroke:none" />
+  <rect
+     height="3"
+     width="1"
+     id="rect4394"
+     x="28"
+     y="36.999809"
+     style="fill:#de6143;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#de6143;fill-rule:evenodd;stroke:none"
+     y="36.999809"
+     x="26"
+     id="rect4396"
+     width="1"
+     height="3" />
+  <rect
+     height="3"
+     width="1"
+     id="rect4398"
+     x="30"
+     y="36.999809"
+     style="fill:#de6143;fill-rule:evenodd;stroke:none" />
+  <rect
+     height="0.5"
+     width="14"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4402"
+     x="-39.999802"
+     y="13.250004"
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none" />
+  <rect
+     height="2"
+     width="7"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="rect4404"
+     x="-36.499802"
+     y="12.500004"
+     style="fill:#8e7e6d;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#c4cbcf;fill-rule:evenodd;stroke:none"
+     y="17.75"
+     x="-39.999802"
+     id="rect4406"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="14"
+     height="0.5" />
+  <rect
+     style="fill:#8e7e6d;fill-rule:evenodd;stroke:none"
+     y="17"
+     x="-36.499802"
+     id="rect4408"
+     transform="matrix(0,-1,1,0,0,0)"
+     width="7"
+     height="2" />
 </svg>

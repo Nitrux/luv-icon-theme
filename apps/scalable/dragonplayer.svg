@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.49 r12742"
    sodipodi:docname="dragonplayer.svg">
   <defs
      id="defs4" />
@@ -25,16 +25,51 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="22.180648"
+     inkscape:cx="15.680648"
      inkscape:cy="24.003066"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="749"
-     inkscape:window-height="592"
-     inkscape:window-x="1053"
-     inkscape:window-y="252"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
+    <sodipodi:guide
+       position="0,48.000017"
+       orientation="48,0"
+       id="guide4063" />
+    <sodipodi:guide
+       position="0,1.7382813e-05"
+       orientation="0,48"
+       id="guide4065" />
+    <sodipodi:guide
+       position="48,1.7382813e-05"
+       orientation="-48,0"
+       id="guide4067" />
+    <sodipodi:guide
+       position="48,48.000017"
+       orientation="0,-48"
+       id="guide4069" />
+    <sodipodi:guide
+       position="4,44.000017"
+       orientation="40,0"
+       id="guide4071" />
+    <sodipodi:guide
+       position="4,4.0000174"
+       orientation="0,40"
+       id="guide4073" />
+    <sodipodi:guide
+       position="44,4.0000174"
+       orientation="-40,0"
+       id="guide4075" />
+    <sodipodi:guide
+       position="44,44.000017"
+       orientation="0,-40"
+       id="guide4077" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -53,38 +88,23 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       style="fill:#27ae60;fill-opacity:1;stroke:none"
-       d="m 4.6799565,1007.2368 c -1.9078961,0 -1.680185,0.7551 -1.680185,1.7006 l 0,38.7246 c 0,1.9139 0.7459785,1.7004 1.680185,1.7004 l 38.2648585,0 c 0.934207,0 1.680185,-0.1739 1.680185,-1.7004 l 0,-38.7246 c 0,-1.9333 -0.745978,-1.7006 -1.680185,-1.7006 l -38.2648585,0 z m 1.0297909,5.595 4.5527596,0 0,4.6073 -4.5527596,0 0,-4.6073 z m 31.6525176,0 4.552758,0 0,4.6073 -4.552758,0 0,-4.6073 z m -31.6525176,8.776 4.5527596,0 0,4.6075 -4.5527596,0 0,-4.6075 z m 31.6525176,0 4.552758,0 0,4.6075 -4.552758,0 0,-4.6075 z m -31.6525176,8.7762 4.5527596,0 0,4.6075 -4.5527596,0 0,-4.6075 z m 31.6525176,0 4.552758,0 0,4.6075 -4.552758,0 0,-4.6075 z m -31.6525176,8.7762 4.5527596,0 0,4.6073 -4.5527596,0 0,-4.6073 z m 31.6525176,0 4.552758,0 0,4.6073 -4.552758,0 0,-4.6073 z"
-       id="rect2991-1"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#2980b9;fill-opacity:1;stroke:none"
-       d="m 11.8125,1040.4872 0,8.75 24.375,0 0,-8.75 z"
-       id="rect870"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#2980b9;fill-opacity:1;stroke:none"
-       d="m 11.5625,1007.2372 0,8.75 24.375,0 0,-8.75 z"
-       id="rect868"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       sodipodi:type="star"
        style="fill:#2c3e50;fill-opacity:1;stroke:none"
-       id="path922"
-       sodipodi:sides="3"
-       sodipodi:cx="21.75"
-       sodipodi:cy="23.875"
-       sodipodi:r1="7.8839235"
-       sodipodi:r2="3.9419618"
-       sodipodi:arg1="0"
-       sodipodi:arg2="1.0471976"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 29.633924,23.875 -5.912943,3.413839 -5.912943,3.413839 0,-6.827678 0,-6.827678 5.912943,3.413839 z"
-       transform="translate(0.27901912,1004.4872)"
-       inkscape:transform-center-x="-1.9709809" />
+       d="m 4,1008.3622 0,40 40,0 0,-40 -40,0 z m 1,5 5,0 0,5 -5,0 0,-5 z m 33,0 5,0 0,5 -5,0 0,-5 z m -33,8.5 5,0 0,5 -5,0 0,-5 z m 33,0 5,0 0,5 -5,0 0,-5 z m -33,8 5,0 0,5 -5,0 0,-5 z m 33,0 5,0 0,5 -5,0 0,-5 z m -33,8.5 5,0 0,5 -5,0 0,-5 z m 33,0 5,0 0,5 -5,0 0,-5 z"
+       id="rect4068" />
+    <rect
+       style="fill:#2ecc71;fill-opacity:1;stroke:none"
+       id="rect4160"
+       width="26"
+       height="15.499999"
+       x="11"
+       y="1011.3622" />
+    <rect
+       style="fill:#2ecc71;fill-opacity:1;stroke:none"
+       id="rect4160-2"
+       width="26"
+       height="15.499999"
+       x="11"
+       y="1029.8622" />
   </g>
 </svg>

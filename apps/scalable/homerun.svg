@@ -1,11 +1,145 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <rect id="rect4077" transform="matrix(0.707107 0.707107 -0.707107 0.707107 24.0021 3.89107)" fill="#3498db" width="22.69040106947pt" height="22.69040106947pt"/>
-  <path id="shape0" transform="translate(24, 23.9439)" fill="#2980b9" fill-rule="evenodd" stroke="#000000" stroke-width="0.00000000000" d="M0 0.00801068L20.0587 0L0 20.0507Z"/>
-  <path id="path17" transform="translate(12.4598, 6.05511)" fill="#f2f2f2" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M8.77099 0C8.77099 0 0 0.832327 0 0.832327C0 0.832327 0 36.4925 0 36.4925C0 36.4925 8.67728 35.1977 8.67728 35.1977C8.67728 35.1977 8.67728 19.9941 8.67728 19.9941C8.67728 19.9941 20.3532 36.8626 20.3532 36.8626C20.3532 36.8626 29.499 33.9955 29.499 33.9955C29.499 33.9955 17.5419 17.7746 17.5419 17.7746C17.5419 17.7746 29.5928 2.47847 29.5928 2.47847C29.5928 2.47847 20.2596 0.369921 20.2596 0.369921C20.2596 0.369921 8.67728 15.6661 8.67728 15.6661C8.67728 15.6661 8.77099 3.60097e-15 8.77099 3.60097e-15C8.77099 3.60097e-15 8.77099 0 8.77099 0Z"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49 r12742"
+   sodipodi:docname="homerun.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="9.8333329"
+     inkscape:cx="19.168105"
+     inkscape:cy="30.365706"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
+    <sodipodi:guide
+       position="9.5367432e-07,48.000001"
+       orientation="47.999999,0"
+       id="guide4062" />
+    <sodipodi:guide
+       position="9.5367432e-07,1.9073486e-06"
+       orientation="0,47.999999"
+       id="guide4064" />
+    <sodipodi:guide
+       position="48,1.9073486e-06"
+       orientation="-47.999999,0"
+       id="guide4066" />
+    <sodipodi:guide
+       position="48,48.000001"
+       orientation="0,-47.999999"
+       id="guide4068" />
+    <sodipodi:guide
+       position="4.000001,44.000001"
+       orientation="39.999999,0"
+       id="guide4070" />
+    <sodipodi:guide
+       position="4.000001,4.0000019"
+       orientation="0,39.999999"
+       id="guide4072" />
+    <sodipodi:guide
+       position="44,4.0000019"
+       orientation="-39.999999,0"
+       id="guide4074" />
+    <sodipodi:guide
+       position="44,44.000001"
+       orientation="0,-39.999999"
+       id="guide4076" />
+    <sodipodi:guide
+       position="15,33.00005"
+       orientation="18.000002,0"
+       id="guide4121" />
+    <sodipodi:guide
+       position="15,15.000048"
+       orientation="0,18.000004"
+       id="guide4123" />
+    <sodipodi:guide
+       position="33.000004,15.000048"
+       orientation="-18.000002,0"
+       id="guide4125" />
+    <sodipodi:guide
+       position="33.000004,33.00005"
+       orientation="0,-18.000004"
+       id="guide4127" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <rect
+     ry="20.000002"
+     y="3.9999523"
+     x="3.9999998"
+     height="40.000004"
+     width="40.000004"
+     id="rect3282"
+     style="fill:#34495e;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <rect
+     style="fill:#3498db;fill-opacity:1;stroke:none"
+     id="rect3305"
+     width="4.9999971"
+     height="4.9999971"
+     x="-32.999996"
+     y="15.000005"
+     ry="0"
+     transform="scale(-1,1)" />
+  <rect
+     ry="0"
+     y="28.000004"
+     x="28"
+     height="4.9999971"
+     width="4.9999971"
+     id="rect3307"
+     style="fill:#80bee8;fill-opacity:1;stroke:none" />
+  <rect
+     ry="0"
+     y="28.000004"
+     x="15.000001"
+     height="4.9999971"
+     width="4.9999971"
+     id="rect3313"
+     style="fill:#6eb4e6;fill-opacity:1;stroke:none" />
+  <rect
+     ry="0"
+     y="15.000002"
+     x="-19.999998"
+     height="4.9999971"
+     width="4.9999971"
+     id="rect4129"
+     style="fill:#2281c0;fill-opacity:1;stroke:none"
+     transform="scale(-1,1)" />
 </svg>
