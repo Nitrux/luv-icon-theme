@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,7 +42,7 @@
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="34.271186"
-     inkscape:cy="22.372881"
+     inkscape:cy="20.745763"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -86,15 +86,9 @@
          transform="matrix(0.73100168,-0.68237566,0.73100168,0.68237566,0,0)" />
     </clipPath>
   </defs>
-  <path
-     style="fill:#4d4d4d;fill-rule:evenodd;stroke:#595959;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
-     inkscape:connector-curvature="0"
-     d="m 24.279706,39.811727 c 2.291569,-0.152432 4.037414,-2.111399 3.922862,-4.401689 -0.114553,-2.29031 -2.047193,-4.065851 -4.342567,-3.989582 -2.295374,0.07628 -4.105509,1.976175 -4.067305,4.269002 0.03819,2.292846 1.910609,4.131565 4.207258,4.131565"
-     stroke-miterlimit="2.01260185242"
-     id="shape4" />
   <g
      id="g3959"
-     transform="translate(-0.81355696,0)">
+     transform="matrix(0.85113541,0,0,0.85113541,2.8803029,4.9217827)">
     <rect
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
        y="30.305658"
@@ -112,4 +106,10 @@
        y="-4.7860107"
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
   </g>
+  <path
+     style="fill:none;stroke:#4d4d4d;stroke-width:3.13122606;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;stroke-opacity:1"
+     clip-path="none"
+     d="m 23.131618,10.982167 c -4.950447,0.229792 -9.812812,2.288822 -13.4973344,6.109196 -1.0391395,1.077453 -1.9179057,2.251111 -2.6664796,3.479228 l 17.180925,15.94418 17.070967,-15.861993 c -1.067961,-1.775694 -2.413367,-3.425561 -4.068443,-4.849003 -4.025964,-3.462463 -9.069188,-5.0514 -14.019635,-4.821608 z"
+     id="shape2"
+     inkscape:connector-curvature="0" />
 </svg>
