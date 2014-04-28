@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="48"
+   height="48"
+   id="svg2"
+   style="display:inline"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gpm-primary-000.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="714"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="48.09371"
+     inkscape:cy="25.009472"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4081">
+      <stop
+         id="stop4083"
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4085"
+         style="stop-color:#f0f0f0;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="39"
+       y1="72"
+       x2="39.196381"
+       y2="24.266857"
+       id="linearGradient3763"
+       xlink:href="#linearGradient4081"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="11"
+       y1="11.015625"
+       x2="19"
+       y2="11.015625"
+       id="linearGradient2927"
+       xlink:href="#linearGradient3183"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-3.0000004,2.9652505,0,13.335916,19.000009)" />
+    <linearGradient
+       id="linearGradient3183">
+      <stop
+         id="stop3185"
+         style="stop-color:#c80000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3187"
+         style="stop-color:#f3604d;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline"
+     d="M 5.78125 12.9375 L 5.78125 34.71875 L 40.65625 34.71875 L 40.65625 12.9375 L 5.78125 12.9375 z M 8.9375 16.09375 L 37.5 16.09375 L 37.5 31.5625 L 8.9375 31.5625 L 8.9375 16.09375 z "
+     id="rect3007" />
+  <rect
+     y="18.166786"
+     x="41.034218"
+     height="10.961905"
+     width="3.2209883"
+     id="rect3009-2"
+     style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline" />
+  <g
+     id="g3809"
+     transform="matrix(0.45467618,0,0,0.44077384,7.5102171,2.6733624)"
+     style="fill:#c0392b;fill-opacity:1;stroke:none">
+    <rect
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       y="41.37952"
+       x="-10.028153"
+       height="36.610168"
+       width="3.6610169"
+       id="rect3782"
+       style="color:#000000;fill:#c0392b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.39999998000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+       y="-10.107439"
+       x="57.854095"
+       height="36.610168"
+       width="3.6610169"
+       id="rect3782-3"
+       style="color:#000000;fill:#c0392b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.39999998000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
