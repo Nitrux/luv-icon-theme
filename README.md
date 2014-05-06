@@ -25,4 +25,4 @@ Notes
 
 Before submitting icons, make sure to read the guidelines in the folder *flattr-guidelines* and use the proper template for the icon you wish to do using the files in the folder **flattr-templates**.
 
-You will need Inkscape to modify the SVG files, we reocmmend you use the latest version possible as the stable one might add unnecessary data to the files.
+You will need Inkscape to modify the SVG files, we recommend you to use the latest version possible as the stable one might add unnecessary data to the files.
