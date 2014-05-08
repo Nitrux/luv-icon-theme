@@ -4,21 +4,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <rect id="rect907" transform="translate(1.98426, 7.01576)" fill="#c4cbcf" width="35.19999360000pt" height="27.19998800000pt"/>
+  <rect id="rect907" transform="translate(1.98426, 7.01576)" fill="#2c3e50" width="35.19999360000pt" height="27.19998800000pt"/>
   <rect id="rect914" transform="translate(5.98426, 15.0158)" fill="none" width="3.86012304000pt" height="2.84430144000pt"/>
   <path id="path3290" transform="translate(5.98426, 20.3272)" fill="none" d="M0 0"/>
   <path id="path3292" transform="translate(5.98426, 13.0158)" fill="none" d="M0 0"/>
   <path id="path3294" transform="translate(9.39683, 20.0158)" fill="none" d="M0 0"/>
   <path id="path3296" transform="translate(9.39683, 26.0158)" fill="none" d="M0 0"/>
-  <rect id="rect825" transform="translate(35.1956, 7.81856)" fill="#f2f2f2" width="1.91545200000pt" height="1.91545200000pt"/>
-  <rect id="rect827" transform="translate(39.5899, 7.81856)" fill="#f2f2f2" width="1.91545200000pt" height="1.91545200000pt"/>
+  <rect id="rect825" transform="translate(35.1956, 7.81856)" fill="#f1c40f" width="1.91545200000pt" height="1.91545200000pt"/>
+  <rect id="rect827" transform="translate(39.5899, 7.81856)" fill="#e74c3c" width="1.91545200000pt" height="1.91545200000pt"/>
   <path id="path3303" transform="translate(45.9842, 9.01576)" fill="none" d="M0 0"/>
   <path id="path3305" transform="translate(39.5899, 9.01576)" fill="none" d="M0 0"/>
   <path id="path3307" transform="translate(35.1956, 9.01576)" fill="none" d="M0 0"/>
-  <rect id="rect3309" transform="translate(30.8013, 7.81856)" fill="#f2f2f2" width="1.91545200000pt" height="1.91545200000pt"/>
+  <rect id="rect3309" transform="translate(30.8013, 7.81856)" fill="#8bc941" width="1.91545200000pt" height="1.91545200000pt"/>
   <path id="path3311" transform="translate(27.4843, 44.5158)" fill="none" d="M0 0"/>
   <path id="path3315" transform="translate(1.98426, 24.0158)" fill="none" d="M0 0"/>
   <path id="path3317" transform="translate(47.9843, 24.0158)" fill="none" d="M0 0"/>
-  <path id="shape0" transform="translate(11.9004, 12.2716)" fill="#f2f2f2" d="M12.4016 0C5.55281 0 0 5.55281 0 12.4016C0 19.2503 5.55281 24.8032 12.4016 24.8032C19.2503 24.8032 24.8032 19.2503 24.8032 12.4016C24.8032 5.55281 19.2503 0 12.4016 0ZM17.0522 15.502L17.0522 13.9518L13.9518 13.9518L13.9518 17.0522L15.502 17.0522L12.4016 20.1526L9.3012 17.0522L10.8514 17.0522L10.8514 13.9518L7.751 13.9518L7.751 15.502L4.6506 12.4016L7.751 9.3012L7.751 10.8514L10.8514 10.8514L10.8514 7.751L9.3012 7.751L12.4016 4.6506L15.502 7.751L13.9518 7.751L13.9518 10.8514L17.0522 10.8514L17.0522 9.3012L20.1526 12.4016Z"/>
+  <path id="shape0" transform="translate(11.9004, 12.2716)" fill="#1abc9c" d="M12.4016 0C5.55281 0 0 5.55281 0 12.4016C0 19.2503 5.55281 24.8032 12.4016 24.8032C19.2503 24.8032 24.8032 19.2503 24.8032 12.4016C24.8032 5.55281 19.2503 0 12.4016 0ZM17.0522 15.502L17.0522 13.9518L13.9518 13.9518L13.9518 17.0522L15.502 17.0522L12.4016 20.1526L9.3012 17.0522L10.8514 17.0522L10.8514 13.9518L7.751 13.9518L7.751 15.502L4.6506 12.4016L7.751 9.3012L7.751 10.8514L10.8514 10.8514L10.8514 7.751L9.3012 7.751L12.4016 4.6506L15.502 7.751L13.9518 7.751L13.9518 10.8514L17.0522 10.8514L17.0522 9.3012L20.1526 12.4016Z"/>
  </g><g id="g3269"/>
 </svg>

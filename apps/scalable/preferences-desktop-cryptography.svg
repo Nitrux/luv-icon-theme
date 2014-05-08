@@ -1,1 +1,65 @@
-preferences-desktop-cryptography.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="preferences-desktop-cryptography.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="745"
+     inkscape:window-height="480"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="61"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <path
+     style="fill:#f1c40f;fill-rule:evenodd"
+     d="M 24.25 4 C 18.94679 4 14.65625 8.29048 14.65625 13.59375 C 14.65625 18.89694 18.94679 23.21875 24.25 23.21875 C 29.55327 23.21875 33.84375 18.89694 33.84375 13.59375 C 33.84375 8.29048 29.55327 4 24.25 4 z M 24.21875 6.84375 C 25.793649 6.84375 27.0625 8.1126009 27.0625 9.6875 C 27.0625 11.262399 25.793649 12.53125 24.21875 12.53125 C 22.643851 12.53125 21.375 11.262399 21.375 9.6875 C 21.375 8.1126009 22.643851 6.84375 24.21875 6.84375 z "
+     id="rect3325" />
+  <path
+     style="fill:#f1c40f;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     d="m 24.17107,43.9997 -4.31507,-2.5829 0,-19.3733 c 1.01192,0.466831 2.75736,1.07745 4.36145,1.05312 0.005,-1.9e-4 -0.01042,6.96751 -0.04638,20.90308 z"
+     id="rect3331" />
+  <path
+     style="fill:#f39c12;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     d="M 24.15897,44.0029 28.5856,41.419 c 0,-0.5383 0,-1.3087 0,-2.3112 l -1.97618,-2.1098 1.97618,-1.7462 0,-0.6589 -1.99225,-2.0563 1.99225,-2.1358 -2.00831,-2.15854 2.00831,-1.92603 c 0,-2.31308 0,-3.738797 0,-4.27713 -1.03808,0.466989 -2.73926,1.08178 -4.38482,1.05744 -0.0052,-2e-4 -0.0315,6.95836 -0.04181,20.90636 z"
+     id="rect33311" />
+</svg>
