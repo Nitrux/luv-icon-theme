@@ -13,7 +13,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.49 r12742"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="qbittorrent.svg"
    inkscape:export-filename="/home/uri/workspace/NitruxforAndroid/res/drawable-xhdpi/downloads.png"
    inkscape:export-xdpi="180"
@@ -33,10 +33,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="726"
+     inkscape:window-width="668"
      inkscape:window-height="591"
-     inkscape:window-x="636"
-     inkscape:window-y="148"
+     inkscape:window-x="1162"
+     inkscape:window-y="150"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -58,5 +58,31 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1004.3622)" />
+     transform="translate(0,-1004.3622)">
+    <rect
+       style="fill:#2980b9;fill-opacity:1;stroke:none"
+       id="rect2991-1"
+       width="41.206047"
+       height="42.217915"
+       x="3.3246984"
+       y="-1049.6157"
+       ry="0"
+       transform="scale(1,-1)" />
+    <path
+       style="fill:#2c3e50;fill-opacity:1;stroke:none"
+       d="m 24.000001,1043.7622 c 8.505194,0 15.400016,-6.8948 15.400016,-15.4 0,-8.5052 -6.894822,-15.4 -15.400016,-15.4 l 0,2.8875 c 6.91047,0 12.512513,5.6021 12.512513,12.5125 0,6.9105 -5.602043,12.5125 -12.512513,12.5125 l 0,2.8875 z"
+       id="path863"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#1abc9c;fill-opacity:1;stroke:none"
+       d="m 8.5999834,1028.3622 c 0,8.5052 6.8948226,15.4 15.4000176,15.4 l 0,-2.8875 c -6.910471,0 -12.512514,-5.602 -12.512514,-12.5125 0,-6.9104 5.602043,-12.5125 12.512514,-12.5125 l 0,-2.8875 c -8.505195,0 -15.4000176,6.8948 -15.4000176,15.4 z"
+       id="path858"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ecf0f1;fill-opacity:1"
+       d="m 21.666667,1021.3622 0,5.9997 -2.333334,0 4.673502,5.3342 4.659832,-5.3342 -2.333334,0 0,-5.9997 z m 2.340168,11.3339 -7.006835,0 0,2.6661 14,0 0,-2.6661 z"
+       id="rect4133"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
 </svg>
