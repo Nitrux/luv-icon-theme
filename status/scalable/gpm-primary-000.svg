@@ -16,7 +16,7 @@
    id="svg2"
    style="display:inline"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gpm-primary-000.svg">
+   sodipodi:docname="gpm-primary-000-charging.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1024"
-     inkscape:window-height="714"
+     inkscape:window-height="715"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="48.09371"
-     inkscape:cy="25.009472"
+     inkscape:cx="27.688311"
+     inkscape:cy="28.302964"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -59,25 +59,13 @@
        xlink:href="#linearGradient4081"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       x1="11"
-       y1="11.015625"
-       x2="19"
-       y2="11.015625"
-       id="linearGradient2927"
-       xlink:href="#linearGradient3183"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-3.0000004,2.9652505,0,13.335916,19.000009)" />
-    <linearGradient
-       id="linearGradient3183">
-      <stop
-         id="stop3185"
-         style="stop-color:#c80000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3187"
-         style="stop-color:#f3604d;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
+       x1="44"
+       y1="66"
+       x2="44"
+       y2="30.942904"
+       id="linearGradient3636"
+       xlink:href="#linearGradient4081"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -87,39 +75,32 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline"
-     d="M 5.78125 12.9375 L 5.78125 34.71875 L 40.65625 34.71875 L 40.65625 12.9375 L 5.78125 12.9375 z M 8.9375 16.09375 L 37.5 16.09375 L 37.5 31.5625 L 8.9375 31.5625 L 8.9375 16.09375 z "
-     id="rect3007" />
-  <rect
-     y="18.166786"
-     x="41.034218"
-     height="10.961905"
-     width="3.2209883"
-     id="rect3009-2"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline" />
+     inkscape:connector-curvature="0"
+     style="fill:#cc0000;fill-opacity:1;stroke:none;display:inline"
+     d="M 24,4 C 12.920011,4 4,12.920011 4,24 4,35.079989 12.920011,44 24,44 35.079989,44 44,35.079989 44,24 44,12.920011 35.079989,4 24,4 z m 0,3 c 9.417993,0 17,7.582007 17,17 0,9.417993 -7.582007,17 -17,17 C 14.582007,41 7,33.417993 7,24 7,14.582007 14.582007,7 24,7 z"
+     id="rect4118" />
   <g
-     id="g3809"
-     transform="matrix(0.45467618,0,0,0.44077384,7.5102171,2.6733624)"
-     style="fill:#c0392b;fill-opacity:1;stroke:none">
+     transform="matrix(0,-0.48235091,0.48235091,0,12.539026,36.057206)"
+     style="fill:#cc0000;fill-opacity:1;display:inline"
+     id="g2992">
     <rect
-       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
-       y="41.37952"
-       x="-10.028153"
-       height="36.610168"
-       width="3.6610169"
-       id="rect3782"
-       style="color:#000000;fill:#c0392b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.39999998000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       y="12.955614"
+       x="5.7382922"
+       height="21.610085"
+       width="34.729919"
+       id="rect3143"
+       style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.09999989999999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
-       y="-10.107439"
-       x="57.854095"
-       height="36.610168"
-       width="3.6610169"
-       id="rect3782-3"
-       style="color:#000000;fill:#c0392b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.39999998000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="fill:#cc0000;fill-opacity:1;stroke:none;display:inline"
+       id="rect3009-2-9"
+       width="3.2209883"
+       height="10.961905"
+       x="41.034218"
+       y="18.166786" />
   </g>
 </svg>
