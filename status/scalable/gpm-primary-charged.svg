@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1024"
-     inkscape:window-height="714"
+     inkscape:window-height="715"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="-9.7327026"
-     inkscape:cy="44.058608"
+     inkscape:zoom="4.9166666"
+     inkscape:cx="-1.580725"
+     inkscape:cy="16.541286"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="g3022" />
   <defs
@@ -103,29 +103,27 @@
      id="g3022"
      transform="matrix(2.2552637,0,0,2.2552637,-5.2597219,-162.394)">
     <rect
-       style="color:#000000;fill:#2ecc71;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.0999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3143"
-       width="14.068782"
-       height="8.8380814"
-       x="5.3984709"
-       y="78.139206" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline"
-       d="m 4.8956456,77.743241 0,9.657962 15.4638234,0 0,-9.657962 -15.4638234,0 z m 1.3995037,1.399504 12.6648157,0 0,6.858954 -12.6648157,0 0,-6.858954 z"
-       id="rect3007-5" />
+       rx="8.8681345"
+       style="fill:#2c3e50;fill-opacity:1;stroke:none;display:inline"
+       id="rect4118"
+       width="17.736286"
+       height="17.736269"
+       x="4.1058145"
+       y="73.780212"
+       ry="8.8681345" />
     <rect
-       y="80.061943"
-       x="20.527063"
-       height="4.8605866"
-       width="1.4282092"
-       id="rect3009-2-9"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline" />
+       rx="7.5379152"
+       ry="7.5379152"
+       y="75.110458"
+       x="5.4360385"
+       height="15.07583"
+       width="15.075844"
+       id="rect4210"
+       style="fill:#2ecc71;fill-opacity:1;stroke:none;display:inline" />
     <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path3775"
-       d="m 6.5016652,82.863206 7.0333448,-2.256322 0,1.548457 5.543931,0 -7.575141,2.338396 0,-1.601036 z"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline" />
+       style="fill:#2c3e50;fill-opacity:1;stroke:none;display:inline"
+       d="m 11.200336,83.535132 1.773632,-4.877361 0,3.103841 1.77364,0 -1.77364,4.877455 0,-3.103935 z"
+       id="path4199"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
