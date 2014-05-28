@@ -16,7 +16,7 @@
    id="svg2"
    style="display:inline"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gpm-ups-100.svg">
+   sodipodi:docname="gpm-primary-100.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -27,16 +27,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1024"
-     inkscape:window-height="714"
-     id="namedview22"
+     inkscape:window-height="715"
+     id="namedview30"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="36.384283"
-     inkscape:cy="43.771575"
+     inkscape:zoom="9.8333332"
+     inkscape:cx="20.776825"
+     inkscape:cy="23.176344"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="g3022" />
   <defs
      id="defs4">
     <linearGradient
@@ -51,17 +51,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3295-9">
-      <stop
-         id="stop3297-2"
-         style="stop-color:#559829;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3299-0"
-         style="stop-color:#86c837;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        x1="39"
        y1="72"
        x2="39.196381"
@@ -70,13 +59,33 @@
        xlink:href="#linearGradient4081"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
+       x1="44"
+       y1="66"
+       x2="44"
+       y2="30.942904"
+       id="linearGradient3636"
+       xlink:href="#linearGradient4081"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3295-9-7">
+      <stop
+         id="stop3297-2-1"
+         style="stop-color:#559829;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3299-0-9"
+         style="stop-color:#86c837;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
        x1="39"
        y1="68"
        x2="39"
        y2="28"
-       id="linearGradient3807"
-       xlink:href="#linearGradient3295-9"
-       gradientUnits="userSpaceOnUse" />
+       id="linearGradient2891"
+       xlink:href="#linearGradient3295-9-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-74)" />
   </defs>
   <metadata
      id="metadata7">
@@ -86,26 +95,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="color:#000000;fill:#2ecc71;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.09999989999999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect3143"
-     width="31.728813"
-     height="19.932203"
-     x="6.9152541"
-     y="13.830509" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline"
-     d="m 5.78125,12.9375 0,21.78125 34.875,0 0,-21.78125 -34.875,0 z m 3.15625,3.15625 28.5625,0 0,15.46875 -28.5625,0 0,-15.46875 z"
-     id="rect3007-5" />
-  <rect
-     y="18.166786"
-     x="41.034218"
-     height="10.961905"
-     width="3.2209883"
-     id="rect3009-2-9"
-     style="fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline" />
+  <g
+     id="g3022"
+     transform="matrix(2.2552637,0,0,2.2552637,-5.2597219,-162.394)">
+    <rect
+       rx="8.8681345"
+       style="fill:#2c3e50;fill-opacity:1;stroke:none;display:inline"
+       id="rect4118"
+       width="17.736286"
+       height="17.736269"
+       x="4.1058145"
+       y="73.780212"
+       ry="8.8681345" />
+    <rect
+       rx="7.5379152"
+       ry="7.5379152"
+       y="75.110458"
+       x="5.4360385"
+       height="15.07583"
+       width="15.075844"
+       id="rect4210"
+       style="fill:#2ecc71;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       style="fill:#2c3e50;fill-opacity:1;stroke:none;display:inline"
+       d="m 11.200336,83.535136 1.773632,-4.877361 0,3.103841 1.77364,0 -1.77364,4.877455 0,-3.103935 z"
+       id="path4199"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
