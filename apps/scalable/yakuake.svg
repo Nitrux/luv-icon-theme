@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.835812"
-     inkscape:cx="28.769271"
-     inkscape:cy="25.50256"
+     inkscape:cx="15.216576"
+     inkscape:cy="25.470633"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,9 +88,9 @@
      transform="translate(-180.23661,-689.8125)">
     <rect
        y="693.8125"
-       x="182.23662"
+       x="183.2366"
        height="40"
-       width="44.000008"
+       width="42"
        id="rect813"
        style="fill:#3498db;fill-opacity:1;stroke:none" />
     <ellipse
@@ -173,6 +173,6 @@
        height="4"
        width="44.000008"
        id="rect813-6"
-       style="fill:#2c3e5f;fill-opacity:0.94117647;stroke:none" />
+       style="fill:#2c3e5f;fill-opacity:1;stroke:none" />
   </g>
 </svg>
