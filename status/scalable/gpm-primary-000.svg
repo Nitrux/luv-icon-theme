@@ -16,7 +16,7 @@
    id="svg2"
    style="display:inline"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gpm-primary-000-charging.svg">
+   sodipodi:docname="gpm-ups-000.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:zoom="6.9532167"
      inkscape:cx="27.688311"
-     inkscape:cy="28.302964"
+     inkscape:cy="25.426598"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
@@ -75,32 +75,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
+     style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 23.5,5 C 13.134559,5 4.75,13.262166 4.75,23.46875 c 0,10.206584 8.384559,18.5 18.75,18.5 10.365441,0 18.78125,-8.293416 18.78125,-18.5 C 42.28125,13.262166 33.865441,5 23.5,5 z m 0.5,10 0,7 4,0 -4,11 0,-7 -4,0 4,-11 z"
+     id="path2999"
+     inkscape:connector-curvature="0" />
+  <path
      inkscape:connector-curvature="0"
-     style="fill:#cc0000;fill-opacity:1;stroke:none;display:inline"
+     style="fill:#2c3e50;fill-opacity:1;stroke:none;display:inline"
      d="M 24,4 C 12.920011,4 4,12.920011 4,24 4,35.079989 12.920011,44 24,44 35.079989,44 44,35.079989 44,24 44,12.920011 35.079989,4 24,4 z m 0,3 c 9.417993,0 17,7.582007 17,17 0,9.417993 -7.582007,17 -17,17 C 14.582007,41 7,33.417993 7,24 7,14.582007 14.582007,7 24,7 z"
      id="rect4118" />
-  <g
-     transform="matrix(0,-0.48235091,0.48235091,0,12.539026,36.057206)"
-     style="fill:#cc0000;fill-opacity:1;display:inline"
-     id="g2992">
-    <rect
-       y="12.955614"
-       x="5.7382922"
-       height="21.610085"
-       width="34.729919"
-       id="rect3143"
-       style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.09999989999999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="fill:#cc0000;fill-opacity:1;stroke:none;display:inline"
-       id="rect3009-2-9"
-       width="3.2209883"
-       height="10.961905"
-       x="41.034218"
-       y="18.166786" />
-  </g>
 </svg>

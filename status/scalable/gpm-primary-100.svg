@@ -16,7 +16,7 @@
    id="svg2"
    style="display:inline"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gpm-primary-charged.svg">
+   sodipodi:docname="gpm-primary-100.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:zoom="9.8333332"
      inkscape:cx="20.776825"
-     inkscape:cy="24.193293"
+     inkscape:cy="23.176344"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
@@ -95,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -120,24 +120,10 @@
        width="15.075844"
        id="rect4210"
        style="fill:#2ecc71;fill-opacity:1;stroke:none;display:inline" />
-    <g
-       transform="matrix(0,-0.21387783,0.21387783,0,7.8920917,87.994679)"
-       style="fill:#2c3e50;fill-opacity:1;display:inline"
-       id="g2992">
-      <rect
-         y="12.955614"
-         x="5.7382922"
-         height="21.610085"
-         width="34.729919"
-         id="rect3143"
-         style="color:#000000;fill:#2c3e50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.0999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="fill:#2c3e50;fill-opacity:1;stroke:none;display:inline"
-         id="rect3009-2-9"
-         width="3.2209883"
-         height="10.961905"
-         x="41.034218"
-         y="18.166786" />
-    </g>
+    <path
+       style="fill:#2c3e50;fill-opacity:1;stroke:none;display:inline"
+       d="m 11.200336,83.535136 1.773632,-4.877361 0,3.103841 1.77364,0 -1.77364,4.877455 0,-3.103935 z"
+       id="path4199"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

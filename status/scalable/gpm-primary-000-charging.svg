@@ -16,7 +16,7 @@
    id="svg2"
    style="display:inline"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gpm-primary-000-charging.svg">
+   sodipodi:docname="gpm-ups-000-charging.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:zoom="6.9532167"
      inkscape:cx="27.688311"
-     inkscape:cy="28.302964"
+     inkscape:cy="26.864781"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
@@ -80,13 +80,13 @@
     </rdf:RDF>
   </metadata>
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#cc0000;fill-opacity:1;stroke:none;display:inline"
-     d="M 24,4 C 12.920011,4 4,12.920011 4,24 4,35.079989 12.920011,44 24,44 35.079989,44 44,35.079989 44,24 44,12.920011 35.079989,4 24,4 z m 0,3 c 9.417993,0 17,7.582007 17,17 0,9.417993 -7.582007,17 -17,17 C 14.582007,41 7,33.417993 7,24 7,14.582007 14.582007,7 24,7 z"
-     id="rect4118" />
-  <path
      style="fill:#cc0000;fill-opacity:1;stroke:none;display:inline"
      d="m 19.999989,25.999759 4.000008,-10.999735 0,6.99998 4.000026,0 -4.000026,10.999947 0,-7.000192 z"
      id="path4199"
      inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#2c3e50;fill-opacity:1;stroke:none;display:inline"
+     d="M 24,4 C 12.920011,4 4,12.920011 4,24 4,35.079989 12.920011,44 24,44 35.079989,44 44,35.079989 44,24 44,12.920011 35.079989,4 24,4 z m 0,3 c 9.417993,0 17,7.582007 17,17 0,9.417993 -7.582007,17 -17,17 C 14.582007,41 7,33.417993 7,24 7,14.582007 14.582007,7 24,7 z"
+     id="rect4118" />
 </svg>

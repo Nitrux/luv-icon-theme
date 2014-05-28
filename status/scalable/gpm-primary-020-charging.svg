@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:zoom="6.9532166"
      inkscape:cx="9.8882816"
-     inkscape:cy="29.331638"
+     inkscape:cy="27.893455"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
@@ -81,7 +81,7 @@
   </metadata>
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 9.71875,33.73402 C 8.001991,34.469384 9.8763666,35.062427 9.8763666,36.006776 9.8763666,38.613669 14.582007,41 24,41 c 9.417993,0 13.404542,-2.242512 13.404542,-4.849405 0,-0.944349 2.593467,-1.681211 0.876708,-2.416575 z"
      id="rect3003"
      sodipodi:nodetypes="cssscc" />
