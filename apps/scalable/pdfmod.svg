@@ -26,14 +26,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <filter
-       id="filter59068"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur59070"
-         stdDeviation="0.67108113"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="7.375"
        x2="67.5625"
@@ -505,22 +497,6 @@
        id="linearGradient8637"
        xlink:href="#linearGradient7139"
        inkscape:collect="always" />
-    <filter
-       id="filter59040"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur59042"
-         stdDeviation="0.22201328"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       id="filter59048"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur59050"
-         stdDeviation="0.20414057"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="52.410824"
        x2="30.391243"
@@ -591,18 +567,6 @@
          offset="1"
          style="stop-color:#4079c3;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="2.5483148"
-       y="-0.77415742"
-       width="1.183504"
-       x="-0.091751985"
-       id="filter8076"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur8078"
-         stdDeviation="1.8247065"
-         inkscape:collect="always" />
-    </filter>
     <inkscape:perspective
        id="perspective10-3"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
@@ -610,14 +574,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <filter
-       id="filter59068-4"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur59070-8"
-         stdDeviation="0.67108113"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="2.3474183"
        x2="76.588501"
@@ -950,22 +906,6 @@
        id="linearGradient8637-6"
        xlink:href="#linearGradient7139-5"
        inkscape:collect="always" />
-    <filter
-       id="filter59040-1"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur59042-9"
-         stdDeviation="0.22201328"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       id="filter59048-9"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur59050-1"
-         stdDeviation="0.20414057"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="52.410824"
        x2="30.391243"
@@ -1036,18 +976,6 @@
          offset="1"
          style="stop-color:#4079c3;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="2.5483148"
-       y="-0.77415742"
-       width="1.183504"
-       x="-0.091751985"
-       id="filter8076-7"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur8078-1"
-         stdDeviation="1.8247065"
-         inkscape:collect="always" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1057,8 +985,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="-0.62694755"
-     inkscape:cy="25.167041"
+     inkscape:cx="-0.37694755"
+     inkscape:cy="-19.832959"
      inkscape:document-units="px"
      inkscape:current-layer="g4085"
      showgrid="false"
@@ -1070,10 +998,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="836"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -1228,11 +1156,6 @@
              style="fill:#ecf0f1"
              inkscape:connector-curvature="0" />
         </g>
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           d="m 136.49179,761.18858 0,0.0937 24.46875,0 0,-0.0937 -24.46875,0 z"
-           id="path3123-3-5"
-           inkscape:connector-curvature="0" />
         <g
            id="layer1-6"
            inkscape:label="Layer 1"
