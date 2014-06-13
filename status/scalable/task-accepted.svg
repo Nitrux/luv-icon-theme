@@ -4,7 +4,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer0">
-  <path id="path4149" transform="translate(16.6147, 13.6851)" fill="#2980b9" fill-rule="evenodd" d="M16.8539 0L0 16.8539L2.80382 19.6577L19.6577 2.80382Z"/>
-  <rect id="rect3339" transform="matrix(0.707107 -0.707107 0.707107 0.707107 12.9428 27.0135)" fill="#2980b9" fill-rule="evenodd" width="3.20000000000pt" height="6.98239976000pt"/>
+  <path id="path4149" transform="translate(16.6147, 13.6851)" style="fill:#2980b9" fill-rule="evenodd" d="M16.8539 0L0 16.8539L2.80382 19.6577L19.6577 2.80382Z"/>
+  <rect id="rect3339" transform="matrix(0.707107 -0.707107 0.707107 0.707107 12.9428 27.0135)" style="fill:#2980b9" fill-rule="evenodd" width="3.20000000000pt" height="6.98239976000pt"/>
  </g>
 </svg>

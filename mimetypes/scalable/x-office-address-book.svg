@@ -4,8 +4,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="rect4090" transform="translate(7, 4)" fill="#2980b9" d="M0 0L0 40L34 40L34.0026 0.00212818Z"/>
-  <rect id="shape0" transform="translate(7.01576, 4.00394)" fill="#e74c3c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="7.20001247320pt" height="32.00320504820pt"/>
-  <path id="rect4153" transform="translate(31.9973, 4.0041)" fill="#f39c12" d="M0 0L9.00002 0L9.00002 10.9843L4.50001 7.98859L0 10.9843Z"/>
+  <path id="rect4090" transform="translate(7, 4)" style="fill:#2980b9" d="M0 0L0 40L34 40L34.0026 0.00212818Z"/>
+  <rect id="shape0" transform="translate(7.01576, 4.00394)" style="fill:#e74c3c" fill-rule="evenodd" stroke="#003bc3" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" width="7.20001247320pt" height="32.00320504820pt"/>
+  <path id="rect4153" transform="translate(31.9973, 4.0041)" style="fill:#f39c12" d="M0 0L9.00002 0L9.00002 10.9843L4.50001 7.98859L0 10.9843Z"/>
  </g>
 </svg>

@@ -4,12 +4,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer0">
-  <path id="rect4090" transform="translate(7.00397, 4.00349)" fill="#ecf0f1" d="M0 0L0 40L34 40L34 11L23 8.88178e-16Z"/>
-  <path id="path4151" transform="translate(29.9999, 3.99986)" fill="#ffffff" fill-opacity="0.75294117647" d="M0 0L0 11.0002L11.0001 11.0002Z"/>
-  <path id="path4252" transform="translate(29.9999, 15)" fill="#000000" fill-opacity="0.11764705882" d="M11.0001 11.0002L11.0001 0L0 0Z"/>
-  <path id="shape0" transform="translate(20.5797, 24.3769)" fill="#c0392b" fill-rule="evenodd" stroke="#000000" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M13.3562 0.00910642L17.9359 0L17.9359 17.9359L0 17.9359L0 13.4519Z"/>
-  <path id="shape1" transform="translate(20.5813, 24.3755)" fill="#e74c3c" fill-rule="evenodd" stroke="#000000" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M17.9329 17.9355L6.05903 11.9656L0 17.9381C0.00158127 16.9208 0.00420342 15.4218 0.00786645 13.4411L13.3569 0.0101435L17.9408 0L12.2271 5.76611Z"/>
-  <path id="shape01" transform="translate(20.5587, 24.3834)" fill="#ecf0f1" fill-opacity="0.15294117647" fill-rule="evenodd" stroke="#000000" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" d="M0 13.4411L6.08759 11.957L12.2522 5.75753C12.7319 3.19153 13.1069 1.27235 13.3772 0Z"/>
-  <path id="shape11" transform="translate(26.6437, 30.139)" fill="#ff9999" fill-opacity="0.77647058824" fill-rule="evenodd" stroke="#000000" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M6.16468 0C4.0923 2.07412 2.07237 4.13251 0 6.20663L0.919959 0.658281Z"/>
+  <path id="rect4090" transform="translate(7.00397, 4.00349)" style="fill:#ecf0f1" d="M0 0L0 40L34 40L34 11L23 8.88178e-16Z"/>
+  <path id="path4151" transform="translate(29.9999, 3.99986)" style="fill:#ffffff" fill-opacity="0.75294117647" d="M0 0L0 11.0002L11.0001 11.0002Z"/>
+  <path id="path4252" transform="translate(29.9999, 15)" style="fill:#000000" fill-opacity="0.11764705882" d="M11.0001 11.0002L11.0001 0L0 0Z"/>
+  <path id="shape0" transform="translate(20.5797, 24.3769)" style="fill:#c0392b" fill-rule="evenodd" stroke="#000000" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M13.3562 0.00910642L17.9359 0L17.9359 17.9359L0 17.9359L0 13.4519Z"/>
+  <path id="shape1" transform="translate(20.5813, 24.3755)" style="fill:#e74c3c" fill-rule="evenodd" stroke="#000000" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M17.9329 17.9355L6.05903 11.9656L0 17.9381C0.00158127 16.9208 0.00420342 15.4218 0.00786645 13.4411L13.3569 0.0101435L17.9408 0L12.2271 5.76611Z"/>
+  <path id="shape01" transform="translate(20.5587, 24.3834)" style="fill:#ecf0f1" fill-opacity="0.15294117647" fill-rule="evenodd" stroke="#000000" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="0.00000000000" d="M0 13.4411L6.08759 11.957L12.2522 5.75753C12.7319 3.19153 13.1069 1.27235 13.3772 0Z"/>
+  <path id="shape11" transform="translate(26.6437, 30.139)" style="fill:#ff9999" fill-opacity="0.77647058824" fill-rule="evenodd" stroke="#000000" stroke-width="0.00000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.01260185242" d="M6.16468 0C4.0923 2.07412 2.07237 4.13251 0 6.20663L0.919959 0.658281Z"/>
  </g>
 </svg>
