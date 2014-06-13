@@ -4,11 +4,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer1">
-  <path id="rect4090" transform="matrix(1 0 0 1 7 4)" fill="#33cc99" d="M0 0L0 40L34 40L34 11L23 0Z"/>
-  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#5edbb1" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
-  <path id="path4252" transform="matrix(3.54331 0 0 3.54331 29.9999 15)" fill="#000000" fill-opacity="0.11764705882" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
-  <path id="rect4254" transform="matrix(1 0 0 1 16.2125 24.6476)" fill="#c7f1e2" d="M0 0L0 7.08663L7.08663 7.08663L7.08663 0ZM1.77166 1.77166L5.31497 1.77166L5.31497 5.31497L1.77166 5.31497Z"/>
-  <rect id="rect4281" transform="matrix(3.54331 0 0 3.54331 7.00253 27.7051)" fill="#c7f1e2" width="7.67530097044pt" height="0.22578124800pt" rx="0.00000016410pt" ry="0.00000005310pt"/>
-  <rect id="rect4297" transform="matrix(2.22045e-16 3.54331 -3.54331 8.88178e-16 20.28 4.00253)" fill="#c7f1e2" width="9.03168235284pt" height="0.22578124800pt" rx="0.00000015172pt" ry="0.00000005310pt"/>
+  <path id="rect4090" transform="matrix(1 0 0 1 7 4)" style="fill:#33cc99" d="M0 0L0 40L34 40L34 11L23 0Z"/>
+  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" style="fill:#5edbb1" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
+  <path id="path4252" transform="matrix(3.54331 0 0 3.54331 29.9999 15)" style="fill:#000000" fill-opacity="0.11764705882" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
+  <path id="rect4254" transform="matrix(1 0 0 1 16.2125 24.6476)" style="fill:#c7f1e2" d="M0 0L0 7.08663L7.08663 7.08663L7.08663 0ZM1.77166 1.77166L5.31497 1.77166L5.31497 5.31497L1.77166 5.31497Z"/>
+  <rect id="rect4281" transform="matrix(3.54331 0 0 3.54331 7.00253 27.7051)" style="fill:#c7f1e2" width="7.67530097044pt" height="0.22578124800pt" rx="0.00000016410pt" ry="0.00000005310pt"/>
+  <rect id="rect4297" transform="matrix(2.22045e-16 3.54331 -3.54331 8.88178e-16 20.28 4.00253)" style="fill:#c7f1e2" width="9.03168235284pt" height="0.22578124800pt" rx="0.00000015172pt" ry="0.00000005310pt"/>
  </g>
 </svg>

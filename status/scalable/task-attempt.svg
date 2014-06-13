@@ -4,8 +4,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
 <defs/>
 <g id="layer0">
-  <g id="sign" transform="translate(21.1734, 15.5213)" fill="none">
-   <path id="path336" transform="translate(0.625, 0.625)" fill="#f1c40f" d="M4.76786 16.072L0 16.072L0 12.054L4.76786 12.054ZM4.76786 9.51078L0 9.51078L0 0L4.76786 0Z"/>
+  <g id="sign" transform="translate(21.1734, 15.5213)" style="fill:none">
+   <path id="path336" transform="translate(0.625, 0.625)" style="fill:#f1c40f" d="M4.76786 16.072L0 16.072L0 12.054L4.76786 12.054ZM4.76786 9.51078L0 9.51078L0 0L4.76786 0Z"/>
   </g>
  </g>
 </svg>

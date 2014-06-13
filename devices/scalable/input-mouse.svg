@@ -53,7 +53,7 @@
     <path
        id="shape0"
        transform="translate(10.7412, 19.5776)"
-       fill="#c6c3c7"
+       style="fill:#c6c3c7"
        fill-rule="evenodd"
        stroke="#003bc3"
        stroke-width="0.00000000000"
@@ -65,7 +65,7 @@
     <path
        id="shape1"
        transform="matrix(1 -0.000535645 -0.000598519 -1 10.7902 20.6049)"
-       fill="#2980b9"
+       style="fill:#2980b9"
        fill-rule="evenodd"
        stroke="#003bc3"
        stroke-width="0.00000000000"
@@ -76,7 +76,7 @@
     <rect
        id="shape2"
        transform="matrix(-1 0 0 1 26.4381 8.77991)"
-       fill="#34495e"
+       style="fill:#34495e"
        fill-rule="evenodd"
        stroke="#003bc3"
        stroke-width="0.00000000000"
@@ -91,7 +91,7 @@
     <rect
        id="shape3"
        transform="translate(23.8588, 4.19953)"
-       fill="#34495e"
+       style="fill:#34495e"
        fill-rule="evenodd"
        stroke="#003bc3"
        stroke-width="0.00000000000"
@@ -104,7 +104,7 @@
     <rect
        id="shape4"
        transform="matrix(-1 0 0 1 25.592 10.2472)"
-       fill="#ecf0f1"
+       style="fill:#ecf0f1"
        fill-rule="evenodd"
        stroke="#003bc3"
        stroke-width="0.00000000000"
@@ -118,7 +118,7 @@
     <rect
        id="shape5"
        transform="matrix(0 -1 1 0 10.7399 21.423)"
-       fill="#34495e"
+       style="fill:#34495e"
        fill-rule="evenodd"
        stroke="#003bc3"
        stroke-width="0.00000000000"
