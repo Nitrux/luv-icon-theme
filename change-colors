@@ -1,0 +1,91 @@
+#!/bin/bash
+#
+#  Change-colors for Flattr Icons theme.
+#
+#  Copyright 2014 fenexomega <github.com/fenexomega>
+#  
+#  This program is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 2 of the License, or
+#  (at your option) any later version.
+#  
+#  This program is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+#  
+#  You should have received a copy of the GNU General Public License
+#  along with this program; if not, write to the Free Software
+#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+#  MA 02110-1301, USA.
+#  
+#  
+
+#If user have gdialog, use it
+if [ -f /usr/bin/gdialog ]; then
+dialog='gdialog'
+else
+dialog='dialog'
+fi
+
+#List of Color Hex
+Default='1abc9c'
+Black='2c3e50'
+Blue='3498db'
+Brown='d35400'
+Cyan='00d9ff'
+Green='27ae60'
+Grey='bdc3c7'
+DarkRed='c0392b'
+Orange='e67e22'
+Red='e74c3c'
+Violet='9b59b6'
+Yellow='f1c40f'
+
+
+showHelp(){
+	echo Usage: change-colors [color]
+	echo -e "Colors: Default Black Blue Brown Cyan Green Grey DarkRed Orange Red Violet Yellow \n"
+	echo -e "e.g.:\n change-colors Red\n"
+}
+
+
+if [ "$1" == "--help" ] || [ "$1" == "-h" ]; then
+	showHelp
+	exit 0
+fi
+
+if [ "$1" == "" ]; then
+	$dialog --menu "Choose your folders color" 20 40 10 Default '1abc9c' Black '2c3e50' Blue '3498db' Brown 'd35400' Cyan '00d9ff' Green '27ae60' Grey 'bdc3c7' DarkRed 'c0392b' Orange 'e67e22' Red 'e74c3c' Violet '9b59b6' Yellow 'f1c40f' 2> opt.txt
+	test "$?" != "0" && exit 1
+	
+	Color=$(cat opt.txt)
+	Color=${!Color}
+	rm opt.txt
+	
+else
+	Color=${!1}
+	if [ "$Color" == "" ]; then
+		echo "Error: Invalid Color. Use -h or --help to show colors list."
+		exit 1
+	fi
+fi
+
+
+inputfolder="places-folders"
+auxfolder="new_folders"
+outputfolder="places/scalable"
+
+cd $inputfolder/
+mkdir $auxfolder/
+for file in * ; do 
+	if [[ $file == *.svg* ]] && [ $file != ".tmp.svg" ] ; then
+	sed -e "s/$Default/$Color/" $file > .tmp.svg
+	cat .tmp.svg > "$auxfolder/$file" 
+	fi
+done
+rm .tmp.svg 
+cp $auxfolder/* ../$outputfolder
+rm -r $auxfolder
+
+exit 0
