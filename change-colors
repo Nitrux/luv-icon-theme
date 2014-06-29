@@ -1,6 +1,7 @@
 #!/bin/bash
 #
-#  Change-colors for Flattr Icons theme.
+#  Change-colors for Flattr Icons theme. This script only changes the
+#	FRONTCOLOR of the Folders. GlyphColor will be changeable in the future.
 #
 #  Copyright 2014 fenexomega <github.com/fenexomega>
 #  
