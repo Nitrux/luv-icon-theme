@@ -68,7 +68,7 @@ dialog='dialog'
 fi
 
 if [ "$1" == "" ]; then
-	$dialog --menu "Choose your folders color" 20 40 10 default '1abc9c' black '2c3e50' blue '3498db' brown 'd35400' cyan '00d9ff' green '27ae60' grey 'bdc3c7' darkred 'c0392b' orange 'e67e22' red 'e74c3c' violet '9b59b6' yellow 'f1c40f' 2> $auxtxt
+	$dialog --menu "Choose your folders color" 20 40 10 default '1abc9c' black '2c3e50' blue '3498db' brown 'd35400' cyan '00d9ff' green '27ae60' grey 'bdc3c7' darkred 'c0392b' orange 'e67e22' red 'e74c3c' violet '9b59b6' yellow 'f1c40f' custom ?????? 2> $auxtxt
 	test "$?" != "0" && exit 1
 	
 	Color=$(cat $auxtxt)
