@@ -43,6 +43,10 @@ red='e74c3c'
 violet='9b59b6'
 yellow='f1c40f'
 
+gdefault='304050'
+gblack='d9d9d9'
+gbrown='2c3e50'
+gdarkred='E0E0E0'
 
 showHelp(){
 	echo Usage: change-colors [color]
@@ -68,7 +72,12 @@ if [ "$1" == "" ]; then
 	test "$?" != "0" && exit 1
 	
 	Color=$(cat $auxtxt)
+	GColor="g"
+	GColor+=$Color
+	GColor=${!GColor}
 	Color=${!Color}
+	
+	test "$GColor" == "" && GColor=$gdefault
 	
 else
 	Color=${!1}
@@ -88,7 +97,7 @@ cd $inputfolder/
 mkdir $auxfolder/
 for file in * ; do 
 	if [[ $file == *.svg* ]] && [ $file != "$tmpsvg" ] ; then
-	sed -e "s/$default/$Color/" $file > $tmpsvg
+	sed -e "s/$default/$Color/" $file | sed -e "s/$gdefault/$GColor/" > $tmpsvg
 	cat $tmpsvg > "$auxfolder/$file" 
 	fi
 done
@@ -106,7 +115,7 @@ cd $inputfolder/
 mkdir $auxfolder/
 for file in * ; do 
 	if [[ $file == *.svg* ]] && [ $file != "$tmpsvg" ] ; then
-	sed -e "s/$default/$Color/" $file > $tmpsvg
+	sed -e "s/$default/$Color/" $file | sed -e "s/$gdefault/$GColor/" > $tmpsvg
 	cat $tmpsvg > "$auxfolder/$file" 
 	fi
 done
