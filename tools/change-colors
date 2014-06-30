@@ -1,8 +1,5 @@
 #!/bin/bash
 #
-#  Change-colors for Flattr Icons theme. This script only changes the
-#	FRONTCOLOR of the Folders. GlyphColor will be changeable in the future.
-#
 #  Copyright 2014 fenexomega <github.com/fenexomega>
 #  
 #  Usage: change-colors [color]
@@ -26,10 +23,17 @@
 #  
 #  
 
+#Var of useful directories
 auxtxt='/tmp/aux.txt'
 tmpsvg='/tmp/tmp.svg'
 
+inputfolder="places-folders/scalable"
+auxfolder="/tmp/new_folders"
+outputfolder="../places/scalable"
+
 #List of Color Hex
+#TODO this list needs to be dynamic and user-updated
+# gonna think of a easy way to do this.
 default='1abc9c'
 black='2c3e50'
 blue='3498db'
@@ -43,10 +47,12 @@ red='e74c3c'
 violet='9b59b6'
 yellow='f1c40f'
 
+#glyph Colors Hex
 gdefault='304050'
 gblack='d9d9d9'
 gbrown='2c3e50'
 gdarkred='E0E0E0'
+
 
 showHelp(){
 	echo Usage: change-colors [color]
@@ -62,23 +68,42 @@ fi
 
 #If user have gdialog, use it
 if [ -f /usr/bin/gdialog ]; then
-dialog='gdialog'
+	dialog='gdialog'
 else
-dialog='dialog'
+	dialog='dialog'
 fi
 
+if [ ! -d $inputfolder ] || [ ! -d $outputfolder ]; then
+	if [ "$dialog" != "" ]; then
+		$dialog --title "ERROR" --msgbox "places-folders not found. Exiting" 20 40
+	else
+		echo "ERROR places-folders not found. Exiting"
+	fi
+	exit 0
+fi
+
+
 if [ "$1" == "" ]; then
-	$dialog --menu "Choose your folders color" 20 40 10 default '1abc9c' black '2c3e50' blue '3498db' brown 'd35400' cyan '00d9ff' green '27ae60' grey 'bdc3c7' darkred 'c0392b' orange 'e67e22' red 'e74c3c' violet '9b59b6' yellow 'f1c40f' custom ?????? 2> $auxtxt
+	$dialog --menu "Choose your folders color" 20 40 10 default '1abc9c' black '2c3e50' blue '3498db' brown 'd35400' cyan '00d9ff' green '27ae60' grey 'bdc3c7' darkred 'c0392b' orange 'e67e22' red 'e74c3c' violet '9b59b6' yellow 'f1c40f' custom '??????' 2> $auxtxt
 	test "$?" != "0" && exit 1
 	
+
 	Color=$(cat $auxtxt)
-	GColor="g"
-	GColor+=$Color
-	GColor=${!GColor}
-	Color=${!Color}
-	
+	if [[ "$Color" == "custom" ]]; then
+		$dialog --inputbox "Type the hexcolor for frontColor" 20 20 2> $auxtxt
+		test "$?" != "0" && exit 1
+		Color=$(cat $auxtxt)
+
+		$dialog --inputbox "Type the hexcolor for glynphColor" 20 20 2> $auxtxt
+		test "$?" != "0" && exit 1
+		GColor=$(cat $auxtxt)
+	else
+		GColor="g"
+		GColor+=$Color
+		GColor=${!GColor}
+		Color=${!Color}
+	fi
 	test "$GColor" == "" && GColor=$gdefault
-	
 else
 	Color=${!1}
 	if [ "$Color" == "" ]; then
@@ -88,11 +113,7 @@ else
 	fi
 fi
 
-
-inputfolder="places-folders/scalable"
-auxfolder="/tmp/new_folders"
-outputfolder="places/scalable"
-
+#Change and copy the scalable images
 cd $inputfolder/
 mkdir $auxfolder/
 for file in * ; do 
@@ -102,13 +123,13 @@ for file in * ; do
 	fi
 done
 rm $tmpsvg 
-cp $auxfolder/* ../../"places/scalable"
+cp $auxfolder/* ../../$outputfolder
 rm -r $auxfolder
 
 
 #Change and copy the small images
 inputfolder="places-folders/small"
-outputfolder="places/scalable"
+outputfolder="../../../places/scalable"
 
 cd ../../
 cd $inputfolder/
@@ -120,7 +141,7 @@ for file in * ; do
 	fi
 done
 rm $tmpsvg 
-cp $auxfolder/* ../../"places/small"
+cp $auxfolder/* ../../$outputfolder
 rm -r $auxfolder
 
 exit 0
