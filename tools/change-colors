@@ -129,7 +129,7 @@ rm -r $auxfolder
 
 #Change and copy the small images
 inputfolder="places-folders/small"
-outputfolder="../../../places/scalable"
+outputfolder="../places/small"
 
 cd ../../
 cd $inputfolder/
