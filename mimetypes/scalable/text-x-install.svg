@@ -1,14 +1,135 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.4pt" height="38.4pt">
-<defs/>
-<g id="layer1">
-  <path id="rect4090" transform="translate(7, 4)" fill="#ecf0f1" d="M0 0L0 40L34 40L34 11L23 0Z"/>
-  <path id="path4151" transform="matrix(3.54331 0 0 3.54331 29.9999 3.99986)" fill="#ffffff" opacity="0.50000000000" d="M0 0L0 3.10449L3.10446 3.10449Z"/>
-  <path id="path4252" transform="matrix(3.54331 0 0 3.54331 29.9999 15)" fill="#000000" fill-opacity="0.11764705882" d="M3.10446 3.10449L3.10446 0L0 0Z"/>
-  <path id="path3331" transform="translate(14.2568, 15.1074)" fill="#354b5f" d="M9.25313 3.17789e-08C6.82944 0.000205746 4.42057 0.998331 2.70804 2.71203C0.9955 4.42574 0 6.83383 0 9.25714C0 11.6805 0.9955 14.0886 2.70804 15.8022C4.42057 17.5159 6.82944 18.514 9.25313 18.5143C11.6768 18.5145 14.0855 17.5159 15.8003 15.8022C17.5149 14.0886 18.5143 11.6808 18.5143 9.25714C18.5143 6.83352 17.5149 4.42574 15.8003 2.71203C14.0855 0.998331 11.6768 -0.000205682 9.25313 3.17789e-08ZM9.25313 2.05714C13.0233 2.05694 16.4571 5.48712 16.4571 9.25714C16.4571 13.0271 13.0233 16.4574 9.25313 16.4571C5.48295 16.4569 2.05714 13.0269 2.05714 9.25714C2.05714 5.48743 5.48295 2.05735 9.25313 2.05714Z"/>
-  <rect id="rect4351" transform="matrix(1 0 0 -1 21.2568 29.1074)" fill="#354b5f" fill-rule="evenodd" width="3.20000000000pt" height="5.60000000000pt"/>
-  <path id="path4353" transform="translate(17.7568, 18.9867)" fill="#354b5f" fill-rule="evenodd" d="M5.3988 0L0 6.12068L10.7976 6.12068Z"/>
- </g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91pre2 r"
+   sodipodi:docname="text-x-install.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="672"
+     id="namedview13"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     units="px"
+     inkscape:zoom="19.666666"
+     inkscape:cx="27.211724"
+     inkscape:cy="25.26303"
+     inkscape:window-x="-4"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8066" />
+    <sodipodi:guide
+       position="0,48"
+       orientation="48,0"
+       id="guide8072" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,48"
+       id="guide8074" />
+    <sodipodi:guide
+       position="48,0"
+       orientation="-48,0"
+       id="guide8076" />
+    <sodipodi:guide
+       position="48,48"
+       orientation="0,-48"
+       id="guide8078" />
+    <sodipodi:guide
+       position="15,33"
+       orientation="18,0"
+       id="guide8080" />
+    <sodipodi:guide
+       position="15,15"
+       orientation="0,18"
+       id="guide8082" />
+    <sodipodi:guide
+       position="33,15"
+       orientation="-18,0"
+       id="guide8084" />
+    <sodipodi:guide
+       position="33,33"
+       orientation="0,-18"
+       id="guide8086" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#26a65b;fill-opacity:1;stroke:none"
+     d="m 6.9999962,4.0000694 0,39.9999996 33.9999998,0 0,-29 -11,-10.9999996 z"
+     id="rect4090-4"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     style="fill:#34d075;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 29.999934,3.9999311 0,11.0001599 11.000061,0 z"
+     id="path4151-6"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4252-5"
+     d="m 40.999995,26.000252 0,-11.000161 -11.000061,0 z"
+     style="fill:#000000;fill-opacity:0.11764706;stroke:none" />
+  <rect
+     style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#26a65b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect4263-3"
+     width="1"
+     height="1"
+     x="-7"
+     y="19.000029"
+     ry="2.35182e-07" />
+  <rect
+     style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#34d075;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect4263-9-6"
+     width="1"
+     height="1"
+     x="-7"
+     y="21.000029"
+     ry="2.35182e-07" />
+  <rect
+     style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#a9ebc4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect4263-2-4"
+     width="1"
+     height="1"
+     x="-7"
+     y="23.000029"
+     ry="2.35182e-07" />
+  <path
+     style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#a9ebc4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 24 15 C 19.014 15 15 19.014 15 24 C 15 28.986 19.014 33 24 33 C 28.986 33 33 28.986 33 24 C 33 19.014 28.986 15 24 15 z M 24 16 C 28.432 16 32 19.568 32 24 C 32 28.432 28.432 32 24 32 C 19.568 32 16 28.432 16 24 C 16 19.568 19.568 16 24 16 z M 22 19 L 22 24 L 20 24 L 24 29 L 28 24 L 26 24 L 26 19 L 22 19 z "
+     id="rect8132" />
 </svg>
