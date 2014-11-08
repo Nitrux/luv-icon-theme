@@ -18,6 +18,8 @@ MaxSize=96
 Size=16
 Context=Actions
 Type=Scalable
+MinSize=16
+MaxSize=96
 
 [apps/scalable]
 Size=512
