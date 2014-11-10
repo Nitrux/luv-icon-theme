@@ -5,8 +5,8 @@ Flattr is an icon theme for Linux desktops, the set is inspired by the latest fl
 
 ![Flattr preview](http://fc06.deviantart.net/fs71/i/2013/355/1/d/flattr_by_deviantn7k1-d6837ad.png "Flattr is a flat icon theme for Linux")
 
-Icons are licensed under the Creative Commons License (CC BY-NC-SA 4.0). 
-* Check **LICENSE.txt** for more information.
+Icons are licensed under the Creative Commons License (CC BY-SA 4.0). 
+* Check **LICENSE** for more information.
 
 
 Help add more icons!
@@ -23,6 +23,6 @@ Help add more icons!
 Notes
 -------------
 
-Before submitting icons, make sure to read the guidelines in the folder *flattr-guidelines* and use the proper template for the icon you wish to do using the files in the folder **flattr-templates**.
+Before submitting icons, make sure to use the proper template for the icon you wish to do using the files in the folder **flattr-templates**.
 
 You will need Inkscape to modify the SVG files, we recommend you to use the latest version possible as the stable one might add unnecessary data to the files.
