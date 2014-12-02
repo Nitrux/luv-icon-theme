@@ -29,7 +29,7 @@ tmpsvg='/tmp/tmp.svg'
 
 inputfolder="places-folders/scalable"
 auxfolder="/tmp/new_folders"
-outputfolder="../places/scalable"
+outputfolder="../../places/scalable"
 
 #List of Color Hex
 #TODO this list needs to be dynamic and user-updated
@@ -129,7 +129,7 @@ rm -r $auxfolder
 
 #Change and copy the small images
 inputfolder="places-folders/small"
-outputfolder="../places/small"
+outputfolder="../../places/small"
 
 cd ../../
 cd $inputfolder/
