@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.1875"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:zoom="11.578874"
+     inkscape:cx="32.873851"
+     inkscape:cy="29.482992"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -129,30 +129,14 @@
        sodipodi:nodetypes="ccssssccccccc" />
     <path
        style="fill:#a6abb5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 10,25 -5,7 0,7 27,0 27,0 0,-7 -5,-7 -22,0 z"
-       transform="translate(0,1058.5196)"
-       id="path4187"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
-    <rect
-       style="opacity:1;fill:#c8cbd1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
-       id="rect4192"
-       width="54"
-       height="1.0000685"
-       x="5"
-       y="1090.5195" />
-    <rect
-       style="opacity:1;fill:#b3b8c0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
-       id="rect4194"
-       width="54"
-       height="1"
-       x="5"
-       y="1091.5197" />
+       d="M 59 32 L 5 32 L 5 39 L 32 39 L 59 39 L 59 32 z "
+       id="path4169"
+       transform="translate(0,1058.5196)" />
     <path
-       style="opacity:1;fill:#c1c4c9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
-       d="M 5.7148438 31 L 5 32 L 59 32 L 58.285156 31 L 5.7148438 31 z "
-       transform="translate(0,1058.5196)"
-       id="rect4196" />
+       style="fill:#b6bbc4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 10 25 L 5 32 L 59 32 L 54 25 L 32 25 L 10 25 z "
+       id="path4187"
+       transform="translate(0,1058.5196)" />
     <path
        style="opacity:1;fill:#3b3b3b;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
        d="M 15 51 L 13 56.333984 L 13 59 L 32 59 L 51 59 L 51 56.333984 L 49 51 L 32 51 L 15 51 z "
