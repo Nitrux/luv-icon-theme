@@ -2,7 +2,7 @@ Flattr (Plasma 5 icon theme) - Upstream repository
 ==============
 
 ![Flattr preview](http://fc06.deviantart.net/fs70/i/2015/019/2/b/flattr_by_deviantn7k1-d6837ad.png "Flattr is an icon theme for Linux desktops")
-> Breeze is the new artwork for Plasma 5. This repository contains the icon theme also called Breeze.
+> Flattr is an icon theme for Linux desktops.
 
 Icons are licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 
