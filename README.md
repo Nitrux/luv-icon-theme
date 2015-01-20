@@ -24,6 +24,9 @@ Install
 * Move the folder(s) *Flattr* or to `/usr/share/icons`
 * And finally select it in the Settings.
 
+Reporting missing icons
+========
+
 When reporting missing icons make sure to follow these steps so we can resolve it faster:
 
 ### For Linux:
