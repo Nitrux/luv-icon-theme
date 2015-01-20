@@ -1,4 +1,4 @@
-Flattr (Plasma 5 icon theme) - Upstream repository
+Flattr (icon theme) - Upstream repository
 ==============
 
 ![Flattr preview](http://fc06.deviantart.net/fs70/i/2015/019/2/b/flattr_by_deviantn7k1-d6837ad.png "Flattr is an icon theme for Linux desktops")
