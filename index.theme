@@ -123,6 +123,11 @@ Type=Scalable
 MinSize=64
 MaxSize=256
 
+[status/22]
+Size=22
+Context=Status
+Type=Fixed
+
 [status/24]
 Size=24
 Context=Status
