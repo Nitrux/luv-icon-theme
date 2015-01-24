@@ -54,8 +54,8 @@ Type=Fixed
 Size=64
 Context=Applications
 Type=Scalable
-MinSize=1
-MaxSize=256
+MinSize=16
+MaxSize=512
 
 [categories/16]
 Size=16
@@ -76,8 +76,8 @@ Type=Fixed
 Size=64
 Context=Categories
 Type=Scalable
-MinSize=1
-MaxSize=256
+MinSize=16
+MaxSize=512
 
 [devices/16]
 Size=16
@@ -108,8 +108,8 @@ Type=Fixed
 Size=48
 Context=MimeTypes
 Type=Scalable
-MinSize=1
-MaxSize=256
+MinSize=16
+MaxSize=512
 
 [places/16]
 Size=16
@@ -120,8 +120,8 @@ Type=Fixed
 Size=64
 Context=Places
 Type=Scalable
-MinSize=1
-MaxSize=256
+MinSize=16
+MaxSize=512
 
 [status/22]
 Size=22
