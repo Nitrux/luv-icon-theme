@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="mail-client2.svg">
+   sodipodi:docname="geary.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="49.63448"
-     inkscape:cy="20.170833"
+     inkscape:zoom="15.999999"
+     inkscape:cx="31.739836"
+     inkscape:cy="26.002135"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,7 +111,7 @@
        y="1081.5197"
        ry="0" />
     <path
-       style="fill:#ffdd55;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#fcdc71;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="M 3 23 L 50 59 L 32 45 L 61 32 L 61 23 L 3 23 z "
        id="path4203"
        transform="translate(0,1058.5196)" />
