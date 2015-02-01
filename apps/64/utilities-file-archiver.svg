@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="utilities-file-archiver.svg">
+   sodipodi:docname="accessories-archiver.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828427"
-     inkscape:cx="17.928538"
-     inkscape:cy="55.198688"
+     inkscape:zoom="15.999999"
+     inkscape:cx="31.957342"
+     inkscape:cy="21.779981"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -116,19 +116,19 @@
        id="rect4179"
        style="fill:#a26d3e;fill-opacity:1;stroke:none" />
     <rect
-       y="1106.5197"
-       x="22"
-       height="11.000053"
-       width="20"
-       id="rect4192"
-       style="fill:#503426;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <rect
        style="fill:#c58652;fill-opacity:1;stroke:none"
        id="rect4148"
        width="58"
        height="35.999947"
        x="3"
        y="1071.5197" />
+    <rect
+       y="1106.5197"
+       x="22"
+       height="11.000053"
+       width="20"
+       id="rect4192"
+       style="fill:#503426;fill-opacity:1;stroke:none;stroke-opacity:1" />
     <path
        style="fill:#4f3325;fill-opacity:1;stroke:none;stroke-opacity:1"
        d="m 23,5 c -2.770038,0 -5,2.229962 -5,5 l 0,3 3,0 0,-2 c 0,-3 0,-3 3,-3 l 16,0 c 3,0 3,0 3,3 l 0,2 3,0 0,-3 C 46,7.229962 43.770038,5 41,5 Z"
