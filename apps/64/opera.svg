@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="pdfmod.svg">
+   sodipodi:docname="opera.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.157747"
-     inkscape:cx="39.143916"
-     inkscape:cy="11.646435"
+     inkscape:zoom="4"
+     inkscape:cx="48.59963"
+     inkscape:cy="29.160217"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -51,7 +51,7 @@
        orientation="0,54"
        id="guide4144" />
     <sodipodi:guide
-       position="59,5.0000688"
+       position="59,31.000001"
        orientation="-54,0"
        id="guide4146" />
     <sodipodi:guide
@@ -75,17 +75,37 @@
        orientation="0,-64"
        id="guide4156" />
     <sodipodi:guide
-       position="10,35"
+       position="13,50.999947"
        orientation="38,0"
        id="guide4155" />
     <sodipodi:guide
-       position="54,37"
+       position="13,12.999947"
+       orientation="0,38"
+       id="guide4157" />
+    <sodipodi:guide
+       position="51,12.999947"
        orientation="-38,0"
        id="guide4159" />
     <sodipodi:guide
        position="51,50.999947"
        orientation="0,-38"
        id="guide4161" />
+    <sodipodi:guide
+       position="13,31.999948"
+       orientation="19,0"
+       id="guide4196" />
+    <sodipodi:guide
+       position="13,12.999947"
+       orientation="0,19"
+       id="guide4198" />
+    <sodipodi:guide
+       position="32,12.999947"
+       orientation="-19,0"
+       id="guide4200" />
+    <sodipodi:guide
+       position="32,31.999948"
+       orientation="0,-19"
+       id="guide4202" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -104,20 +124,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1058.5196)">
+    <rect
+       style="fill:#f62459;fill-opacity:1;stroke:none"
+       id="rect4158"
+       width="54"
+       height="54"
+       x="5"
+       y="1063.3947"
+       ry="27" />
     <path
-       style="fill:#d64541;fill-opacity:1;stroke:none"
-       d="M 10 5 L 10 59 L 40 59 L 54 45 L 54 5 L 10 5 z "
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999988"
+       d="M 32 12 A 17.000005 20.000053 0 0 0 15 32 A 17.000005 20.000053 0 0 0 32 52 A 17.000005 20.000053 0 0 0 49 32 A 17.000005 20.000053 0 0 0 32 12 z M 32 16 A 8.9999998 16.000053 0 0 1 41 32 A 8.9999998 16.000053 0 0 1 32 48 A 8.9999998 16.000053 0 0 1 23 32 A 8.9999998 16.000053 0 0 1 32 16 z "
        transform="translate(0,1058.5196)"
-       id="rect4148" />
-    <path
-       style="fill:#f4cccb;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 23 24 L 23 40 L 29 24 L 23 24 z M 35 24 L 41 40 L 41 24 L 35 24 z M 32 30 L 29.199219 37 L 32 37 L 33 40 L 36 40 L 32 30 z "
-       transform="translate(0,1058.5196)"
-       id="path4158" />
-    <path
-       style="fill:#96281b;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 40,1117.5196 14,-14 -13,0 -1,0 z"
-       id="path4159"
-       inkscape:connector-curvature="0" />
+       id="path4171" />
   </g>
 </svg>
