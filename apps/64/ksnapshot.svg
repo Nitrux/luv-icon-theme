@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="ksnapshot\\g.svg">
+   sodipodi:docname="ksnapshot.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,23 +25,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.181126"
-     inkscape:cx="37.036013"
-     inkscape:cy="36.657341"
+     inkscape:zoom="15.8125"
+     inkscape:cx="16.852853"
+     inkscape:cy="20.244202"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid4136" />
+       id="grid4136"
+       empspacing="2" />
     <sodipodi:guide
        position="5,59.000069"
        orientation="54,0"
@@ -79,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,10 +91,9 @@
      transform="translate(0,-1058.5196)">
     <path
        style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="m 2,1063.5196 0,44 24.755859,0 c -0.263086,2.082 -0.752336,4.1166 -1.539062,6.0293 -0.676468,0.1596 -3.216797,2.436 -3.216797,2.9707 0,0.554 0.446,1 1,1 l 2,0 16,0 c 0.554,0 1,-0.446 1,-1 0,-0.5347 -2.540329,-2.8111 -3.216797,-2.9707 -0.786726,-1.9127 -1.275976,-3.9473 -1.539062,-6.0293 l 24.755859,0 0,-44 z"
-       id="rect4214"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccsscssccccc" />
+       d="M 3 5 C 2.4459612 5 2 5.4459612 2 6 L 2 48 C 2 48.554039 2.4459612 49 3 49 L 26.755859 49 C 26.492773 51.082 26.003523 53.116597 25.216797 55.029297 C 24.540329 55.188897 22 57.4653 22 58 C 22 58.554 22.446 59 23 59 L 25 59 L 41 59 C 41.554 59 42 58.554 42 58 C 42 57.4653 39.459671 55.188897 38.783203 55.029297 C 37.996477 53.116597 37.507227 51.082 37.244141 49 L 61 49 C 61.554039 49 62 48.554039 62 48 L 62 6 C 62 5.4459612 61.554039 5 61 5 L 3 5 z "
+       transform="translate(0,1058.5196)"
+       id="rect4214" />
     <rect
        style="opacity:1;fill:#3ecdf6;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect4228"
@@ -193,5 +193,10 @@
          id="rect4186"
          style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </g>
+    <path
+       style="opacity:1;fill:#050505;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 22 58 C 22 58.554 22.446 59 23 59 L 41 59 C 41.554 59 42 58.554 42 58 L 22 58 z "
+       transform="translate(0,1058.5196)"
+       id="rect4163" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="accesories-calculator.svg">
+   sodipodi:docname="accessories-calculator.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="34.197275"
-     inkscape:cy="38.512994"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="-38.106918"
+     inkscape:cy="-13.502357"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="1024"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
@@ -115,7 +115,7 @@
        height="54.000069"
        x="5"
        y="1063.5195"
-       ry="0" />
+       ry="1.0000688" />
     <rect
        style="fill:#ecf0f1;fill-opacity:1;stroke:none"
        id="rect4215"
@@ -171,5 +171,10 @@
        d="m 38,1099.5203 0,2 14,0 0,-2 -14,0 z m 0,6 0,2 14,0 0,-2 -14,0 z"
        id="rect4233"
        inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#484e58;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5 58 C 5 58.554038 5.4459619 59 6 59 L 58 59 C 58.554038 59 59 58.554038 59 58 L 5 58 z "
+       transform="translate(0,1058.5196)"
+       id="rect4160" />
   </g>
 </svg>

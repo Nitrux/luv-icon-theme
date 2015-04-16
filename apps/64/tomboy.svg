@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="tomboy.svg">
+   sodipodi:docname="gnome-note.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="36.282147"
-     inkscape:cy="46.922595"
+     inkscape:zoom="7.9999995"
+     inkscape:cx="-38.35712"
+     inkscape:cy="36.010167"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
@@ -106,40 +106,36 @@
      transform="translate(0,-1058.5196)">
     <rect
        style="fill:#fdf4a9;fill-opacity:1;stroke:none"
-       id="rect4148"
+       id="rect4148-5"
        width="44"
        height="43.999947"
        x="10"
        y="1071.5197" />
-    <rect
-       y="1063.5195"
-       x="10"
-       height="8.0001221"
-       width="44"
-       id="rect4149"
-       style="fill:#90675a;fill-opacity:1;stroke:none" />
-    <rect
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#90675a;fill-opacity:1;stroke:none"
+       d="m 11,1063.5196 c 0,0 -1,0 -1,1 l 0,2 0,5 44,0 0,-5 0,-2 c -10e-7,-1 -1,-1 -1,-1 l -1,0 -39,0 -2,0 z"
+       id="rect4149" />
+    <path
+       inkscape:connector-curvature="0"
        style="fill:#867a01;fill-opacity:1;stroke:none"
-       id="rect4308"
-       width="44"
-       height="1"
-       x="10"
-       y="1116.5197" />
+       d="m 10,1116.5196 c 0,0.554 0.44603,1 1,1 l 42,0 c 0.55397,0 1,-0.446 1,-1 l -44,0 z"
+       id="rect4308-3" />
     <rect
        y="1115.5199"
        x="10"
        height="1"
        width="44"
-       id="rect4310"
+       id="rect4310-7"
        style="fill:#c0ad04;fill-opacity:1;stroke:none" />
     <path
+       inkscape:connector-curvature="0"
        style="fill:#fbef82;fill-opacity:1;stroke:none"
-       d="M 10 15 L 10 16 L 54 16 L 54 15 L 10 15 z M 10 19 L 10 20 L 54 20 L 54 19 L 10 19 z M 10 23 L 10 24 L 54 24 L 54 23 L 10 23 z M 10 27 L 10 28 L 54 28 L 54 27 L 10 27 z M 10 31 L 10 32 L 54 32 L 54 31 L 10 31 z M 10 35 L 10 36 L 54 36 L 54 35 L 10 35 z M 10 39 L 10 40 L 54 40 L 54 39 L 10 39 z M 10 43 L 10 44 L 54 44 L 54 43 L 10 43 z M 10 47 L 10 48 L 54 48 L 54 47 L 10 47 z M 10 51 L 10 52 L 54 52 L 54 51 L 10 51 z M 10 55 L 10 56 L 54 56 L 54 55 L 10 55 z "
-       transform="translate(0,1058.5196)"
-       id="rect4338" />
+       d="m 10,1073.5196 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z m 0,4 0,1 44,0 0,-1 -44,0 z"
+       id="rect4338-6" />
     <rect
        style="fill:#ed8484;fill-opacity:1;stroke:none"
-       id="rect4336"
+       id="rect4336-2"
        width="1"
        height="43.999947"
        x="17"

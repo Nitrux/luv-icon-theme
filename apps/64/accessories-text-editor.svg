@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="kate.svg">
+   sodipodi:docname="accessories-text-editor.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.999998"
-     inkscape:cx="18.441339"
-     inkscape:cy="11.62284"
+     inkscape:zoom="11.313708"
+     inkscape:cx="29.912853"
+     inkscape:cy="15.349477"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
@@ -111,20 +111,16 @@
        height="43.999947"
        x="10"
        y="1071.5197" />
-    <rect
-       y="1063.5195"
-       x="10"
-       height="8.0001221"
-       width="44"
-       id="rect4149"
-       style="fill:#90675a;fill-opacity:1;stroke:none" />
-    <rect
+    <path
+       style="fill:#90675a;fill-opacity:1;stroke:none"
+       d="M 11 5 C 11 5 10 5 10 6 L 10 8 L 10 13 L 54 13 L 54 8 L 54 6 C 53.999999 5 53 5 53 5 L 52 5 L 13 5 L 11 5 z "
+       transform="translate(0,1058.5196)"
+       id="rect4149" />
+    <path
        style="fill:#bfb8a7;fill-opacity:1;stroke:none"
-       id="rect4308"
-       width="44"
-       height="1"
-       x="10"
-       y="1116.5197" />
+       d="M 10 58 C 10 58.55397 10.44603 59 11 59 L 53 59 C 53.55397 59 54 58.55397 54 58 L 10 58 z "
+       transform="translate(0,1058.5196)"
+       id="rect4308" />
     <rect
        y="1115.5199"
        x="10"

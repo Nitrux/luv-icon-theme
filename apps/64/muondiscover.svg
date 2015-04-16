@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="24.609748"
-     inkscape:cy="47.096923"
+     inkscape:zoom="11.313709"
+     inkscape:cx="29.978654"
+     inkscape:cy="32.474119"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -111,6 +111,21 @@
      transform="translate(0,-1058.5196)">
     <path
        inkscape:connector-curvature="0"
+       style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 5,1075.5196 0,1 0,40 c 0,0.554 0.446,1 1,1 l 52,0 c 0.554,0 1,-0.446 1,-1 l 0,-41 -54,0 z"
+       id="rect4172-2" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#2384c3;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 5,1109.5196 0,7 c 0,0.554 0.446,1 1,1 l 52,0 c 0.554,0 1,-0.446 1,-1 l 0,-7 -54,0 z"
+       id="rect4221-4" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4179"
+       d="m 5,1116.5196 c 0,0.554 0.446,1 1,1 l 52,0 c 0.554,0 1,-0.446 1,-1 l -54,0 z"
+       style="opacity:1;fill:#1e72a7;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
        id="path4177"
        d="m 57,1067.5196 0,7 c 0,0 -2,-4 -2,-4 z"
        style="fill:#3498db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
@@ -119,13 +134,6 @@
        d="m 7,1067.5196 0,7 c 0,0 2,-4 2,-4 z"
        id="path4175"
        inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="rect4172"
-       width="54"
-       height="41.999443"
-       x="5"
-       y="1075.5201" />
     <path
        style="fill:#30508e;fill-opacity:1;stroke:none"
        d="m 7,9 2,3 -4,5 54,0 -4,-5 2,-3 z"
@@ -176,12 +184,5 @@
        cx="42"
        cy="1079.5197"
        r="2" />
-    <rect
-       style="opacity:1;fill:#2384c3;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="rect4221"
-       width="54"
-       height="7.9999313"
-       x="5"
-       y="1109.5197" />
   </g>
 </svg>

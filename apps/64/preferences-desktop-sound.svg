@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.999999"
-     inkscape:cx="32.184897"
-     inkscape:cy="27.165913"
+     inkscape:zoom="5.6568539"
+     inkscape:cx="-18.824958"
+     inkscape:cy="23.962867"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -116,7 +116,7 @@
        height="54.000122"
        x="8"
        y="1063.5195"
-       ry="1.81641e-06" />
+       ry="1.0000688" />
     <rect
        style="opacity:1;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect4186"
@@ -175,5 +175,10 @@
        d="M 20 17 A 1 1 0 0 0 19 18 A 1 1 0 0 0 20 19 A 1 1 0 0 0 21 18 A 1 1 0 0 0 20 17 z M 44 17 A 1 1 0 0 0 43 18 A 1 1 0 0 0 44 19 A 1 1 0 0 0 45 18 A 1 1 0 0 0 44 17 z M 20 45 A 1 1 0 0 0 19 46 A 1 1 0 0 0 20 47 A 1 1 0 0 0 21 46 A 1 1 0 0 0 20 45 z M 44 45 A 1 1 0 0 0 43 46 A 1 1 0 0 0 44 47 A 1 1 0 0 0 45 46 A 1 1 0 0 0 44 45 z "
        transform="translate(0,1058.5196)"
        id="circle4207-1" />
+    <path
+       style="opacity:1;fill:#9a5423;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 8 58 C 8 58.554038 8.4459619 59 9 59 L 55 59 C 55.554038 59 56 58.554038 56 58 L 8 58 z "
+       transform="translate(0,1058.5196)"
+       id="rect4162" />
   </g>
 </svg>

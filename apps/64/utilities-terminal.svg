@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="22.893862"
-     inkscape:cy="40.786719"
+     inkscape:zoom="22.627416"
+     inkscape:cx="14.156318"
+     inkscape:cy="44.418249"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -75,70 +75,6 @@
        position="64,64.000069"
        orientation="0,-64"
        id="guide4156" />
-    <sodipodi:guide
-       position="13,50.999947"
-       orientation="38,0"
-       id="guide4155" />
-    <sodipodi:guide
-       position="13,12.999947"
-       orientation="0,38"
-       id="guide4157" />
-    <sodipodi:guide
-       position="51,12.999947"
-       orientation="-38,0"
-       id="guide4159" />
-    <sodipodi:guide
-       position="51,50.999947"
-       orientation="0,-38"
-       id="guide4161" />
-    <sodipodi:guide
-       position="17,47.000069"
-       orientation="30,0"
-       id="guide4199" />
-    <sodipodi:guide
-       position="17,17.000069"
-       orientation="0,30"
-       id="guide4201" />
-    <sodipodi:guide
-       position="47,17.000069"
-       orientation="-30,0"
-       id="guide4203" />
-    <sodipodi:guide
-       position="47,47.000069"
-       orientation="0,-30"
-       id="guide4205" />
-    <sodipodi:guide
-       position="25.586269,36.999948"
-       orientation="-6.5860108,-6.5860108"
-       id="guide4217" />
-    <sodipodi:guide
-       position="19.000258,43.585959"
-       orientation="-1.4142136,1.4142136"
-       id="guide4219" />
-    <sodipodi:guide
-       position="20.414471,45.000173"
-       orientation="6.5860108,6.5860108"
-       id="guide4221" />
-    <sodipodi:guide
-       position="27.000482,38.414162"
-       orientation="1.4142136,-1.4142136"
-       id="guide4223" />
-    <sodipodi:guide
-       position="25.586269,39.000251"
-       orientation="6.5860109,-6.5860109"
-       id="guide4225" />
-    <sodipodi:guide
-       position="19.000258,32.41424"
-       orientation="1.4142136,1.4142136"
-       id="guide4227" />
-    <sodipodi:guide
-       position="20.414471,31.000026"
-       orientation="-6.5860109,6.5860109"
-       id="guide4229" />
-    <sodipodi:guide
-       position="27.000482,37.586037"
-       orientation="-1.4142136,-1.4142136"
-       id="guide4231" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -158,16 +94,64 @@
      id="layer1"
      transform="translate(0,-1058.5196)">
     <rect
-       style="fill:#2c3e50;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#bcb7a3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4177"
+       width="46"
+       height="6.9999313"
+       x="9"
+       y="1110.5197"
+       ry="1.00007" />
+    <rect
+       style="fill:#dbd0be;fill-opacity:1;stroke:none;stroke-width:0.96225029"
        id="rect4148"
-       width="54"
-       height="54"
-       x="5"
-       y="1063.5195" />
+       width="50.000008"
+       height="50.000069"
+       x="6.9999905"
+       y="1063.5195"
+       ry="1.0000688" />
+    <rect
+       ry="0.99994665"
+       y="1065.5197"
+       x="9"
+       height="34.000175"
+       width="46"
+       id="rect4152"
+       style="opacity:1;fill:#ac9d88;fill-opacity:1;stroke:none;stroke-width:8.347826;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#212921;fill-opacity:1;stroke:none;stroke-width:7.652174;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4349"
+       width="44"
+       height="32.000053"
+       x="10"
+       y="1066.5197"
+       ry="0.99994665" />
     <path
-       style="fill:#bdc3c7;fill-opacity:1;stroke:none"
-       d="M 20.414062 19 L 19 20.414062 L 24.585938 26 L 19 31.585938 L 20.414062 33 L 27 26.414062 L 27.414062 26 L 27 25.585938 L 20.414062 19 z M 28 37 L 28 39 L 40 39 L 40 37 L 28 37 z "
+       style="opacity:1;fill:#cabba0;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45 45 C 44.446029 45 44 45.446029 44 46 L 44 47 L 31 47 C 30.44603 47 30 47.44603 30 48 L 30 49 C 30 49.55397 30.44603 50 31 50 L 44 50 L 44 51 C 44 51.553971 44.446029 52 45 52 L 53 52 C 53.553971 52 54 51.553971 54 51 L 54 46 C 54 45.446029 53.553971 45 53 45 L 45 45 z "
        transform="translate(0,1058.5196)"
-       id="rect4207" />
+       id="rect4169" />
+    <path
+       style="opacity:1;fill:#212921;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 46 46 C 45.44603 46 45 46.44603 45 47 L 45 48 L 31 48 L 31 49 L 45 49 L 45 50 C 45 50.55397 45.44603 51 46 51 L 52 51 C 52.55397 51 53 50.55397 53 50 L 53 47 C 53 46.44603 52.55397 46 52 46 L 46 46 z "
+       transform="translate(0,1058.5196)"
+       id="rect4171" />
+    <rect
+       style="opacity:1;fill:#26c281;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4697"
+       width="6"
+       height="2.0000534"
+       x="22.000004"
+       y="1081.7194"
+       ry="0" />
+    <path
+       style="opacity:1;fill:#aca68d;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 9 57 L 9 58 C 9 58.554039 9.4459612 59 10 59 L 54 59 C 54.554039 59 55 58.554039 55 58 L 55 57 C 55 57.554039 54.554039 58 54 58 L 10 58 C 9.4459612 58 9 57.554039 9 57 z "
+       transform="translate(0,1058.5196)"
+       id="rect4156" />
+    <path
+       style="opacity:1;fill:#26c281;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 15 13 L 15 14 L 15 15 L 16 15 L 16 16 L 17 16 L 17 17 L 18 17 L 18 18 L 18 19 L 17 19 L 17 20 L 16 20 L 16 21 L 15 21 L 15 22 L 15 23 L 16 23 L 17 23 L 17 22 L 18 22 L 18 21 L 19 21 L 19 20 L 20 20 L 20 19 L 21 19 L 21 18 L 21 17 L 20 17 L 20 16 L 19 16 L 19 15 L 18 15 L 18 14 L 17 14 L 17 13 L 16 13 L 15 13 z "
+       transform="translate(0,1058.5196)"
+       id="rect4157" />
   </g>
 </svg>

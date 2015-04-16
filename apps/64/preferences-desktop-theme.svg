@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.90625"
-     inkscape:cx="29.471831"
-     inkscape:cy="36.690736"
+     inkscape:zoom="15.8125"
+     inkscape:cx="17.674072"
+     inkscape:cy="20.833924"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
@@ -90,11 +90,15 @@
      id="layer1"
      transform="translate(0,-1058.5196)">
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="m 2,1063.5196 0,44 24.755859,0 c -0.263086,2.082 -0.752336,4.1166 -1.539062,6.0293 -0.676468,0.1596 -3.216797,2.436 -3.216797,2.9707 0,0.554 0.446,1 1,1 l 2,0 16,0 c 0.554,0 1,-0.446 1,-1 0,-0.5347 -2.540329,-2.8111 -3.216797,-2.9707 -0.786726,-1.9127 -1.275976,-3.9473 -1.539062,-6.0293 l 24.755859,0 0,-44 z"
-       id="rect4214"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccsscssccccc" />
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 3,1063.5196 c -0.554039,0 -1,0.446 -1,1 l 0,42 c 0,0.554 0.445961,1 1,1 l 23.755859,0 c -0.263086,2.082 -0.752336,4.1166 -1.539062,6.0293 -0.676468,0.1596 -3.216797,2.436 -3.216797,2.9707 0,0.554 0.446,1 1,1 l 2,0 16,0 c 0.554,0 1,-0.446 1,-1 0,-0.5347 -2.540329,-2.8111 -3.216797,-2.9707 -0.786726,-1.9127 -1.275976,-3.9473 -1.539062,-6.0293 l 23.755859,0 c 0.554039,0 1,-0.446 1,-1 l 0,-42 c 0,-0.554 -0.445961,-1 -1,-1 l -58,0 z"
+       id="rect4214" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#050505;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 22,1116.5196 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 l -20,0 z"
+       id="rect4163" />
     <rect
        style="opacity:1;fill:#3ecdf6;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect4228"

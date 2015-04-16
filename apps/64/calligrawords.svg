@@ -26,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999996"
-     inkscape:cx="31.847385"
-     inkscape:cy="28.010612"
+     inkscape:cx="19.505361"
+     inkscape:cy="26.838768"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
@@ -118,7 +118,7 @@
      transform="translate(0,-1058.5196)">
     <path
        style="fill:#e9b578;fill-opacity:1;stroke:none"
-       d="M 10 5 L 10 59 L 40 59 L 54 59 L 54 45 L 54 5 L 10 5 z "
+       d="M 11 5 C 10.446029 5 10 5.4460294 10 6 L 10 58 C 10 58.553971 10.446029 59 11 59 L 40 59 L 53 59 C 53.553971 59 54 58.553971 54 58 L 54 45 L 54 6 C 54 5.4460294 53.553971 5 53 5 L 11 5 z "
        transform="translate(0,1058.5196)"
        id="rect4148" />
     <rect
@@ -162,5 +162,10 @@
        d="M 15 11 L 15 13 L 28 13 L 28 11 L 15 11 z M 15 17 L 15 18 L 49 18 L 49 17 L 15 17 z M 15 19 L 15 20 L 49 20 L 49 19 L 15 19 z M 15 21 L 15 22 L 21 22 L 21 21 L 15 21 z M 15 25 L 15 26 L 49 26 L 49 25 L 15 25 z M 15 27 L 15 28 L 28 28 L 28 27 L 15 27 z M 15 29 L 15 30 L 43 30 L 43 29 L 15 29 z M 15 34 L 15 49 L 30 49 L 30 34 L 15 34 z M 32 34 L 32 35 L 48 35 L 48 34 L 32 34 z M 16 35 L 29 35 L 29 48 L 16 48 L 16 35 z M 32 36 L 32 37 L 48 37 L 48 36 L 32 36 z M 32 38 L 32 39 L 37 39 L 37 38 L 32 38 z M 32 43 L 32 44 L 40 44 L 40 43 L 32 43 z "
        transform="translate(0,1058.5196)"
        id="rect4240" />
+    <path
+       style="opacity:1;fill:#e19944;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 10 58 C 10 58.553971 10.446029 59 11 59 L 53 59 C 53.553971 59 54 58.553971 54 58 L 10 58 z "
+       transform="translate(0,1058.5196)"
+       id="rect4164" />
   </g>
 </svg>

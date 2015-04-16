@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999996"
-     inkscape:cx="14.03876"
-     inkscape:cy="31.867504"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="45.13402"
+     inkscape:cy="55.023489"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
@@ -118,17 +118,15 @@
      id="layer1"
      transform="translate(0,-1058.5196)">
     <path
-       inkscape:connector-curvature="0"
        style="fill:#374d64;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 10,1063.5196 0,50 0,2 3,0 0,-2 41,0 0,-50 -44,0 z"
+       d="M 11 5 C 10.44603 5 10 5.4460296 10 6 L 10 55 L 10 57 L 13 57 L 13 55 L 54 55 L 54 6 C 54 5.4460296 53.55397 5 53 5 L 11 5 z "
+       transform="translate(0,1058.5196)"
        id="path4178" />
-    <rect
+    <path
        style="opacity:1;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="rect4181"
-       width="10"
-       height="52.000069"
-       x="10"
-       y="1063.5195" />
+       d="M 11 5 C 10.44603 5 10 5.4460296 10 6 L 10 57 L 20 57 L 20 5 L 11 5 z "
+       transform="translate(0,1058.5196)"
+       id="rect4181" />
     <rect
        y="1115.5426"
        x="11"
@@ -137,9 +135,9 @@
        id="rect4310"
        style="fill:#e4f1fe;fill-opacity:1;stroke:none" />
     <path
-       inkscape:connector-curvature="0"
        style="opacity:1;fill:#243341;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="m 10,1063.5195 0,52 3,0 0,-52 -3,0 z"
+       d="M 11 5 C 10.44603 5 10 5.4460296 10 6 L 10 57 L 13 57 L 13 5 L 11 5 z "
+       transform="translate(0,1058.5196)"
        id="rect4190" />
     <rect
        style="fill:#e4f1fe;fill-opacity:1;stroke:none"

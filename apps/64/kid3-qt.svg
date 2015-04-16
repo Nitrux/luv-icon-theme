@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-7.9751268"
-     inkscape:cy="11.266614"
+     inkscape:zoom="11.313708"
+     inkscape:cx="22.022482"
+     inkscape:cy="30.394231"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
@@ -94,10 +94,19 @@
      transform="translate(0,-1058.5196)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#26a65b;fill-opacity:1;stroke:none"
-       d="m 15,1063.5196 0,54 28,0 0,-14 14,0 0,-40 z"
-       id="rect4148"
-       sodipodi:nodetypes="ccccccc" />
+       style="opacity:1;fill:#26a65b;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 11,1063.5196 c -0.55397,0 -1,0.446 -1,1 l 0,52 c 0,0.554 0.44603,1 1,1 l 29,0 14,-14 0,-39 c 0,-0.554 -0.44603,-1 -1,-1 l -42,0 z"
+       id="rect4153" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#22904f;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 10,1116.5196 c 0,0.554 0.44603,1 1,1 l 29,0 1,-1 -31,0 z"
+       id="rect4154" />
+    <path
+       style="opacity:1;fill:#34d075;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41,1103.4312 c -0.553971,0 -1,0.446 -1,1 l 0,7 0,5 0,1 14,-14 -1,0 -4,0 -8,0 z"
+       id="rect4155"
+       inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path4157"
@@ -106,11 +115,6 @@
        inkscape:transform-center-y="7.7967503"
        inkscape:transform-center-x="2.5881906"
        sodipodi:nodetypes="ccccccccccc" />
-    <path
-       style="fill:#34d075;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 43,1117.5196 14,-14 -13,0 -1,0 z"
-       id="path4159"
-       inkscape:connector-curvature="0" />
     <path
        id="rect4221-4"
        d="m 32,1081.5196 0,1 0,2 0,1 0,8.7754 c -0.530877,-0.4772 -1.226703,-0.7754 -2,-0.7754 -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 1.662,0 3,-1.338 3,-3 l 0,-11 11,0 0,8.7754 c -0.530877,-0.4772 -1.226703,-0.7754 -2,-0.7754 -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 1.662,0 3,-1.338 3,-3 l 0,-15 -1,0 -12,0 z"

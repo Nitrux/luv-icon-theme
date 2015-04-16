@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="clementine.svg">
+   sodipodi:docname="application-x-clementine.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.015625"
-     inkscape:cx="32.308398"
-     inkscape:cy="18.558881"
+     inkscape:zoom="8"
+     inkscape:cx="55.359745"
+     inkscape:cy="52.521601"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
@@ -198,9 +198,9 @@
        cy="1079.5195"
        r="4" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:#353535;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="m 5,1063.5196 0,1 0,1 0,6 0,1 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-1 0,-5 c 0,-1 1,-1 1,-1 l 5,0 1,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -1,0 -6,0 -1,0 -1,0 z m 45,0 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 1,0 5,0 c 0,0 1,0 1,1 l 0,5 0,1 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-1 0,-6 0,-1 0,-1 -1,0 -1,0 -6,0 -1,0 z m -44,44 c -0.554,0 -1,0.446 -1,1 l 0,1 0,6 0,1 0,1 1,0 1,0 6,0 1,0 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 l -1,0 -5,0 c 0,0 -1,0 -1,-1 l 0,-5 0,-1 c 0,-0.554 -0.446,-1 -1,-1 z m 52,0 c -0.554,0 -1,0.446 -1,1 l 0,1 0,5 c 0,1 -1,1 -1,1 l -5,0 -1,0 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 l 1,0 6,0 1,0 1,0 0,-1 0,-1 0,-6 0,-1 c 0,-0.554 -0.446,-1 -1,-1 z"
+       d="M 6 5 C 5.446 5 5 5.446 5 6 L 5 7 L 5 13 L 5 14 C 5 14.554 5.446 15 6 15 C 6.554 15 7 14.554 7 14 L 7 13 L 7 8 C 7 7 8 7 8 7 L 13 7 L 14 7 C 14.554 7 15 6.554 15 6 C 15 5.446 14.554 5 14 5 L 13 5 L 7 5 L 6 5 z M 50 5 C 49.446 5 49 5.446 49 6 C 49 6.554 49.446 7 50 7 L 51 7 L 56 7 C 56 7 57 7 57 8 L 57 13 L 57 14 C 57 14.554 57.446 15 58 15 C 58.554 15 59 14.554 59 14 L 59 13 L 59 7 L 59 6 C 59 5.446 58.554 5 58 5 L 57 5 L 51 5 L 50 5 z M 6 49 C 5.446 49 5 49.446 5 50 L 5 51 L 5 57 L 5 58 C 5 58.554 5.446 59 6 59 L 7 59 L 13 59 L 14 59 C 14.554 59 15 58.554 15 58 C 15 57.446 14.554 57 14 57 L 13 57 L 8 57 C 8 57 7 57 7 56 L 7 51 L 7 50 C 7 49.446 6.554 49 6 49 z M 58 49 C 57.446 49 57 49.446 57 50 L 57 51 L 57 56 C 57 57 56 57 56 57 L 51 57 L 50 57 C 49.446 57 49 57.446 49 58 C 49 58.554 49.446 59 50 59 L 51 59 L 57 59 L 58 59 C 58.554 59 59 58.554 59 58 L 59 57 L 59 51 L 59 50 C 59 49.446 58.554 49 58 49 z "
+       transform="translate(0,1058.5196)"
        id="rect4171" />
     <rect
        style="opacity:1;fill:#e9dcb6;fill-opacity:1;stroke:none;stroke-width:1.33338153;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"

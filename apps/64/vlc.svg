@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="0.11785223"
-     inkscape:cy="37.538408"
+     inkscape:zoom="8.0000001"
+     inkscape:cx="0.94595092"
+     inkscape:cy="28.393877"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -125,20 +125,19 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1058.5196)">
-    <rect
+    <path
        style="opacity:1;fill:#f2784b;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="rect4209"
-       width="54"
-       height="8"
-       x="5"
-       y="1109.5197" />
+       d="M 5 51 L 5 52 L 5 58 C 5 58.55397 5.4460296 59 6 59 L 58 59 C 58.55397 59 59 58.55397 59 58 L 59 52 L 59 51 L 58 51 L 6 51 L 5 51 z "
+       transform="translate(0,1058.5196)"
+       id="rect4209" />
     <rect
        style="fill:#2c3e50;fill-opacity:1;stroke:none"
        id="rect4148"
        width="54"
        height="45.999947"
        x="5"
-       y="1063.5197" />
+       y="1063.5197"
+       ry="0.99994665" />
     <path
        style="fill:#f2784b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 25,1076.5196 0,10 0,10 14,-10 -14,-10 z"
@@ -157,5 +156,10 @@
        id="rect4199"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssssssss" />
+    <path
+       style="opacity:1;fill:#e86231;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5 58 C 5 58.55397 5.4460296 59 6 59 L 58 59 C 58.55397 59 59 58.55397 59 58 L 5 58 z "
+       transform="translate(0,1058.5196)"
+       id="rect4163" />
   </g>
 </svg>

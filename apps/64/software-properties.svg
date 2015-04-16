@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="software-properties.svg">
+   sodipodi:docname="package_applications.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.181126"
-     inkscape:cx="28.364233"
+     inkscape:cx="11.773775"
      inkscape:cy="26.850363"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,8 +34,8 @@
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
      inkscape:window-x="-4"
      inkscape:window-y="29"
      inkscape:window-maximized="1">
@@ -199,5 +199,10 @@
        id="path4209"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#885c33;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 5.0000005,1116.5196 c 0,0.554 0.4459612,1 1,1 l 51.9999995,0 c 0.554039,0 1,-0.446 1,-1 l -53.9999995,0 z"
+       id="rect4193" />
   </g>
 </svg>
