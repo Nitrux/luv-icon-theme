@@ -21,7 +21,8 @@ Alternatively, click [**here**](https://github.com/NitruxSA/flattr-icons/archive
 Install
 ========
 
-* Move the folder(s) *Flattr* to `/usr/share/icons`
+* Remname the folder to *Flattr*.
+* Move the folder(s) *Flattr* to `/usr/share/icons`.
 * And finally select it in the Settings.
 
 Reporting missing icons
