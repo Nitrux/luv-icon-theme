@@ -12,7 +12,11 @@
    height="24"
    id="svg2"
    version="1.1"
+<<<<<<< HEAD
    inkscape:version="0.91 r13725"
+=======
+   inkscape:version="0.91+devel r"
+>>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
    sodipodi:docname="indicator-messages-new.svg">
   <metadata
      id="metadata20">
@@ -37,17 +41,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
+<<<<<<< HEAD
      inkscape:window-width="1920"
      inkscape:window-height="1025"
+=======
+     inkscape:window-width="1366"
+     inkscape:window-height="670"
+>>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
      id="namedview16"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:zoom="30.34131"
+<<<<<<< HEAD
      inkscape:cx="10.47303"
      inkscape:cy="15.975289"
      inkscape:window-x="0"
      inkscape:window-y="30"
+=======
+     inkscape:cx="15.334389"
+     inkscape:cy="15.975289"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
+>>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      fit-margin-top="0"
@@ -101,7 +117,11 @@
      x="-2"
      y="0" />
   <path
+<<<<<<< HEAD
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
+=======
+     style="opacity:1;fill:#304050;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
+>>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
      d="M 12 4 C 11.446 4 11 4.446 11 5 L 11 6.0996094 C 8.7126387 6.5606036 7 8.5728315 7 11 L 7 15 C 5.892 15 5 15.892 5 17 L 5 18 L 11 18 L 11 19 C 11 19.554 11.446 20 12 20 C 12.554 20 13 19.554 13 19 L 13 18 L 19 18 L 19 17 C 19 15.892 18.108 15 17 15 L 17 11 C 17 8.5728315 15.287361 6.5606036 13 6.0996094 L 13 5 C 13 4.446 12.554 4 12 4 z "
      id="rect4148" />
   <circle

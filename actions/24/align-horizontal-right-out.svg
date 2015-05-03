@@ -13,7 +13,11 @@
    height="24"
    id="svg4359"
    version="1.1"
+<<<<<<< HEAD
    inkscape:version="0.91 r13725"
+=======
+   inkscape:version="0.91+devel r"
+>>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
    sodipodi:docname="align-horizontal-right-out.svg">
   <defs
      id="defs4361" />
@@ -25,16 +29,27 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.263456"
+<<<<<<< HEAD
      inkscape:cx="2.6582364"
+=======
+     inkscape:cx="11.789137"
+>>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
      inkscape:cy="10.638792"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
+<<<<<<< HEAD
      inkscape:window-width="1920"
      inkscape:window-height="1025"
      inkscape:window-x="0"
      inkscape:window-y="30"
+=======
+     inkscape:window-width="1366"
+     inkscape:window-height="670"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
+>>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -97,7 +112,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<<<<<<< HEAD
         <dc:title />
+=======
+        <dc:title></dc:title>
+>>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,7 +133,11 @@
        x="-2.9999993"
        y="24.999996" />
     <path
+<<<<<<< HEAD
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
+=======
+       style="opacity:1;fill:#304050;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
+>>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
        d="m 3,31 6,0 0,5 -6,0 0,-5 z m 5,7 1,0 0,5 -1,0 0,-5 z m 2,-9 2,0 0,16 -2,0 0,-16 z"
        id="rect4152"
        inkscape:connector-curvature="0" />
