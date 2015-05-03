@@ -21,22 +21,22 @@
     <linearGradient
        id="linearGradient4103">
       <stop
-         style="stop-color:#bdecfb;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
          id="stop4105" />
       <stop
-         style="stop-color:#f5feff;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
          id="stop4107" />
     </linearGradient>
     <linearGradient
        id="linearGradient4314">
       <stop
-         style="stop-color:#ff4b00;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
          id="stop4316" />
       <stop
-         style="stop-color:#ff5500;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
          id="stop4318" />
     </linearGradient>
@@ -45,17 +45,17 @@
       <stop
          id="stop5022-6"
          offset="0"
-         style="stop-color:#0da8db;stop-opacity:1" />
+         style="stop-color:#ffffff;stop-opacity:1" />
       <stop
          id="stop5024-0"
          offset="1"
-         style="stop-color:#1fe1fb;stop-opacity:1" />
+         style="stop-color:#ffffff;stop-opacity:1" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#000000"
+     bordercolor="#000000"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -145,8 +145,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(-3,-29)">
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#34495d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+    <path fill="#ffffff"
+       style="color:#ffffff;enable-background:accumulate"
        d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 3 3 L 13 3 L 13 13 L 12 13 L 12 12 L 11 12 L 11 13 L 9 13 L 9 12 L 6 12 L 6 13 L 3 13 L 3 3 z M 4 4 L 4 5 L 12 5 L 12 4 L 4 4 z M 4 6 L 4 7 L 9 7 L 9 6 L 4 6 z "
        transform="translate(3,29)"
        id="rect4155" />
