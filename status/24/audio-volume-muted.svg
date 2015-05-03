@@ -13,11 +13,7 @@
    height="24"
    id="svg4359"
    version="1.1"
-<<<<<<< HEAD
    inkscape:version="0.91 r13725"
-=======
-   inkscape:version="0.91+devel r"
->>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
    sodipodi:docname="audio-volume-muted.svg">
   <defs
      id="defs4361" />
@@ -29,27 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="61.753992"
-<<<<<<< HEAD
      inkscape:cx="9.4126464"
-=======
-     inkscape:cx="11.801156"
->>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
      inkscape:cy="16.121424"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-<<<<<<< HEAD
      inkscape:window-width="1920"
      inkscape:window-height="1025"
      inkscape:window-x="0"
      inkscape:window-y="30"
-=======
-     inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
->>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -134,11 +119,7 @@
        x="-3"
        y="25" />
     <path
-<<<<<<< HEAD
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-=======
-       style="fill:#304050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
->>>>>>> f839e41bb8a313c795db9bd53e5a51600d8fc956
        d="M 13.099609 4 C 12.351463 4 9.8022835 5.8509496 8.2460938 7.9785156 L 7 9 L 7 11 L 7 13 L 7 15 L 8.2460938 16.021484 C 9.8022836 18.14905 12.351463 20 13.099609 20 L 13.099609 4 z M 6 9 C 5 9 4 10 4 10 L 4 14 C 4 14 5 15 6 15 L 6 9 z "
        transform="translate(-1,25)"
        id="path4186" />

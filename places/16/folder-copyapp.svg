@@ -13,7 +13,7 @@
    height="16"
    id="svg4359"
    version="1.1"
-   inkscape:version="0.91pre2 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="folder-copyapp.svg">
   <defs
      id="defs4361" />
@@ -25,16 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32.625"
-     inkscape:cx="2.6905076"
+     inkscape:cx="-1.8612165"
      inkscape:cy="11.17074"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="672"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -116,7 +116,7 @@
      transform="translate(-3,-29)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#424854;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        d="m 16.672143,31 -3.423437,4.172445 1.187256,1.076057 2.564037,-5.01434 L 16.672143,31 Z m -9.4218022,3.296787 -2.2503401,1.951715 0,0.751498 2.2503401,-0.751498 1.4998637,6.00109 L 10.595352,41.133237 16.77453,43 l 0.204775,0 0.02069,-0.169904 -2.25034,-5.079687 L 13.999183,37 10.162931,40.06916 7.999729,34.749864 7.2503417,34.296787 Z m 3.7502032,1.203485 -1.4857029,0.74823 1.1730959,2.250136 2.560769,-2.249047 c 0,0 -1.498635,-0.749319 -2.248162,-0.749319 z"
        id="polygon4171" />
   </g>
