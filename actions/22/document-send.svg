@@ -13,7 +13,7 @@
    height="22"
    id="svg4359"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="document-send.svg">
   <defs
      id="defs4361" />
@@ -25,16 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="30.921018"
-     inkscape:cx="6.5630754"
+     inkscape:cx="11.365634"
      inkscape:cy="13.332922"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-width="1366"
+     inkscape:window-height="670"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -112,7 +112,7 @@
        x="-2"
        y="26" />
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
+       style="opacity:1;fill:#304050;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
        d="m 7,29 -4,4 0,1 0,1 0,10 6,0 0,-2 -4,0 0,-8 0,-1 3,0 0,-3 1,0 4,0 0,4 2,0 0,-6 -6,0 -1,0 -1,0 z"
        id="path4154" />
     <path
