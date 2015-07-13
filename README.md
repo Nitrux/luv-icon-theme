@@ -16,7 +16,7 @@ Icons are available to download directly from this repository. Simply clone it a
 * In a Terminal execute the following command: 
   * `git clone https://github.com/NitruxSA/flattr-icons.git`
 
-Alternatively, click [**here**](https://github.com/NitruxSA/flattr-icons/archive/v1.2.tar.gz) for the latest release [v1.2].
+Alternatively, click [**here**](https://github.com/NitruxSA/flattr-icons/archive/v1.3.tar.gz) for the latest release [v1.3].
 
 Install
 ========
