@@ -3,7 +3,7 @@ Name=Flattr
 Comment=Flattr is an icon theme for Linux desktops, the set is inspired by the latest flat design trend.
 Inherits=
 
-Directories=actions/16,actions/22,actions/24,actions/32,actions/48,apps/16,apps/22,apps/32,apps/48,apps/64,emblems/8,emblems/22,devices/16,devices/32,devices/48,devices/64,categories/16,categories/32,categories/48,categories/64,mimetypes/16,mimetypes/48,places/16,places/48,places/64,status/22,status/24
+Directories=actions/16,actions/22,actions/24,actions/32,actions/48,apps/16,apps/22,apps/32,apps/48,apps/64,emblems/8,emblems/22,devices/16,devices/32,devices/48,devices/64,categories/16,categories/32,categories/48,categories/64,mimetypes/16,mimetypes/48,mimetypes/64,mimetypes/128,places/16,places/48,places/64,places/128,status/22,status/24
 
 ##############	Actions
 
@@ -139,9 +139,19 @@ Type=Fixed
 [mimetypes/48]
 Size=48
 Context=MimeTypes
+Type=Fixed
+
+[mimetypes/64]
+Size=64
+Context=MimeTypes
+Type=Fixed
+
+[mimetypes/128]
+Size=128
+Context=MimeTypes
 Type=Scalable
-MinSize=16
-MaxSize=512
+MinSize=128
+MaxSize=256
 
 ##############
 
@@ -160,9 +170,14 @@ Type=Fixed
 [places/64]
 Size=64
 Context=Places
+Type=Fixed
+
+[places/128]
+Size=128
+Context=Places
 Type=Scalable
-MinSize=64
-MaxSize=512
+MinSize=128
+MaxSize=256
 
 ##############
 
