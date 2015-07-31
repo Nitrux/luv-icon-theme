@@ -3,3 +3,4 @@
 *.directory
 *.bak
 /.project
+*.db
