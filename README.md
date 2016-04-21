@@ -1,8 +1,8 @@
-Flattr (icon theme) - Upstream repository
+ Lüv (icon theme) - Upstream repository
 ==============
 
-![Flattr preview](http://fc05.deviantart.net/fs70/i/2015/019/8/b/flattr_by_deviantn7k1-d6837ad.png "Flattr is an icon theme for Linux desktops")
-> Flattr is an icon theme for Linux desktops.
+![Lüv preview](http://i.imgur.com/xqPuYYZ.png " Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments. ")
+>  Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
 
 Icons are licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -14,14 +14,14 @@ Download
 Icons are available to download directly from this repository. Simply clone it and move the resulting folder(s) to the appropriate path.
 
 * In a Terminal execute the following command: 
-  * `git clone https://github.com/NitruxSA/flattr-icons.git`
+  * `git clone https://github.com/NitruxSA/luv-icon-theme.git`
 
-Alternatively, click [**here**](https://github.com/NitruxSA/flattr-icons/archive/v1.3.tar.gz) for the latest release [v1.3].
+Alternatively, click [**here**](https://github.com/NitruxSA/) for the latest release [v0.1].
 
 Install
 ========
 
-* Move the folder(s) *Flattr* and *Flattr Dark* to `/usr/share/icons`.
+* Move the folder(s) *Luv* and *Luv Dark* to `/usr/share/icons` for all environments or `~/.icons` for GTK based environments or `~/.local/share/icons` for Plasma 5.
 * And finally select it in the Settings.
 
 Reporting missing icons
@@ -37,9 +37,3 @@ When reporting missing icons make sure to follow these steps so we can resolve i
 4. Add a description of the software, it's very important for us to know what the software does as we are not able to install every software under the sun and test them.
 
 Some software uses *hardcoded paths* in their launchers, as such even when we add the icon the system will not load it, you may use [Hardcoded Icon Fixer](https://github.com/Foggalong/hardcode-fixer) to resolve this problem.
-
-Contributions
-========
-* You're allowed (and welcomed) to contribute icons to the icon theme, however, make sure to read the [wiki](https://github.com/NitruxSA/flattr-icons/wiki) to get up and close with the design guidelines.
-* When creating pull requests make sure that your local copy is up to date before pushing changes.
-* Add a preview of the icon to the pull request, in the size of the icon and a zoomed version.
