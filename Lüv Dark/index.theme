@@ -2,17 +2,17 @@
 #######################
 #   Name of the theme #
 #######################
-Name=Flattr Dark
+Name=Lüv Dark
 
 #################
 #   Description #
 #################
-Comment=Flattr Dark contains icons for dark themes.
+Comment=Lüv Dark contains icons for dark themes.
 
 #################################
 #   Fallback icon theme to use  #
 #################################
-Inherits=Flattr
+Inherits=Lüv
 
 #################################################################################
 #   Folders were the assets are located within the hierarchy of the icon theme  #
