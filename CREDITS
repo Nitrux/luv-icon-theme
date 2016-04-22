@@ -375,6 +375,15 @@ apps/16:
 
     preferences-system-bluetooth.svg
 
+apps/32:
+
+    preferences-desktop-color.svg
+    preferences-desktop-font.svg@
+    preferences-desktop-icons.svg
+    preferences-desktop-plasma.svg
+    preferences-desktop-theme.svg
+    preferences-system.svg
+
 apps/48:
     
     system-file-manager.svg
@@ -436,6 +445,10 @@ mimetypes/16:
 mimetypes/48:
 
     inode-directory.svg@
+    
+mimetypes/32:
+
+    application-x-font-ttf.svg
 
 mimetypes/64:
 
@@ -514,7 +527,10 @@ places/16:
     user-home.svg
     user-trash-full.svg
     user-trash.svg
+    
+places/32:
 
+    user-desktop.svg
 
 places/48:
 
