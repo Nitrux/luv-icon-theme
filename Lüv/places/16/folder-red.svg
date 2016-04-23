@@ -13,7 +13,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
    sodipodi:docname="folder-red.svg">
   <defs
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.875"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="23.246135"
+     inkscape:cx="7.3934368"
+     inkscape:cy="7.0381293"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="672"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px">
     <inkscape:grid
@@ -76,11 +76,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <path
-       style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 2,2 2,4 2,5 1,5 1,14 15,14 15,5 14,5 14,3 8.6464844,3 C 8.2675541,2.4456398 7.6351043,2 7,2 L 2,2 Z M 3,4 9,4 13,4 13,5 3,5 3,4 Z"
-       transform="translate(0,1036.3622)"
-       id="folderGlyph"
-       inkscape:connector-curvature="0" />
+    <g
+       id="layer1-5"
+       inkscape:label="Capa 1"
+       style="fill:#e74c3c;fill-opacity:1">
+      <path
+         id="rect4139"
+         transform="translate(0,1036.3622)"
+         d="m 1,2 0,12 6,0 8,0 L 15,5 15,4 15,3 14,3 7.6660156,3 7,2 1,2 Z M 8.3339844,4 14,4 14,5 9,5 8.3339844,4 Z"
+         style="opacity:1;fill:#e74c3c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

@@ -362,6 +362,10 @@ actions/24:
     zoom-original.svg
     zoom-out.svg
     zoom-previous.svg
+    
+actions/32:
+    
+    chronometer.svg
 
 actions/symbolic:
 
@@ -382,12 +386,16 @@ apps/32:
     preferences-desktop.svg
     preferences-desktop-baloo.svg
     preferences-desktop-color.svg
+    preferences-desktop-default-applications.svg
     preferences-desktop-font.svg@
     preferences-desktop-icons.svg
     preferences-desktop-keyboard.svg
+    preferences-desktop-locale.svg
     preferences-desktop-login.svg
+    preferences-desktop-notification.svg
     preferences-desktop-plasma.svg
     preferences-desktop-theme.svg
+    preferences-desktop-user.svg
     preferences-system-windows.svg
     preferences-system.svg
 
@@ -419,6 +427,10 @@ apps/64:
     utilities-system-monitor.svg
     utilities-terminal.svg
     utilities-text-editor.svg
+    
+categories/32:
+
+    applications-internet.svg
     
 devices/16:
     
@@ -457,6 +469,7 @@ mimetypes/48:
 mimetypes/32:
 
     application-x-font-ttf.svg
+    application-x-executable.svg
 
 mimetypes/64:
 
