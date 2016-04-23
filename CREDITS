@@ -396,6 +396,9 @@ apps/32:
     preferences-desktop-plasma.svg
     preferences-desktop-theme.svg
     preferences-desktop-user.svg
+    preferences-system-bluetooth.svg
+    preferences-system-network.svg
+    preferences-system-network-connection.svg
     preferences-system-windows.svg
     preferences-system.svg
 
