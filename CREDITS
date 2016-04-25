@@ -366,6 +366,7 @@ actions/24:
 actions/32:
     
     chronometer.svg
+    edit-select.svg
     system-run.svg
 
 actions/symbolic:
@@ -384,12 +385,17 @@ apps/32:
     
     baloo.svg
     kdeconnect.svg
+    kde-gtk-config.svg
+    plasma.svg
+    preferences-activities.svg
     preferences-desktop.svg
+    preferences-desktop-accessibility.svg
     preferences-desktop-baloo.svg
     preferences-desktop-color.svg
     preferences-desktop-default-applications.svg
     preferences-desktop-display.svg
     preferences-desktop-font.svg@
+    preferences-desktop-font-installer.svg
     preferences-desktop-icons.svg
     preferences-desktop-keyboard.svg
     preferences-desktop-locale.svg
@@ -404,6 +410,7 @@ apps/32:
     preferences-system-network-connection.svg
     preferences-system-power-management.svg
     preferences-system-windows.svg
+    preferences-system-windows-actions.svg
     preferences-system.svg
 
 apps/48:
@@ -470,6 +477,10 @@ emblems/22:
     emblem-readonly.svg@
     emblem-symbolic-link.svg
     emblem-unlocked.svg
+    
+emotes/32:
+
+    face-smile.svg
 
 mimetypes/16:
 

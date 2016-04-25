@@ -1,4 +1,5 @@
 [Icon Theme]
+
 #######################
 #   Name of the theme #
 #######################
@@ -8,11 +9,6 @@ Name=Lüv Dark
 #   Description #
 #################
 Comment=Lüv Dark contains icons for dark themes.
-
-#################################
-#   Fallback icon theme to use  #
-#################################
-Inherits=hicolor, Lüv
 
 #####################
 #   Plasma settings #
@@ -32,12 +28,17 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
+#################################
+#   Fallback icon theme to use  #
+#################################
+Inherits=hicolor
+
 #################################################################################
 #   Folders were the assets are located within the hierarchy of the icon theme  #
 #   Organized alphabetically by category and size                               #
 #   Example=folder                                                              #
 #################################################################################
-Directories=actions/16,actions/22,actions/24,actions/32,actions/48,apps/16,apps/22,apps/32,apps/48,apps/64,emblems/8,emblems/22,devices/16,devices/32,devices/48,devices/64,categories/16,categories/32,categories/48,categories/64,mimetypes/16,mimetypes/32,mimetypes/48,mimetypes/64,mimetypes/128,places/16,places/48,places/64,places/128,status/22,status/24
+Directories=actions/16,actions/22,actions/24,actions/32,actions/48,apps/16,apps/22,apps/32,apps/48,apps/64,emblems/8,emblems/22,emotes/32,devices/16,devices/32,devices/48,devices/64,categories/16,categories/32,categories/48,categories/64,mimetypes/16,mimetypes/32,mimetypes/48,mimetypes/64,mimetypes/128,places/16,places/48,places/64,places/128,status/22,status/24
 
 ##############	Actions
 
@@ -158,6 +159,15 @@ Context=Emblems
 Type=Fixed
 
 ##############
+
+##############
+
+##############  Emotes
+
+[emotes/32]
+Size=32
+Context=Emotes
+Type=Fixed
 
 ##############	MimeTypes
 

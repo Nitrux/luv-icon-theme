@@ -20,33 +20,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="Shadow">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop4166" />
-      <stop
-         id="stop4220"
-         offset="0.83333331"
-         style="stop-color:#000000;stop-opacity:0.49803922;" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop4168" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#Shadow"
-       id="radialGradient4170"
-       cx="32"
-       cy="1093.5195"
-       fx="32"
-       fy="1093.5195"
-       r="25"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9984,9.3725632e-6,-9.7630867e-6,1.04,0.06187664,-43.74134)" />
-    <linearGradient
        gradientTransform="translate(0,1064.5196)"
        inkscape:collect="always"
        xlink:href="#linearGradient4192"
@@ -122,6 +95,33 @@
        y1="34"
        x2="24"
        y2="37" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#Shadow"
+       id="radialGradient4170"
+       cx="32"
+       cy="1093.5195"
+       fx="32"
+       fy="1093.5195"
+       r="25"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0399999,1.3243208e-5,-1.324321e-5,1.04,-1.2655137,-43.741604)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="Shadow">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4166" />
+      <stop
+         id="stop4220"
+         offset="0.92307687"
+         style="stop-color:#000000;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4168" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -130,9 +130,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="55.935388"
-     inkscape:cy="49.672856"
+     inkscape:zoom="12.90625"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -201,7 +201,7 @@
      transform="translate(0,-1058.5196)">
     <circle
        r="26"
-       cy="1093.5198"
+       cy="1093.5195"
        cx="32"
        id="circle4162"
        style="opacity:1;fill:url(#radialGradient4170);fill-opacity:1;stroke:none;stroke-opacity:1" />

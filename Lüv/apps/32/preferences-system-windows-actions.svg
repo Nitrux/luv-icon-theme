@@ -16,25 +16,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="system-run.svg">
+   sodipodi:docname="preferences-system-windows-action.svg">
   <defs
      id="defs4">
-    <linearGradient
-       id="linearGradient4169"
-       inkscape:collect="always">
-      <stop
-         id="stop4171"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0.66666669"
-         id="stop4175" />
-      <stop
-         id="stop4173"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="Shadow">
@@ -81,15 +65,31 @@
        y2="32" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4169"
-       id="radialGradient4167"
-       cx="16"
-       cy="1040.3619"
-       fx="16"
-       fy="1040.3619"
-       r="6"
+       xlink:href="#linearGradient4164"
+       id="radialGradient4205"
+       cx="23.000006"
+       cy="1031.3624"
+       fx="23.000006"
+       fy="1031.3624"
+       r="6.0000005"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(10,-12)" />
+       gradientTransform="matrix(1,0,0,1.000006,2.9999942,-2.005414)" />
+    <linearGradient
+       id="linearGradient4164"
+       inkscape:collect="always">
+      <stop
+         id="stop4166"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.66666573"
+         id="stop4170" />
+      <stop
+         id="stop4168"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -98,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="51.625"
-     inkscape:cx="22.096873"
-     inkscape:cy="23.370797"
+     inkscape:zoom="32"
+     inkscape:cx="27.883812"
+     inkscape:cy="22.980144"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -111,9 +111,7 @@
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     units="px"
-     showguides="true"
-     inkscape:guide-bbox="true">
+     units="px">
     <inkscape:grid
        type="xygrid"
        id="grid4155"
@@ -134,10 +132,6 @@
        position="30,30.000018"
        orientation="0,-28"
        id="guide4165" />
-    <sodipodi:guide
-       position="16,15"
-       orientation="1,0"
-       id="guide4153" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -212,29 +206,31 @@
        cx="28"
        cy="1027.3622"
        r="1" />
-    <circle
-       r="6"
-       cy="1028.3619"
-       cx="26"
-       id="circle4159"
-       style="opacity:1;fill:url(#radialGradient4167);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#8bc34a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4157"
-       cx="26"
-       cy="1027.3622"
-       r="6" />
-    <circle
-       r="5"
-       cy="1027.3622"
-       cx="26"
-       id="circle4162"
-       style="opacity:1;fill:#9ccc65;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       cy="1029.3621"
+       cx="26.000002"
+       id="circle4201"
+       style="opacity:1;fill:url(#radialGradient4205);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="6.0000005"
+       ry="6.0000291" />
+    <ellipse
+       style="opacity:1;fill:#4caf50;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4174"
+       cx="26.000002"
+       cy="1028.3623"
+       rx="6.0000005"
+       ry="6.0000291" />
+    <ellipse
+       ry="5.0000291"
+       rx="5.0000052"
+       cy="1028.3623"
+       cx="26.000002"
+       id="ellipse4277"
+       style="opacity:1;fill:#66bb6a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 23.962891,1024.3628 c -0.536944,0.02 -0.962135,0.4607 -0.962891,0.998 l 0,4 c -2.8e-5,0.7434 0.78229,1.227 1.447266,0.8946 l 4,-2 c 0.737211,-0.3685 0.737211,-1.4206 0,-1.7891 l -4,-2 c -0.150226,-0.075 -0.316792,-0.1102 -0.484375,-0.1035 z"
-       id="path4183"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 26 4 A 4.00001 4.0000291 0 0 0 25.001953 4.1328125 L 25 4.1328125 L 24.685547 5.3066406 A 3 3 0 0 0 24.322266 5.5136719 L 23.148438 5.1992188 L 23.148438 5.203125 A 4.0000291 4.00001 30 0 0 22.535156 6 A 4.0000291 4.00001 30 0 0 22.148438 6.9316406 L 23.007812 7.7890625 A 3 3 0 0 0 23 8 A 3 3 0 0 0 23.011719 8.2070312 L 22.148438 9.0683594 A 4.00001 4.0000291 60 0 0 22.535156 10 A 4.00001 4.0000291 60 0 0 23.148438 10.796875 L 23.148438 10.800781 L 24.324219 10.484375 A 3 3 0 0 0 24.685547 10.695312 L 25 11.869141 A 4.00001 4.0000291 0 0 0 26 12 A 4.00001 4.0000291 0 0 0 26.998047 11.867188 L 27 11.869141 L 27 11.867188 L 27.314453 10.693359 A 3 3 0 0 0 27.677734 10.486328 L 28.851562 10.800781 L 28.851562 10.796875 A 4.0000291 4.00001 30 0 0 29.464844 10 A 4.0000291 4.00001 30 0 0 29.851562 9.0683594 L 28.992188 8.2109375 A 3 3 0 0 0 29 8 A 3 3 0 0 0 28.988281 7.7929688 L 29.851562 6.9316406 A 4.00001 4.0000291 60 0 0 29.464844 6 A 4.00001 4.0000291 60 0 0 28.851562 5.203125 L 28.851562 5.1992188 L 27.675781 5.515625 A 3 3 0 0 0 27.314453 5.3046875 L 27 4.1308594 A 4.00001 4.0000291 0 0 0 26 4 z M 26 5 A 3 3 0 0 0 25.779297 5.0117188 A 3.0000148 3.0000291 0 0 1 26 5 z M 26 6 A 2 2 0 0 1 28 8 A 2 2 0 0 1 26 10 A 2 2 0 0 1 24 8 A 2 2 0 0 1 26 6 z M 28.515625 6.3691406 A 3.0000148 3.0000291 60 0 1 28.597656 6.5 A 3.0000148 3.0000291 60 0 1 28.613281 6.5292969 A 3 3 0 0 0 28.515625 6.3691406 z M 23.464844 6.3984375 A 3 3 0 0 0 23.371094 6.5605469 A 3.0000291 3.0000148 30 0 1 23.402344 6.5 A 3.0000291 3.0000148 30 0 1 23.464844 6.3984375 z M 26 7 A 1 1 0 0 0 25 8 A 1 1 0 0 0 26 9 A 1 1 0 0 0 27 8 A 1 1 0 0 0 26 7 z M 28.628906 9.4394531 A 3.0000291 3.0000148 30 0 1 28.597656 9.5 A 3.0000291 3.0000148 30 0 1 28.535156 9.6015625 A 3 3 0 0 0 28.628906 9.4394531 z M 23.386719 9.4707031 A 3 3 0 0 0 23.484375 9.6308594 A 3.0000148 3.0000291 60 0 1 23.402344 9.5 A 3.0000148 3.0000291 60 0 1 23.386719 9.4707031 z M 26.220703 10.988281 A 3.0000148 3.0000291 0 0 1 26 11 A 3 3 0 0 0 26.220703 10.988281 z "
+       transform="translate(0,1020.3622)"
+       id="ellipse4175" />
   </g>
 </svg>
