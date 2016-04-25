@@ -4,7 +4,7 @@ ABOUT:             #
 
 Lüv version 0.1 - 21st April 2016.
 
-Icons are designed and developed by Uri Herrera <uri_herrera@nitrux.in> and its contributors.
+Icons are designed and developed by Uri Herrera <uri_herrera@nitrux.in>.
 
 The following icons are licensed under the Creative Commons License (CC BY-SA 4.0):
 
@@ -366,6 +366,7 @@ actions/24:
 actions/32:
     
     chronometer.svg
+    system-run.svg
 
 actions/symbolic:
 
@@ -387,18 +388,21 @@ apps/32:
     preferences-desktop-baloo.svg
     preferences-desktop-color.svg
     preferences-desktop-default-applications.svg
+    preferences-desktop-display.svg
     preferences-desktop-font.svg@
     preferences-desktop-icons.svg
     preferences-desktop-keyboard.svg
     preferences-desktop-locale.svg
     preferences-desktop-login.svg
     preferences-desktop-notification.svg
+    preferences-desktop-peripherals.svg
     preferences-desktop-plasma.svg
     preferences-desktop-theme.svg
     preferences-desktop-user.svg
     preferences-system-bluetooth.svg
     preferences-system-network.svg
     preferences-system-network-connection.svg
+    preferences-system-power-management.svg
     preferences-system-windows.svg
     preferences-system.svg
 
@@ -434,12 +438,18 @@ apps/64:
 categories/32:
 
     applications-internet.svg
+    applications-multimedia.svg
     
 devices/16:
     
     drive-harddisk.svg
     drive-removable-media.svg
     smartphone.svg
+
+devices/32:
+    
+    drive-removable-media.svg
+    printer.svg
     
 devices/64:
     

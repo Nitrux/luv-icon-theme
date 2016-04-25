@@ -20,6 +20,22 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient4166"
+       inkscape:collect="always">
+      <stop
+         id="stop4168"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.66665971"
+         id="stop4172" />
+      <stop
+         id="stop4170"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="Shadow">
       <stop
@@ -85,15 +101,15 @@
        y2="32" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#Shadow"
+       xlink:href="#linearGradient4166"
        id="radialGradient4191"
-       cx="2"
-       cy="1026.3622"
-       fx="2"
-       fy="1026.3622"
+       cx="1.9999582"
+       cy="1026.4622"
+       fx="1.9999582"
+       fy="1026.4622"
        r="6"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-1018.3621)" />
+       gradientTransform="matrix(0,1,-1,0,1028.4622,5.0001)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -103,7 +119,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="26"
-     inkscape:cx="22.153846"
+     inkscape:cx="15.961538"
      inkscape:cy="19.076923"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -252,7 +268,7 @@
        ry="0" />
     <path
        style="opacity:1;fill:url(#radialGradient4191);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
-       d="M 2 6 L 2 14 A 6 6 0 0 0 8 8 A 6 6 0 0 0 7.6503906 6 L 2 6 z "
+       d="M 2 6 L 2 12.900391 A 6 6 0 0 0 8 6.9003906 A 6 6 0 0 0 7.921875 6 L 2 6 z "
        transform="translate(0,1020.3622)"
        id="path4187" />
     <path
