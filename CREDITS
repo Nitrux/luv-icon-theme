@@ -15,6 +15,11 @@ actions/16:
     project-open.svg
     view-choose.svg
     view-group.svg
+    services.svg
+    media-playback-start.svg
+    edit-clear-locationbar-rtl.svg
+    edit-clear.svg
+    system-run.svg
     
 actions/22:
     address-book-insert.svg
@@ -60,6 +65,7 @@ actions/22:
     document-save.svg
     document-send.svg
     edit-clear.svg
+    edit-clear-locationbar-rtl.svg
     edit-copy.svg
     edit-cut.svg
     edit-delete.svg
@@ -234,6 +240,7 @@ actions/24:
     document-save.svg
     document-send.svg
     edit-clear.svg
+    edit-clear-locationbar-rtl.svg
     edit-copy.svg
     edit-cut.svg
     edit-delete.svg
@@ -368,7 +375,12 @@ actions/32:
     chronometer.svg
     edit-select.svg
     system-run.svg
+    tools-spell-checking.svg
     window-duplicate.svg
+    
+actions/48:
+
+    system-run.svg
 
 actions/symbolic:
 
@@ -387,6 +399,8 @@ apps/32:
     baloo.svg
     kdeconnect.svg
     kde-gtk-config.svg
+    kwalletmanager.svg
+    nepomuk.svg
     plasma.svg
     preferences-activities.svg
     preferences-desktop.svg
@@ -414,6 +428,9 @@ apps/32:
     preferences-system-windows-actions.svg
     preferences-system.svg
     preferences-web-browser-shortcuts.svg
+    preferences-system-session-services.svg 
+    preferences-system-time.svg
+    system-reboot.svg
 
 apps/48:
     
@@ -487,10 +504,13 @@ emotes/32:
 mimetypes/16:
 
     inode-directory.svg@
+    text-x-generic.svg
 
 mimetypes/48:
 
     inode-directory.svg@
+    text-plan.svg
+    text-x-generic.svg
     
 mimetypes/32:
 
@@ -538,6 +558,7 @@ mimetypes/64:
     text-markdown.svg
     text-plain.svg
     text-x-cmake.svg
+    text-x-generic.svg
     video-mp4.svg
     video-x-matroska.svg
     video-x-msvideo.svg
@@ -634,6 +655,10 @@ places/symbolic:
     user-home-symbolic.svg
     user-trash-full-symbolic.svg
     user-trash-symbolic.svg
+    
+status/16:
+
+    dialog-information.svg
 
 status/22:
 
