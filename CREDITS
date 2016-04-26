@@ -368,6 +368,7 @@ actions/32:
     chronometer.svg
     edit-select.svg
     system-run.svg
+    window-duplicate.svg
 
 actions/symbolic:
 
@@ -412,6 +413,7 @@ apps/32:
     preferences-system-windows.svg
     preferences-system-windows-actions.svg
     preferences-system.svg
+    preferences-web-browser-shortcuts.svg
 
 apps/48:
     
