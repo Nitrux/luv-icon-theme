@@ -16,7 +16,7 @@ Icons are available to download directly from this repository. Simply clone it a
 * In a Terminal execute the following command: 
   * `git clone https://github.com/NitruxSA/luv-icon-theme.git`
 
-Alternatively, click [**here**](https://github.com/NitruxSA/luv-icon-theme/releases/tag/luv-v0.2) for the latest release.
+Alternatively, click [**here**](https://github.com/NitruxSA/luv-icon-theme/releases/) for the latest release.
 
 Install
 ========
