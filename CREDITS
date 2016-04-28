@@ -2,7 +2,7 @@
 ABOUT:             #
 ####################
 
-Lüv version 0.1 - 21st April 2016.
+Lüv version 0.4 - 27th April 2016.
 
 Icons are designed and developed by Uri Herrera <uri_herrera@nitrux.in>.
 
@@ -399,6 +399,7 @@ apps/32:
     baloo.svg
     kdeconnect.svg
     kde-gtk-config.svg
+    kmix.svg
     kwalletmanager.svg
     nepomuk.svg
     plasma.svg
@@ -409,17 +410,23 @@ apps/32:
     preferences-desktop-color.svg
     preferences-desktop-default-applications.svg
     preferences-desktop-display.svg
+    preferences-desktop-filetype-association.svg
     preferences-desktop-font.svg@
     preferences-desktop-font-installer.svg
+    preferences-desktop-gaming.svg
     preferences-desktop-icons.svg
     preferences-desktop-keyboard.svg
+    preferences-desktop-launch-feedback.svg
     preferences-desktop-locale.svg
     preferences-desktop-login.svg
+    preferences-desktop-mouse.svg
     preferences-desktop-notification.svg
     preferences-desktop-peripherals.svg
     preferences-desktop-plasma.svg
+    preferences-desktop-sound.svg
     preferences-desktop-theme.svg
     preferences-desktop-user.svg
+    preferences-other.svg
     preferences-system-bluetooth.svg
     preferences-system-network.svg
     preferences-system-network-connection.svg
@@ -427,9 +434,13 @@ apps/32:
     preferences-system-windows.svg
     preferences-system-windows-actions.svg
     preferences-system.svg
+    preferences-web-browser-cache.svg
+    preferences-web-browser-cookies.svg
+    preferences-web-browser-identification.svg
     preferences-web-browser-shortcuts.svg
     preferences-system-session-services.svg 
     preferences-system-time.svg
+    system-file-manager.svg
     system-reboot.svg
 
 apps/48:
@@ -476,6 +487,7 @@ devices/32:
     
     drive-removable-media.svg
     printer.svg
+    input-tablet.svg
     
 devices/64:
     
@@ -516,6 +528,7 @@ mimetypes/32:
 
     application-x-font-ttf.svg
     application-x-executable.svg
+    audio-x-generic.svg
 
 mimetypes/64:
 
@@ -598,7 +611,9 @@ places/16:
     
 places/32:
 
+    folder.svg
     user-desktop.svg
+    user-trash.svg
 
 places/48:
 
