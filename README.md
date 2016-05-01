@@ -3,8 +3,7 @@
 
 If you are able, we ask that you help us maintain and expand our project resources 
 through your donations. As an independent project, we need your help now more than 
-ever. We truly appreciate the support you can give via PayPal here: [](http://uriherrera.com/sponsor/)
-===============
+ever. We truly appreciate the support you can give via PayPal here: [http://uriherrera.com/sponsor/](http://uriherrera.com/sponsor/)
 
 ![Lüv preview](http://i.imgur.com/xqPuYYZ.png " Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments. ")
 >  Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
