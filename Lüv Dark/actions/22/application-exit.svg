@@ -157,14 +157,14 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <rect
-       style="color:#ffffff;enable-background:accumulate"
+       style="color:#f2f2f2;enable-background:accumulate"
        id="rect4159"
        width="3"
        height="3"
        x="-3"
        y="26" />
-    <path fill="#ffffff"
-       style="fill:#ffffff;stroke-opacity:1"
+    <path fill="#f2f2f2"
+       style="fill:#f2f2f2;stroke-opacity:1"
        d="M 4.4140625 3 L 3 4.4140625 L 9.5859375 11 L 3 17.585938 L 4.4140625 19 L 11 12.414062 L 17.585938 19 L 19 17.585938 L 12.414062 11 L 19 4.4140625 L 17.585938 3 L 11 9.5859375 L 4.4140625 3 z "
        transform="translate(0,26)"
        id="path4160" />

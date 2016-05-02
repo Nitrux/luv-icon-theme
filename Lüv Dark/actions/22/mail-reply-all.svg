@@ -105,21 +105,21 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <rect
-       style="color:#ffffff;enable-background:accumulate"
+       style="color:#f2f2f2;enable-background:accumulate"
        id="rect4147"
        width="2"
        height="2"
        x="-2"
        y="26" />
-    <path fill="#ffffff"
-       style="opacity:1;fill:#ffffff;stroke-opacity:0.29943501"
+    <path fill="#f2f2f2"
+       style="opacity:1;fill:#f2f2f2;stroke-opacity:0.29943501"
        d="m 3,5 0,10 0,2 2,0 6,0 0,-1 0,-1 L 5,15 5,6.5546875 11,12 17,6.5546875 17,11 19,11 19,5 5,5 Z"
        transform="translate(0,26)"
        id="path4154"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccc" />
-    <path fill="#ffffff"
-       style="opacity:1;fill:#ffffff;stroke-opacity:0.29943501"
+    <path fill="#f2f2f2"
+       style="opacity:1;fill:#f2f2f2;stroke-opacity:0.29943501"
        d="M 16.447266 12 C 15.680408 12 14.911825 12.293254 14.324219 12.880859 C 13.149008 14.056071 13.149008 15.949788 14.324219 17.125 L 15.201172 18 L 14 18 L 14 19 L 17 19 L 17 18 L 17 16 L 16 16 L 16 17.384766 L 15.033203 16.416016 C 14.249729 15.632542 14.249729 14.371365 15.033203 13.587891 C 15.816677 12.804417 17.077854 12.804417 17.861328 13.587891 L 18.136719 13.863281 L 18.84375 13.15625 L 18.568359 12.880859 C 17.980753 12.293254 17.214123 12 16.447266 12 z "
        transform="translate(0,26)"
        id="rect4152" />

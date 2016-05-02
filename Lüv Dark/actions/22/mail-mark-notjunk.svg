@@ -105,14 +105,14 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <rect
-       style="color:#ffffff;enable-background:accumulate"
+       style="color:#f2f2f2;enable-background:accumulate"
        id="rect4147"
        width="2"
        height="2"
        x="-2"
        y="26" />
-    <path fill="#ffffff"
-       style="opacity:1;fill:#ffffff;stroke-opacity:0.29943501"
+    <path fill="#f2f2f2"
+       style="opacity:1;fill:#f2f2f2;stroke-opacity:0.29943501"
        d="M 3 5 L 3 15 L 3 17 L 5 17 L 11 17 L 11 15 L 5 15 L 5 6.5546875 L 11 12 L 17 6.5546875 L 17 11 L 19 11 L 19 5 L 5 5 L 3 5 z M 19 12 L 15 17 L 13 15 L 12 16 L 15 19 L 20 13 L 19 12 z "
        transform="translate(0,26)"
        id="rect4152" />
