@@ -1,4 +1,4 @@
- Lüv (icon theme) - Upstream repository
+Lüv (icon theme) - Upstream repository
 ==============
 
 ## [Sponsor Lüv by clicking here!](http://uriherrera.com/sponsor/). We truly appreciate the support you can give us.
