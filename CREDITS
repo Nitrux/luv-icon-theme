@@ -538,6 +538,7 @@ mimetypes/32:
     application-x-executable.svg
     audio-x-generic.svg
     inode-directory.svg
+    image-x-generic.svg
 
 mimetypes/64:
 
