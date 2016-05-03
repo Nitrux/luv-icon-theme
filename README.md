@@ -12,6 +12,9 @@ Icons are licensed under the [Creative Commons Attribution-ShareAlike Internatio
 
 * Check **LICENSE** file inside the package for more information.
 
+Please be aware that this is not "complete" with thousands of icons. Icons are added gradually.
+=
+
 Download
 ========
 
