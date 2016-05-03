@@ -372,7 +372,9 @@ actions/24:
     
 actions/32:
     
+    application-exit.svg
     chronometer.svg
+    document-open-recent.svg
     edit-select.svg
     system-run.svg
     tools-spell-checking.svg
@@ -396,7 +398,10 @@ apps/16:
 
 apps/32:
     
+    accessories-calculator.svg
+    accessories-dictionary.svg
     baloo.svg
+    clock.svg
     internet-web-browser.svg
     kdeconnect.svg
     kde-gtk-config.svg
@@ -477,6 +482,7 @@ categories/32:
 
     applications-internet.svg
     applications-multimedia.svg
+    applications-other.svg
     
 devices/16:
     
@@ -526,10 +532,12 @@ mimetypes/48:
     text-x-generic.svg
     
 mimetypes/32:
-
+    
+    application-pdf
     application-x-font-ttf.svg
     application-x-executable.svg
     audio-x-generic.svg
+    inode-directory.svg
 
 mimetypes/64:
 
