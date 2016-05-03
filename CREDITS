@@ -616,11 +616,13 @@ places/16:
     user-trash.svg
 
 places/32:
+    bookmarks.svg
     folder.svg
     folder-documents.svg
     folder-download.svg
     user-desktop.svg
     user-trash.svg
+    user-home.svg
 
 places/48:
     folder-documents.svg
@@ -668,7 +670,6 @@ places/64:
     user-trash-full.svg
     user-trash.svg
 
-    
 places/symbolic:
     folder-documents-symbolic.svg
     folder-download-symbolic.svg
