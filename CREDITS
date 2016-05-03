@@ -11,15 +11,17 @@ The following icons are licensed under the Creative Commons License (CC BY-SA 4.
 actions/16:
     dialog-close.svg
     document-open.svg
+    document-save.svg
+    edit-clear-locationbar-rtl.svg@
+    edit-clear.svg
     edit-find.svg
+    icons.txt
+    media-playback-start.svg
     project-open.svg
+    services.svg
+    system-run.svg
     view-choose.svg
     view-group.svg
-    services.svg
-    media-playback-start.svg
-    edit-clear-locationbar-rtl.svg
-    edit-clear.svg
-    system-run.svg
     
 actions/22:
     address-book-insert.svg
@@ -64,8 +66,8 @@ actions/22:
     document-save-as.svg
     document-save.svg
     document-send.svg
+    edit-clear-locationbar-rtl.svg@
     edit-clear.svg
-    edit-clear-locationbar-rtl.svg
     edit-copy.svg
     edit-cut.svg
     edit-delete.svg
@@ -96,6 +98,7 @@ actions/22:
     help-contents.svg@
     help-faq.svg
     help-info.svg
+    icons.txt
     kdenlive-align-hor.svg
     kdenlive-align-vert.svg
     kdenlive-hide-audio.svg
@@ -196,7 +199,6 @@ actions/22:
     zoom-previous.svg
     
 actions/24:
-
     address-book-insert.svg
     align-horizontal-bottom-out.svg
     align-horizontal-center.svg
@@ -211,7 +213,7 @@ actions/24:
     align-vertical-top-out.svg
     align-vertical-top.svg
     application-exit.svg
-    application-menu.svg
+    applications-system.svg
     appointment.svg
     archive-extract.svg
     archive-insert-directory.svg
@@ -239,8 +241,8 @@ actions/24:
     document-save-as.svg
     document-save.svg
     document-send.svg
+    edit-clear-locationbar-rtl.svg@
     edit-clear.svg
-    edit-clear-locationbar-rtl.svg
     edit-copy.svg
     edit-cut.svg
     edit-delete.svg
@@ -268,9 +270,9 @@ actions/24:
     go-top.svg
     go-up.svg
     help-about.svg
-    help-contents.svg@
     help-faq.svg
     help-info.svg
+    icons.txt
     kdenlive-align-hor.svg
     kdenlive-align-vert.svg
     kdenlive-hide-audio.svg
@@ -371,21 +373,19 @@ actions/24:
     zoom-previous.svg
     
 actions/32:
-    
     application-exit.svg
     chronometer.svg
     document-open-recent.svg
     edit-select.svg
+    icons.txt
     system-run.svg
-    tools-spell-checking.svg
+    tools-check-spelling.svg
     window-duplicate.svg
     
 actions/48:
-
     system-run.svg
 
 actions/symbolic:
-
     action-unavailable-symbolic.svg
     bookmark-add-symbolic.svg
     bookmark-new-symbolic.svg
@@ -393,38 +393,35 @@ actions/symbolic:
     call-end-symbolic.svg
 
 apps/16:
-
     preferences-system-bluetooth.svg
 
 apps/32:
-    
     accessories-calculator.svg
     accessories-dictionary.svg
-    baloo.svg
-    clock.svg
+    baloo.svg@
+    clock.svg@
+    icons.txt
     internet-web-browser.svg
-    kdeconnect.svg
     kde-gtk-config.svg
+    kdeconnect.svg
     kmix.svg
     kwalletmanager.svg
     nepomuk.svg
     plasma.svg
     preferences-activities.svg
-    preferences-desktop.svg
     preferences-desktop-accessibility.svg
     preferences-desktop-baloo.svg
     preferences-desktop-color.svg
     preferences-desktop-default-applications.svg
     preferences-desktop-display.svg
     preferences-desktop-filetype-association.svg
-    preferences-desktop-font.svg@
     preferences-desktop-font-installer.svg
+    preferences-desktop-font.svg@
     preferences-desktop-gaming.svg
     preferences-desktop-icons.svg
     preferences-desktop-keyboard.svg
     preferences-desktop-launch-feedback.svg
     preferences-desktop-locale.svg
-    preferences-desktop-login.svg
     preferences-desktop-mouse.svg
     preferences-desktop-notification.svg
     preferences-desktop-peripherals.svg
@@ -432,38 +429,54 @@ apps/32:
     preferences-desktop-sound.svg
     preferences-desktop-theme.svg
     preferences-desktop-user.svg
+    preferences-desktop.svg
     preferences-other.svg
     preferences-system-bluetooth.svg
-    preferences-system-network.svg
+    preferences-system-login.svg
     preferences-system-network-connection.svg
+    preferences-system-network.svg
     preferences-system-power-management.svg
-    preferences-system-windows.svg
+    preferences-system-session-services.svg
+    preferences-system-time.svg
     preferences-system-windows-actions.svg
+    preferences-system-windows.svg
     preferences-system.svg
-    preferences-web-browser-cache.svg
+    preferences-web-browser-cache.svg@
     preferences-web-browser-cookies.svg
     preferences-web-browser-identification.svg
     preferences-web-browser-shortcuts.svg
-    preferences-system-session-services.svg 
-    preferences-system-time.svg
     system-file-manager.svg
     system-reboot.svg
 
 apps/48:
-    
     system-file-manager.svg
     
 apps/64:
-
     ark.svg@
+    gimp.svg
+    google-chrome.svg
     gwenview.svg
+    htop.svg
+    hwinfo.svg
+    icons.txt
+    imagewriter.svg
+    inkscape.svg
     kate.svg@
+    kcolorchooser.svg
     kdeconnect.svg
     klipper.svg
+    kmag.svg
     konqueror.svg
+    kruler.svg
     kwalletmanager.svg
+    octopi.svg
     okular.svg
+    partitionmanager.svg
     preferences-system.svg
+    qupzilla.svg
+    simplescreenrecorder.svg
+    spectacle.svg
+    spotify-client.svg
     system-file-manager.svg
     system-lock-screen.svg
     system-log-out.svg
@@ -477,37 +490,34 @@ apps/64:
     utilities-system-monitor.svg
     utilities-terminal.svg
     utilities-text-editor.svg
+    virtualbox.svg
+    vlc.svg
+
     
 categories/32:
-
     applications-internet.svg
     applications-multimedia.svg
     applications-other.svg
     
 devices/16:
-    
     drive-harddisk.svg
     drive-removable-media.svg
     smartphone.svg
 
 devices/32:
-    
     drive-removable-media.svg
     printer.svg
     input-tablet.svg
     
 devices/64:
-    
-    drive-harddisk.svg
+        drive-harddisk.svg
     smartphone.svg
 
 emblems/8:
-
     emblem-mounted.svg
     emblem-unmounted.svg
     
 emblems/22:
-
     emblem-encrypted-locked.svg@
     emblem-encrypted-unlocked.svg@
     emblem-locked.svg
@@ -517,31 +527,26 @@ emblems/22:
     emblem-unlocked.svg
     
 emotes/32:
-
     face-smile.svg
 
 mimetypes/16:
-
     inode-directory.svg@
     text-x-generic.svg
 
-mimetypes/48:
-
-    inode-directory.svg@
-    text-plan.svg
-    text-x-generic.svg
-    
 mimetypes/32:
-    
     application-pdf
     application-x-font-ttf.svg
     application-x-executable.svg
     audio-x-generic.svg
     inode-directory.svg
     image-x-generic.svg
+    
+mimetypes/48:
+    inode-directory.svg@
+    text-plan.svg
+    text-x-generic.svg
 
 mimetypes/64:
-
     application-epub+zip.svg
     application-javascript.svg
     application-msword.svg
@@ -568,6 +573,7 @@ mimetypes/64:
     application-x-zerosize.svg
     application-zip.svg
     audio-x-generic.svg
+    icons.txt
     image-bmp.svg
     image-jpeg.svg
     image-png.svg
@@ -581,13 +587,12 @@ mimetypes/64:
     text-markdown.svg
     text-plain.svg
     text-x-cmake.svg
-    text-x-generic.svg
+    text-x-generic.svg@
     video-mp4.svg
     video-x-matroska.svg
     video-x-msvideo.svg
     
 places/16:
-    
     folder-documents.svg
     folder-download.svg
     folder-dropbox.svg
@@ -611,7 +616,6 @@ places/16:
     user-trash.svg
 
 places/32:
-
     folder.svg
     folder-documents.svg
     folder-download.svg
@@ -619,9 +623,13 @@ places/32:
     user-trash.svg
 
 places/48:
-
     folder-documents.svg
     folder-download.svg
+    folder-dropbox.svg
+    folder-git.svg
+    folder-google-drive.svg
+    folder-launchpad.svg
+    folder-mega.svg
     folder-music.svg
     folder-network.svg
     folder-pictures.svg
@@ -630,17 +638,21 @@ places/48:
     folder-templates.svg
     folder-videos.svg
     folder.svg
+    icons.txt
     start-here.svg
     user-desktop.svg
     user-home.svg
     user-trash-full.svg
     user-trash.svg
-
 
 places/64:
-
     folder-documents.svg
     folder-download.svg
+    folder-dropbox.svg
+    folder-git.svg
+    folder-google-drive.svg
+    folder-launchpad.svg
+    folder-mega.svg
     folder-music.svg
     folder-network.svg
     folder-pictures.svg
@@ -649,14 +661,15 @@ places/64:
     folder-templates.svg
     folder-videos.svg
     folder.svg
+    icons.txt
     start-here.svg
     user-desktop.svg
     user-home.svg
     user-trash-full.svg
     user-trash.svg
+
     
 places/symbolic:
-
     folder-documents-symbolic.svg
     folder-download-symbolic.svg
     folder-music-symbolic.svg
@@ -675,11 +688,9 @@ places/symbolic:
     user-trash-symbolic.svg
     
 status/16:
-
     dialog-information.svg
 
 status/22:
-
     audio-output-none-panel.svg
     audio-volume-high.svg
     audio-volume-low-zero-panel.svg
@@ -748,7 +759,6 @@ status/22:
     user-online.svg
     
 status/24:
-
     audio-output-none-panel.svg
     audio-volume-high.svg
     audio-volume-low-zero-panel.svg
