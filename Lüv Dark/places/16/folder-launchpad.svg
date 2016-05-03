@@ -13,8 +13,9 @@
    height="16"
    id="svg4359"
    version="1.1"
-   inkscape:version="0.91pre2 r"
-   sodipodi:docname="folder-copyapp.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="folder-launchpad.svg"
+   viewBox="0 0 16 16">
   <defs
      id="defs4361" />
   <sodipodi:namedview
@@ -24,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.625"
-     inkscape:cx="2.6905076"
-     inkscape:cy="11.17074"
+     inkscape:zoom="45.254834"
+     inkscape:cx="4.1008289"
+     inkscape:cy="7.9282518"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="672"
+     inkscape:window-width="2560"
+     inkscape:window-height="964"
      inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -49,10 +50,6 @@
        originx="-3px"
        originy="-3px" />
     <sodipodi:guide
-       position="-3,-3"
-       orientation="0,22"
-       id="guide4113" />
-    <sodipodi:guide
        position="0,16"
        orientation="16,0"
        id="guide4205" />
@@ -61,7 +58,7 @@
        orientation="0,16"
        id="guide4207" />
     <sodipodi:guide
-       position="16,12"
+       position="16,11"
        orientation="-16,0"
        id="guide4209" />
     <sodipodi:guide
@@ -115,9 +112,9 @@
      inkscape:groupmode="layer"
      transform="translate(-3,-29)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#424854;fill-opacity:1"
-       d="m 16.672143,31 -3.423437,4.172445 1.187256,1.076057 2.564037,-5.01434 L 16.672143,31 Z m -9.4218022,3.296787 -2.2503401,1.951715 0,0.751498 2.2503401,-0.751498 1.4998637,6.00109 L 10.595352,41.133237 16.77453,43 l 0.204775,0 0.02069,-0.169904 -2.25034,-5.079687 L 13.999183,37 10.162931,40.06916 7.999729,34.749864 7.2503417,34.296787 Z m 3.7502032,1.203485 -1.4857029,0.74823 1.1730959,2.250136 2.560769,-2.249047 c 0,0 -1.498635,-0.749319 -2.248162,-0.749319 z"
-       id="polygon4171" />
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7 2 L 3 4 L 5 5 L 7 4 L 7 2 z M 9 2 L 9 4 L 11 5 L 13 4 L 9 2 z M 8 5 L 5 7 L 5 9 L 8 11 L 11 9 L 11 7 L 8 5 z M 2 6 L 2 10 L 4 9 L 4 7 L 2 6 z M 14 6 L 12 7 L 12 9 L 14 10 L 14 6 z M 5 11 L 3 12 L 7 14 L 7 12 L 5 11 z M 11 11 L 9 12 L 9 14 L 13 12 L 11 11 z "
+       transform="translate(3,29)"
+       id="path4151" />
   </g>
 </svg>
