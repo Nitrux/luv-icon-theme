@@ -1,9 +1,8 @@
  Lüv (icon theme) - Upstream repository
 ==============
 
-If you are able, we ask that you help us maintain and expand our project resources 
-through your donations. As an independent project, we need your help now more than 
-ever. We truly appreciate the support you can give via PayPal here: [http://uriherrera.com/sponsor/](http://uriherrera.com/sponsor/)
+## [Sponsor Lüv by clicking here!](http://uriherrera.com/sponsor/). We truly appreciate the support you can give us.
+
 
 ![Lüv preview](http://i.imgur.com/xqPuYYZ.png " Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments. ")
 >  Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
@@ -12,8 +11,8 @@ Icons are licensed under the [Creative Commons Attribution-ShareAlike Internatio
 
 * Check **LICENSE** file inside the package for more information.
 
-Please be aware that this is not "complete" with thousands of icons. Icons are added gradually.
-=
+## Please be aware that this is not "complete" with thousands of icons. Icons are added gradually. Check the [FAQ](https://github.com/NitruxSA/luv-icon-theme/wiki/L%C3%BCv-FAQ) for questions.
+
 
 Download
 ========
