@@ -108,14 +108,14 @@
      inkscape:groupmode="layer"
      transform="translate(1,-25)">
     <rect
-       style="color:#ffffff;enable-background:accumulate"
+       style="color:#f2f2f2;enable-background:accumulate"
        id="rect4147"
        width="2"
        height="2"
        x="-2.999999"
        y="25" />
-    <path fill="#ffffff"
-       style="color:#ffffff;enable-background:accumulate"
+    <path fill="#f2f2f2"
+       style="color:#f2f2f2;enable-background:accumulate"
        d="M 9,3 5,7 5,8 5,9 5,12 7,12 7,9 7,8 10,8 10,5 11,5 11,3 10,3 9,3 Z M 13,3 14.5,4.5 12,7 14,9 16.5,6.5 18,8 18,3 13,3 Z m 2,7 0,7 -4,0 0,2 6,0 0,-9 -2,0 z M 8,13 5.5,15.5 4,14 4,19 9,19 7.5,17.5 10,15 8,13 Z"
        transform="translate(0,26)"
        id="path4157"

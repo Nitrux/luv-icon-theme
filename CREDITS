@@ -588,40 +588,33 @@ mimetypes/64:
     
 places/16:
     
-    folder-copyapp.svg
     folder-documents.svg
-    folder-downloads.svg
+    folder-download.svg
     folder-dropbox.svg
     folder-git.svg
-    folder-home.svg@
-    folder-image.svg@
     folder-images.svg@
     folder-launchpad.svg
     folder-mega.svg
     folder-music.svg
     folder-network.svg
-    folder-picture.svg@
     folder-pictures.svg
-    folder-public.svg@
     folder-publicshare.svg
     folder-red.svg
     folder-sound.svg@
     folder-templates.svg
     folder-text.svg@
-    folder-txt.svg@
     folder-video.svg@
     folder-videos.svg
     folder.svg
-    inode-directory.svg@
-    network-workgroup.svg@
-    stock_folder.svg@
     user-home.svg
     user-trash-full.svg
     user-trash.svg
-    
+
 places/32:
 
     folder.svg
+    folder-documents.svg
+    folder-download.svg
     user-desktop.svg
     user-trash.svg
 

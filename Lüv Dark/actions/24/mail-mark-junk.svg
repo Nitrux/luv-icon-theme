@@ -19,7 +19,7 @@
      id="defs4361" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#f2f2f2"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -118,7 +118,7 @@
        x="-2.9999993"
        y="24.999998" />
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
        d="m 3,5 0,10 0,2 2,0 6,0 0,-2 L 5,15 5,6.5546875 11,12 17,6.5546875 17,11 19,11 19,5 5,5 Z"
        transform="translate(0,26)"
        id="rect4152"

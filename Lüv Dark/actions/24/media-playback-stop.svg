@@ -111,14 +111,14 @@
      inkscape:groupmode="layer"
      transform="translate(1,-25)">
     <rect
-       style="color:#ffffff;enable-background:accumulate"
+       style="color:#f2f2f2;enable-background:accumulate"
        id="rect4147"
        width="2"
        height="2"
        x="-2.999999"
        y="24.999996" />
-    <path fill="#ffffff"
-       style="opacity:1;fill:#ffffff;stroke-opacity:0.29943501"
+    <path fill="#f2f2f2"
+       style="opacity:1;fill:#f2f2f2;stroke-opacity:0.29943501"
        d="m 11,3 c -4.4182735,0 -7.9999937,3.5817202 -8,8 6.3e-6,4.41828 3.5817265,8 8,8 4.418274,0 7.999994,-3.58172 8,-8 -6e-6,-4.4182798 -3.581726,-8 -8,-8 z m 0,2 c 3.313705,1.6e-6 5.999994,2.6862908 6,6 -6e-6,3.313709 -2.686295,5.999998 -6,6 -3.3137045,-2e-6 -5.9999937,-2.686291 -6,-6 6.3e-6,-3.3137092 2.6862955,-5.9999984 6,-6 z m -3,3 0,6 6,0 0,-6 -6,0 z"
        transform="translate(0,26)"
        id="path4162"
