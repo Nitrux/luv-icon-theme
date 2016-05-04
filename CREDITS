@@ -53,7 +53,9 @@ actions/22:
     color-picker-grey.svg
     color-picker-white.svg
     color-picker.svg
-    dialog-apply.svg
+    dialog-cancel.svg
+    dialog-ok-apply.svg
+    dialog-ok.svg
     document-edit.svg
     document-export.svg
     document-import.svg
@@ -448,6 +450,7 @@ apps/32:
     system-file-manager.svg
     system-reboot.svg
     system-shutdown.svg
+    trash-empty.svg
 
 apps/48:
     system-file-manager.svg
@@ -589,6 +592,7 @@ mimetypes/64:
     text-markdown.svg
     text-plain.svg
     text-x-cmake.svg
+    text-x-credits.svg
     text-x-generic.svg@
     video-mp4.svg
     video-x-matroska.svg
