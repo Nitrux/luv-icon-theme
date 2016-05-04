@@ -105,19 +105,19 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <rect
-       style="color:#304050;enable-background:accumulate"
+       style="color:#455A64;enable-background:accumulate"
        id="rect4147"
        width="2"
        height="2"
        x="-2"
        y="26" />
-    <path fill="#304050"
-       style="opacity:1;fill:#304050;stroke-opacity:0.29943501"
+    <path fill="#455A64"
+       style="opacity:1;fill:#455A64;stroke-opacity:0.29943501"
        d="M 3 3 L 3 19 L 19 19 L 19 11 L 17 11 L 17 17 L 5 17 L 5 7 L 11 7 L 11 3 L 3 3 z "
        transform="translate(0,26)"
        id="rect4207" />
-    <path fill="#304050"
-       style="opacity:1;fill:#304050;stroke-opacity:0.29943501"
+    <path fill="#455A64"
+       style="opacity:1;fill:#455A64;stroke-opacity:0.29943501"
        d="M 18,35 18,33 16.414062,33 19,30.414062 17.585938,29 15,31.585937 15,30 l -2,0 0,3 0,2 2,0 3,0 z"
        id="rect4178"
        inkscape:connector-curvature="0" />

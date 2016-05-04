@@ -147,30 +147,30 @@
     <g
        transform="matrix(0.12808744,0,0,0.12808744,-1.4050764,26.057874)"
        id="Layer_1"
-       style="fill:#304050;fill-opacity:1">
+       style="fill:#455A64;fill-opacity:1">
       <g
          id="g6"
-         style="fill:#304050;fill-opacity:1">
+         style="fill:#455A64;fill-opacity:1">
         <polygon
            points="96.849,55.889 76.116,38.584 46.486,57.93 66.974,74.336 "
            id="polygon8"
-           style="fill:#304050;fill-opacity:1" />
+           style="fill:#455A64;fill-opacity:1" />
         <polygon
            points="66.974,74.336 46.486,90.742 76.116,110.088 96.849,92.783 "
            id="polygon10"
-           style="fill:#304050;fill-opacity:1" />
+           style="fill:#455A64;fill-opacity:1" />
         <polygon
            points="126.724,74.336 96.849,92.783 117.582,110.088 147.211,90.742 "
            id="polygon12"
-           style="fill:#304050;fill-opacity:1" />
+           style="fill:#455A64;fill-opacity:1" />
         <polygon
            points="126.724,74.336 147.211,57.93 117.582,38.584 96.849,55.889 "
            id="polygon14"
-           style="fill:#304050;fill-opacity:1" />
+           style="fill:#455A64;fill-opacity:1" />
         <polygon
            points="67.219,114.463 96.909,132.27 126.601,114.463 126.601,107.951 117.704,113.76 96.909,96.506 76.116,113.76 67.219,107.951 "
            id="polygon16"
-           style="fill:#304050;fill-opacity:1" />
+           style="fill:#455A64;fill-opacity:1" />
       </g>
     </g>
   </g>

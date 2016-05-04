@@ -105,14 +105,14 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <rect
-       style="color:#304050;enable-background:accumulate"
+       style="color:#455A64;enable-background:accumulate"
        id="rect4147"
        width="2"
        height="2"
        x="-2"
        y="26" />
-    <path fill="#304050"
-       style="color:#304050;enable-background:accumulate"
+    <path fill="#455A64"
+       style="color:#455A64;enable-background:accumulate"
        d="m 17,29 0,16 -12,0 0,-10 0,-1 0,-1 4,-4 1,0 1,0 6,0 z m -2,2 -4,0 -1,0 0,3 -3,0 0,1 0,8 8,0 0,-12 z"
        id="rect4150"
        inkscape:connector-curvature="0" />

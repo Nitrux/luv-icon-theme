@@ -13,7 +13,7 @@
    height="16"
    id="svg4359"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="drive-removable-media.svg"
    viewBox="0 0 16 16">
   <defs
@@ -60,16 +60,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.206739"
-     inkscape:cx="-1.1204016"
+     inkscape:cx="-6.311588"
      inkscape:cy="8.8019329"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="2560"
-     inkscape:window-height="957"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -146,7 +146,7 @@
      inkscape:groupmode="layer"
      transform="translate(-3,-29)">
     <path
-       style="opacity:1;fill:#34495d;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#455A64;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 15,31 0,6 1,0 0,6 -10,0 0,-6 1,0 0,-6 8,0 z m -1,1 -1,0 -4,0 -1,0 0,2 0,3 6,0 0,-3 0,-2 z m -1,1 0,2 -1,0 0,-2 1,0 z m -3,0 0,2 -1,0 0,-2 1,0 z m 5,5 -1,0 -7,0 0,4 8,0 0,-4 z m -1,2 0,1 -6,0 0,-1 6,0 z"
        id="rect4160"
        inkscape:connector-curvature="0" />

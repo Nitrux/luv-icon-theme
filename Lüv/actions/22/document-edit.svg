@@ -101,14 +101,14 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <rect
-       style="color:#304050;enable-background:accumulate"
+       style="color:#455A64;enable-background:accumulate"
        id="rect4147"
        width="2"
        height="2"
        x="-2"
        y="26" />
-    <path fill="#304050"
-       style="fill:#304050;fill-opacity:1"
+    <path fill="#455A64"
+       style="fill:#455A64;fill-opacity:1"
        d="M 14 3 L 13 4 L 18 9 L 19 8 L 14 3 z M 12 4 L 3 13 L 3 19 L 9 19 L 18 10 L 12 4 z M 12 7 L 15 10 L 8 17 L 5 14 L 12 7 z "
        transform="translate(0,26)"
        id="path4173" />

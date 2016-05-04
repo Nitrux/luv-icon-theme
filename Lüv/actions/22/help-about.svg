@@ -125,15 +125,15 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <rect
-       style="color:#304050;enable-background:accumulate"
+       style="color:#455A64;enable-background:accumulate"
        id="rect4163"
        width="2"
        height="2"
        x="-2"
        y="26" />
-    <path fill="#304050"
+    <path fill="#455A64"
        transform="matrix(0.55953784,0,0,0.5883329,4.8450837,15.231683)"
-       style="opacity:1;fill:#304050;stroke-opacity:0.29943501"
+       style="opacity:1;fill:#455A64;stroke-opacity:0.29943501"
        inkscape:transform-center-y="-0.8445825"
        d="m 11,23.402255 4.93967,8.234423 9.357844,2.153329 -6.30496,7.242482 0.843795,9.565254 L 11,46.839419 2.1636502,50.597742 3.0074459,41.032489 -3.2975136,33.790006 6.0603299,31.636678 Z"
        id="path4159" />

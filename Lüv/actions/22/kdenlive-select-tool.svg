@@ -21,7 +21,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4165">
       <rect
-         style="opacity:1;fill:#304050;stroke-opacity:0.29943501"
+         style="opacity:1;fill:#455A64;stroke-opacity:0.29943501"
          id="rect4167"
          width="16.000002"
          height="16"
@@ -117,14 +117,14 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <rect
-       style="color:#304050;enable-background:accumulate"
+       style="color:#455A64;enable-background:accumulate"
        id="rect4147"
        width="2"
        height="2"
        x="-2"
        y="26" />
-    <path fill="#304050"
-       style="fill:#304050;stroke-opacity:1"
+    <path fill="#455A64"
+       style="fill:#455A64;stroke-opacity:1"
        d="M 7 3 A 1 1 0 0 0 6 4 A 1 1 0 0 0 7 5 A 1 1 0 0 0 8 4 A 1 1 0 0 0 7 3 z M 8 7 L 8 19 L 10.400391 16 L 11.099609 15 L 16 15 L 8 7 z "
        transform="translate(0,26)"
        id="path4171" />
