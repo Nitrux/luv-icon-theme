@@ -499,6 +499,8 @@ apps/64:
 
     
 categories/32:
+    applications-development.svg
+    applications-graphics.svg
     applications-internet.svg
     applications-multimedia.svg
     applications-other.svg

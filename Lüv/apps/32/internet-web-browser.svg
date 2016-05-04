@@ -20,7 +20,7 @@
   <defs
      id="defs4">
     <radialGradient
-       gradientTransform="translate(0,1.1783313e-4)"
+       gradientTransform="matrix(1.0833333,0,0,1.0833333,-1.3333333,-87.696804)"
        inkscape:collect="always"
        xlink:href="#linearGradient4163"
        id="radialGradient4169"
@@ -128,9 +128,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.1260969"
-     inkscape:cx="44.585061"
-     inkscape:cy="17.422436"
+     inkscape:zoom="18.252194"
+     inkscape:cx="22.630611"
+     inkscape:cy="7.1360055"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -184,11 +184,11 @@
        style="opacity:1;fill:url(#radialGradient4169);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4153"
        cx="16"
-       cy="1040.3622"
-       r="12" />
+       cy="1039.3623"
+       r="13" />
     <circle
-       r="12"
-       cy="1038.3622"
+       r="13"
+       cy="1037.3623"
        cx="16"
        id="circle4174"
        style="opacity:1;fill:#42a5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -196,12 +196,12 @@
        style="opacity:1;fill:#64b5f6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4176"
        cx="16"
-       cy="1038.3622"
-       r="11" />
+       cy="1037.3623"
+       r="12" />
     <path
        id="path3465"
-       d="M 9.8222656 8.9121094 A 11 11 0 0 0 5 18 A 11 11 0 0 0 16 29 A 11 11 0 0 0 25 24.314453 L 25 24 L 24 24 L 22 23 L 21 24 L 21 26 L 18 26 L 14 24 L 12 24 L 12 22 L 15 21 L 19 21 L 21 21 L 21 18 L 22 16 L 16 11 L 10 9 L 9.8222656 8.9121094 z "
-       style="fill:#bbdefb;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       transform="translate(0,1020.3622)" />
+       d="M 9.8222656,1028.2743 A 11,11 0 0 0 5,1037.3622 a 11,11 0 0 0 11,11 11,11 0 0 0 9,-4.6855 l 0,-0.3145 -1,0 -2,-1 -1,1 0,2 -3,0 -4,-2 -2,0 0,-2 3,-1 4,0 2,0 0,-3 1,-2 -6,-5 -6,-2 -0.1777344,-0.088 z"
+       style="fill:#bbdefb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
