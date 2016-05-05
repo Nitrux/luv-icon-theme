@@ -4,7 +4,7 @@ ABOUT:             #
 
 Lüv version 0.4.x - 5th May 2016.
 
-Icons are designed and developed by Uri Herrera <uri_herreranitrux.in>.
+Icons are designed and developed by Uri Herrera <uri_herrera@nitrux.in>.
 
 The following icons are licensed under the Creative Commons License (CC BY-SA 4.0):
 
@@ -443,8 +443,13 @@ apps/32:
     preferences-web-browser-identification.svg
     preferences-web-browser-shortcuts.svg
     system-file-manager.svg
+    system-lock-screen.svg
+    system-log-out.svg
     system-reboot.svg
     system-shutdown.svg
+    system-suspend-hibernate.svg
+    system-suspend.svg
+    system-switch-user.svg
     trash-empty.svg
 
 apps/48:
