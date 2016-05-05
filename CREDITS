@@ -15,7 +15,6 @@ actions/16:
     edit-clear-locationbar-rtl.svg@
     edit-clear.svg
     edit-find.svg
-    icons.txt
     media-playback-start.svg
     project-open.svg
     services.svg
@@ -100,7 +99,6 @@ actions/22:
     help-contents.svg@
     help-faq.svg
     help-info.svg
-    icons.txt
     kdenlive-align-hor.svg
     kdenlive-align-vert.svg
     kdenlive-hide-audio.svg
@@ -274,7 +272,6 @@ actions/24:
     help-about.svg
     help-faq.svg
     help-info.svg
-    icons.txt
     kdenlive-align-hor.svg
     kdenlive-align-vert.svg
     kdenlive-hide-audio.svg
@@ -379,7 +376,6 @@ actions/32:
     chronometer.svg
     document-open-recent.svg
     edit-select.svg
-    icons.txt
     system-run.svg
     tools-check-spelling.svg
     window-duplicate.svg
@@ -402,7 +398,6 @@ apps/32:
     accessories-dictionary.svg
     baloo.svg@
     clock.svg@
-    icons.txt
     internet-web-browser.svg
     kde-gtk-config.svg
     kdeconnect.svg
@@ -462,7 +457,6 @@ apps/64:
     gwenview.svg
     htop.svg
     hwinfo.svg
-    icons.txt
     imagewriter.svg
     inkscape.svg
     kate.svg@
@@ -583,7 +577,6 @@ mimetypes/64:
     application-x-zerosize.svg
     application-zip.svg
     audio-x-generic.svg
-    icons.txt
     image-bmp.svg
     image-jpeg.svg
     image-png.svg
@@ -629,12 +622,18 @@ places/16:
 
 places/32:
     bookmarks.svg
-    folder.svg
     folder-documents.svg
     folder-download.svg
+    folder-dropbox.svg
+    folder-git.svg
+    folder-google-drive.svg
+    folder-network.svg
+    folder-red.svg
+    folder.svg
+    network-workgroup.svg@
     user-desktop.svg
-    user-trash.svg
     user-home.svg
+    user-trash.svg
 
 places/48:
     folder-documents.svg
@@ -652,7 +651,6 @@ places/48:
     folder-templates.svg
     folder-videos.svg
     folder.svg
-    icons.txt
     start-here.svg
     user-desktop.svg
     user-home.svg
@@ -675,7 +673,6 @@ places/64:
     folder-templates.svg
     folder-videos.svg
     folder.svg
-    icons.txt
     start-here.svg
     user-desktop.svg
     user-home.svg

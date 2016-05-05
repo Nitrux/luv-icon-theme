@@ -16,41 +16,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="folder-dropbox.svg">
   <defs
-     id="defs4361">
-    <linearGradient
-       id="linearGradient4103">
-      <stop
-         style="stop-color:#bdecfb;stop-opacity:1"
-         offset="0"
-         id="stop4105" />
-      <stop
-         style="stop-color:#f5feff;stop-opacity:1"
-         offset="1"
-         id="stop4107" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4314">
-      <stop
-         style="stop-color:#ff4b00;stop-opacity:1"
-         offset="0"
-         id="stop4316" />
-      <stop
-         style="stop-color:#ff5500;stop-opacity:1"
-         offset="1"
-         id="stop4318" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5020-1">
-      <stop
-         id="stop5022-6"
-         offset="0"
-         style="stop-color:#0da8db;stop-opacity:1" />
-      <stop
-         id="stop5024-0"
-         offset="1"
-         style="stop-color:#1fe1fb;stop-opacity:1" />
-    </linearGradient>
-  </defs>
+     id="defs4361" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -59,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.069359"
-     inkscape:cx="-3.3749039"
+     inkscape:cx="-10.397206"
      inkscape:cy="7.1178694"
      inkscape:current-layer="layer1"
      showgrid="true"
