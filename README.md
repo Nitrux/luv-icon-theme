@@ -44,9 +44,9 @@ When reporting missing icons make sure to follow these steps so we can resolve i
 
 ### For Linux:
 
-1. Add **screenshots**, images speak louder than words. Add a screenshot of the missing icon and the instances where it's displayed  ` (menus, taskbars, panels, notifications, etc.).
+1. Add **screenshots** of the missing icon and the instances where it's displayed like: menus, taskbars, panels, notifications, etc.
 2. Use the following title prefix (without the quotes): "[Linux] App_name Desktop_environment" - that way we can tag them appropriately.
-3. Add the relevant launcher information, software in Linux DE uses files with the extension *.desktop* as launchers in menus (like Homerun, Mint menu, Gnome Shell overview, Unity, etc.), these launchers are stored in **/usr/share/applications** (there might be a */kde* folder for KDE apps) for software installed through a package or the package manager. Applications such as Google Chrome apps install their launchers here: **/home/$USER/.local/share/applications/**. Simply open these files with a text editor and copy their contents into your issue.
-4. Add a description of the software, it's very important for us to know what the software does as we are not able to install every software under the sun and test them.
+3. Add the relevant launcher information, software in uses files with the extension *.desktop* as launchers for menus like Kickoff, Kicker, Mint menu, Gnome Shell overview, Unity dash, Whisker menu, etc. and these launchers are stored in `/usr/share/applications` (there might be a */kde* or */kde4* folder for KDE apps) for software installed through a package or the package manager. Applications such as Google Chrome apps install their launchers here: `/home/$USER/.local/share/applications/`. Simply open these files with a text editor and copy thethe line `Icon=` to your issue.
+4. Add a description of the software, it's very important for us to know what the software does.
 
 Some software uses absolute paths in their launchers, as such even when we add the icon the system will not load it, you may use [Hardcoded Icon Fixer](https://github.com/Foggalong/hardcode-fixer) to resolve this problem.
