@@ -80,9 +80,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.384776"
-     inkscape:cx="15.212009"
-     inkscape:cy="21.285358"
+     inkscape:zoom="26"
+     inkscape:cx="18.569949"
+     inkscape:cy="15.640479"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -190,9 +190,10 @@
        y="1044.3621" />
     <path
        id="path4278"
-       d="m 3,1030.3622 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m -24,17 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z"
+       d="m 4,1030.3622 0,1 1,0 0,-1 z m 2,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 1,0 0,-1 z m -23,17 0,1 1,0 0,-1 z m 2,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 2,0 0,-1 z m 3,0 0,1 1,0 0,-1 z"
        style="opacity:1;fill:#424242;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <rect
        style="fill:#424242;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4169"

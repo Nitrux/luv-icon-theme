@@ -8,8 +8,6 @@ Lüv (icon theme) - Upstream repository
 
 Icons are licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 
-* Check **[LICENSE](https://github.com/NitruxSA/luv-icon-theme/blob/master/L%C3%BCv/LICENSE)** file inside the package for more information.
-
 ## Please be aware that this is not "complete" yet with thousands of icons inside. Icons are added gradually. Check the [FAQ](https://github.com/NitruxSA/luv-icon-theme/wiki/L%C3%BCv-FAQ) for questions.
 
 
@@ -26,8 +24,18 @@ Alternatively, click [**here**](https://github.com/NitruxSA/luv-icon-theme/relea
 Install
 ========
 
+### Icons
+
 * Move the folder(s) *Luv* and *Luv Dark* to `/usr/share/icons` for all environments or `~/.icons` for GTK based environments or `~/.local/share/icons` for Plasma 5.
-* And finally select it in the Settings.
+* And finally select the theme in the Settings.
+
+### Wallpapers
+
+* For Plasma 5
+* Move the folders inside *wallpapers* to `/usr/share/wallpapers` or `~/.local/share/wallpapers/`.
+* For GTK
+* Copy the images to your Pictures folder; rename them if necessary, right-click the image and select "Use as wallpaper".
+
 
 Reporting missing icons
 ========
