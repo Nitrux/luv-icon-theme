@@ -541,6 +541,7 @@ mimetypes/16:
     text-x-generic.svg
 
 mimetypes/32:
+    application-epub+zip.svg
     application-pdf
     application-x-font-ttf.svg
     application-x-executable.svg
