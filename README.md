@@ -32,7 +32,7 @@ Install
 ### Wallpapers
 
 * For Plasma 5:
-    * Move the folders inside *wallpapers* to `/usr/share/wallpapers` or `~/.local/share/wallpapers/`.
+    * Move the folders inside *wallpapers* to `/usr/share/wallpapers` or `~/.local/share/wallpapers/`, right-click on the desktop and select "Desktop Settings", finally select the background.
 * For GTK:
     * Copy the images to your Pictures folder; rename them if necessary, right-click the image and select "Use as wallpaper".
 
