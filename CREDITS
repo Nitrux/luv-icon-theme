@@ -542,14 +542,18 @@ mimetypes/16:
 
 mimetypes/32:
     application-epub+zip.svg
-    application-pdf
-    application-x-font-ttf.svg
+    application-javascript.svg
+    application-msword.svg
+    application-pdf.svg
+    application-pkcs10.svg
+    application-pkcs8+pem.svg
     application-x-executable.svg
+    application-x-font-ttf.svg
     audio-x-generic.svg
-    inode-directory.svg
     image-x-generic.svg
+    inode-directory.svg@
     video-x-generic.svg
-    
+
 mimetypes/48:
     inode-directory.svg
     text-plan.svg
