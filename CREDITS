@@ -547,11 +547,16 @@ mimetypes/32:
     application-pdf.svg
     application-pkcs10.svg
     application-pkcs8+pem.svg
+    application-vnd.android.package-archive.svg
+    application-wps-office.doc.svg
+    application-wps-office.ppt.svg
+    application-wps-office.xlsx.svg
+    application-x-7z-compressed.svg
     application-x-executable.svg
     application-x-font-ttf.svg
     audio-x-generic.svg
     image-x-generic.svg
-    inode-directory.svg@
+    inode-directory.svg
     video-x-generic.svg
 
 mimetypes/48:
