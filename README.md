@@ -14,7 +14,7 @@ Icons are licensed under the [Creative Commons Attribution-ShareAlike Internatio
 Download
 ========
 
-Icons are available to download directly from this repository. Simply clone it and move the resulting folder(s) to the appropriate path.
+Icons and wallpapers are available to download directly from this repository. Clone this repository using the following command:
 
 * In a Terminal execute the following command: 
   * `git clone https://github.com/NitruxSA/luv-icon-theme.git`
