@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="preferences-system-time.svg">
+   sodipodi:docname="clock.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -55,7 +55,7 @@
          style="stop-color:#000000;stop-opacity:1;" />
       <stop
          style="stop-color:#000000;stop-opacity:1"
-         offset="0.66666669"
+         offset="0.69230777"
          id="stop4170" />
       <stop
          id="stop4168"
@@ -81,9 +81,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="21.543857"
-     inkscape:cy="10.496912"
+     inkscape:zoom="64"
+     inkscape:cx="21.725389"
+     inkscape:cy="12.196125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"

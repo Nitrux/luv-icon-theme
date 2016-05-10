@@ -23,13 +23,13 @@
        inkscape:collect="always"
        id="linearGradient4517">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#000000;stop-opacity:0"
          offset="0"
          id="stop4519" />
       <stop
          id="stop4523"
-         offset="0.78947389"
-         style="stop-color:#000000;stop-opacity:0.49803922;" />
+         offset="0.57894707"
+         style="stop-color:#000000;stop-opacity:1" />
       <stop
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
@@ -159,7 +159,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="26"
-     inkscape:cx="18.135332"
+     inkscape:cx="11.904563"
      inkscape:cy="15.160485"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
