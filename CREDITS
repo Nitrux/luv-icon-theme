@@ -4,7 +4,7 @@ ABOUT:             #
 
 Lüv version 0.4.x - 6th May 2016.
 
-Icons are designed and developed by Uri Herrera <uri_herrera@nitrux.in>.
+Icons are designed and developed by Uri Herrera <uri_herreranitrux.in>.
 
 The following icons are licensed under the Creative Commons License (CC BY-SA 4.0):
 
@@ -396,14 +396,17 @@ apps/16:
 apps/32:
     accessories-calculator.svg
     accessories-dictionary.svg
+    ark.svg
     baloo.svg
     clock.svg
+    google-chrome.svg
     imagewriter.svg
     internet-web-browser.svg
-    google-chrome.svg
     kate.svg
     kde-gtk-config.svg
     kdeconnect.svg
+    klipper.svg
+    kmag.svg
     kmix.svg
     kwalletmanager.svg
     nepomuk.svg
@@ -445,6 +448,7 @@ apps/32:
     preferences-web-browser-cookies.svg
     preferences-web-browser-identification.svg
     preferences-web-browser-shortcuts.svg
+    spectacle.svg
     system-file-manager.svg
     system-lock-screen.svg
     system-log-out.svg
@@ -454,8 +458,9 @@ apps/32:
     system-suspend.svg
     system-switch-user.svg
     trash-empty.svg
-    utilities-text-editor.svg
+    utilities-file-archiver.svg
     utilities-terminal.svg
+    utilities-text-editor.svg
 
 apps/48:
     system-file-manager.svg
