@@ -33,6 +33,11 @@ DialogSizes=16,22,32,48,64,128,256
 #################################
 Inherits=hicolor
 
+#####################
+#   KDE-Extensions  #
+#####################
+KDE-Extensions=.svg
+
 #################################################################################
 #   Folders were the assets are located within the hierarchy of the icon theme  #
 #   Organized alphabetically by category and size                               #
