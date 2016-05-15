@@ -119,16 +119,6 @@
        y1="1024.3622"
        x2="20.333334"
        y2="1026.3622" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Shadow"
-       id="linearGradient4463"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.74999997,0,0,1,-2.249996,25.999929)"
-       x1="20.333334"
-       y1="1024.3622"
-       x2="20.333334"
-       y2="1026.3622" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4517"
@@ -159,8 +149,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="26"
-     inkscape:cx="11.904563"
-     inkscape:cy="15.160485"
+     inkscape:cx="5.6737938"
+     inkscape:cy="10.5451"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -361,29 +351,6 @@
        height="1.0000174"
        x="13.000006"
        y="1040.3623"
-       ry="0" />
-    <rect
-       y="1050.3622"
-       x="12.000002"
-       height="1.9999826"
-       width="3.000001"
-       id="rect4457"
-       style="opacity:1;fill:url(#linearGradient4463);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       ry="0"
-       y="1048.3622"
-       x="12.000002"
-       height="2.9999998"
-       width="3.000001"
-       id="rect4459"
-       style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4461"
-       width="1"
-       height="1.0000174"
-       x="13.000002"
-       y="1049.3622"
        ry="0" />
     <rect
        style="opacity:1;fill:url(#linearGradient4531);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

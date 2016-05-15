@@ -2,7 +2,7 @@
 ABOUT:             #
 ####################
 
-Lüv version 0.4.x - 6th May 2016.
+Lüv version 0.4.x
 
 Icons are designed and developed by Uri Herrera <uri_herreranitrux.in>.
 
@@ -399,7 +399,10 @@ apps/32:
     ark.svg
     baloo.svg
     clock.svg
+    cutemarked.svg
     google-chrome.svg
+    htop.svg
+    hwinfo.svg
     imagewriter.svg
     internet-web-browser.svg
     kate.svg
@@ -410,6 +413,7 @@ apps/32:
     kmix.svg
     kwalletmanager.svg
     nepomuk.svg
+    octopi.svg
     plasma.svg
     preferences-activities.svg
     preferences-desktop-accessibility.svg
@@ -461,6 +465,7 @@ apps/32:
     utilities-file-archiver.svg
     utilities-terminal.svg
     utilities-text-editor.svg
+    virtualbox.svg
 
 apps/48:
     system-file-manager.svg
