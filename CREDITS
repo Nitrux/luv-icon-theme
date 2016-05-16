@@ -468,6 +468,7 @@ apps/32:
     virtualbox.svg
 
 apps/48:
+    spotify-client.svg
     system-file-manager.svg
     
 apps/64:
