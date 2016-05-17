@@ -55,6 +55,7 @@ actions/22:
     dialog-cancel.svg
     dialog-ok-apply.svg
     dialog-ok.svg
+    document-close.svg
     document-edit.svg
     document-export.svg
     document-import.svg
@@ -229,6 +230,7 @@ actions/24:
     color-picker-white.svg
     color-picker.svg
     dialog-apply.svg
+    document-close.svg
     document-edit.svg
     document-export.svg
     document-import.svg
@@ -407,6 +409,7 @@ apps/32:
     internet-web-browser.svg
     kate.svg
     kde-gtk-config.svg
+    kdenlive.svg
     kdeconnect.svg
     klipper.svg
     kmag.svg
@@ -414,6 +417,7 @@ apps/32:
     kwalletmanager.svg
     nepomuk.svg
     octopi.svg
+    partitionmanager.svg
     plasma.svg
     preferences-activities.svg
     preferences-desktop-accessibility.svg
@@ -452,7 +456,10 @@ apps/32:
     preferences-web-browser-cookies.svg
     preferences-web-browser-identification.svg
     preferences-web-browser-shortcuts.svg
+    qpdfview.svg
+    simplescreenrecorder.svg
     spectacle.svg
+    spotify-client.svg
     system-file-manager.svg
     system-lock-screen.svg
     system-log-out.svg
@@ -465,7 +472,9 @@ apps/32:
     utilities-file-archiver.svg
     utilities-terminal.svg
     utilities-text-editor.svg
+    utilities-system-monitor.svg
     virtualbox.svg
+    vlc.svg
 
 apps/48:
     spotify-client.svg
@@ -540,6 +549,9 @@ emblems/8:
     emblem-mounted.svg
     emblem-unmounted.svg
     
+emblems/16:
+    emblem-symbolic-link.svg
+    
 emblems/22:
     emblem-encrypted-locked.svg
     emblem-encrypted-unlocked.svg
@@ -548,6 +560,9 @@ emblems/22:
     emblem-readonly.svg
     emblem-symbolic-link.svg
     emblem-unlocked.svg
+
+emblems/32:
+    emblem-symbolic-link.svg
     
 emotes/32:
     face-smile.svg

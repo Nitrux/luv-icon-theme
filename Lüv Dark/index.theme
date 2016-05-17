@@ -43,7 +43,7 @@ KDE-Extensions=.svg
 #   Organized alphabetically by category and size                               #
 #   Example=folder                                                              #
 #################################################################################
-Directories=actions/16,actions/22,actions/24,actions/32,actions/48,apps/16,apps/22,apps/32,apps/48,apps/64,categories/16,categories/32,categories/48,categories/64,devices/16,devices/32,devices/48,devices/64,emblems/8,emblems/22,emotes/32,mimetypes/16,mimetypes/32,mimetypes/48,mimetypes/64,mimetypes/128,places/16,places/32,places/48,places/64,places/128,status/16,status/22,status/24,status/32
+Directories=actions/16,actions/22,actions/24,actions/32,actions/48,apps/16,apps/22,apps/32,apps/48,apps/64,categories/16,categories/32,categories/48,categories/64,devices/16,devices/32,devices/48,devices/64,emblems/8,emblems/16,emblems/22,emblems/32,emotes/32,mimetypes/16,mimetypes/32,mimetypes/48,mimetypes/64,mimetypes/128,places/16,places/32,places/48,places/64,places/128,status/16,status/22,status/24,status/32
 
 ##############	Actions
 
@@ -158,8 +158,18 @@ Size=8
 Context=Emblems
 Type=Fixed
 
+[emblems/16]
+Size=16
+Context=Emblems
+Type=Fixed
+
 [emblems/22]
 Size=22
+Context=Emblems
+Type=Fixed
+
+[emblems/32]
+Size=32
 Context=Emblems
 Type=Fixed
 
