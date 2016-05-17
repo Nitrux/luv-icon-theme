@@ -340,6 +340,7 @@ actions/24:
     process-stop.svg
     speaker.svg
     system-run.svg
+    tab-new.svg
     tag-new.svg
     tools-check-spelling.svg
     tools-media-optical-erase.svg
@@ -406,11 +407,14 @@ apps/32:
     baloo.svg
     clock.svg
     cutemarked.svg
+    gimp.svg
     google-chrome.svg
+    gwenview.svg
     htop.svg
     hwinfo.svg
     imagewriter.svg
     internet-web-browser.svg
+    inkscape.svg
     kate.svg
     kde-gtk-config.svg
     kdenlive.svg
@@ -418,6 +422,7 @@ apps/32:
     klipper.svg
     kmag.svg
     kmix.svg
+    konqueror.svg
     kwalletmanager.svg
     nepomuk.svg
     octopi.svg
@@ -461,6 +466,7 @@ apps/32:
     preferences-web-browser-identification.svg
     preferences-web-browser-shortcuts.svg
     qpdfview.svg
+    qupzilla.svg
     simplescreenrecorder.svg
     spectacle.svg
     spotify-client.svg
@@ -543,6 +549,7 @@ devices/16:
     smartphone.svg
 
 devices/32:
+    drive-harddisk.svg
     drive-removable-media.svg
     drive-removable-media-usb.svg
     drive-removable-media-usb-pendrive.svg

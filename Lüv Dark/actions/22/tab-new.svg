@@ -14,19 +14,19 @@
    id="svg4359"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="document-new.svg">
+   sodipodi:docname="tab-new.svg">
   <defs
      id="defs4361" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#000000"
+     bordercolor="#000000"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.460509"
-     inkscape:cx="-8.9541652"
-     inkscape:cy="15.825109"
+     inkscape:zoom="32.526912"
+     inkscape:cx="8.6106965"
+     inkscape:cy="14.381711"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -38,20 +38,10 @@
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
+     showguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid4105"
-       originx="0"
-       originy="0" />
-    <sodipodi:guide
-       position="0,22"
-       orientation="22,0"
-       id="guide4111" />
+       id="grid4105" />
     <sodipodi:guide
        position="0,0"
        orientation="0,22"
@@ -65,10 +55,6 @@
        orientation="16,0"
        id="guide4130" />
     <sodipodi:guide
-       position="12,11"
-       orientation="0,16"
-       id="guide4132" />
-    <sodipodi:guide
        position="19,19"
        orientation="0,-16"
        id="guide4136" />
@@ -76,10 +62,6 @@
        position="3,22"
        orientation="19.000011,0"
        id="guide4152" />
-    <sodipodi:guide
-       position="3,2.9999886"
-       orientation="0,4"
-       id="guide4154" />
     <sodipodi:guide
        position="15,3"
        orientation="0,4.0000019"
@@ -101,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,16 +93,16 @@
      inkscape:groupmode="layer"
      transform="translate(0,-26)">
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#455a64;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#455A64;enable-background:accumulate"
        id="rect4147"
        width="2"
        height="2"
-       x="-2.999999"
-       y="25" />
+       x="-2"
+       y="26" />
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#455a64;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 17,29 0,16 -12,0 0,-10 0,-1 0,-1 4,-4 1,0 1,0 6,0 z m -2,2 -4,0 -1,0 0,3 -3,0 0,1 0,8 8,0 0,-12 z"
-       id="rect4150"
-       inkscape:connector-curvature="0" />
+       style="opacity:1;fill:#f2f2f2;stroke-opacity:0.29943501"
+       d="M 11 3 L 11 5 L 3 5 L 3 6 L 3 19 L 11 19 L 11 17 L 5 17 L 5 7 L 17 7 L 17 11 L 19 11 L 19 3 L 11 3 z M 15 13 L 15 15 L 13 15 L 13 17 L 15 17 L 15 19 L 17 19 L 17 17 L 19 17 L 19 15 L 17 15 L 17 13 L 15 13 z "
+       transform="translate(0,26)"
+       id="rect4207" />
   </g>
 </svg>
