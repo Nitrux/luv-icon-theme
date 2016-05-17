@@ -538,10 +538,14 @@ categories/32:
 devices/16:
     drive-harddisk.svg
     drive-removable-media.svg
+    drive-removable-media-usb.svg
+    drive-removable-media-usb-pendrive.svg
     smartphone.svg
 
 devices/32:
     drive-removable-media.svg
+    drive-removable-media-usb.svg
+    drive-removable-media-usb-pendrive.svg
     printer.svg
     input-tablet.svg
     
@@ -551,18 +555,23 @@ devices/64:
 
 emblems/8:
     emblem-mounted.svg
+    emblem-symbolic-link.svg
     emblem-unmounted.svg
     
 emblems/16:
+    emblem-mounted.svg
     emblem-symbolic-link.svg
+    emblem-unmounted.svg
     
 emblems/22:
     emblem-encrypted-locked.svg
     emblem-encrypted-unlocked.svg
     emblem-locked.svg
     emblem-nowrite.svg
+    emblem-mounted.svg
     emblem-readonly.svg
     emblem-symbolic-link.svg
+    emblem-unmounted.svg
     emblem-unlocked.svg
 
 emblems/32:
