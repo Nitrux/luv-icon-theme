@@ -15,10 +15,14 @@ actions/16:
     edit-clear-locationbar-rtl.svg
     edit-clear.svg
     edit-find.svg
+    go-jump-today.svg
     media-playback-start.svg
     project-open.svg
     services.svg
     system-run.svg
+    view-calendar.svg
+    view-calendar-day.svg
+    view-calendar-month.svg
     view-choose.svg
     view-group.svg
     
