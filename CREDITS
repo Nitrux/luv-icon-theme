@@ -406,6 +406,7 @@ apps/32:
     ark.svg
     baloo.svg
     clock.svg
+    CMakeSetup.svg
     cutemarked.svg
     gimp.svg
     google-chrome.svg
@@ -467,6 +468,9 @@ apps/32:
     preferences-web-browser-shortcuts.svg
     qpdfview.svg
     qupzilla.svg
+    qtcreator.svg
+    qtdesigner.svg
+    qtlogo.svg
     simplescreenrecorder.svg
     spectacle.svg
     spotify-client.svg
