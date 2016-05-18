@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,7 +38,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2560"
-     inkscape:window-height="1017"
+     inkscape:window-height="959"
      id="namedview10"
      showgrid="true"
      inkscape:showpageshadow="false"
@@ -48,10 +48,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="17.75"
-     inkscape:cx="28.08541"
+     inkscape:cx="19.014987"
      inkscape:cy="20.922903"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true">
@@ -92,7 +92,7 @@
   <defs
      id="defs4">
     <radialGradient
-       gradientTransform="matrix(0.75999995,9.6777288e-6,-9.6777298e-6,0.76000002,-0.30941472,-803.97548)"
+       gradientTransform="matrix(0.75999995,9.6777288e-6,-9.6777298e-6,0.76000002,-0.30941472,-804.07548)"
        gradientUnits="userSpaceOnUse"
        r="25"
        fy="1093.5195"
@@ -125,7 +125,7 @@
      inkscape:label="Layer 1">
     <circle
        r="19"
-       cy="27.100002"
+       cy="27.000002"
        cx="24"
        id="circle4162"
        style="opacity:1;fill:url(#radialGradient4170);fill-opacity:1;stroke:none;stroke-opacity:1" />

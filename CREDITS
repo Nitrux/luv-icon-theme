@@ -491,8 +491,13 @@ apps/32:
     vlc.svg
 
 apps/48:
-    spotify-client.svg
-    system-file-manager.svg
+    google-chrome.svg
+    inkscape.svg
+    kate.svg
+    preferences-system.svg
+    utilities-terminal.svg
+    utilities-text-editor.svg
+    vlc.svg
     
 apps/64:
     ark.svg

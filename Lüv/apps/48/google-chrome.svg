@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="google-chrome.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="959"
+     id="namedview10"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="8"
+     inkscape:cx="37.726964"
+     inkscape:cy="22.046204"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4141"
+       originx="20px"
+       originy="0px" />
+    <sodipodi:guide
+       position="0,48"
+       orientation="48,0"
+       id="guide4147" />
+    <sodipodi:guide
+       position="48,0"
+       orientation="-48,0"
+       id="guide4151" />
+    <sodipodi:guide
+       position="48,48"
+       orientation="0,-48"
+       id="guide4153" />
+    <sodipodi:guide
+       position="4,37"
+       orientation="40,0"
+       id="guide4219" />
+    <sodipodi:guide
+       position="6.9999962,3.999959"
+       orientation="0,34"
+       id="guide4221" />
+    <sodipodi:guide
+       position="44,32"
+       orientation="-29,0"
+       id="guide4223" />
+    <sodipodi:guide
+       position="29.999996,43.999958"
+       orientation="0,-23"
+       id="guide4227" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <radialGradient
+       gradientTransform="matrix(0.75999995,9.6777288e-6,-9.6777298e-6,0.76000002,-0.30941472,-804.07548)"
+       gradientUnits="userSpaceOnUse"
+       r="25"
+       fy="1093.5195"
+       fx="32"
+       cy="1093.5195"
+       cx="32"
+       id="radialGradient4170"
+       xlink:href="#Shadow"
+       inkscape:collect="always" />
+    <linearGradient
+       id="Shadow"
+       inkscape:collect="always">
+      <stop
+         id="stop4166"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.49803922;"
+         offset="0.80000001"
+         id="stop4220" />
+      <stop
+         id="stop4168"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <circle
+       r="19"
+       cy="27.000002"
+       cx="24"
+       id="circle4162"
+       style="opacity:1;fill:url(#radialGradient4170);fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <path
+       style="fill:#e53935;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 24 6 A 19 19 0 0 0 8.5957031 13.90625 L 19 31 L 24 31 L 25 31 L 25 16 L 40.714844 16 A 19 19 0 0 0 24 6 z "
+       id="path4301" />
+    <path
+       style="fill:#ffb300;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23 16 L 23 28 L 31 28 L 22.017578 43.890625 A 19 19 0 0 0 24 44 A 19 19 0 0 0 43 25 A 19 19 0 0 0 40.714844 16 L 23 16 z "
+       id="path4303" />
+    <path
+       style="fill:#4caf50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8.5957031 13.90625 A 19 19 0 0 0 5 25 A 19 19 0 0 0 17.470703 42.818359 A 19 19 0 0 0 22.017578 43.890625 L 31 28 L 25 28 L 25 31 L 19 31 L 8.5957031 13.90625 z "
+       id="path4305" />
+    <path
+       style="fill:#ef5350;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 24 7 A 18 18 0 0 0 9.1542969 14.824219 L 19 31 L 24 31 L 25 31 L 25 16 L 39.5625 16 A 18 18 0 0 0 24 7 z "
+       id="path4268" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4270"
+       d="M 23,28 17.2,28 9.1531251,14.819531 Z"
+       style="fill:#e53935;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#ffca28;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23 16 L 23 28 L 31 28 L 22.5625 42.927734 A 18 18 0 0 0 24 43 A 18 18 0 0 0 42 25 A 18 18 0 0 0 39.5625 16 L 23 16 z "
+       id="path4272" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4274"
+       d="m 23,23 0,-7 16.6,0 z"
+       style="fill:#ffb300;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#4caf50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 31 28 L 18.199219 42.019531 A 18 18 0 0 0 22.5625 42.927734 L 31 28 z "
+       id="path4276" />
+    <path
+       style="fill:#66bb6a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 9.1542969 14.824219 A 18 18 0 0 0 6 25 A 18 18 0 0 0 18.199219 42.019531 L 31 28 L 25 28 L 25 31 L 19 31 L 9.1542969 14.824219 z "
+       id="path4278" />
+    <circle
+       style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="circle4217"
+       cx="24"
+       cy="24.999998"
+       r="9" />
+    <circle
+       r="8"
+       cy="24.999998"
+       cx="24"
+       id="circle4219"
+       style="opacity:1;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#03a9f4;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="circle4221"
+       cx="24"
+       cy="24.999998"
+       r="6" />
+    <circle
+       r="5"
+       cy="24.999998"
+       cx="24"
+       id="circle4223"
+       style="opacity:1;fill:#29b6f6;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  </g>
+</svg>
