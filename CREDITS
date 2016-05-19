@@ -383,8 +383,12 @@ actions/32:
     chronometer.svg
     document-open-recent.svg
     edit-select.svg
+    flag.svg
+    go-home.svg
     system-run.svg
     tools-check-spelling.svg
+    view-choose.svg
+    view-preview.svg
     window-duplicate.svg
     
 actions/48:
@@ -500,17 +504,21 @@ apps/48:
     vlc.svg
     
 apps/64:
+    CMakeSetup.svg
     ark.svg
+    cutemarked.svg
     gimp.svg
     google-chrome.svg
     gwenview.svg
     htop.svg
     hwinfo.svg
+    icons
     imagewriter.svg
     inkscape.svg
     kate.svg
     kcolorchooser.svg
     kdeconnect.svg
+    kdenlive.svg
     klipper.svg
     kmag.svg
     konqueror.svg
@@ -520,6 +528,9 @@ apps/64:
     okular.svg
     partitionmanager.svg
     preferences-system.svg
+    qtcreator.svg
+    qtdesigner.svg
+    qtlogo.svg
     qupzilla.svg
     simplescreenrecorder.svg
     spectacle.svg
@@ -539,6 +550,7 @@ apps/64:
     utilities-text-editor.svg
     virtualbox.svg
     vlc.svg
+
     
 categories/32:
     applications-development.svg
