@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="document-open.svg">
+   sodipodi:docname="configure.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="48.260038"
-     inkscape:cx="0.14938979"
-     inkscape:cy="10.035177"
+     inkscape:zoom="29.263462"
+     inkscape:cx="3.8108554"
+     inkscape:cy="8.4406629"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -42,50 +42,6 @@
     <inkscape:grid
        type="xygrid"
        id="grid4137" />
-    <sodipodi:guide
-       position="0,16.000017"
-       orientation="16,0"
-       id="guide4145" />
-    <sodipodi:guide
-       position="0,1.7382813e-05"
-       orientation="0,16"
-       id="guide4147" />
-    <sodipodi:guide
-       position="16,1.7382813e-05"
-       orientation="-16,0"
-       id="guide4149" />
-    <sodipodi:guide
-       position="16,16.000017"
-       orientation="0,-16"
-       id="guide4151" />
-    <sodipodi:guide
-       position="1,1.0000174"
-       orientation="0,14"
-       id="guide4155" />
-    <sodipodi:guide
-       position="15,1.0000174"
-       orientation="-14,0"
-       id="guide4157" />
-    <sodipodi:guide
-       position="15,15.000017"
-       orientation="0,-14"
-       id="guide4159" />
-    <sodipodi:guide
-       position="2,14.000017"
-       orientation="12,0"
-       id="guide4161" />
-    <sodipodi:guide
-       position="2,2.0000174"
-       orientation="0,12"
-       id="guide4163" />
-    <sodipodi:guide
-       position="14,2.0000174"
-       orientation="-12,0"
-       id="guide4165" />
-    <sodipodi:guide
-       position="14,14.000017"
-       orientation="0,-12"
-       id="guide4167" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -105,9 +61,9 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1 2 L 1 14 L 7 14 L 15 14 L 15 5 L 15 4 L 15 3 L 14 3 L 7.6660156 3 L 7 2 L 1 2 z M 8.3339844 4 L 14 4 L 14 5 L 9 5 L 8.3339844 4 z M 2 6 L 8.4003906 6 L 9 6 L 14 6 L 14 13 L 2 13 L 2 6 z "
+       style="opacity:1;fill:#455a64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 7 2.1738281 A 3 3 0 0 0 5 5 A 3 3 0 0 0 7.0332031 7.8359375 C 7.0237516 7.8913587 7 7.9418034 7 8 L 7 13 C 7 13.554 7.446 14 8 14 C 8.554 14 9 13.554 9 13 L 9 8 C 9 7.9418034 8.9762484 7.8913587 8.9667969 7.8359375 A 3 3 0 0 0 10.826172 6 L 9 6 L 8 6 C 7.446 6 7 5.554 7 5 L 7 2.1738281 z M 9 2.1738281 L 9 5 L 11 5 A 3 3 0 0 0 9 2.1738281 z "
        transform="translate(0,1036.3622)"
-       id="rect4139" />
+       id="rect4148" />
   </g>
 </svg>

@@ -9,6 +9,7 @@ Icons are designed and developed by Uri Herrera <uri_herreranitrux.in>.
 The following icons are licensed under the Creative Commons License (CC BY-SA 4.0):
 
 actions/16:
+    configure.svg
     dialog-close.svg
     document-open.svg
     document-save.svg
@@ -25,6 +26,8 @@ actions/16:
     view-calendar-month.svg
     view-choose.svg
     view-group.svg
+    view-list-icons.svg
+    view-list-tree.svg
     
 actions/22:
     address-book-insert.svg
@@ -454,6 +457,7 @@ apps/32:
     preferences-desktop-sound.svg
     preferences-desktop-theme.svg
     preferences-desktop-user.svg
+    preferences-desktop-wallpaper.svg
     preferences-desktop.svg
     preferences-other.svg
     preferences-system-bluetooth.svg
@@ -508,6 +512,7 @@ apps/64:
     CMakeSetup.svg
     ark.svg
     cutemarked.svg
+    firefox.svg
     gimp.svg
     google-chrome.svg
     gwenview.svg

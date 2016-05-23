@@ -99,8 +99,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="33.616734"
-     inkscape:cy="30.35356"
+     inkscape:cx="25.226823"
+     inkscape:cy="30.129511"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -109,9 +109,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="2560"
-     inkscape:window-height="1017"
+     inkscape:window-height="959"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -198,16 +198,18 @@
        transform="translate(392.57144,491.798)" />
     <path
        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 7 9 C 5.8920069 9 5 9.8920069 5 11 L 5 13 L 43 13 L 43 11 C 43 9.8920069 42.107993 9 41 9 L 7 9 z "
+       d="M 7,9 C 5.8920069,9 5,9.8920069 5,11 l 0,3 38,0 0,-3 C 43,9.8920069 42.107993,9 41,9 Z"
        id="rect4219"
-       transform="translate(392.57144,491.798)" />
+       transform="translate(392.57144,491.798)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccsss" />
     <rect
        style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4221"
-       width="36.000015"
-       height="25.999983"
+       width="36.000046"
+       height="24.999983"
        x="398.57144"
-       y="506.798"
+       y="507.798"
        ry="0" />
     <rect
        style="opacity:1;fill:#90a4ae;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -215,7 +217,7 @@
        width="38"
        height="1"
        x="397.57144"
-       y="504.798" />
+       y="505.79807" />
     <circle
        style="opacity:1;fill:url(#radialGradient4234);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4230"

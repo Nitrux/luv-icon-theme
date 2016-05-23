@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="project-open.svg">
+   sodipodi:docname="configure.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="36.391113"
-     inkscape:cx="2.8768307"
-     inkscape:cy="9.7557043"
+     inkscape:zoom="29.263462"
+     inkscape:cx="3.6399939"
+     inkscape:cy="8.4406629"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -42,34 +42,6 @@
     <inkscape:grid
        type="xygrid"
        id="grid4137" />
-    <sodipodi:guide
-       position="0,16.000017"
-       orientation="16,0"
-       id="guide4145" />
-    <sodipodi:guide
-       position="0,1.7382813e-05"
-       orientation="0,16"
-       id="guide4147" />
-    <sodipodi:guide
-       position="16,1.7382813e-05"
-       orientation="-16,0"
-       id="guide4149" />
-    <sodipodi:guide
-       position="16,16.000017"
-       orientation="0,-16"
-       id="guide4151" />
-    <sodipodi:guide
-       position="1,1.0000174"
-       orientation="0,14"
-       id="guide4155" />
-    <sodipodi:guide
-       position="15,1.0000174"
-       orientation="-14,0"
-       id="guide4157" />
-    <sodipodi:guide
-       position="15,15.000017"
-       orientation="0,-14"
-       id="guide4159" />
     <sodipodi:guide
        position="2,14.000017"
        orientation="12,0"
@@ -105,9 +77,9 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 3 3 L 13 3 L 13 13 L 3 13 L 3 3 z M 4 4 L 4 6 L 6 6 L 6 4 L 4 4 z M 7 4 L 7 5 L 12 5 L 12 4 L 7 4 z M 4 7 L 4 9 L 6 9 L 6 7 L 4 7 z M 7 7 L 7 8 L 12 8 L 12 7 L 7 7 z M 4 10 L 4 12 L 6 12 L 6 10 L 4 10 z M 7 10 L 7 11 L 12 11 L 12 10 L 7 10 z "
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 7 2.1738281 A 3 3 0 0 0 5 5 A 3 3 0 0 0 7.0332031 7.8359375 C 7.0237516 7.8913587 7 7.9418034 7 8 L 7 13 C 7 13.554 7.446 14 8 14 C 8.554 14 9 13.554 9 13 L 9 8 C 9 7.9418034 8.9762484 7.8913587 8.9667969 7.8359375 A 3 3 0 0 0 10.826172 6 L 9 6 L 8 6 C 7.446 6 7 5.554 7 5 L 7 2.1738281 z M 9 2.1738281 L 9 5 L 11 5 A 3 3 0 0 0 9 2.1738281 z "
        transform="translate(0,1036.3622)"
-       id="rect4146" />
+       id="rect4148" />
   </g>
 </svg>
