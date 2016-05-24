@@ -384,6 +384,7 @@ actions/24:
 actions/32:
     application-exit.svg
     chronometer.svg
+    configure.svg
     document-open-recent.svg
     edit-select.svg
     flag.svg
@@ -393,6 +394,7 @@ actions/32:
     view-choose.svg
     view-preview.svg
     window-duplicate.svg
+    view-list-tree.svg
     
 actions/48:
     system-run.svg
@@ -418,6 +420,7 @@ apps/32:
     gimp.svg
     google-chrome.svg
     gwenview.svg
+    gedit.svg
     htop.svg
     hwinfo.svg
     imagewriter.svg
@@ -500,12 +503,16 @@ apps/32:
 
 apps/48:
     cutemarked.svg
+    gedit.svg
     google-chrome.svg
     inkscape.svg
     kate.svg
     preferences-system.svg
     utilities-terminal.svg
     utilities-text-editor.svg
+    qtcreator.svg
+    qtdesigner.svg
+    qtlogo.svg
     vlc.svg
     
 apps/64:
@@ -513,6 +520,7 @@ apps/64:
     ark.svg
     cutemarked.svg
     firefox.svg
+    gedit.svg
     gimp.svg
     google-chrome.svg
     gwenview.svg
@@ -938,6 +946,12 @@ status/24:
     user-invisible.svg
     user-offline.svg
     user-online.svg
+    
+status/48:
+    dialog-information.svg
+
+status/64:
+    dialog-information.svg
     
 The following wallpapers are licensed under the Creative Commons License (CC BY-SA 4.0):
     Fifth

@@ -21,13 +21,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="38.80771"
-     inkscape:cx="1.8733116"
-     inkscape:cy="8.9900738"
+     inkscape:zoom="48.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -42,34 +42,6 @@
     <inkscape:grid
        type="xygrid"
        id="grid4137" />
-    <sodipodi:guide
-       position="0,16.000017"
-       orientation="16,0"
-       id="guide4145" />
-    <sodipodi:guide
-       position="0,1.7382813e-05"
-       orientation="0,16"
-       id="guide4147" />
-    <sodipodi:guide
-       position="16,1.7382813e-05"
-       orientation="-16,0"
-       id="guide4149" />
-    <sodipodi:guide
-       position="16,16.000017"
-       orientation="0,-16"
-       id="guide4151" />
-    <sodipodi:guide
-       position="1,1.0000174"
-       orientation="0,14"
-       id="guide4155" />
-    <sodipodi:guide
-       position="15,1.0000174"
-       orientation="-14,0"
-       id="guide4157" />
-    <sodipodi:guide
-       position="15,15.000017"
-       orientation="0,-14"
-       id="guide4159" />
     <sodipodi:guide
        position="2,14.000017"
        orientation="12,0"
@@ -95,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,31 +76,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <rect
-       style="opacity:1;fill:#455a64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4147"
-       width="4.9999828"
-       height="4.9999828"
-       x="2"
-       y="1045.3622" />
-    <rect
-       style="opacity:1;fill:#455a64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4149"
-       width="5"
-       height="5.0000172"
-       x="9"
-       y="1038.3622" />
-    <rect
-       style="opacity:1;fill:#455a64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4151"
-       width="5"
-       height="5"
-       x="9"
-       y="1045.3622" />
     <path
        style="opacity:1;fill:#455a64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 2 2 L 2 7 L 7 7 L 7 2 L 2 2 z M 3 3 L 6 3 L 6 6 L 3 6 L 3 3 z "
+       d="M 2 2 L 2 7 L 7 7 L 7 2 L 2 2 z M 9 2 L 9 7 L 14 7 L 14 2 L 9 2 z M 3 3 L 6 3 L 6 6 L 3 6 L 3 3 z M 2 9 L 2 14 L 7 14 L 7 9 L 2 9 z M 9 9 L 9 14 L 14 14 L 14 9 L 9 9 z "
        transform="translate(0,1036.3622)"
-       id="rect4153" />
+       id="rect4147" />
   </g>
 </svg>

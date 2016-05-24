@@ -69,13 +69,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="46.13872"
-     inkscape:cx="7.2099062"
-     inkscape:cy="6.3555628"
+     inkscape:zoom="34.206291"
+     inkscape:cx="6.8783054"
+     inkscape:cy="6.5700534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -84,9 +84,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="2560"
-     inkscape:window-height="1017"
+     inkscape:window-height="959"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <inkscape:grid
@@ -95,103 +95,19 @@
     <sodipodi:guide
        position="1.9999811,13.999993"
        orientation="12,0"
-       id="guide4129" />
+       id="guide4166" />
     <sodipodi:guide
        position="1.9999811,1.9999929"
        orientation="0,12"
-       id="guide4131" />
+       id="guide4168" />
     <sodipodi:guide
        position="13.999981,1.9999929"
        orientation="-12,0"
-       id="guide4133" />
+       id="guide4170" />
     <sodipodi:guide
        position="13.999981,13.999993"
        orientation="0,-12"
-       id="guide4135" />
-    <sodipodi:guide
-       position="13.999981,7.9999929"
-       orientation="0,-14"
-       id="guide4161" />
-    <sodipodi:guide
-       position="6.9999811,10.999993"
-       orientation="6,0"
-       id="guide4191" />
-    <sodipodi:guide
-       position="6.9999811,4.9999929"
-       orientation="0,6"
-       id="guide4193" />
-    <sodipodi:guide
-       position="12.999981,4.9999929"
-       orientation="-6,0"
-       id="guide4195" />
-    <sodipodi:guide
-       position="12.999981,10.999993"
-       orientation="0,-6"
-       id="guide4197" />
-    <sodipodi:guide
-       position="1.4143694,7.9998436"
-       orientation="0.70710678,-0.70710678"
-       id="guide4205" />
-    <sodipodi:guide
-       position="0.70726263,7.2927369"
-       orientation="5.2926839,5.2926839"
-       id="guide4207" />
-    <sodipodi:guide
-       position="5.9999465,2.000053"
-       orientation="-0.70710678,0.70710678"
-       id="guide4209" />
-    <sodipodi:guide
-       position="6.7070533,2.7071598"
-       orientation="-5.2926839,-5.2926839"
-       id="guide4211" />
-    <sodipodi:guide
-       position="1.4144018,8.0002213"
-       orientation="-0.70710678,-0.70710678"
-       id="guide4213" />
-    <sodipodi:guide
-       position="0.707295,8.7073281"
-       orientation="-5.2926947,5.2926947"
-       id="guide4215" />
-    <sodipodi:guide
-       position="5.9999897,14.000023"
-       orientation="0.70710678,0.70710678"
-       id="guide4217" />
-    <sodipodi:guide
-       position="6.7070965,13.292916"
-       orientation="5.2926947,-5.2926947"
-       id="guide4219" />
-    <sodipodi:guide
-       position="5.9999811,2.9999929"
-       orientation="1,0"
-       id="guide4223" />
-    <sodipodi:guide
-       position="5.9999811,1.9999929"
-       orientation="0,9"
-       id="guide4225" />
-    <sodipodi:guide
-       position="14.999981,1.9999929"
-       orientation="-1,0"
-       id="guide4227" />
-    <sodipodi:guide
-       position="14.999981,2.9999929"
-       orientation="0,-9"
-       id="guide4229" />
-    <sodipodi:guide
-       position="5.9999811,13.999993"
-       orientation="1,0"
-       id="guide4233" />
-    <sodipodi:guide
-       position="5.9999811,12.999993"
-       orientation="0,9"
-       id="guide4235" />
-    <sodipodi:guide
-       position="14.999981,12.999993"
-       orientation="-1,0"
-       id="guide4237" />
-    <sodipodi:guide
-       position="14.999981,13.999993"
-       orientation="0,-9"
-       id="guide4239" />
+       id="guide4172" />
   </sodipodi:namedview>
   <metadata
      id="metadata3759">
@@ -201,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

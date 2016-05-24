@@ -21,13 +21,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="51.464806"
-     inkscape:cx="9.6145329"
-     inkscape:cy="9.8172571"
+     inkscape:cx="5.1163133"
+     inkscape:cy="8.2627968"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,41 +35,13 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1017"
+     inkscape:window-height="959"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4137" />
-    <sodipodi:guide
-       position="0,16.000017"
-       orientation="16,0"
-       id="guide4145" />
-    <sodipodi:guide
-       position="0,1.7382813e-05"
-       orientation="0,16"
-       id="guide4147" />
-    <sodipodi:guide
-       position="16,1.7382813e-05"
-       orientation="-16,0"
-       id="guide4149" />
-    <sodipodi:guide
-       position="16,16.000017"
-       orientation="0,-16"
-       id="guide4151" />
-    <sodipodi:guide
-       position="1,1.0000174"
-       orientation="0,14"
-       id="guide4155" />
-    <sodipodi:guide
-       position="15,1.0000174"
-       orientation="-14,0"
-       id="guide4157" />
-    <sodipodi:guide
-       position="15,15.000017"
-       orientation="0,-14"
-       id="guide4159" />
     <sodipodi:guide
        position="2,14.000017"
        orientation="12,0"
