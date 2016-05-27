@@ -17,7 +17,15 @@
    viewBox="0 0 16 16"
    sodipodi:docname="go-jump-today.svg">
   <defs
-     id="defs4" />
+     id="go-jump-today">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#455a64;
+      }
+      </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="48.375"
-     inkscape:cx="8"
+     inkscape:cx="3.2144703"
      inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -68,7 +76,35 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Uri Herrera</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Nitrux</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:relation>Owner</dc:relation>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -80,16 +116,15 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#455a64;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 4,2 4,3 2,3 2,5 2,6 2,14 14,14 14,3 12,3 12,2 11,2 11,3 5,3 5,2 Z M 3,4 4,4 4,5 3,5 Z m 2,0 6,0 0,1 -6,0 z m 7,0 1,0 0,1 -1,0 z m -9,2 10,0 0,7 -10,0 z"
        transform="translate(0,1036.3622)"
-       id="rect4146"
+       id="icon"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
-    <ellipse
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" 
+       class="ColorScheme-Text" />
+    <path
        style="opacity:1;fill:#ec407a;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4146"
-       cx="9.9999981"
-       cy="1045.3622"
-       rx="2"
-       ry="1.9999878" />
+       d="M 6 7 L 6 8 L 4 8 L 4 10 L 6 10 L 6 11 L 8 9 L 6 7 z M 8 9 A 2 1.9999878 0 0 0 10 11 A 2 1.9999878 0 0 0 12 9 A 2 1.9999878 0 0 0 10 7 A 2 1.9999878 0 0 0 8 9 z "
+       transform="translate(0,1036.3622)"
+       id="path4146" />
     <ellipse
        cy="1045.3622"
        cx="9.9999981"
@@ -97,11 +132,5 @@
        style="opacity:1;fill:#f06292;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        rx="1"
        ry="0.99999392" />
-    <path
-       style="fill:#ec407a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 6.0000001,1043.3622 0,1 -2.0000001,0 0,2 2.0000001,0 0,1 2,-2 z"
-       id="path4148"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
   </g>
 </svg>

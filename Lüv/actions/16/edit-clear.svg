@@ -16,66 +16,25 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="edit-clear.svg">
   <defs
-     id="defs3756">
+     id="edit-clear">
     <style
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#4d4d4d;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
+        color:#455a64;
       }
       </style>
-    <linearGradient
-       id="linearGradient3257">
-      <stop
-         id="stop3259"
-         style="stop-color:#a50000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3261"
-         style="stop-color:#e73800;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="1"
+     bordercolor="#666666"
+     borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.206291"
-     inkscape:cx="6.8783054"
-     inkscape:cy="6.5700534"
+     inkscape:zoom="46.13872"
+     inkscape:cx="5.8444583"
+     inkscape:cy="6.3555628"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -92,22 +51,6 @@
     <inkscape:grid
        type="xygrid"
        id="grid4150" />
-    <sodipodi:guide
-       position="1.9999811,13.999993"
-       orientation="12,0"
-       id="guide4166" />
-    <sodipodi:guide
-       position="1.9999811,1.9999929"
-       orientation="0,12"
-       id="guide4168" />
-    <sodipodi:guide
-       position="13.999981,1.9999929"
-       orientation="-12,0"
-       id="guide4170" />
-    <sodipodi:guide
-       position="13.999981,13.999993"
-       orientation="0,-12"
-       id="guide4172" />
   </sodipodi:namedview>
   <metadata
      id="metadata3759">
@@ -118,7 +61,35 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Uri Herrera</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Nitrux</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:relation>Owner</dc:relation>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -127,10 +98,10 @@
      id="layer1"
      transform="translate(-768.57143,-682.07647)">
     <path
-       style="opacity:1;fill:#455A64;fill-opacity:1;stroke:none"
+       style="color:#455a64;fill:currentColor;fill-opacity:1;stroke:none"
        d="M 6 2 L 0.70703125 7.2929688 L 0 8 L 0.70703125 8.7070312 L 6 14 L 15 14 L 16 14 L 16 2 L 15 2 L 6 2 z M 8.0019531 5 L 10.011719 7.0097656 L 12.021484 5 L 13.011719 5.9902344 L 11.001953 8 L 13.011719 10.009766 L 12.021484 11 L 10.011719 8.9902344 L 8.0019531 11 L 7.0117188 10.009766 L 9.0214844 8 L 7.0117188 5.9902344 L 8.0019531 5 z "
        transform="translate(768.57143,682.07647)"
-       id="rect4137"
+       id="icon"
        class="ColorScheme-Text" />
   </g>
 </svg>

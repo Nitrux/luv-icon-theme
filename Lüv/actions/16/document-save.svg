@@ -17,7 +17,15 @@
    viewBox="0 0 16 16"
    sodipodi:docname="document-save.svg">
   <defs
-     id="defs4" />
+     id="document-save">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#455a64;
+      }
+      </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="48.375"
-     inkscape:cx="8"
+     inkscape:cx="3.2144703"
      inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -69,7 +77,35 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Uri Herrera</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Nitrux</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:relation>Owner</dc:relation>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -81,6 +117,7 @@
        style="opacity:1;fill:#455A64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 1 2 L 1 14 L 10 14 L 10 6 L 9 5 L 7 3 L 6 2 L 1 2 z M 2 3 L 6 3 L 6 6 L 9 6 L 9 13 L 2 13 L 2 3 z M 12 9 L 12 12 L 11 12 L 13 14 L 15 12 L 14 12 L 14 9 L 12 9 z "
        transform="translate(0,1036.3622)"
-       id="rect4177" />
+       id="icon"
+       class="ColorScheme-Text" />
   </g>
 </svg>
