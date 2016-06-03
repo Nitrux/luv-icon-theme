@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="48.375"
-     inkscape:cx="8"
+     inkscape:cx="3.2144703"
      inkscape:cy="8.8268734"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -68,6 +68,19 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Uri herrera</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Nitrux</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:relation>Owner</dc:relation>
       </cc:Work>
     </rdf:RDF>
   </metadata>

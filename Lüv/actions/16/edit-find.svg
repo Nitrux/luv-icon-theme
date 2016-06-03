@@ -17,7 +17,7 @@
    viewBox="0 0 16 16"
    sodipodi:docname="edit-find.svg">
   <defs
-     id="configure">
+     id="edit-find">
     <style
        type="text/css"
        id="current-color-scheme">
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="48.375"
-     inkscape:cx="-1.5710594"
+     inkscape:cx="-6.3565891"
      inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -86,7 +86,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+           rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>Uri Herrera</dc:title>
@@ -99,21 +99,6 @@
         </dc:publisher>
         <dc:relation>Owner</dc:relation>
       </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -125,7 +110,7 @@
        style="fill:currentColor;fill-opacity:1;stroke:none"
        d="m 6,1038.3622 c -2.2160048,0 -4,1.784 -4,4 0,2.216 1.7839952,4 4,4 0.926351,0 1.7667544,-0.3249 2.4433594,-0.8496 l 4.8496096,4.8496 L 14,1049.6552 9.150391,1044.8056 C 9.675125,1044.129 10,1043.2886 10,1042.3622 c 0,-2.216 -1.7839952,-4 -4,-4 z m 0,1 c 1.6620073,0 3,1.338 3,3 0,0.6494 -0.2085868,1.2464 -0.5566406,1.7363 -0.019048,0.027 -0.044554,0.048 -0.064453,0.074 -0.1633441,0.2147 -0.3536949,0.4051 -0.5683593,0.5684 -0.026154,0.02 -0.047371,0.045 -0.074219,0.064 -0.4899741,0.348 -1.0869342,0.5566 -1.7363281,0.5566 -1.6620073,0 -3,-1.338 -3,-3 0,-1.662 1.3379927,-3 3,-3 z"
        id="icons"
-       inkscape:connector-curvature="0" 
+       inkscape:connector-curvature="0"
        class="ColorScheme-Text" />
   </g>
 </svg>
