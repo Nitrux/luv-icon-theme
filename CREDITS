@@ -385,6 +385,7 @@ actions/32:
     application-exit.svg
     chronometer.svg
     configure.svg
+    configure-shortcuts.svg
     document-open-recent.svg
     edit-select.svg
     flag.svg
@@ -509,11 +510,13 @@ apps/48:
     inkscape.svg
     kate.svg
     preferences-system.svg
-    utilities-terminal.svg
-    utilities-text-editor.svg
     qtcreator.svg
     qtdesigner.svg
     qtlogo.svg
+    spotify-client.svg
+    system-fil;e-manager.svg
+    utilities-terminal.svg
+    utilities-text-editor.svg
     vlc.svg
     
 apps/64:
