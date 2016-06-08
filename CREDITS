@@ -436,6 +436,7 @@ apps/32:
     kmag.svg
     kmix.svg
     konqueror.svg
+    ktorrent.svg
     kwalletmanager.svg
     nepomuk.svg
     octopi.svg
@@ -510,6 +511,7 @@ apps/48:
     google-chrome.svg
     inkscape.svg
     kate.svg
+    ktorrent.svg
     preferences-system.svg
     qtcreator.svg
     qtdesigner.svg
@@ -644,6 +646,7 @@ mimetypes/32:
     application-wps-office.xlsx.svg
     application-x-7z-compressed.svg
     application-x-executable.svg
+    application-x-bittorrent.svg
     application-x-font-ttf.svg
     audio-x-generic.svg
     image-x-generic.svg
