@@ -28,10 +28,15 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
+#################################################################################
+#   This makes compatible icons follow the selected color scheme in Plasma 5    #
+#################################################################################
+FollowsColorScheme=true
+
 #################################
 #   Fallback icon theme to use  #
 #################################
-Inherits=hicolor
+Inherits=
 
 #####################
 #   KDE-Extensions  #

@@ -11,106 +11,91 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
-   id="svg4359"
+   viewBox="0 0 22 22"
+   id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="edit-redo.svg">
-  <defs
-     id="defs4361" />
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+  </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#000000"
-     bordercolor="#000000"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.748402"
-     inkscape:cx="3.1392185"
-     inkscape:cy="13.195242"
+     inkscape:zoom="64"
+     inkscape:cx="6.0256531"
+     inkscape:cy="12.81247"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="672"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true">
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid4105" />
+       id="grid4136"
+       empspacing="2" />
     <sodipodi:guide
-       position="0,22"
-       orientation="22,0"
-       id="guide4111" />
+       position="0,20"
+       orientation="0,1"
+       id="guide4140"
+       inkscape:label="Icon Max Height"
+       inkscape:color="rgb(233,30,99)" />
     <sodipodi:guide
-       position="0,0"
-       orientation="0,22"
-       id="guide4113" />
+       position="0,2"
+       orientation="0,1"
+       id="guide4142"
+       inkscape:label="Icon Baseline"
+       inkscape:color="rgb(233,30,99)" />
     <sodipodi:guide
-       position="22,0"
-       orientation="-22,0"
-       id="guide4115" />
+       position="11,0"
+       orientation="1,0"
+       id="guide4144"
+       inkscape:label="Center Vertical"
+       inkscape:color="rgb(221,44,0)" />
     <sodipodi:guide
-       position="11,10"
-       orientation="16,0"
-       id="guide4130" />
-    <sodipodi:guide
-       position="19,19"
-       orientation="0,-16"
-       id="guide4136" />
-    <sodipodi:guide
-       position="3,22"
-       orientation="19.000011,0"
-       id="guide4152" />
-    <sodipodi:guide
-       position="3,2.9999886"
-       orientation="0,4"
-       id="guide4154" />
-    <sodipodi:guide
-       position="15,3"
-       orientation="0,4.0000019"
-       id="guide4162" />
-    <sodipodi:guide
-       position="19.000002,3"
-       orientation="-19,0"
-       id="guide4164" />
-    <sodipodi:guide
-       position="19.000002,22"
-       orientation="0,-4.0000019"
-       id="guide4166" />
+       position="15,11"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label="Center Horizontal"
+       inkscape:color="rgb(221,44,0)" />
   </sodipodi:namedview>
   <metadata
-     id="metadata4364">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-26)">
-    <rect
-       style="color:#455A64;enable-background:accumulate"
-       id="rect4147"
-       width="2"
-       height="2"
-       x="-2"
-       y="26" />
-    <path fill="#455A64"
-       style="color:#455A64;enable-background:accumulate"
-       d="M 11 3 C 6.568 3 3 6.568 3 11 C 3 15.432 6.568 19 11 19 L 11 17 C 7.676 17 5 14.324 5 11 C 5 7.676 7.676 5 11 5 C 12.781867 5 14.371703 5.7744414 15.46875 7 L 13 7 L 13 9 L 19 9 L 19 7 L 19 3 L 17 3 L 17 5.7324219 C 15.537544 4.0632277 13.404238 3 11 3 z "
-       transform="translate(0,26)"
-       id="rect4148" />
+     id="layer1"
+     transform="translate(0,-1030.3622)">
+    <path
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
+       d="m 15.890624,1034.3691 c 0.281553,-0.033 0.580157,0.051 0.816407,0.2872 l 2,1.9981 c 6.38e-4,7e-4 0.0013,0 0.002,0 a 1.0001,1.0001628 0 0 1 0.208984,0.3086 c 0.002,0 0.004,0.01 0.0059,0.014 a 1.0001,1.0001628 0 0 1 0.07617,0.3806 c 6e-6,0 0,0 0,0 0,7e-4 2e-6,0 0,0 a 1.0001,1.0001628 0 0 1 -0.07422,0.3711 c -0.0042,0.01 -0.0072,0.021 -0.01172,0.031 a 1.0001,1.0001628 0 0 1 -0.207031,0.3028 l -2,2.0001 a 1.0001,1.0001628 0 0 1 -1.707031,-0.701 l 0,-1 -3,0 -2.9999996,0 c -2.216005,0 -4,1.7841 -4,4.0002 0,2.2162 1.783995,4.0003 4,4.0003 l 4.9999996,0 c 0.554,0 1,0.446 1,1 0,0.5541 -0.446,1.0001 -1,1.0001 l -5.1562496,0 c -3.237437,0 -5.84375,-2.6065 -5.84375,-5.8441 l 0,-0.3125 c 0,-3.2377 2.606313,-5.8442 5.84375,-5.8442 l 3.1562496,0 3,0 0,-0.9981 c 2.5e-4,-0.5564 0.421372,-0.9389 0.890625,-0.9942 z"
+       id="rect4141"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

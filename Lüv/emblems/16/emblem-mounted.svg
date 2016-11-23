@@ -50,15 +50,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.526912"
-     inkscape:cx="-7.837512"
-     inkscape:cy="8.331573"
+     inkscape:zoom="52.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="2560"
-     inkscape:window-height="1017"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -74,34 +74,6 @@
        id="grid4105"
        originx="-3"
        originy="-3" />
-    <sodipodi:guide
-       position="8,7"
-       orientation="16,0"
-       id="guide4130" />
-    <sodipodi:guide
-       position="6,8"
-       orientation="0,16"
-       id="guide4132" />
-    <sodipodi:guide
-       position="16,16"
-       orientation="0,-16"
-       id="guide4136" />
-    <sodipodi:guide
-       position="0,19"
-       orientation="19.000011,0"
-       id="guide4152" />
-    <sodipodi:guide
-       position="0,-1.14e-05"
-       orientation="0,4"
-       id="guide4154" />
-    <sodipodi:guide
-       position="12,0"
-       orientation="0,4.0000019"
-       id="guide4162" />
-    <sodipodi:guide
-       position="16.000002,0"
-       orientation="-19,0"
-       id="guide4164" />
   </sodipodi:namedview>
   <metadata
      id="metadata4364">
@@ -132,20 +104,6 @@
        cx="11"
        cy="37"
        r="6" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#66bb6a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4147"
-       width="2"
-       height="2"
-       x="-2"
-       y="26" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4147-5"
-       width="2"
-       height="2"
-       x="-2"
-       y="28" />
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#c8e6c9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 9.0411697,33.000855 C 8.4728796,32.977594 7.9995806,33.432079 8,34.000636 l 0,5.998687 c 5.754e-4,0.776364 0.8474714,1.255913 1.5138959,0.857234 l 5.0007401,-2.999343 c 0.647152,-0.388416 0.647152,-1.326053 0,-1.714469 L 9.5138959,33.143402 C 9.3707129,33.057143 9.2081857,33.008135 9.0411697,33.000855 Z"

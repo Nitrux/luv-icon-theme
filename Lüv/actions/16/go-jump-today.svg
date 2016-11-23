@@ -11,61 +11,75 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   viewBox="0 0 16 16"
    sodipodi:docname="go-jump-today.svg">
-  <defs
-     id="go-jump-today">
-    <style
-       type="text/css"
-       id="current-color-scheme">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
-        color:#455a64;
+        color:#4d4d4d;
       }
       </style>
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="1"
+     bordercolor="#666666"
+     borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="48.375"
-     inkscape:cx="-4.5271318"
-     inkscape:cy="10.48062"
+     inkscape:zoom="52.8125"
+     inkscape:cx="1.4390535"
+     inkscape:cy="7.6591716"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="959"
+     inkscape:window-height="1014"
      inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid4137" />
+       id="grid4136"
+       empspacing="2"
+       originx="-3"
+       originy="-3.0000174" />
     <sodipodi:guide
-       position="2,14.000017"
-       orientation="12,0"
-       id="guide4161" />
+       position="0,14.999983"
+       orientation="0,1"
+       id="guide4140"
+       inkscape:label="Icon Max Height"
+       inkscape:color="rgb(233,30,99)" />
     <sodipodi:guide
-       position="2,2.0000174"
-       orientation="0,12"
-       id="guide4163" />
+       position="0,0.9999826"
+       orientation="0,1"
+       id="guide4142"
+       inkscape:label="Icon Baseline"
+       inkscape:color="rgb(233,30,99)" />
     <sodipodi:guide
-       position="14,2.0000174"
-       orientation="-12,0"
-       id="guide4165" />
+       position="8,-1.74e-05"
+       orientation="1,0"
+       id="guide4144"
+       inkscape:label="Center Vertical"
+       inkscape:color="rgb(221,44,0)" />
     <sodipodi:guide
-       position="14,14.000017"
-       orientation="0,-12"
-       id="guide4167" />
+       position="17,7.9999826"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label="Center Horizontal"
+       inkscape:color="rgb(221,44,0)" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -75,20 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Uri Herrera</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:publisher>
-          <cc:Agent>
-            <dc:title>Nitrux</dc:title>
-          </cc:Agent>
-        </dc:publisher>
-        <dc:relation>Owner</dc:relation>
-        <cc:license
-           rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,27 +97,11 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1036.3622)">
+     transform="translate(-3,-1033.3622)">
     <path
-       style="color:#455a64;fill:currentColor;fill-opacity:1;stroke:none"
-       d="M 4,2 4,3 2,3 2,5 2,6 2,14 14,14 14,3 12,3 12,2 11,2 11,3 5,3 5,2 Z M 3,4 4,4 4,5 3,5 Z m 2,0 6,0 0,1 -6,0 z m 7,0 1,0 0,1 -1,0 z m -9,2 10,0 0,7 -10,0 z"
-       transform="translate(0,1036.3622)"
-       id="icon"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc"
-       class="ColorScheme-Text" />
-    <path
-       style="opacity:1;fill:#ec407a;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 6,7 6,8 4,8 4,10 6,10 6,11 8,9 6,7 Z m 2,2 a 2,1.9999878 0 0 0 2,2 2,1.9999878 0 0 0 2,-2 2,1.9999878 0 0 0 -2,-2 2,1.9999878 0 0 0 -2,2 z"
-       transform="translate(0,1036.3622)"
-       id="arrow"
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
+       d="m 7,1035.3622 0,1 c -1.1080193,0 -2,0.892 -2,2 l 0,7 c 0,1.108 0.8919807,2 2,2 l 8,0 c 1.108019,0 2,-0.892 2,-2 l 0,-7 c 0,-1.108 -0.891981,-2 -2,-2 l 0,-1 -2,0 0,1 -4,0 0,-1 -2,0 z m -1,4 10,0 0,6 c 0,0.554 -0.445981,1 -1,1 l -8,0 c -0.5540193,0 -1,-0.446 -1,-1 l 0,-6 z m 1,1 0,2 2,0 0,-2 -2,0 z m 5.435547,0.01 c -0.101688,0.014 -0.202409,0.061 -0.287109,0.1484 l -1.998047,1.9902 c -0.097,0.094 -0.1508906,0.2247 -0.150391,0.3594 9e-4,0.3007 0.267306,0.5321 0.566406,0.4922 l 1.935547,0 1.998047,0 c 0.2768,0 0.5,-0.2222 0.5,-0.4981 0,-0.2759 -0.2232,-0.498 -0.5,-0.498 l -1.498047,0 0,-1.4238 c 0.0555,-0.3599 -0.261344,-0.6132 -0.566406,-0.5703 z"
+       id="rect3215"
        inkscape:connector-curvature="0" />
-    <ellipse
-       cy="1045.3622"
-       cx="9.9999981"
-       id="circle"
-       style="opacity:1;fill:#f06292;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       rx="1"
-       ry="0.99999392" />
   </g>
 </svg>

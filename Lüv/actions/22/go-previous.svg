@@ -11,136 +11,72 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
-   id="svg4359"
+   viewBox="0 0 22 22"
+   id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="go-previous.svg">
-  <defs
-     id="defs4361" />
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+  </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#000000"
-     bordercolor="#000000"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="25.732403"
-     inkscape:cx="5.362919"
-     inkscape:cy="17.147601"
+     inkscape:zoom="37.5"
+     inkscape:cx="5.68"
+     inkscape:cy="11"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="672"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true">
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid4105" />
+       id="grid4136"
+       empspacing="2" />
     <sodipodi:guide
-       position="0,22"
-       orientation="22,0"
-       id="guide4111" />
+       position="0,20"
+       orientation="0,1"
+       id="guide4140"
+       inkscape:label="Icon Max Height"
+       inkscape:color="rgb(233,30,99)" />
     <sodipodi:guide
-       position="0,0"
-       orientation="0,22"
-       id="guide4113" />
+       position="0,2"
+       orientation="0,1"
+       id="guide4142"
+       inkscape:label="Icon Baseline"
+       inkscape:color="rgb(233,30,99)" />
     <sodipodi:guide
-       position="22,0"
-       orientation="-22,0"
-       id="guide4115" />
+       position="11,0"
+       orientation="1,0"
+       id="guide4144"
+       inkscape:label="Center Vertical"
+       inkscape:color="rgb(221,44,0)" />
     <sodipodi:guide
-       position="22,22"
-       orientation="0,-22"
-       id="guide4117" />
-    <sodipodi:guide
-       position="11,10"
-       orientation="16,0"
-       id="guide4130" />
-    <sodipodi:guide
-       position="12,11"
-       orientation="0,16"
-       id="guide4132" />
-    <sodipodi:guide
-       position="19,3"
-       orientation="-16,0"
-       id="guide4134" />
-    <sodipodi:guide
-       position="19,19"
-       orientation="0,-16"
-       id="guide4136" />
-    <sodipodi:guide
-       position="3,10.999989"
-       orientation="8,0"
-       id="guide4140" />
-    <sodipodi:guide
-       position="3,2.9999886"
-       orientation="0,8"
-       id="guide4142" />
-    <sodipodi:guide
-       position="3,22"
-       orientation="19.000011,0"
-       id="guide4152" />
-    <sodipodi:guide
-       position="3,2.9999886"
-       orientation="0,4"
-       id="guide4154" />
-    <sodipodi:guide
-       position="7,22"
-       orientation="0,-4"
-       id="guide4158" />
-    <sodipodi:guide
-       position="15,3"
-       orientation="0,4.0000019"
-       id="guide4162" />
-    <sodipodi:guide
-       position="19.000002,3"
-       orientation="-19,0"
-       id="guide4164" />
-    <sodipodi:guide
-       position="19.000002,22"
-       orientation="0,-4.0000019"
-       id="guide4166" />
-    <sodipodi:guide
-       position="14.585997,19.000206"
-       orientation="6.5859939,-6.5859928"
-       id="guide4175" />
-    <sodipodi:guide
-       position="8.0000039,12.414213"
-       orientation="1.414215,1.4142148"
-       id="guide4177" />
-    <sodipodi:guide
-       position="9.4142187,10.999997"
-       orientation="-6.5859939,6.5859928"
-       id="guide4179" />
-    <sodipodi:guide
-       position="16.000211,17.585991"
-       orientation="-1.414215,-1.4142148"
-       id="guide4181" />
-    <sodipodi:guide
-       position="14.585993,3.000003"
-       orientation="-6.5859925,-6.5859914"
-       id="guide4183" />
-    <sodipodi:guide
-       position="8.0000012,9.5859955"
-       orientation="-1.4142137,1.4142134"
-       id="guide4185" />
-    <sodipodi:guide
-       position="9.4142146,11.000209"
-       orientation="6.5859925,6.5859914"
-       id="guide4187" />
-    <sodipodi:guide
-       position="16.000206,4.4142167"
-       orientation="1.4142137,-1.4142134"
-       id="guide4189" />
+       position="22,11"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label="Center Horizontal"
+       inkscape:color="rgb(221,44,0)" />
   </sodipodi:namedview>
   <metadata
-     id="metadata4364">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -152,21 +88,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-26)">
-    <path fill="#455A64"
-       style="color:#455A64;enable-background:accumulate"
-       d="M 14.585938 3 L 8 9.5859375 L 6.5859375 11 L 8 12.414062 L 14.585938 19 L 16 17.585938 L 9.4140625 11 L 16 4.4140625 L 14.585938 3 z "
-       transform="translate(0,26)"
-       id="rect4167" />
-    <rect
-       style="color:#455A64;enable-background:accumulate"
-       id="rect4159"
-       width="3"
-       height="3"
-       x="-3"
-       y="26" />
+     id="layer1"
+     transform="translate(0,-1030.3622)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4247"
+       d="m 14.999478,1032.366 c -0.255551,0 -0.513127,0.097 -0.708943,0.293 l -1.997931,2 -0.292951,0.291 0,0 -5.7067012,5.7071 a 1.000042,1.0001 0 0 0 0,1.414 l 5.7067012,5.7071 0,0 0.292951,0.291 1.997931,2 c 0.195816,0.196 0.453392,0.293 0.708943,0.293 0.255551,0 0.511174,-0.097 0.70699,-0.293 0.391633,-0.3917 0.391633,-1.0242 0,-1.416 l -1.943246,-1.9414 a 1.000042,1.0001 0 0 0 -0.05664,-0.057 l -1.706931,-1.7071 -3.5857302,-3.5859 3.5857302,-3.5859 1.706931,-1.7071 1.999884,-1.998 c 0.391633,-0.3918 0.391633,-1.0243 0,-1.416 -0.195816,-0.1959 -0.451439,-0.293 -0.70699,-0.293 z"
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text" />
   </g>
 </svg>
