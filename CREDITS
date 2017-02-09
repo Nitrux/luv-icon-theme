@@ -15,6 +15,7 @@ actions/16:
     document-save.svg
     edit-clear-locationbar-rtl.svg
     edit-clear.svg
+    edit-delete.svg
     edit-find.svg
     go-jump-today.svg
     media-playback-start.svg
@@ -26,6 +27,7 @@ actions/16:
     view-calendar-month.svg
     view-choose.svg
     view-group.svg
+    view-list-details.svg
     view-list-icons.svg
     view-list-tree.svg
     
