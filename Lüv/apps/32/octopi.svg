@@ -31,38 +31,6 @@
          offset="1"
          id="stop4183" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#Shadow"
-       id="radialGradient4576"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.1111458e-7,2.6666673,-1.9999997,2.3333583e-7,82.99998,973.69551)"
-       cx="28"
-       cy="28.5"
-       fx="28"
-       fy="28.5"
-       r="1.5" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#Shadow"
-       id="radialGradient4578"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1.9999998,2.4329792e-6,-3.2319946e-6,-2.6666666,7.119531,1131.421)"
-       cx="0.55971527"
-       cy="31.14706"
-       fx="0.55971527"
-       fy="31.14706"
-       r="1.5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Shadow"
-       id="linearGradient4580"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,1020.3622)"
-       x1="16"
-       y1="28"
-       x2="16"
-       y2="32" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#Shadow"
@@ -81,14 +49,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="20.042638"
-     inkscape:cy="8.6229004"
+     inkscape:zoom="22.627417"
+     inkscape:cx="20.224571"
+     inkscape:cy="16.617254"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1017"
+     inkscape:window-height="1050"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -155,22 +123,52 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path4574"
-       d="m 6,1048.3622 0,4 20,0 0,-4 z"
-       style="opacity:1;fill:url(#linearGradient4580);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4572"
-       d="m 6,1048.3622 -3,0 0,1 c 0,1.662 1.33799,3 3,3 l 0,-4 z"
-       style="opacity:1;fill:url(#radialGradient4578);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4570"
-       d="m 26,1048.3622 0,4 c 1.66201,0 3,-1.338 3,-3 l 0,-1 -3,0 z"
-       style="opacity:1;fill:url(#radialGradient4576);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782" />
+    <image
+       y="1020.3622"
+       x="0"
+       id="image4215"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="32"
+       width="32" />
     <rect
        style="opacity:1;fill:#8c6e53;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
        id="rect4582"
@@ -178,7 +176,7 @@
        height="25"
        x="3"
        y="1025.3622"
-       ry="1.9230938" />
+       ry="2.0000174" />
     <rect
        ry="1.0000174"
        y="1026.3622"

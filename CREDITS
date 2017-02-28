@@ -9,15 +9,20 @@ Icons are designed and developed by Uri Herrera <uri_herreranitrux.in>.
 The following icons are licensed under the Creative Commons License (CC BY-SA 4.0):
 
 actions/16:
+    amarok_playlist_refresh.svg
     configure.svg
     dialog-close.svg
     document-open.svg
     document-save.svg
+    document-save-as.svg
     edit-clear-locationbar-rtl.svg
     edit-clear.svg
     edit-delete.svg
     edit-find.svg
+    filename-bpm-amarok.svg
+    filename-title-amarok.svg
     go-jump-today.svg
+    list-add.svg
     media-playback-start.svg
     project-open.svg
     services.svg
@@ -26,12 +31,18 @@ actions/16:
     view-calendar-day.svg
     view-calendar-month.svg
     view-choose.svg
+    view-filter.svg
     view-group.svg
     view-list-details.svg
     view-list-icons.svg
     view-list-tree.svg
+    view-refresh.svg
     
 actions/22:
+    amarok_artist.svg
+    amarok_clock.svg
+    amarok_lyrics.svg
+    amarok_playlist_refresh.svg
     address-book-insert.svg
     align-horizontal-bottom-out.svg
     align-horizontal-center.svg
@@ -90,10 +101,13 @@ actions/22:
     edit-undo.svg
     file-zoom-in.svg
     file-zoom-out.svg
+    filename-filetype-amarok.svg
+    filename-space-aamrok.svg
     format-indent-less.svg
     format-indent-more.svg
     format-justify-fill.svg
     games-endturn.svg
+    games-config-options.svg
     get-hot-new-stuff.svg
     go-bottom.svg
     go-down.svg
@@ -109,6 +123,7 @@ actions/22:
     help-contents.svg
     help-faq.svg
     help-info.svg
+    internet-amarok.svg
     kdenlive-align-hor.svg
     kdenlive-align-vert.svg
     kdenlive-hide-audio.svg
@@ -142,6 +157,7 @@ actions/22:
     mail-reply-all.svg
     mail-reply.svg
     mail-send.svg
+    media-album-track.svg
     media-eject.svg
     media-optical-audio-new.svg
     media-optical-blank.svg

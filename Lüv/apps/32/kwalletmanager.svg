@@ -31,38 +31,6 @@
          offset="1"
          id="stop4183" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#Shadow"
-       id="radialGradient4576"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.1111458e-7,2.6666673,-1.9999997,2.3333583e-7,84.99998,973.69551)"
-       cx="28"
-       cy="28.5"
-       fx="28"
-       fy="28.5"
-       r="1.5" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#Shadow"
-       id="radialGradient4578"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1.9999998,2.4329792e-6,-3.2319946e-6,-2.6666666,5.119531,1131.421)"
-       cx="0.55971527"
-       cy="31.14706"
-       fx="0.55971527"
-       fy="31.14706"
-       r="1.5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Shadow"
-       id="linearGradient4580"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,1020.3622)"
-       x1="16"
-       y1="28"
-       x2="16"
-       y2="32" />
     <style
        type="text/css"
        id="current-color-scheme">
@@ -118,14 +86,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="22.155688"
-     inkscape:cy="13.668653"
+     inkscape:zoom="16"
+     inkscape:cx="63.222874"
+     inkscape:cy="14.867247"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1017"
+     inkscape:window-height="1050"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -170,22 +138,49 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path4574"
-       d="m 4,1048.3622 0,4 24,0 0,-4 z"
-       style="opacity:1;fill:url(#linearGradient4580);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4572"
-       d="m 4,1048.3622 -3,0 0,1 c 0,1.662 1.33799,3 3,3 l 0,-4 z"
-       style="opacity:1;fill:url(#radialGradient4578);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4570"
-       d="m 28,1048.3622 0,4 c 1.66201,0 3,-1.338 3,-3 l 0,-1 -3,0 z"
-       style="opacity:1;fill:url(#radialGradient4576);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782" />
+    <image
+       y="1020.3622"
+       x="0"
+       id="image4205"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="32"
+       width="32" />
     <rect
        style="opacity:1;fill:#26a69a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
        id="rect4163"
