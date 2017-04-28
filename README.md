@@ -26,7 +26,7 @@ Install
 
 ### Icons
 
-* Move the folder(s) *Luv* and *Luv Dark* to `/usr/share/icons` for all environments or `~/.icons` for GTK based environments or `~/.local/share/icons` for Plasma 5.
+* Move the folder(s) *Luv* `/usr/share/icons` for all environments or `~/.icons` for GTK based environments or `~/.local/share/icons` for Plasma 5.
 * And finally select the theme in the Settings.
 
 ### Wallpapers
