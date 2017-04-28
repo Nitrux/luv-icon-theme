@@ -15,12 +15,33 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="preferences-system-network.svg">
+   sodipodi:docname="media-eject.svg">
   <defs
      id="defs3051">
     <style
        type="text/css"
        id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+    <style
+       id="current-color-scheme-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+    <style
+       id="current-color-scheme-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+    <style
+       id="current-color-scheme-75"
+       type="text/css">
       .ColorScheme-Text {
         color:#4d4d4d;
       }
@@ -33,9 +54,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-158.5"
-     inkscape:cy="8"
+     inkscape:zoom="45.254834"
+     inkscape:cx="8.336743"
+     inkscape:cy="10.268104"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -107,8 +128,8 @@
      transform="translate(-3,-1033.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="m 8.5,1035.3622 c -0.277,0 -0.5,0.223 -0.5,0.5 v 4.5 H 6 c -1.1080193,0 -2,0.892 -2,2 v 3 c 0,1.108 0.8919807,2 2,2 h 10 c 1.108019,0 2,-0.892 2,-2 v -3 c 0,-1.108 -0.891981,-2 -2,-2 h -2 v -4.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 -0.277,0 -0.5,0.223 -0.5,0.5 v 4.5 H 9 v -4.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m -2.5,6 h 2.5 5 2.5 c 0.554019,0 1,0.446 1,1 v 3 c 0,0.554 -0.445981,1 -1,1 H 6 c -0.5540193,0 -1,-0.446 -1,-1 v -3 c 0,-0.554 0.4459807,-1 1,-1 z m 7,1 v 1 1 h 1 v -1 h 1 v 1 h 1 v -1 -1 z m 2,2 h -1 v 1 h 1 z"
-       id="rect877"
-       inkscape:connector-curvature="0" />
+       d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 8.0273438 3 C 8.3324096 3.0078 8.6172793 3.1545375 8.8007812 3.3984375 L 11.800781 7.4003906 C 12.294604 8.0600906 11.823836 9.0002 11 9 L 5 9 C 4.1761632 9.0002 3.7053956 8.0600906 4.1992188 7.4003906 L 7.1992188 3.3984375 C 7.3942737 3.1391375 7.7030506 2.99 8.0273438 3 z M 5 10 L 11 10 C 11.554 10 12 10.446 12 11 C 12 11.554 11.554 12 11 12 L 5 12 C 4.446 12 4 11.554 4 11 C 4 10.446 4.446 10 5 10 z "
+       transform="translate(3,1033.3622)"
+       id="path844" />
   </g>
 </svg>
