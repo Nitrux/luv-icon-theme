@@ -11,7 +11,7 @@ Icons are licensed under the [Creative Commons Attribution-ShareAlike Internatio
 ## Please be aware that this is not "complete" yet with thousands of icons inside. Icons are added gradually. Check the [FAQ](https://github.com/NitruxSA/luv-icon-theme/wiki/L%C3%BCv-FAQ) for questions.
 
 
-Download
+Download ->
 ========
 
 Icons and wallpapers are available to download directly from this repository. Clone this repository using the following command:
