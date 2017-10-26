@@ -50,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="30.110963"
-     inkscape:cy="46.329428"
+     inkscape:zoom="22.627417"
+     inkscape:cx="38.233722"
+     inkscape:cy="28.74074"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -152,15 +152,10 @@
        ry="1.9999467"
        rx="1.9999467" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 18,1072.5196 v 30 4 l 4,2 26,-16 v -2 l -22,-13.1992 v 3.8672 l 14.285156,8.332 L 22,1100.1876 v -25.2696 z"
+       d="M 18 14 L 18 44 L 18 48 L 22 50 L 48 34 L 48 32 L 26 18.800781 L 26 22.621094 L 42 32 L 42 33 L 20 45.833984 L 20 45 L 20 15.199219 L 18 14 z "
+       transform="translate(0,1058.5196)"
        id="path4426" />
-    <path
-       style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 20,1073.7188 v 29.8008 0.834 l 22,-12.834 v -1 l -16,-9.3789 v 0.047 l 14.285156,8.332 L 22,1100.1876 v -25.2696 z"
-       id="path847"
-       inkscape:connector-curvature="0" />
     <circle
        r="10"
        cy="1112.5195"
