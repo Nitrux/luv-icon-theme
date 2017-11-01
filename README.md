@@ -19,8 +19,6 @@ Icons and wallpapers are available to download directly from this repository. Cl
 * In a Terminal execute the following command: 
   * `git clone https://github.com/Nitrux/luv-icon-theme.git`
 
-Alternatively, click [**here**](https://github.com/Nitrux/luv-icon-theme/releases/) for the latest release.
-
 Install
 ========
 
