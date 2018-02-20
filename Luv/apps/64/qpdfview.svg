@@ -15,7 +15,7 @@
    viewBox="0 0 64 64.000003"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="qpdfview.svg">
   <defs
      id="defs4">
@@ -71,7 +71,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.09375"
-     inkscape:cx="25.040011"
+     inkscape:cx="7.0555149"
      inkscape:cy="23.457544"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -80,9 +80,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1050"
+     inkscape:window-height="1373"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -91,31 +91,38 @@
     <sodipodi:guide
        position="5,59.000069"
        orientation="54,0"
-       id="guide4142" />
+       id="guide4142"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="5,5.0000688"
        orientation="0,54"
-       id="guide4144" />
+       id="guide4144"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="59,5.0000688"
        orientation="-54,0"
-       id="guide4146" />
+       id="guide4146"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="67,59.000003"
        orientation="0,-54"
-       id="guide4148" />
+       id="guide4148"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,64.000069"
        orientation="64,0"
-       id="guide4150" />
+       id="guide4150"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="64,4.0000002"
        orientation="-64,0"
-       id="guide4154" />
+       id="guide4154"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="64,64.000069"
        orientation="0,-64"
-       id="guide4156" />
+       id="guide4156"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -191,11 +198,5 @@
        d="M 43.458984 35.855469 C 42.985575 35.911469 42.654641 36.211781 42.400391 36.550781 L 42.326172 36.646484 L 42.289062 36.763672 C 41.178384 40.095672 42.275852 44.253678 44.361328 47.642578 C 44.389418 47.688578 44.426608 47.725584 44.455078 47.771484 C 44.213069 50.713384 43.590387 53.7686 42.558594 56.4375 C 41.655211 56.985295 40.83707 57.501133 40.060547 58 L 43.609375 58 C 43.634056 57.94435 43.663262 57.891915 43.6875 57.835938 C 43.73459 57.727138 43.75137 57.598281 43.796875 57.488281 C 45.770336 56.292281 47.369338 55.238522 50.349609 53.669922 C 50.685546 53.493122 50.692968 53.5382 51.009766 53.375 C 51.337824 53.4753 51.666994 53.572183 52 53.642578 L 52 51.240234 C 51.633803 51.422287 51.291409 51.587245 50.908203 51.78125 C 49.105387 51.02535 47.372902 49.330938 46.001953 47.273438 C 46.22404 43.954637 46.055333 40.896006 45.607422 38.816406 C 45.376646 37.744906 45.128597 36.937422 44.617188 36.357422 C 44.361483 36.067422 43.932393 35.805128 43.458984 35.861328 L 43.458984 35.855469 z M 43.632812 37.732422 C 43.785941 38.018422 43.98087 38.376153 44.142578 39.126953 C 44.411225 40.374253 44.52636 42.191816 44.548828 44.166016 C 43.667195 41.900416 43.169117 39.613122 43.632812 37.732422 z M 45.724609 49.5 C 46.761195 50.7823 47.952215 51.816259 49.25 52.568359 C 47.132581 53.689759 46.055293 54.413584 44.466797 55.333984 C 45.058129 53.426784 45.483736 51.4849 45.724609 49.5 z "
        transform="translate(0,1058.5196)"
        id="path4479" />
-    <path
-       sodipodi:nodetypes="csscc"
-       inkscape:connector-curvature="0"
-       id="path4481"
-       d="m -31,1081.5196 c -2,6 4,16 10,16 6,0 14.453315,-9.186 -3,0 -19,10 -16,12 -13,11 11,-4 9,-31 6,-27 z"
-       style="fill:none;fill-rule:evenodd;stroke:#546e7a;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
