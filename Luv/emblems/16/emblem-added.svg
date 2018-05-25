@@ -15,7 +15,7 @@
    id="svg4359"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="emblem-unmounted.svg"
+   sodipodi:docname="emblem-added.svg"
    viewBox="0 0 16 16">
   <defs
      id="defs4361">
@@ -50,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.1875"
-     inkscape:cx="29.335664"
-     inkscape:cy="15.776582"
+     inkscape:zoom="18.649941"
+     inkscape:cx="11.383712"
+     inkscape:cy="12.682043"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -99,26 +99,32 @@
        id="circle4155"
        style="opacity:1;fill:url(#radialGradient4163);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
-       style="opacity:1;fill:#ff7043;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#89a02c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4151"
        cx="11"
        cy="37"
        r="6" />
-    <rect
-       style="opacity:1;fill:#ffccbc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4151"
-       width="2"
-       height="8"
-       x="8"
-       y="33"
-       ry="1" />
-    <rect
-       ry="1"
-       y="33"
-       x="12"
-       height="8"
-       width="2"
-       id="rect4153"
-       style="opacity:1;fill:#ffccbc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g3342"
+       transform="translate(-1.5,0)"
+       style="fill:#cdde87">
+      <rect
+         ry="1"
+         y="33"
+         x="11.5"
+         height="8"
+         width="2"
+         id="rect4151"
+         style="opacity:1;fill:#cdde87;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="opacity:1;fill:#cdde87;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4153"
+         width="2"
+         height="8"
+         x="-38"
+         y="8.5"
+         ry="1" />
+    </g>
   </g>
 </svg>
