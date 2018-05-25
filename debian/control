@@ -1,0 +1,14 @@
+Source: luv-icon-theme
+Section: x11
+Priority: optional
+Maintainer: Alexis López Zubieta <zubieta90@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/Nitrux/luv-icon-theme
+#Vcs-Git: git://anonscm.debian.org/collab-maint/luv-icon-theme.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/luv-icon-theme.git
+
+Package: luv-icon-theme
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Lüvicon them
