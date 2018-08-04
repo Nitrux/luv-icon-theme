@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="document-download.svg">
+   sodipodi:docname="dialog-ok.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="46.22238"
-     inkscape:cy="10.567523"
+     inkscape:zoom="13.296875"
+     inkscape:cx="-15.963932"
+     inkscape:cy="-0.65818226"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,37 +45,43 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1378"
+     inkscape:window-height="1383"
      inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1">
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
-       empspacing="2" />
+       empspacing="2"
+       originx="-3"
+       originy="-3.0000174" />
     <sodipodi:guide
-       position="0,20"
+       position="0,14.999983"
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
        inkscape:color="rgb(233,30,99)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,2"
+       position="0,0.9999826"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
        inkscape:color="rgb(233,30,99)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="11,0"
+       position="8,-1.74e-05"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
        inkscape:color="rgb(221,44,0)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="15,11"
+       position="16,7.9999826"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
@@ -98,14 +104,18 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     transform="translate(-3,-1027.3622)">
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:none"
+       style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.42856729"
        class="ColorScheme-Text"
-       d="m 10.970703,10 c -0.121486,-0.00369 -0.241282,-0.029502 -0.353515,-0.076172 -0.0046,-0.00191 -0.0091,-0.00388 -0.01367,-0.00586 C 10.487777,9.8684779 10.382417,9.797575 10.292969,9.7089844 v -0.00195 l -2.0000002,-2 C 7.664561,7.0767442 8.1101434,6.0009457 9,6 h 1 V 3 c 0,-0.5539 0.446309,-1 1,-1 0.553691,0 1,0.4461 1,1 v 3 h 0.998047 c 0.890256,4e-4 1.336318,1.0770313 0.707031,1.7070312 l -1.998047,2 c -6.5e-4,6.52e-4 -0.0013,0.0013 -0.002,0.00195 -0.08986,0.089495 -0.195909,0.1610786 -0.3125,0.2109375 -0.0013,6.539e-4 -0.0026,0.0013 -0.0039,0.00195 -0.0012,4.892e-4 -0.0027,-4.85e-4 -0.0039,0 -0.120623,0.050715 -0.25002,0.077258 -0.38086,0.078125 -0.002,6e-6 -0.0039,6e-6 -0.0059,0 -0.0091,1.25e-4 -0.01823,1.25e-4 -0.02734,0 z M 5,6 C 3.8918551,6 3,6.8918551 3,8 v 10 c 0,1.108145 0.8918551,2 2,2 h 12 c 1.108145,0 2,-0.891855 2,-2 V 8 C 19,6.8918551 18.108145,6 17,6 h -2 v 2 h 2 V 18 H 14 8 5 V 8 H 7.0996094 V 6 Z"
-       id="rect3217"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccssscccccccccccssssssssccccccccccs"
-       transform="translate(0,1030.3622)" />
+       d="M 23.26606,1040.6764 A 0.71435508,0.71435508 0 0 0 22.663383,1041 l -0.014,0.023 -3.649542,5.6055 -2.583699,-1.1748 a 0.71435508,0.71435508 0 0 0 -0.758926,1.1943 l 2.857135,2.4302 a 0.71435508,0.71435508 0 0 0 1.077007,-0.1786 l 4.27175,-7.1204 0.014,-0.023 a 0.71435508,0.71435508 0 0 0 -0.611048,-1.0797 z"
+       id="path3200"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.42856729"
+       class="ColorScheme-Text"
+       d="m 20.402729,1029.2463 a 0.71456711,0.71445663 0 0 0 -0.588902,0.3153 l -0.02233,0.036 -10.0531768,15.0077 -4.7223698,-2.4223 a 0.71456711,0.71445663 0 0 0 -0.7563605,1.2056 l 5.7159651,4.2862 a 0.71456711,0.71445663 0 0 0 1.046625,-0.212 L 21,1030.3622 h 0.0029 l 0.02233,-0.039 a 0.71456711,0.71445663 0 0 0 -0.622392,-1.0716 z"
+       id="path3202"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -15,7 +15,11 @@
    viewBox="0 0 64 64.000003"
    id="svg2"
    version="1.1"
+<<<<<<< HEAD
    inkscape:version="0.91 r13725"
+=======
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+>>>>>>> 4259332028703ff69582e75c744e419003f53fef
    sodipodi:docname="pix.svg">
   <defs
      id="defs4">
@@ -71,6 +75,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
+<<<<<<< HEAD
      inkscape:zoom="1.4142136"
      inkscape:cx="39.128744"
      inkscape:cy="20.677722"
@@ -86,6 +91,23 @@
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      showguides="false">
+=======
+     inkscape:zoom="11.313709"
+     inkscape:cx="40.648968"
+     inkscape:cy="29.617277"
+     inkscape:document-units="px"
+     inkscape:current-layer="g901"
+     showgrid="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     showguides="true">
+>>>>>>> 4259332028703ff69582e75c744e419003f53fef
     <inkscape:grid
        type="xygrid"
        id="grid4136" />
@@ -138,7 +160,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<<<<<<< HEAD
         <dc:title />
+=======
+        <dc:title></dc:title>
+>>>>>>> 4259332028703ff69582e75c744e419003f53fef
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -1,0 +1,17 @@
+luv-icon-theme (0.4.7-1) nxos; urgency=medium
+
+  * Bump version.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 20 feb 2018 19:49:00 -0500
+ 
+luv-icon-theme (0.4.5-1) nxos; urgency=medium
+
+  * Bump version.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Wed, 24 Jan 2018 21:14:00 -0500
+
+luv-icon-theme (0.4.3-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alexis López Zubieta <alexis@unknown>  Sat, 27 May 2017 13:46:39 -0500
