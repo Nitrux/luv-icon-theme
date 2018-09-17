@@ -1,8 +1,14 @@
+luv-icon-theme (0.4.8) nxos; urgency=medium
+
+  * Some icons for Maui apps.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 17 Sep 2018 16:26:00 -0500
+
 luv-icon-theme (0.4.7-1) nxos; urgency=medium
 
   * Bump version.
 
- -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 20 feb 2018 19:49:00 -0500
+ -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 20 Feb 2018 19:49:00 -0500
  
 luv-icon-theme (0.4.5-1) nxos; urgency=medium
 
