@@ -1,7 +1,7 @@
 Source: luv-icon-theme
 Section: x11
 Priority: optional
-Maintainer: Alexis López Zubieta <zubieta90@gmail.com>
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
 Homepage: https://github.com/Nitrux/luv-icon-theme
@@ -10,5 +10,5 @@ Homepage: https://github.com/Nitrux/luv-icon-theme
 
 Package: luv-icon-theme
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Lüvicon them
+Depends: hicolor-icon-theme
+Description: Lüv is an icon theme for freedesktop environments like Gnome, Plasma, XFCE, Mate, etc.
