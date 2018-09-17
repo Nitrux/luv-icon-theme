@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="go-first.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="view-sort.svg">
 <defs
     id="defs3051">
 <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="37.5"
-     inkscape:cx="10.493334"
-     inkscape:cy="11.986667"
+     inkscape:zoom="54.045455"
+     inkscape:cx="11"
+     inkscape:cy="11"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,9 +45,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1373"
+     inkscape:window-height="1370"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="33"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -75,7 +75,7 @@
        inkscape:color="rgb(221,44,0)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="22,11"
+       position="15,11"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
@@ -101,8 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 6 6 C 5.446 6 5 6.446 5 7 L 5 15 C 5 15.554 5.446 16 6 16 C 6.554 16 7 15.554 7 15 L 7 7 C 7 6.446 6.554 6 6 6 z M 14.970703 6 A 1.0001 1.0002619 0 0 0 14.445312 6.1660156 L 8.4453125 10.167969 A 1.0001 1.0002619 0 0 0 8.4453125 11.832031 L 14.445312 15.832031 A 1.0001 1.0002619 0 0 0 16 15 L 16 6.9980469 A 1.0001 1.0002619 0 0 0 14.970703 6 z "
+       d="M 15.015625 2 A 0.9976959 0.9973503 0 0 0 14.210938 2.3886719 L 14.207031 2.3984375 L 10.306641 6.296875 A 0.9976959 0.9973503 0 1 0 11.716797 7.7070312 L 14.003906 5.421875 L 14.003906 11.988281 A 0.9976959 0.9973503 0 0 0 15.017578 13 L 15.017578 12.996094 A 0.9976959 0.9973503 0 0 0 16 11.984375 L 16 5.4179688 L 18.287109 7.703125 A 0.9976959 0.9973503 0 0 0 19.001953 8.0058594 A 0.9976959 0.9973503 0 0 0 19.697266 6.2929688 L 15.791016 2.3886719 A 0.9976959 0.9973503 0 0 0 15.015625 2 z M 6.9824219 9 L 6.9824219 9.0039062 A 0.9976959 0.9973503 0 0 0 6 10.015625 L 6 16.582031 L 3.7128906 14.296875 A 0.9976959 0.9973503 0 0 0 2.9980469 13.994141 A 0.9976959 0.9973503 0 0 0 2.3027344 15.707031 L 6.2089844 19.611328 A 0.9976959 0.9973503 0 0 0 7.7890625 19.611328 L 7.7929688 19.601562 L 11.693359 15.703125 A 0.9976959 0.9973503 0 1 0 10.283203 14.292969 L 7.9941406 16.578125 L 7.9941406 10.011719 A 0.9976959 0.9973503 0 0 0 6.9824219 9 z "
        transform="translate(0,1030.3622)"
-       id="path824" />
+       id="path827" />
   </g>
 </svg>
