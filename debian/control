@@ -12,4 +12,3 @@ Package: luv-icon-theme
 Architecture: any
 Depends: hicolor-icon-theme
 Description: Lüv is an icon theme for freedesktop environments
-             like Gnome, Plasma, XFCE, Mate, etc.

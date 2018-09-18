@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="archive-insert.svg">
+   sodipodi:docname="folder-add.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="38.636364"
-     inkscape:cx="7.7776466"
-     inkscape:cy="10.663529"
+     inkscape:zoom="45.254834"
+     inkscape:cx="11.433136"
+     inkscape:cy="9.866749"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -68,7 +68,7 @@
        inkscape:color="rgb(233,30,99)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="11,0"
+       position="11,18"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
@@ -100,10 +100,9 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text"
-       d="M 6 2 C 4.8919904 2 4 2.8919904 4 4 L 4 18 C 4 19.10801 4.8919904 20 6 20 L 12 20 L 12 18 L 6 18 L 6 4 L 11 4 L 11 8 C 11 8.554 11.446 9 12 9 L 16 9 L 16 9.9882812 L 16 12 L 18 12 L 18 9 L 17.996094 9 L 17.996094 8.0195312 C 17.996226 8.0126409 18 8.006925 18 8 C 18 7.99308 17.996194 7.9873587 17.996094 7.9804688 L 17.996094 6.9921875 C 17.996212 6.7279103 17.891568 6.4743627 17.705078 6.2871094 L 13.710938 2.2929688 C 13.523524 2.1052838 13.26914 1.9998758 13.003906 2 L 11 2 L 6 2 z M 13 4.4042969 L 15.591797 7 L 13 7 L 13 4.4042969 z M 16 14 L 16 16 L 14 16 L 14 18 L 16 18 L 16 20 L 18 20 L 18 18 L 20 18 L 20 16 L 18 16 L 18 14 L 16 14 z "
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
+       d="M 4 4 C 2.8919904 4 2 4.892 2 6 L 2 18 C 2 19.108 2.8919904 20 4 20 L 12 20 L 12 18 L 4 18 L 4 6 L 8 6 L 9 6 L 9.5859375 6 L 11.292969 7.7070312 C 11.480481 7.8945674 11.734801 7.9999489 12 8 L 13 8 L 15 8 L 18 8 L 18 9 L 18 12 L 20 12 L 20 9 L 20 8 C 20 6.8920048 19.107995 6 18 6 L 15 6 L 13 6 L 12.414062 6 L 10.707031 4.2929688 C 10.519519 4.1054326 10.265199 4.0000511 10 4 L 9 4 L 8 4 L 4 4 z M 16 14 L 16 16 L 14 16 L 14 18 L 16 18 L 16 20 L 18 20 L 18 18 L 20 18 L 20 16 L 18 16 L 18 14 L 16 14 z "
        transform="translate(0,1030.3622)"
-       id="rect4141" />
+       id="path4153" />
   </g>
 </svg>
