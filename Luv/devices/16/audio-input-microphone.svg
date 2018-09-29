@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="audio-input-microphone.svg">
+<defs
+    id="defs3051">
+<style
+    type="text/css"
+    id="current-color-scheme">
+    .ColorScheme-Text {
+    color:#4d4d4d;
+    }
+    </style>
+</defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="45.254834"
+     inkscape:cx="6.3410915"
+     inkscape:cy="7.3743811"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1370"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       empspacing="2"
+       originx="-3"
+       originy="-3.0000174" />
+    <sodipodi:guide
+       position="0,14.999983"
+       orientation="0,1"
+       id="guide4140"
+       inkscape:label="Icon Max Height"
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0.9999826"
+       orientation="0,1"
+       id="guide4142"
+       inkscape:label="Icon Baseline"
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8,-1.74e-05"
+       orientation="1,0"
+       id="guide4144"
+       inkscape:label="Center Vertical"
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16,7.9999826"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label="Center Horizontal"
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3,-1033.3622)">
+    <path
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
+       d="M 9.4375 1 C 8.5278045 1 7.6189305 1.3478719 6.921875 2.0449219 L 4.0449219 4.921875 C 2.6508103 6.315975 2.6508103 8.5609781 4.0449219 9.9550781 C 4.8544565 10.764664 5.9499437 11.089621 7 10.958984 L 7 14 L 6.4882812 14 C 6.2174021 14 6 14.217402 6 14.488281 L 6 14.511719 C 6 14.782598 6.2174021 15 6.4882812 15 L 9.5117188 15 C 9.7825979 15 10 14.782598 10 14.511719 L 10 14.488281 C 10 14.217402 9.7825979 14 9.5117188 14 L 9 14 L 9 10.019531 C 9.0249682 9.9959336 9.053671 9.9795337 9.078125 9.9550781 L 11.955078 7.078125 C 13.34919 5.684025 13.34919 3.4390219 11.955078 2.0449219 C 11.258023 1.3478719 10.347195 1 9.4375 1 z M 9.4375 2.0175781 C 10.087282 2.0175781 10.738431 2.2657719 11.236328 2.7636719 C 12.232121 3.7594719 12.232121 5.363475 11.236328 6.359375 L 8.71875 8.875 L 5.125 5.28125 L 7.640625 2.7636719 C 8.138522 2.2657719 8.7877175 2.0175781 9.4375 2.0175781 z M 4.4414062 6.0371094 L 7.9628906 9.5585938 C 6.9748126 10.215594 5.636419 10.109028 4.7636719 9.2363281 C 3.8909247 8.3635281 3.7843436 7.0252094 4.4414062 6.0371094 z "
+       transform="translate(3,1033.3622)"
+       id="rect837" />
+  </g>
+</svg>
