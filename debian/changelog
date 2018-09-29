@@ -1,6 +1,12 @@
+luv-icon-theme (0.4.9.4) bionic; urgency=medium
+
+  * Bump version.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 29 Sep 2018 05:10:00 -0500
+
 luv-icon-theme (0.4.9.3) bionic; urgency=medium
 
-  * Updated debian files. Again.
+  * Closed various issues.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sat, 29 Sep 2018 04:49:00 -0500
 
