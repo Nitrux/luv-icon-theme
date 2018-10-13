@@ -1,5 +1,11 @@
 luv-icon-theme (0.4.9.5) bionic; urgency=medium
 
+  * Use optimized wallpapers.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 13 Oct 2018 18:38:00 -0500
+
+luv-icon-theme (0.4.9.5) bionic; urgency=medium
+
   * Bump version.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sat, 29 Sep 2018 05:10:00 -0500
