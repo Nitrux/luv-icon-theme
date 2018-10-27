@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.7) bionic; urgency=medium
+
+  * Add icons for system settings.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 26 Oct 2018 18:44:00 -0500
+
 luv-icon-theme (0.4.9.6) bionic; urgency=medium
 
   * Use optimized wallpapers.
