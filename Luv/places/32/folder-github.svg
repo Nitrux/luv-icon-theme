@@ -15,8 +15,8 @@
    viewBox="0 0 32 32.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-git.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="folder-github.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64"
-     inkscape:cx="13.956092"
-     inkscape:cy="11.440503"
+     inkscape:zoom="37.15625"
+     inkscape:cx="16"
+     inkscape:cy="16"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1050"
+     inkscape:window-height="1370"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -47,35 +47,43 @@
     <sodipodi:guide
        position="2,30.000018"
        orientation="28,0"
-       id="guide4159" />
+       id="guide4159"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2,2.0000174"
        orientation="0,28"
-       id="guide4161" />
+       id="guide4161"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="30,2.0000174"
        orientation="-28,0"
-       id="guide4163" />
+       id="guide4163"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="30,30.000018"
        orientation="0,-28"
-       id="guide4165" />
+       id="guide4165"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="10,18.000262"
        orientation="12,0"
-       id="guide4195" />
+       id="guide4195"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="10,6.0002617"
        orientation="0,12"
-       id="guide4197" />
+       id="guide4197"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="22,6.0002617"
        orientation="-12,0"
-       id="guide4199" />
+       id="guide4199"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="22,18.000262"
        orientation="0,-12"
-       id="guide4201" />
+       id="guide4201"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
