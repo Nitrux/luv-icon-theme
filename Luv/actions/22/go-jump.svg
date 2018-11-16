@@ -9,23 +9,23 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="view-list-tree.svg">
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
+   sodipodi:docname="go-jump.svg">
+<defs
+    id="defs3051">
+<style
+    type="text/css"
+    id="current-color-scheme">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
     </style>
-  </defs>
+</defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="74.3125"
-     inkscape:cx="8"
-     inkscape:cy="6.6880068"
+     inkscape:zoom="54.045455"
+     inkscape:cx="11"
+     inkscape:cy="11"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -48,40 +48,34 @@
      inkscape:window-height="1370"
      inkscape:window-x="0"
      inkscape:window-y="33"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
-       empspacing="2"
-       originx="-3"
-       originy="-3.0000174" />
+       empspacing="2" />
     <sodipodi:guide
-       position="0,14.999983"
+       position="0,20"
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
        inkscape:color="rgb(233,30,99)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0.9999826"
+       position="0,2"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
        inkscape:color="rgb(233,30,99)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="8,-1.74e-05"
+       position="11,0"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
        inkscape:color="rgb(221,44,0)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="16,7.9999826"
+       position="22,11"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
@@ -104,11 +98,11 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3,-1033.3622)">
+     transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 3 1 C 1.8919807 1 1 1.892 1 3 L 1 5 C 1 6.108 1.8919807 7 3 7 L 5 7 C 6.108019 7 7 6.108 7 5 L 7 3 C 7 1.892 6.108019 1 5 1 L 3 1 z M 3 2 L 5 2 C 5.554019 2 6 2.446 6 3 L 6 5 C 6 5.554 5.554019 6 5 6 L 3 6 C 2.4459807 6 2 5.554 2 5 L 2 3 C 2 2.446 2.4459807 2 3 2 z M 11 5 C 9.891981 5 9 5.892 9 7 L 9 9 C 9 10.108 9.891981 11 11 11 L 13 11 C 14.108019 11 15 10.108 15 9 L 15 7 C 15 5.892 14.108019 5 13 5 L 11 5 z M 11 6 L 13 6 C 13.554019 6 14 6.446 14 7 L 14 9 C 14 9.554 13.554019 10 13 10 L 11 10 C 10.445981 10 10 9.554 10 9 L 10 7 C 10 6.446 10.445981 6 11 6 z M 5.4863281 9 C 5.2117257 9 4.9929021 9.2307594 4.9960938 9.5058594 L 4.9960938 12.001953 L 3.5 12.001953 C 3.0559066 12.002153 2.832586 12.540969 3.1464844 12.855469 L 5.1425781 14.853516 C 5.4567165 15.167916 5.9939525 14.9445 5.9941406 14.5 L 5.9941406 12.582031 C 6.0027306 12.529031 6.0027306 12.474875 5.9941406 12.421875 L 5.9941406 9.5058594 C 5.9974006 9.2246594 5.7670302 8.9956 5.4863281 9 z "
-       transform="translate(3,1033.3622)"
-       id="path3220" />
+       d="m 13.890625,1037.3691 c -0.469254,0.055 -0.890375,0.4377 -0.890625,0.9943 v 0.9981 H 12 11 8 c -1.6619952,0 -3,1.3382 -3,3.0004 0,1.6621 1.3380048,3.0003 3,3.0003 h 4 v -2.0002 H 8 c -0.554,0 -1,-0.4461 -1,-1.0001 0,-0.5541 0.446,-1.0001 1,-1.0001 h 3 1 4 c 0.5539,0 1,-0.4463 1,-1.0001 0,-0.2771 -0.112169,-0.5264 -0.292969,-0.7072 l -2,-1.9982 c -0.23625,-0.236 -0.534854,-0.3204 -0.816406,-0.2872 z"
+       id="rect840"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

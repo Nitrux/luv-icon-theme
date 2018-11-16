@@ -15,17 +15,17 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="view-list-tree.svg">
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
+   sodipodi:docname="view-links.svg">
+<defs
+    id="defs3051">
+<style
+    type="text/css"
+    id="current-color-scheme">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
     </style>
-  </defs>
+</defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -35,7 +35,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="74.3125"
      inkscape:cx="8"
-     inkscape:cy="6.6880068"
+     inkscape:cy="8"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -107,8 +107,9 @@
      transform="translate(-3,-1033.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 3 1 C 1.8919807 1 1 1.892 1 3 L 1 5 C 1 6.108 1.8919807 7 3 7 L 5 7 C 6.108019 7 7 6.108 7 5 L 7 3 C 7 1.892 6.108019 1 5 1 L 3 1 z M 3 2 L 5 2 C 5.554019 2 6 2.446 6 3 L 6 5 C 6 5.554 5.554019 6 5 6 L 3 6 C 2.4459807 6 2 5.554 2 5 L 2 3 C 2 2.446 2.4459807 2 3 2 z M 11 5 C 9.891981 5 9 5.892 9 7 L 9 9 C 9 10.108 9.891981 11 11 11 L 13 11 C 14.108019 11 15 10.108 15 9 L 15 7 C 15 5.892 14.108019 5 13 5 L 11 5 z M 11 6 L 13 6 C 13.554019 6 14 6.446 14 7 L 14 9 C 14 9.554 13.554019 10 13 10 L 11 10 C 10.445981 10 10 9.554 10 9 L 10 7 C 10 6.446 10.445981 6 11 6 z M 5.4863281 9 C 5.2117257 9 4.9929021 9.2307594 4.9960938 9.5058594 L 4.9960938 12.001953 L 3.5 12.001953 C 3.0559066 12.002153 2.832586 12.540969 3.1464844 12.855469 L 5.1425781 14.853516 C 5.4567165 15.167916 5.9939525 14.9445 5.9941406 14.5 L 5.9941406 12.582031 C 6.0027306 12.529031 6.0027306 12.474875 5.9941406 12.421875 L 5.9941406 9.5058594 C 5.9974006 9.2246594 5.7670302 8.9956 5.4863281 9 z "
-       transform="translate(3,1033.3622)"
-       id="path3220" />
+       d="m 6,1037.3622 c -1.1080193,0 -2,0.892 -2,2 v 1 c 0,1.108 0.8919807,2 2,2 h 1 v -1 H 6 c -0.5540193,0 -1,-0.446 -1,-1 v -1 c 0,-0.554 0.4459807,-1 1,-1 h 6 c 0.554019,0 1,0.446 1,1 v 1 c 0,0.554 -0.445981,1 -1,1 h -1 v 1 h 1 c 1.108019,0 2,-0.892 2,-2 v -1 c 0,-1.108 -0.891981,-2 -2,-2 z m 4,3 c -1.1080193,0 -2,0.892 -2,2 v 1 c 0,1.108 0.8919807,2 2,2 h 6 c 1.108019,0 2,-0.892 2,-2 v -1 c 0,-1.108 -0.891981,-2 -2,-2 h -1 v 1 h 1 c 0.554019,0 1,0.446 1,1 v 1 c 0,0.554 -0.445981,1 -1,1 h -6 c -0.5540193,0 -1,-0.446 -1,-1 v -1 c 0,-0.554 0.4487302,-0.9449 1,-1 h 1 v -1 z"
+       id="rect837"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssccssssssssccsssssssssssssccssssssssccs" />
   </g>
 </svg>
