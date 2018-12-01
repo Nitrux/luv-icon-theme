@@ -15,17 +15,17 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="go-jump.svg">
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
+   sodipodi:docname="folder-cloud.svg">
+<defs
+    id="defs3051">
+<style
+    type="text/css"
+    id="current-color-scheme">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
     </style>
-  </defs>
+</defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="127.61905"
-     inkscape:cx="11.508118"
-     inkscape:cy="9.5290236"
+     inkscape:zoom="54.045455"
+     inkscape:cx="11"
+     inkscape:cy="11"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -75,7 +75,7 @@
        inkscape:color="rgb(221,44,0)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="22,11"
+       position="15,11"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
@@ -101,8 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 13.890625 7.0078125 C 13.421371 7.0628125 13.00025 7.4453531 13 8.0019531 L 13 9 L 12 9 L 11 9 L 8 9 C 6.3380048 9 5 10.3378 5 12 C 5 13.6621 6.3380048 15 8 15 L 11 15 A 1 1 0 0 0 12 14 A 1 1 0 0 0 11 13 L 8 13 C 7.446 13 7 12.554 7 12 C 7 11.4459 7.446 11 8 11 L 11 11 L 12 11 L 16 11 C 16.5539 11 17 10.5538 17 10 C 17 9.7229 16.887831 9.4737688 16.707031 9.2929688 L 14.707031 7.2949219 C 14.470781 7.0589219 14.172177 6.9746125 13.890625 7.0078125 z "
+       d="M 9 5 A 6 6 0 0 0 3 11 A 6 6 0 0 0 9 17 L 14 17 A 5 5 0 0 0 19 12 A 5 5 0 0 0 14 7 A 5 5 0 0 0 13.490234 7.0292969 A 6 6 0 0 0 9 5 z M 9 7 A 4 4 0 0 1 13 11 A 1 1 0 0 0 14 12 A 1 1 0 0 0 15 11 A 1 1 0 0 0 14.994141 10.904297 A 6 6 0 0 0 14.679688 9.0820312 A 3 3 0 0 1 17 12 A 3 3 0 0 1 14 15 L 9 15 A 4 4 0 0 1 5 11 A 4 4 0 0 1 9 7 z "
        transform="translate(0,1030.3622)"
-       id="rect840" />
+       id="path837" />
   </g>
 </svg>
