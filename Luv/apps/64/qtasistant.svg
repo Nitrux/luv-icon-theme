@@ -15,8 +15,8 @@
    viewBox="0 0 64 64.000003"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="qtasistant.svg">
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="assistant-qt5.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -84,9 +84,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.1875"
-     inkscape:cx="41.738203"
-     inkscape:cy="38.945212"
+     inkscape:zoom="68.412581"
+     inkscape:cx="50.944966"
+     inkscape:cy="41.590283"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -94,7 +94,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1370"
+     inkscape:window-height="1352"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -208,7 +208,7 @@
        cy="1077.5195" />
     <path
        style="opacity:1;fill:#e1f5fe;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 54 13 A 2 2 0 0 0 52 15 A 2 2 0 0 0 54 17 A 2 2 0 0 0 56 15 A 2 2 0 0 0 54 13 z M 52 18 C 51.44603 18 51 18.44603 51 19 C 51 19.55397 51.44603 20 52 20 L 53 20 L 53 23.5 C 53 24.331 53.669 25 54.5 25 C 55.331 25 56 24.331 56 23.5 L 56 19.5 C 56 19.390242 55.985064 19.284578 55.962891 19.181641 C 55.974432 19.120644 56 19.064452 56 19 C 56 18.44603 55.55397 18 55 18 L 54.5 18 L 52 18 z "
+       d="M 54 13 A 2 2 0 0 0 52 15 A 2 2 0 0 0 54 17 A 2 2 0 0 0 56 15 A 2 2 0 0 0 54 13 z M 52 18 C 51.44603 18 51 18.44603 51 19 C 51 19.55397 51.44603 20 52 20 L 53 20 L 53 23.5 C 53 24.331 53.669 25 54.5 25 C 55.331 25 56 24.331 56 23.5 L 56 20 L 56 19.5 L 56 19 C 56 18.44603 55.55397 18 55 18 L 54.5 18 L 52 18 z "
        transform="translate(0,1058.5196)"
        id="path978" />
   </g>
