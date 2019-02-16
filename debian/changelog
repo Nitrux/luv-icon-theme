@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.13) bionic; urgency=medium
+
+  * Add icon for znx-gui.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 16 Jan 2019 04:47:00 -0500
+
 luv-icon-theme (0.4.9.12) bionic; urgency=medium
 
   * Add icon for znx-gui.
