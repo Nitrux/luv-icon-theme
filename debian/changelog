@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.15) bionic; urgency=medium
+
+  * fix normal and shuffle icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 23 Feb 2019 16:34:00 -0500
+
 luv-icon-theme (0.4.9.14) bionic; urgency=medium
 
   * Add icon for itch-io and lightworks.
