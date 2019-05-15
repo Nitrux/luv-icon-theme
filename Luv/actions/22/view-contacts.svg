@@ -34,8 +34,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="56.590909"
-     inkscape:cx="11"
-     inkscape:cy="11"
+     inkscape:cx="9.4361446"
+     inkscape:cy="10.134137"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -101,8 +101,10 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 5 4 C 3.8919904 4 3 4.8919904 3 6 L 3 18 C 3 19.10801 3.8919904 20 5 20 L 17 20 C 18.10801 20 19 19.10801 19 18 L 19 6 C 19 4.8919904 18.10801 4 17 4 L 5 4 z M 5 6 L 7 6 L 7 18 L 5 18 L 5 6 z M 9 6 L 17 6 L 17 18 L 9 18 L 9 6 z M 13 8 A 2 2 0 0 0 11 10 A 2 2 0 0 0 13 12 A 2 2 0 0 0 15 10 A 2 2 0 0 0 13 8 z M 11 13 C 10.44599 13 10 13.44599 10 14 L 10 15 C 10 15.55401 10.44599 16 11 16 L 15 16 C 15.55401 16 16 15.55401 16 15 L 16 14 C 16 13.44599 15.55401 13 15 13 L 11 13 z "
+       d="M 4,2 C 2.8919904,2 2,2.8919904 2,4 v 14 c 0,1.10801 0.8919904,2 2,2 h 14 c 1.10801,0 2,-0.89199 2,-2 V 4 C 20,2.8919904 19.10801,2 18,2 Z M 4,4 H 6 V 18 H 4 Z M 8,4 H 18 V 18 H 8 Z m 5,3 c -1.104569,0 -2,0.8954305 -2,2 0,1.104569 0.895431,2 2,2 1.104569,0 2,-0.895431 2,-2 0,-1.1045695 -0.895431,-2 -2,-2 z m -2,5 c -0.55401,0 -1,0.44599 -1,1 v 1 c 0,0.55401 0.44599,1 1,1 h 4 c 0.55401,0 1,-0.44599 1,-1 v -1 c 0,-0.55401 -0.44599,-1 -1,-1 z"
        transform="translate(0,1030.3622)"
-       id="rect822" />
+       id="rect822"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssssccccccccccssssssssssssss" />
   </g>
 </svg>
