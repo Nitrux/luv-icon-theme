@@ -18,12 +18,12 @@ branches:
   - development
 deploy:
 - provider: script
-  script: "./source/nomad-repository-util.sh upload nomad-desktop package/*.deb"
+  script: "./source/nomad-repository-util.sh upload nomad-desktop *.deb"
   skip_cleanup: true
   on:
     branch: master
 - provider: script
-  script: "./source/nomad-repository-util.sh upload nomad-desktop-dev package/*.deb"
+  script: "./source/nomad-repository-util.sh upload nomad-desktop-dev *.deb"
   skip_cleanup: true
   on:
     branch: development
