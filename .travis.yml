@@ -18,16 +18,16 @@ branches:
   - development
 deploy:
 - provider: script
-  script: "./source/nomad-repository-util.sh upload testing *.deb"
+  script: "./source/nomad-repository-util.sh upload nomad-desktop *.deb"
   skip_cleanup: true
   on:
     branch: master
 - provider: script
-  script: "./source/nomad-repository-util.sh upload development *.deb"
+  script: "./source/nomad-repository-util.sh upload nomad-desktop-dev *.deb"
   skip_cleanup: true
   on:
     branch: development
 notifications:
   email: false
   slack:
-    secure: Z0saVO7yIy8sdthzbUe3qyvYYI63y1EiPfPv8EB029fXt433tDKtttkRJs0RYHnFAnq498L6L3928vXoSjeI8PXWi74tFl9g04o4r1VjCv1rSoXc3cH3bvsUkfBL5wbJV8vdLtBEafysJwzicjcM0RiBBq6rjyvXZXHgBH/sPgU=
+    secure: kFXZLcK/+yIomcfrTqmFtIIiBYsM8NTKMMWL1+8EPazqAZ4Dk9BXq/l4+Rqvrxfzvm4ltFn4adkBTZClNLiKndlGf7+a6D6JNdqhf4cFsIvtGAVxaEnhRbMOWi/X2yBHz9A/OMHfn1bu6Kiwrc8e+pveqneDwXvHNkyxS2pmeOkQxjx/8CSSnC/NCYUhyYCeJDEAORVXsZBx0j9g5Qf5epmee6vgdasprve0/BOXDdqWRIOEbMjL9DJ8SFhjLiqTCEuhBrQDeiya4S025+loxlQ4gAYLiiV4a5B+8Sy11HUfO9EQdefGDplZhEreYCSD75AbJr6Ka+m1ldI8S/uf4s5W4/2YTuiOy0FWZPOmbdjiiajiImeqwRJ3C/HDCztAhdn6i/TsRvouuNeYWDIuYoE0ZD13TFlw9n3MYPWTF/4rdJtBt1dpU5fvlbNGsUxJEtMFr7GJIcpl9CjMpnQ0OMHM02RUOguKG2fSDDGJ9NhSindnQVlIcSyGAExTyn4xv0OlKR2kkowkviBvbIKJNZAtYdqWpe59GYSCgpqwNhBTvPtyofurDMgToXNJlInhnuorBr1l7jRX0aOogQFwbr2OzgA8zFYwJR8y10nblIrJ18hPgmOr2xIdEOSndCXTmNp+HBxnHe07x7OCnG/qAiLgHnU8PrBfrId0k8lBQOc=
