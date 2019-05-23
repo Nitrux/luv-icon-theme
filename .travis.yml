@@ -7,9 +7,9 @@ addons:
     - realpath
 install:
 - docker pull ubuntu:bionic
-- wget https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nxos-repository-util.sh
-  -O nxos-repository-util.sh
-- chmod +x nxos-repository-util.sh
+- wget https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nomad-repository-util.sh
+  -O nomad-repository-util.sh
+- chmod +x nomad-repository-util.sh
 script:
 - docker run --rm -v $(pwd)/:/build/ -w /build/ ubuntu:bionic /bin/bash travis-build.sh
 branches:
@@ -18,12 +18,12 @@ branches:
   - development
 deploy:
 - provider: script
-  script: "./source/nxos-repository-util.sh upload testing *.deb"
+  script: "./source/nomad-repository-util.sh upload testing *.deb"
   skip_cleanup: true
   on:
     branch: master
 - provider: script
-  script: "./source/nxos-repository-util.sh upload development *.deb"
+  script: "./source/nomad-repository-util.sh upload development *.deb"
   skip_cleanup: true
   on:
     branch: development
