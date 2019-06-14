@@ -1,9 +1,6 @@
-Lüv (icon theme) - Upstream repository
-==============
+# Lüv icon theme [![Build Status](https://travis-ci.org/Nitrux/luv-icon-theme.svg?branch=master)](https://travis-ci.org/Nitrux/luv-icon-theme)
 
-## [Sponsor Lüv by clicking here!](https://nxos.org/#sponsor).
-## Your support is truly appreciated.
-
+Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
 
 ![Lüv preview](https://i.imgur.com/RojjKDZ.png " Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments. ")
 
@@ -49,3 +46,8 @@ When reporting missing icons make sure to follow these steps so we can resolve i
 4. Add a description of the software, it's very important for us to know what the software does.
 
 Some software uses absolute paths in their launchers, as such even when we add the icon the system will not load it, you may use [Hardcoded Icon Fixer](https://github.com/Foggalong/hardcode-fixer) to resolve this problem.
+
+# Issues
+If you find problems with the contents of this repository please create an issue.
+
+©2019 Nitrux Latinoamericana S.C.
