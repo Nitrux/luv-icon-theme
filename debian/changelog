@@ -1,6 +1,12 @@
+luv-icon-theme (0.4.9.24) bionic; urgency=medium
+
+  * Typo in file name, added more icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 Jul 2019 17:16:00 -0500
+
 luv-icon-theme (0.4.9.23) bionic; urgency=medium
 
-  * Add icons for kup.
+  * Add more icons for kup.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 Jul 2019 00:31:00 -0500
 
