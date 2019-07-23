@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.25) bionic; urgency=medium
+
+  * Added 22px icon for kup, updated icons for kup kcm.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 Jul 2019 18:50:00 -0500
+
 luv-icon-theme (0.4.9.24) bionic; urgency=medium
 
   * Typo in file name, added more icons.

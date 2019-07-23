@@ -15,12 +15,12 @@
    viewBox="0 0 32 32.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="kup.svg">
   <defs
      id="defs4">
     <radialGradient
-       gradientTransform="translate(5,-5.4152125e-4)"
+       gradientTransform="translate(3,-5.4152125e-4)"
        inkscape:collect="always"
        xlink:href="#linearGradient4154"
        id="radialGradient4230"
@@ -54,16 +54,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.0625"
+     inkscape:zoom="38.4375"
      inkscape:cx="16"
      inkscape:cy="16"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1370"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -184,25 +184,25 @@
     <circle
        r="4"
        cy="1038.3622"
-       cx="24"
+       cx="22"
        id="circle4226"
        style="opacity:1;fill:url(#radialGradient4230);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782" />
     <circle
        style="opacity:1;fill:#424242;fill-opacity:1"
        id="path4544"
-       cx="24"
+       cx="22"
        cy="1037.3622"
        r="4" />
     <circle
        r="3"
        cy="1037.3622"
-       cx="24"
+       cx="22"
        id="circle4546"
        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke-width:0.75" />
     <circle
        style="opacity:1;fill:#616161;fill-opacity:1;stroke-width:0.5"
        id="circle4548"
-       cx="24"
+       cx="22"
        cy="1037.3622"
        r="2" />
     <rect
@@ -210,7 +210,7 @@
        id="rect4550"
        width="2"
        height="7.0000172"
-       x="23"
+       x="21"
        y="1036.3622"
        ry="1" />
   </g>
