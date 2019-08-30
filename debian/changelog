@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.27) bionic; urgency=medium
+
+  * add maui-dialer.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 Jul 2019 21:02:00 -0500
+
 luv-icon-theme (0.4.9.26) bionic; urgency=medium
 
   * Type in file name.
