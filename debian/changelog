@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.31) bionic; urgency=medium
+
+  * edited item-select.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 1 Oct 2019 17:30:00 -0500
+
 luv-icon-theme (0.4.9.30) bionic; urgency=medium
 
   * edited item-select.
