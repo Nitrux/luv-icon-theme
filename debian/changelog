@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.29) bionic; urgency=medium
+
+  * add icons for maui apps.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 30 Sep 2019 19:55:00 -0500
+
 luv-icon-theme (0.4.9.28) bionic; urgency=medium
 
   * rename maui app icons, add maui-nota.

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="add-image.svg">
+   sodipodi:docname="sidebar-collapse.svg">
   <defs
      id="defs3051">
     <style
@@ -34,8 +34,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="14.570997"
-     inkscape:cy="8.8176253"
+     inkscape:cx="7.0911328"
+     inkscape:cy="11.911217"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,9 +45,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1407"
+     inkscape:window-height="1378"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="32"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -101,8 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 3 2 C 1.8919904 2 0.98892055 2.8920554 1 4 L 1 14 L 1 18 C 1 19.108 1.8919904 20 3 20 L 13 20 L 13 18 L 3 18 L 3 4 L 19 4 L 19 12 L 21 12 L 21 4 C 21 2.892 20.10801 2 19 2 L 3 2 z M 12.976562 11.001953 C 12.719786 11.007553 12.475011 11.111769 12.292969 11.292969 L 9 14.585938 L 7.7070312 13.292969 C 7.5195196 13.105369 7.265199 13.0001 7 13 C 6.734801 13.0001 6.4804803 13.105369 6.2929688 13.292969 L 5 14.585938 L 5 16 L 13 16 L 13 13 L 13 12 L 13 11.001953 L 12.998047 11.001953 L 12.976562 11.001953 z M 17 14 L 17 16 L 15 16 L 15 18 L 17 18 L 17 20 L 19 20 L 19 18 L 21 18 L 21 16 L 19 16 L 19 14 L 17 14 z "
-       transform="translate(0,1030.3622)"
-       id="path4179" />
+       d="m 7,1032.3622 c 1.10801,0 2,0.892 2,2 v 14 c 0,1.108 -0.89199,2 -2,2 H 3 c -1.10801,0 -2,-0.892 -2,-2 v -14 c 0,-1.108 0.89199,-2 2,-2 z m 0,2 H 3 v 14 h 4 z m 7.109375,4.0059 c 0.469254,0.055 0.890375,0.4371 0.890625,0.9941 v 1 h 1 1 1 2 c 0.554,0 1,0.4453 1,1 0,0.5546 -0.446,1.002 -1,1.002 h -2 -1 -1 -1 v 1 c -0.0056,0.8889 -1.078966,1.3308 -1.707031,0.705 l -2,-2.0019 c -0.08708,-0.087 -0.157274,-0.1918 -0.207031,-0.3047 -0.0045,-0.01 -0.0075,-0.019 -0.01172,-0.029 -0.04813,-0.1181 -0.07332,-0.2457 -0.07422,-0.3731 2.6e-4,-0.1309 0.02614,-0.2598 0.07617,-0.3808 0.0019,0 0.0039,-0.014 0.0059,-0.014 0.04971,-0.1152 0.120605,-0.2195 0.208985,-0.3086 h 0.002 l 2,-2 c 0.236166,-0.2363 0.534854,-0.322 0.816406,-0.289 z"
+       id="rect821"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

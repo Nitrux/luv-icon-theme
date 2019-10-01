@@ -15,12 +15,26 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="add-image.svg">
+   sodipodi:docname="utilities-terminal.svg">
   <defs
      id="defs3051">
     <style
        type="text/css"
        id="current-color-scheme">
+    .ColorScheme-Text {
+    color:#4d4d4d;
+    }
+    </style>
+    <style
+       id="current-color-scheme-75"
+       type="text/css">
+    .ColorScheme-Text {
+    color:#4d4d4d;
+    }
+    </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-7">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
@@ -33,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="14.570997"
-     inkscape:cy="8.8176253"
+     inkscape:zoom="32"
+     inkscape:cx="13.761964"
+     inkscape:cy="10.644401"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,9 +59,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1407"
+     inkscape:window-height="1378"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="32"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -90,7 +104,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,9 +114,14 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 3 2 C 1.8919904 2 0.98892055 2.8920554 1 4 L 1 14 L 1 18 C 1 19.108 1.8919904 20 3 20 L 13 20 L 13 18 L 3 18 L 3 4 L 19 4 L 19 12 L 21 12 L 21 4 C 21 2.892 20.10801 2 19 2 L 3 2 z M 12.976562 11.001953 C 12.719786 11.007553 12.475011 11.111769 12.292969 11.292969 L 9 14.585938 L 7.7070312 13.292969 C 7.5195196 13.105369 7.265199 13.0001 7 13 C 6.734801 13.0001 6.4804803 13.105369 6.2929688 13.292969 L 5 14.585938 L 5 16 L 13 16 L 13 13 L 13 12 L 13 11.001953 L 12.998047 11.001953 L 12.976562 11.001953 z M 17 14 L 17 16 L 15 16 L 15 18 L 17 18 L 17 20 L 19 20 L 19 18 L 21 18 L 21 16 L 19 16 L 19 14 L 17 14 z "
+       style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none"
+       d="M 3 2 C 1.8918551 2 1 2.8918551 1 4 L 1 18 C 1 19.108145 1.8918551 20 3 20 L 19 20 C 20.108145 20 21 19.108145 21 18 L 21 12 L 21 4 C 21 2.892 20.108 2 19 2 L 14 2 L 12 2 L 5.0996094 2 L 3 2 z M 4 3 C 4.5522847 3 5 3.4477153 5 4 C 5 4.5522847 4.5522847 5 4 5 C 3.4477153 5 3 4.5522847 3 4 C 3 3.4477153 3.4477153 3 4 3 z M 3 6 L 12 6 L 14 6 L 19 6 L 19 12 L 19 18 L 16 18 L 8 18 L 3 18 L 3 6 z "
        transform="translate(0,1030.3622)"
-       id="path4179" />
+       id="rect3217" />
+    <path
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 5 9 L 5 10 L 4 10 L 4 11 L 5 11 L 5 13 L 4 13 L 4 14 L 5 14 L 5 15 L 6 15 L 6 14 L 8 14 L 8 15 L 9 15 L 9 14 L 10 14 L 10 13 L 9 13 L 9 11 L 10 11 L 10 10 L 9 10 L 9 9 L 8 9 L 8 10 L 6 10 L 6 9 L 5 9 z M 6 11 L 8 11 L 8 13 L 6 13 L 6 11 z "
+       transform="translate(0,1030.3622)"
+       id="rect846" />
   </g>
 </svg>

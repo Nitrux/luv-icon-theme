@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="add-image.svg">
+   sodipodi:docname="folder-documents.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="14.570997"
-     inkscape:cy="8.8176253"
+     inkscape:zoom="55.045455"
+     inkscape:cx="14.206441"
+     inkscape:cy="10.291495"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,9 +45,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1407"
+     inkscape:window-height="1378"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="32"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -101,8 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 3 2 C 1.8919904 2 0.98892055 2.8920554 1 4 L 1 14 L 1 18 C 1 19.108 1.8919904 20 3 20 L 13 20 L 13 18 L 3 18 L 3 4 L 19 4 L 19 12 L 21 12 L 21 4 C 21 2.892 20.10801 2 19 2 L 3 2 z M 12.976562 11.001953 C 12.719786 11.007553 12.475011 11.111769 12.292969 11.292969 L 9 14.585938 L 7.7070312 13.292969 C 7.5195196 13.105369 7.265199 13.0001 7 13 C 6.734801 13.0001 6.4804803 13.105369 6.2929688 13.292969 L 5 14.585938 L 5 16 L 13 16 L 13 13 L 13 12 L 13 11.001953 L 12.998047 11.001953 L 12.976562 11.001953 z M 17 14 L 17 16 L 15 16 L 15 18 L 17 18 L 17 20 L 19 20 L 19 18 L 21 18 L 21 16 L 19 16 L 19 14 L 17 14 z "
-       transform="translate(0,1030.3622)"
-       id="path4179" />
+       d="m 6,1033.3622 a 1.0001,1.0001 0 0 0 -1,1 v 14 a 1.0001,1.0001 0 0 0 1,1 h 10 a 1.0001,1.0001 0 0 0 1,-1 v -10 -1 a 1.0001,1.0001 0 0 0 -0.29297,-0.707 l -3,-3 A 1.0001,1.0001 0 0 0 13,1033.3622 h -1 z m 1,2 h 4 v 3 a 1.0001,1.0001 0 0 0 1,1 h 3 v 8 H 7 Z m 6,0.416 0.79492,0.793 0.79102,0.791 H 13 Z"
+       id="path4167"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
