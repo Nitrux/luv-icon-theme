@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.30) bionic; urgency=medium
+
+  * edited item-select.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 30 Sep 2019 20:33:00 -0500
+
 luv-icon-theme (0.4.9.29) bionic; urgency=medium
 
   * add icons for maui apps.
