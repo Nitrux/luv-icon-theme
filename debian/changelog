@@ -1,17 +1,191 @@
-luv-icon-theme (0.4.7-1) nxos; urgency=medium
+luv-icon-theme (0.4.9.30) bionic; urgency=medium
 
-  * Bump version.
+  * edited item-select.
 
- -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 20 feb 2018 19:49:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 30 Sep 2019 20:33:00 -0500
+
+luv-icon-theme (0.4.9.29) bionic; urgency=medium
+
+  * add icons for maui apps.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 30 Sep 2019 19:55:00 -0500
+
+luv-icon-theme (0.4.9.28) bionic; urgency=medium
+
+  * rename maui app icons, add maui-nota.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 30 Aug 2019 18:53:30 -0500
+
+luv-icon-theme (0.4.9.27) bionic; urgency=medium
+
+  * add maui-dialer.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 30 Aug 2019 18:53:00 -0500
+
+luv-icon-theme (0.4.9.26) bionic; urgency=medium
+
+  * Type in file name.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 Jul 2019 21:02:00 -0500
  
-luv-icon-theme (0.4.5-1) nxos; urgency=medium
+luv-icon-theme (0.4.9.25) bionic; urgency=medium
+
+  * Added 22px icon for kup, updated icons for kup kcm.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 Jul 2019 18:50:00 -0500
+
+luv-icon-theme (0.4.9.24) bionic; urgency=medium
+
+  * Typo in file name, added more icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 Jul 2019 17:16:00 -0500
+
+luv-icon-theme (0.4.9.23) bionic; urgency=medium
+
+  * Add more icons for kup.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 Jul 2019 00:31:00 -0500
+
+luv-icon-theme (0.4.9.22) bionic; urgency=medium
+
+  * Add icons for kup.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 22 Jul 2019 22:40:00 -0500
+
+luv-icon-theme (0.4.9.21) bionic; urgency=medium
+
+  * update icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 3 Jun 2019 20:24:00 -0500
+
+luv-icon-theme (0.4.9.20) bionic; urgency=medium
+
+  * update icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 2 Jun 2019 23:01:00 -0500
+
+luv-icon-theme (0.4.9.19) bionic; urgency=medium
+
+  * update icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 May 2019 04:50:00 -0500
+
+luv-icon-theme (0.4.9.18) bionic; urgency=medium
+
+  * update icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 15 May 2019 03:08:00 -0500
+
+luv-icon-theme (0.4.9.17) bionic; urgency=medium
+
+  * update icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 15 May 2019 00:34:00 -0500
+
+luv-icon-theme (0.4.9.16) bionic; urgency=medium
+
+  * add icons for union.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 14 May 2019 20:53:00 -0500
+
+luv-icon-theme (0.4.9.15) bionic; urgency=medium
+
+  * fix normal and shuffle icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 23 Feb 2019 16:34:00 -0500
+
+luv-icon-theme (0.4.9.14) bionic; urgency=medium
+
+  * Add icon for itch-io and lightworks.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 19 Jan 2019 02:06:00 -0500
+
+luv-icon-theme (0.4.9.13) bionic; urgency=medium
+
+  * Add icon for znx-gui.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 16 Jan 2019 04:47:00 -0500
+
+luv-icon-theme (0.4.9.12) bionic; urgency=medium
+
+  * Add icon for znx-gui.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 30 Nov 2018 19:13:00 -0500
+
+luv-icon-theme (0.4.9.11) bionic; urgency=medium
+
+  * Add more icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 15 Nov 2018 18:00:00 -0500
+
+luv-icon-theme (0.4.9.10) bionic; urgency=medium
+
+  * Add more icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 12 Nov 2018 21:01:00 -0500
+ 
+luv-icon-theme (0.4.9.9) bionic; urgency=medium
+
+  * Add icons for #189, fix typo in gdrive icon, update start-here icon.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 12 Nov 2018 18:20:00 -0500
+
+luv-icon-theme (0.4.9.8) bionic; urgency=medium
+
+  * Add icons for Index.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 12 Nov 2018 17:49:00 -0500
+
+luv-icon-theme (0.4.9.7) bionic; urgency=medium
+
+  * Add icons for system settings.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 26 Oct 2018 18:44:00 -0500
+
+luv-icon-theme (0.4.9.6) bionic; urgency=medium
+
+  * Use optimized wallpapers.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 13 Oct 2018 18:38:00 -0500
+
+luv-icon-theme (0.4.9.5) bionic; urgency=medium
 
   * Bump version.
 
- -- Uri Herrera <uri_herrera@nitrux.in>  Wed, 24 Jan 2018 21:14:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 29 Sep 2018 05:10:00 -0500
 
-luv-icon-theme (0.4.3-1) unstable; urgency=medium
+luv-icon-theme (0.4.9.4) bionic; urgency=medium
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Bump version.
 
- -- Alexis López Zubieta <alexis@unknown>  Sat, 27 May 2017 13:46:39 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 29 Sep 2018 05:10:00 -0500
+
+luv-icon-theme (0.4.9.3) bionic; urgency=medium
+
+  * Closed various issues.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 29 Sep 2018 04:49:00 -0500
+
+luv-icon-theme (0.4.9.2) bionic; urgency=medium
+
+  * Updated debian files. Again.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 29 Sep 2018 03:13:00 -0500
+
+luv-icon-theme (0.4.9.1) bionic; urgency=medium
+
+  * Updated debian files. Again.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 17 Sep 2018 21:30:00 -0500
+ 
+luv-icon-theme (0.4.9) bionic; urgency=medium
+
+  * More icons for Maui apps.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 17 Sep 2018 20:48:00 -0500
+
+luv-icon-theme (0.4.8) bionic; urgency=medium
+
+  * Some icons for Maui apps.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 17 Sep 2018 16:26:00 -0500
