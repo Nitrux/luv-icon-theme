@@ -14,7 +14,7 @@
    height="48"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="folder-videos.svg"
    viewBox="0 0 48 48">
   <defs
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.625"
-     inkscape:cx="57.42689"
-     inkscape:cy="27.054184"
+     inkscape:zoom="25.229167"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -37,7 +37,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="2560"
-     inkscape:window-height="1018"
+     inkscape:window-height="1378"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -146,7 +146,7 @@
        height="48"
        width="48" />
     <path
-       style="opacity:1;fill:#607d8b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+       style="opacity:1;fill:#9c27b0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
        d="m 407.57145,499.798 v 3 10 4.00003 h 32 v -5.00003 -9 c 0,-1.66199 -1.33803,-3.00755 -3,-3 h -22 -4 z"
        id="rect4161"
        inkscape:connector-curvature="0"
@@ -164,13 +164,13 @@
        sodipodi:nodetypes="sssssssss" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#78909c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+       style="opacity:1;fill:#ab47bc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
        d="m 396.57145,496.79804 c -1.66199,10e-6 -3,1.33797 -3,2.99991 v 32.00017 c 0,1.66194 1.33801,2.99991 3,2.99991 h 15 6 19 c 1.66199,0 3,-1.33797 3,-2.99991 v -24.00017 c 0,-1.66194 -1.33801,-2.99998 -3,-2.99991 h -19 l -2,-7.00005 c -0.15219,-0.53267 -0.446,-1.00029 -1,-0.99998 h -2 -1 z"
        id="path4221"
        sodipodi:nodetypes="ssssccsssscssccs" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#90a4ae;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+       style="opacity:1;fill:#ba68c8;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
        d="m 396.57145,497.79914 c -1.10799,0 -2,0.89198 -2,1.99993 v 31.99902 c 0,1.10796 0.89201,1.99994 2,1.99994 h 15 5 20 c 1.108,0 2,-0.89198 2,-1.99994 v -23.99927 c 0,-1.10795 -0.89201,-2.00547 -2,-1.99994 h -20 l -2,-6.99977 c -0.15219,-0.53267 -0.44669,-1.02764 -1,-0.99997 h -2 z"
        id="path4183"
        sodipodi:nodetypes="ssssccsssscsscs" />
@@ -183,7 +183,7 @@
        height="20"
        width="20" />
     <path
-       style="opacity:1;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#f3e5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 24 20 A 8 8 0 0 0 16 28 A 8 8 0 0 0 24 36 A 8 8 0 0 0 32 28 A 8 8 0 0 0 24 20 z M 24 22 A 6 6 0 0 1 30 28 A 6 6 0 0 1 24 34 A 6 6 0 0 1 18 28 A 6 6 0 0 1 24 22 z M 22.986328 25 C 22.439418 25.008 22 25.45304 22 26 L 22 30 C 22.00018 30.79858 22.890137 31.274861 23.554688 30.832031 L 26.554688 28.832031 C 27.148278 28.436151 27.148278 27.563849 26.554688 27.167969 L 23.554688 25.167969 C 23.386557 25.055839 23.188398 24.99728 22.986328 25 z "
        transform="translate(392.57144,491.798)"
        id="path4162" />
