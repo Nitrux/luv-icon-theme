@@ -14,18 +14,18 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="amarok_clock.svg">
-<defs
-    id="defs3051">
-<style
-    type="text/css"
-    id="current-color-scheme">
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="document-open-recent.svg">
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
     </style>
-</defs>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="30.964625"
-     inkscape:cx="11.89899"
-     inkscape:cy="14.003028"
+     inkscape:zoom="76.431814"
+     inkscape:cx="15.077468"
+     inkscape:cy="7.2854549"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,9 +45,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1050"
+     inkscape:window-height="1378"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -58,25 +58,29 @@
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,2"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="11,0"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="15,11"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -97,8 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 1.9882812 3.0019531 C 1.4413793 3.0119531 1.0011103 3.4531 1 4 L 1 8 C 0.998597 8.7995 1.8893913 9.2772844 2.5546875 8.8339844 L 5.5546875 6.8320312 C 6.148313 6.4361313 6.148313 5.5638687 5.5546875 5.1679688 L 2.5546875 3.1679688 C 2.3868846 3.0568687 2.1894839 2.9990531 1.9882812 3.0019531 z M 10.400391 5 C 9.8463956 5 9.4003906 5.446 9.4003906 6 C 9.4003906 6.554 9.8463956 7 10.400391 7 L 19.630859 7 C 20.184854 7 20.630859 6.554 20.630859 6 C 20.630859 5.446 20.184854 5 19.630859 5 L 10.400391 5 z M 1.90625 11 C 1.404024 11 1 11.40395 1 11.90625 L 1 12.09375 C 1 12.59595 1.404024 13 1.90625 13 L 3.09375 13 C 3.595976 13 4 12.59595 4 12.09375 L 4 11.90625 C 4 11.40395 3.595976 11 3.09375 11 L 1.90625 11 z M 7 11 C 6.446072 11 6 11.4461 6 12 C 6 12.5539 6.446072 13 7 13 L 20 13 C 20.553928 13 21 12.5539 21 12 C 21 11.4461 20.553928 11 20 11 L 7 11 z M 1.90625 17 C 1.404024 17 1 17.40395 1 17.90625 L 1 18.09375 C 1 18.59595 1.404024 19 1.90625 19 L 3.09375 19 C 3.595976 19 4 18.59595 4 18.09375 L 4 17.90625 C 4 17.40395 3.595976 17 3.09375 17 L 1.90625 17 z M 7 17 C 6.446005 17 6 17.446 6 18 C 6 18.554 6.446005 19 7 19 L 20 19 C 20.553995 19 21 18.554 21 18 C 21 17.446 20.553995 17 20 17 L 7 17 z "
+       d="M 6 2 C 4.8919303 2 4 2.892 4 4 L 4 18 C 4 19.108 4.8919303 20 6 20 L 12 20 L 12 18 L 6 18 L 6 4 L 11 4 L 11 8 C 11 8.554 11.445969 9 12 9 L 16 9 L 16 9.9882812 L 16 12 L 18 12 L 18 9 L 17.996094 9 L 17.996094 8.0195312 C 17.996214 8.0095319 18 8.006 18 8 C 18 7.99 17.996194 7.9874688 17.996094 7.9804688 L 17.996094 6.9921875 C 17.996206 6.7278875 17.891579 6.4744094 17.705078 6.2871094 L 13.710938 2.2929688 C 13.523509 2.1052688 13.269154 1.9999 13.003906 2 L 11 2 L 6 2 z M 13 4.4042969 L 15.591797 7 L 13 7 L 13 4.4042969 z M 13.492188 13.501953 C 13.219888 13.501953 13.001083 13.7277 13 14 L 13 16 C 13.000028 16.2761 13.223869 16.5 13.5 16.5 L 15.5 16.5 C 15.9453 16.4998 16.168267 15.961484 15.853516 15.646484 L 15.486328 15.279297 A 2 2 0 0 1 16.5 15 A 2 2 0 0 1 18.5 17 A 2 2 0 0 1 16.5 19 L 16 19 A 0.5 0.5 0 0 0 15.5 19.5 A 0.5 0.5 0 0 0 16 20 L 16.5 20 A 3 3 0 0 0 19.5 17 A 3 3 0 0 0 16.5 14 A 3 3 0 0 0 14.763672 14.556641 L 13.853516 13.646484 C 13.757526 13.551484 13.627199 13.499353 13.492188 13.501953 z "
        transform="translate(0,1030.3622)"
-       id="rect4143" />
+       id="path827" />
   </g>
 </svg>

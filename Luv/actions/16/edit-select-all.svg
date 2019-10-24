@@ -15,16 +15,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="document-edit.svg">
+   sodipodi:docname="edit-select-all.svg">
   <defs
      id="defs3051">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 8 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="16 : 8 : 1"
-       inkscape:persp3d-origin="8 : 5.3333333 : 1"
-       id="perspective847" />
     <style
        type="text/css"
        id="current-color-scheme">
@@ -40,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="10.116508"
-     inkscape:cy="9.9266278"
+     inkscape:zoom="64"
+     inkscape:cx="6.970551"
+     inkscape:cy="8.9255703"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -114,8 +107,8 @@
      transform="translate(-3,-1033.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 4 1 C 2.8919807 1 2 1.892 2 3 L 2 13 C 2 14.108 2.8919807 15 4 15 L 8 15 L 8 14 L 7 14 L 4 14 C 3.4459807 14 3 13.554 3 13 L 3 3 C 3 2.446 3.4459807 2 4 2 L 9 2 L 9 5.5 C 9 5.777 9.223 6 9.5 6 L 13 6 L 13 7 L 14 7 L 14 5.5 L 14 5 L 10.001953 1.0019531 L 10 1.0019531 L 9.5136719 1.0019531 L 9.5 1.0019531 L 4 1 z M 10 2.4121094 L 12.587891 5 L 10 5 L 10 2.4121094 z M 14 8 L 13 9 L 15 11 L 16 10 L 14 8 z M 12 10 L 9 13 L 9 15 L 11 15 L 14 12 L 12 10 z "
+       d="M 3 1 C 1.8919807 1 1 1.8919807 1 3 L 1 4 L 2 4 L 2 3 C 2 2.4459807 2.4459807 2 3 2 L 4 2 L 4 1 L 3 1 z M 6 1 L 6 2 L 7 2 L 7 1 L 6 1 z M 9 1 L 9 2 L 10 2 L 10 1 L 9 1 z M 12 1 L 12 2 L 13 2 C 13.554019 2 14 2.4459807 14 3 L 14 4 L 15 4 L 15 3 C 15 1.8919807 14.108019 1 13 1 L 12 1 z M 5.5 4 A 1.5 1.5 0 0 0 4 5.5 A 1.5 1.5 0 0 0 5.5 7 A 1.5 1.5 0 0 0 7 5.5 A 1.5 1.5 0 0 0 5.5 4 z M 10.5 4 A 1.5 1.5 0 0 0 9 5.5 A 1.5 1.5 0 0 0 10.5 7 A 1.5 1.5 0 0 0 12 5.5 A 1.5 1.5 0 0 0 10.5 4 z M 1 6 L 1 7 L 2 7 L 2 6 L 1 6 z M 14 6 L 14 7 L 15 7 L 15 6 L 14 6 z M 1 9 L 1 10 L 2 10 L 2 9 L 1 9 z M 5.5 9 A 1.5 1.5 0 0 0 4 10.5 A 1.5 1.5 0 0 0 5.5 12 A 1.5 1.5 0 0 0 7 10.5 A 1.5 1.5 0 0 0 5.5 9 z M 10.5 9 A 1.5 1.5 0 0 0 9 10.5 A 1.5 1.5 0 0 0 10.5 12 A 1.5 1.5 0 0 0 12 10.5 A 1.5 1.5 0 0 0 10.5 9 z M 14 9 L 14 10 L 15 10 L 15 9 L 14 9 z M 1 12 L 1 13 C 1 14.108019 1.8919807 15 3 15 L 4 15 L 4 14 L 3 14 C 2.4459807 14 2 13.554019 2 13 L 2 12 L 1 12 z M 14 12 L 14 13 C 14 13.554019 13.554019 14 13 14 L 12 14 L 12 15 L 13 15 C 14.108019 15 15 14.108019 15 13 L 15 12 L 14 12 z M 6 14 L 6 15 L 7 15 L 7 14 L 6 14 z M 9 14 L 9 15 L 10 15 L 10 14 L 9 14 z "
        transform="translate(3,1033.3622)"
-       id="path842" />
+       id="path837" />
   </g>
 </svg>

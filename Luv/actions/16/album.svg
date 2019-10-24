@@ -15,16 +15,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="document-edit.svg">
+   sodipodi:docname="album.svg">
   <defs
      id="defs3051">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 8 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="16 : 8 : 1"
-       inkscape:persp3d-origin="8 : 5.3333333 : 1"
-       id="perspective847" />
     <style
        type="text/css"
        id="current-color-scheme">
@@ -40,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="10.116508"
-     inkscape:cy="9.9266278"
+     inkscape:zoom="64"
+     inkscape:cx="10.972846"
+     inkscape:cy="8.0224821"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -114,8 +107,8 @@
      transform="translate(-3,-1033.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 4 1 C 2.8919807 1 2 1.892 2 3 L 2 13 C 2 14.108 2.8919807 15 4 15 L 8 15 L 8 14 L 7 14 L 4 14 C 3.4459807 14 3 13.554 3 13 L 3 3 C 3 2.446 3.4459807 2 4 2 L 9 2 L 9 5.5 C 9 5.777 9.223 6 9.5 6 L 13 6 L 13 7 L 14 7 L 14 5.5 L 14 5 L 10.001953 1.0019531 L 10 1.0019531 L 9.5136719 1.0019531 L 9.5 1.0019531 L 4 1 z M 10 2.4121094 L 12.587891 5 L 10 5 L 10 2.4121094 z M 14 8 L 13 9 L 15 11 L 16 10 L 14 8 z M 12 10 L 9 13 L 9 15 L 11 15 L 14 12 L 12 10 z "
+       d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 8 3 L 8.5 3 A 0.5 0.5 0 0 1 9 3.5 A 0.5 0.5 0 0 1 8.5 4 L 8 4 A 4 4 0 0 0 4 8 L 4 8.5 A 0.5 0.5 0 0 1 3.5 9 A 0.5 0.5 0 0 1 3 8.5 L 3 8 A 5 5 0 0 1 8 3 z M 8 6 A 2 2 0 0 1 10 8 A 2 2 0 0 1 8 10 A 2 2 0 0 1 6 8 A 2 2 0 0 1 8 6 z M 8 7 A 1 1 0 0 0 7 8 A 1 1 0 0 0 8 9 A 1 1 0 0 0 9 8 A 1 1 0 0 0 8 7 z M 12.5 7 A 0.5 0.5 0 0 1 13 7.5 L 13 8 A 5 5 0 0 1 8 13 L 7.5 13 A 0.5 0.5 0 0 1 7 12.5 A 0.5 0.5 0 0 1 7.5 12 L 8 12 A 4 4 0 0 0 12 8 L 12 7.5 A 0.5 0.5 0 0 1 12.5 7 z "
        transform="translate(3,1033.3622)"
-       id="path842" />
+       id="path29" />
   </g>
 </svg>

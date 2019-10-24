@@ -9,30 +9,23 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="document-edit.svg">
-  <defs
-     id="defs3051">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 8 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="16 : 8 : 1"
-       inkscape:persp3d-origin="8 : 5.3333333 : 1"
-       id="perspective847" />
-    <style
-       type="text/css"
-       id="current-color-scheme">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="entry-delete.svg">
+<defs
+    id="defs3051">
+<style
+    type="text/css"
+    id="current-color-scheme">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
     </style>
-  </defs>
+</defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -40,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="10.116508"
-     inkscape:cy="9.9266278"
+     inkscape:zoom="32"
+     inkscape:cx="10.940551"
+     inkscape:cy="10.146903"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -52,43 +45,37 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1378"
+     inkscape:window-height="1370"
      inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
+     inkscape:window-y="33"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
-       empspacing="2"
-       originx="-3"
-       originy="-3.0000174" />
+       empspacing="2" />
     <sodipodi:guide
-       position="0,14.999983"
+       position="0,20"
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
        inkscape:color="rgb(233,30,99)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0.9999826"
+       position="0,2"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
        inkscape:color="rgb(233,30,99)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="8,-1.74e-05"
+       position="11,0"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
        inkscape:color="rgb(221,44,0)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="16,7.9999826"
+       position="15,11"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
@@ -111,11 +98,13 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3,-1033.3622)">
+     transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 4 1 C 2.8919807 1 2 1.892 2 3 L 2 13 C 2 14.108 2.8919807 15 4 15 L 8 15 L 8 14 L 7 14 L 4 14 C 3.4459807 14 3 13.554 3 13 L 3 3 C 3 2.446 3.4459807 2 4 2 L 9 2 L 9 5.5 C 9 5.777 9.223 6 9.5 6 L 13 6 L 13 7 L 14 7 L 14 5.5 L 14 5 L 10.001953 1.0019531 L 10 1.0019531 L 9.5136719 1.0019531 L 9.5 1.0019531 L 4 1 z M 10 2.4121094 L 12.587891 5 L 10 5 L 10 2.4121094 z M 14 8 L 13 9 L 15 11 L 16 10 L 14 8 z M 12 10 L 9 13 L 9 15 L 11 15 L 14 12 L 12 10 z "
-       transform="translate(3,1033.3622)"
-       id="path842" />
+       d="M 11,2 C 9.3431458,2 8,3.3431458 8,5 H 3 C 2.4460048,5 2,5.4460048 2,6 2,6.5539952 2.4460048,7 3,7 h 1 v 11 c 0,1.10801 0.8919904,2 2,2 h 10 c 1.10801,0 2,-0.89199 2,-2 V 7 h 1 C 19.553995,7 20,6.5539952 20,6 20,5.4460048 19.553995,5 19,5 H 14 C 14,3.3431458 12.656854,2 11,2 Z m 0,2 c 0.552285,0 1,0.4477153 1,1 H 10 C 10,4.4477153 10.447715,4 11,4 Z M 6,7 h 10 v 6 1 4 H 6 Z m 2,2 v 8 h 2 V 9 Z m 3,2 v 6 h 2 v -6 z"
+       transform="translate(0,1030.3622)"
+       id="rect837"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scssscsssscssscssccsccccccccccccccccc" />
   </g>
 </svg>
