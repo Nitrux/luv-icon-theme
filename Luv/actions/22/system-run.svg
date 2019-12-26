@@ -14,8 +14,8 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="zoom-original.svg">
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="system-run.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="38.409091"
-     inkscape:cx="12.364655"
-     inkscape:cy="10.867342"
+     inkscape:zoom="45.254834"
+     inkscape:cx="12.330118"
+     inkscape:cy="11.106554"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,9 +45,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1370"
+     inkscape:window-height="1384"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="32"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -101,8 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 3 2 C 1.89199 2 1 2.892 1 4 L 1 10 L 1 12 L 1 18 C 1 19.10801 1.8919904 20 3 20 L 10 20 L 12 20 L 19 20 C 20.10801 20 21 19.108 21 18 L 21 12 L 19 12 L 19 18 L 12 18 L 10 18 L 3 18 L 3 10 L 3 6 L 3 4 L 10 4 L 10 2 L 3 2 z M 15.992188 2 C 15.443245 2.01 15.004572 2.4591125 15.011719 3.0078125 L 15.011719 5.8535156 C 14.920119 6.4466156 15.370582 6.9851 15.970703 7 C 16.030183 7 16.089661 7.0002812 16.148438 6.9882812 L 18.992188 6.9882812 C 20.319551 6.9882812 20.319551 4.9980469 18.992188 4.9980469 L 18.410156 4.9980469 L 19.697266 3.7128906 C 20.34712 3.0797906 19.879727 1.9786594 18.972656 2.0058594 C 18.71465 2.0158594 18.469548 2.1202875 18.289062 2.3046875 L 17.001953 3.5917969 L 17.001953 3.0078125 C 17.009253 2.4476125 16.5526 1.9919 15.992188 2 z "
+       d="M 3 2 C 1.8918551 2 1 2.8918551 1 4 L 1 18 C 1 19.108145 1.8918551 20 3 20 L 12 20 L 12 18 L 8 18 L 3 18 L 3 6 L 12 6 L 17 6 L 19 6 L 19 10 L 19 12 L 21 12 L 21 10 L 21 4 C 21 2.8919904 20.10801 2 19 2 L 17 2 L 14 2 L 12 2 L 5.0996094 2 L 3 2 z M 4 3 A 1 1 0 0 1 5 4 A 1 1 0 0 1 4 5 A 1 1 0 0 1 3 4 A 1 1 0 0 1 4 3 z M 14.943359 12.001953 C 14.41404 12.031953 14.000259 12.47 14 13 L 14 18.998047 C 13.999747 19.821847 14.940027 20.292628 15.599609 19.798828 L 19.599609 16.798828 C 20.132562 16.398828 20.132562 15.599319 19.599609 15.199219 L 15.599609 12.201172 C 15.411152 12.059472 15.178778 11.989053 14.943359 12.001953 z "
        transform="translate(0,1030.3622)"
-       id="path846" />
+       id="path826" />
   </g>
 </svg>

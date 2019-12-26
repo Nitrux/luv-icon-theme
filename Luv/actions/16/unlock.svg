@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="zoom-original.svg">
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="unlock.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="38.409091"
-     inkscape:cx="12.364655"
-     inkscape:cy="10.867342"
+     inkscape:zoom="76.1875"
+     inkscape:cx="6.490566"
+     inkscape:cy="6.3724364"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,37 +45,43 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1370"
+     inkscape:window-height="1384"
      inkscape:window-x="0"
-     inkscape:window-y="33"
-     inkscape:window-maximized="1">
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
-       empspacing="2" />
+       empspacing="2"
+       originx="-3"
+       originy="-3.0000174" />
     <sodipodi:guide
-       position="0,20"
+       position="0,14.999983"
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
        inkscape:color="rgb(233,30,99)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,2"
+       position="0,0.9999826"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
        inkscape:color="rgb(233,30,99)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="11,0"
+       position="8,-1.74e-05"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
        inkscape:color="rgb(221,44,0)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="15,11"
+       position="16,7.9999826"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
@@ -98,11 +104,11 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1030.3622)">
+     transform="translate(-3,-1033.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 3 2 C 1.89199 2 1 2.892 1 4 L 1 10 L 1 12 L 1 18 C 1 19.10801 1.8919904 20 3 20 L 10 20 L 12 20 L 19 20 C 20.10801 20 21 19.108 21 18 L 21 12 L 19 12 L 19 18 L 12 18 L 10 18 L 3 18 L 3 10 L 3 6 L 3 4 L 10 4 L 10 2 L 3 2 z M 15.992188 2 C 15.443245 2.01 15.004572 2.4591125 15.011719 3.0078125 L 15.011719 5.8535156 C 14.920119 6.4466156 15.370582 6.9851 15.970703 7 C 16.030183 7 16.089661 7.0002812 16.148438 6.9882812 L 18.992188 6.9882812 C 20.319551 6.9882812 20.319551 4.9980469 18.992188 4.9980469 L 18.410156 4.9980469 L 19.697266 3.7128906 C 20.34712 3.0797906 19.879727 1.9786594 18.972656 2.0058594 C 18.71465 2.0158594 18.469548 2.1202875 18.289062 2.3046875 L 17.001953 3.5917969 L 17.001953 3.0078125 C 17.009253 2.4476125 16.5526 1.9919 15.992188 2 z "
-       transform="translate(0,1030.3622)"
-       id="path846" />
+       d="M 7 3 C 5.8919807 3 5 3.8919807 5 5 L 5 8 L 5 8.2753906 C 4.404201 8.6209472 4 9.2589172 4 10 L 4 13 C 4 14.108019 4.8919807 15 6 15 L 10 15 C 11.108019 15 12 14.108019 12 13 L 12 10 C 12 9.2589172 11.595799 8.6209472 11 8.2753906 L 11 8 L 10 8 L 8 8 L 6 8 L 6 5 C 6 4.4459807 6.4459807 4 7 4 L 9 4 C 9.5540193 4 10 4.4459807 10 5 L 10 6 L 11 6 L 11 5 C 11 3.8919807 10.108019 3 9 3 L 7 3 z M 6 9 L 10 9 C 10.554019 9 11 9.4459807 11 10 L 11 13 C 11 13.554019 10.554019 14 10 14 L 6 14 C 5.4459807 14 5 13.554019 5 13 L 5 10 C 5 9.4459807 5.4459807 9 6 9 z M 6 10 L 6 11 L 10 11 L 10 10 L 6 10 z M 6 12 L 6 13 L 8 13 L 8 12 L 6 12 z "
+       transform="translate(3,1033.3622)"
+       id="rect822" />
   </g>
 </svg>
