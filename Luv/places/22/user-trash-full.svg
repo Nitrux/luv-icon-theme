@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="user-trash.svg">
+   sodipodi:docname="user-trash-full.svg">
   <defs
      id="defs3051">
     <style
@@ -34,8 +34,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="5.315551"
-     inkscape:cy="10.146903"
+     inkscape:cx="20.44001"
+     inkscape:cy="4.5716633"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -90,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,12 +100,9 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text"
-       d="M 11,2 C 9.3431458,2 8,3.3431458 8,5 H 3 C 2.4460048,5 2,5.4460048 2,6 2,6.5539952 2.4460048,7 3,7 h 1 v 11 c 0,1.10801 0.8919904,2 2,2 h 10 c 1.10801,0 2,-0.89199 2,-2 V 7 h 1 C 19.553995,7 20,6.5539952 20,6 20,5.4460048 19.553995,5 19,5 H 14 C 14,3.3431458 12.656854,2 11,2 Z m 0,2 c 0.552285,0 1,0.4477153 1,1 H 10 C 10,4.4477153 10.447715,4 11,4 Z M 6,7 h 10 v 6 1 4 H 6 Z m 2,2 v 8 h 2 V 9 Z m 3,2 v 6 h 2 v -6 z"
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
+       d="M 11 2 L 11 3 L 6 3 L 6 5 L 4 5 L 4 7 L 4 17.275391 C 4.2950013 17.104291 4.6330699 17 5 17 L 6 17 L 6 7 L 16 7 L 16 13 L 16 14 L 16 15.361328 A 4 4 0 0 1 16.865234 17 L 18 17 L 18 7 L 18 5 L 17 5 L 17 2 L 11 2 z M 12 3 L 16 3 L 16 5 L 12 5 L 12 3 z M 7 4 L 11 4 L 11 5 L 7 5 L 7 4 z M 8 9 L 8 17 L 9.1328125 17 A 4 4 0 0 1 10 15.361328 L 10 9 L 8 9 z M 11 11 L 11 14.541016 A 4 4 0 0 1 13 14 L 13 11 L 11 11 z M 13 15 C 11.343146 15 10 16.3431 10 18 L 5 18 C 4.4460048 18 4 18.446 4 19 C 4 19.554 4.4460048 20 5 20 L 6 20 L 8 20 L 18 20 L 20 20 L 21 20 C 21.553995 20 22 19.554 22 19 C 22 18.446 21.553995 18 21 18 L 16 18 C 16 16.3431 14.656854 15 13 15 z M 13 17 C 13.552285 17 14 17.4477 14 18 L 12 18 C 12 17.4477 12.447715 17 13 17 z "
        transform="translate(0,1030.3622)"
-       id="rect837"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="scssscsssscssscssccsccccccccccccccccc" />
+       id="path850" />
   </g>
 </svg>
