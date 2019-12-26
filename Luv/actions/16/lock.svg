@@ -14,18 +14,18 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="lock.svg">
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="system-lock-screen.svg">
+<defs
+    id="defs3051">
+<style
+    type="text/css"
+    id="current-color-scheme">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
     </style>
-  </defs>
+</defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="76.1875"
-     inkscape:cx="8.8531583"
-     inkscape:cy="6.3724364"
+     inkscape:zoom="52.8125"
+     inkscape:cx="14.364486"
+     inkscape:cy="8.4402671"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,9 +45,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1384"
+     inkscape:window-height="1050"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -64,29 +64,25 @@
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
-       inkscape:color="rgb(233,30,99)"
-       inkscape:locked="false" />
+       inkscape:color="rgb(233,30,99)" />
     <sodipodi:guide
        position="0,0.9999826"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
-       inkscape:color="rgb(233,30,99)"
-       inkscape:locked="false" />
+       inkscape:color="rgb(233,30,99)" />
     <sodipodi:guide
        position="8,-1.74e-05"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
-       inkscape:color="rgb(221,44,0)"
-       inkscape:locked="false" />
+       inkscape:color="rgb(221,44,0)" />
     <sodipodi:guide
        position="16,7.9999826"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
-       inkscape:color="rgb(221,44,0)"
-       inkscape:locked="false" />
+       inkscape:color="rgb(221,44,0)" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -107,8 +103,8 @@
      transform="translate(-3,-1033.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 7 3 C 5.8919807 3 5 3.8919807 5 5 L 5 8 L 5 8.2753906 C 4.404201 8.6209472 4 9.2589172 4 10 L 4 13 C 4 14.108019 4.8919807 15 6 15 L 10 15 C 11.108019 15 12 14.108019 12 13 L 12 10 C 12 9.2589172 11.595799 8.6209472 11 8.2753906 L 11 8 L 11 5 C 11 3.8919807 10.108019 3 9 3 L 7 3 z M 7 4 L 9 4 C 9.5540193 4 10 4.4459807 10 5 L 10 8 L 6 8 L 6 5 C 6 4.4459807 6.4459807 4 7 4 z M 6 9 L 10 9 C 10.554019 9 11 9.4459807 11 10 L 11 13 C 11 13.554019 10.554019 14 10 14 L 6 14 C 5.4459807 14 5 13.554019 5 13 L 5 10 C 5 9.4459807 5.4459807 9 6 9 z M 6 10 L 6 11 L 10 11 L 10 10 L 6 10 z M 6 12 L 6 13 L 8 13 L 8 12 L 6 12 z "
+       d="M 7 2 C 5.8919834 2 5 2.8919834 5 4 L 5 7 C 3.8919807 7 3 7.8919807 3 9 L 3 13 C 3 14.108019 3.8919807 15 5 15 L 11 15 C 12.108019 15 13 14.108019 13 13 L 13 9 C 13 7.8919807 12.108019 7 11 7 L 11 4 C 11 2.8919834 10.108017 2 9 2 L 7 2 z M 7 3 L 9 3 C 9.5540193 3 10 3.4459807 10 4 L 10 7 L 6 7 L 6 4 C 6 3.4459807 6.4459807 3 7 3 z M 5 8 L 11 8 C 11.554019 8 12 8.4459807 12 9 L 12 13 C 12 13.554019 11.554019 14 11 14 L 5 14 C 4.4459807 14 4 13.554019 4 13 L 4 9 C 4 8.4459807 4.4459807 8 5 8 z M 8 9 A 1 1 0 0 0 7 10 A 1 1 0 0 0 8 11 A 1 1 0 0 0 9 10 A 1 1 0 0 0 8 9 z "
        transform="translate(3,1033.3622)"
-       id="rect822" />
+       id="rect4140" />
   </g>
 </svg>

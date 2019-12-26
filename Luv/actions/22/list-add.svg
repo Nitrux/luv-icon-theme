@@ -100,8 +100,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
        d="m 11,4 c -0.554,0 -1,0.446 -1,1 v 5 H 5 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 5 v 5 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -5 h 5 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 H 12 V 5 C 12,4.446 11.554,4 11,4 Z"
        transform="translate(0,1030.3622)"
        id="rect3198"
