@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="list-add.svg">
+   sodipodi:docname="document-print.svg">
   <defs
      id="defs3051">
     <style
@@ -34,8 +34,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="10.024112"
-     inkscape:cy="12.827882"
+     inkscape:cx="11.849419"
+     inkscape:cy="12.520633"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -101,10 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="m 11,5 c -0.554,0 -1,0.446 -1,1 v 4 H 6 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 4 v 4 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -4 h 4 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 H 12 V 6 C 12,5.446 11.554,5 11,5 Z"
+       d="M 7 2 C 5.8919904 2 5 2.8919904 5 4 L 5 7 L 4 7 C 2.8919904 7 2 7.8919904 2 9 L 2 17 C 2 18.10801 2.8919904 19 4 19 L 5 19 L 5.2753906 19 C 5.6209526 19.595799 6.2589333 20 7 20 L 15 20 C 15.741067 20 16.379047 19.595799 16.724609 19 L 17 19 L 18 19 C 19.10801 19 20 18.10801 20 17 L 20 9 C 20 7.8919904 19.10801 7 18 7 L 17 7 L 17 4 C 17 2.8919904 16.10801 2 15 2 L 7 2 z M 7 4 L 15 4 L 15 7 L 7 7 L 7 4 z M 4 9 L 18 9 L 18 17 L 17 17 L 17 15 L 15 15 L 7 15 L 5 15 L 5 17 L 4 17 L 4 9 z M 5 10 L 5 11 L 13 11 L 13 10 L 5 10 z M 16 10 A 1 1 0 0 0 15 11 A 1 1 0 0 0 16 12 A 1 1 0 0 0 17 11 A 1 1 0 0 0 16 10 z M 5 12 L 5 13 L 8 13 L 8 12 L 5 12 z M 7 17 L 15 17 L 15 18 L 7 18 L 7 17 z "
        transform="translate(0,1030.3622)"
-       id="rect3198"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sscssscssscssscss" />
+       id="rect837" />
   </g>
 </svg>

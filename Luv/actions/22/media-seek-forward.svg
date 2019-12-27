@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="list-add.svg">
+   sodipodi:docname="media-seek-forward.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="10.024112"
-     inkscape:cy="12.827882"
+     inkscape:zoom="37.5"
+     inkscape:cx="15.32"
+     inkscape:cy="9.4800003"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -75,7 +75,7 @@
        inkscape:color="rgb(221,44,0)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="15,11"
+       position="8,11"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
@@ -101,10 +101,10 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="m 11,5 c -0.554,0 -1,0.446 -1,1 v 4 H 6 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 4 v 4 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -4 h 4 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 H 12 V 6 C 12,5.446 11.554,5 11,5 Z"
+       d="m 11,2 c -4.9705627,0 -9,4.0294 -9,9 0,4.9706 4.0294373,9 9,9 4.970563,0 9,-4.0294 9,-9 0,-4.9706 -4.029437,-9 -9,-9 z m 0.0293,4 c 0.187216,0.005 0.369255,0.062616 0.525391,0.1660156 l 6,4.0019534 c 0.593256,0.396 0.593256,1.268062 0,1.664062 l -6,4 C 10.890197,16.274931 10.000303,15.7986 10,15 V 12.765625 L 6.5136719,14.857422 C 5.847346,15.256188 5.0005753,14.776534 5,14 V 8 c 1.124e-4,-0.5287055 0.4117206,-0.9659858 0.9394531,-0.9980469 0.201204,-0.012061 0.4013571,0.036956 0.5742188,0.140625 L 10,9.234375 V 6.9980469 C 10.001033,6.4349469 10.466479,5.984 11.029297,6 Z"
        transform="translate(0,1030.3622)"
-       id="rect3198"
+       id="path3208"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sscssscssscssscss" />
+       sodipodi:nodetypes="sssssccccccccccccccc" />
   </g>
 </svg>
