@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.43) bionic; urgency=medium
+
+  * add icons
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 27 Dec 2019 23:55:00 -0500
+
 luv-icon-theme (0.4.9.42) bionic; urgency=medium
 
   * typs in icons.
