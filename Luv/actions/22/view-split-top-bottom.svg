@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="applications-education.svg">
+   sodipodi:docname="view-split-top-bottom.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="11.377968"
-     inkscape:cy="9.3037612"
+     inkscape:zoom="55.409091"
+     inkscape:cx="8.5455291"
+     inkscape:cy="11"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -101,8 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 5 2 C 3.8919937 2 3 2.892 3 4 L 3 12 L 3 17 L 3 18 C 3 19.108 3.8919937 20 5 20 L 17 20 C 18.108006 20 19 19.108 19 18 L 19 16 L 19 13 L 19 4 C 19 2.892 18.108006 2 17 2 L 5 2 z M 5 4 L 7 4 L 7 12 L 7 17 L 7 18 L 5 18 L 5 17 L 5 12 L 5 11 L 5 4 z M 9 4 L 17 4 L 17 9 L 17 12 L 17 13 L 17 16 L 17 17 L 17 18 L 13 18 L 11 18 L 9 18 L 9 17 L 9 12 L 9 4 z M 12 5 L 12 12 L 14 10 L 16 12 L 16 5 L 12 5 z "
+       d="M 3 2 C 1.8918551 2 1 2.8918551 1 4 L 1 13 L 1 18 C 1 19.108145 1.8918551 20 3 20 L 12 20 L 19 20 C 20.108145 20 21 19.1081 21 18 L 21 13 L 21 12 L 21 10 L 21 4 C 21 2.8919904 20.10801 2 19 2 L 17 2 L 14 2 L 12 2 L 5.0996094 2 L 3 2 z M 4 3 C 4.5522847 3 5 3.4477153 5 4 C 5 4.5522847 4.5522847 5 4 5 C 3.4477153 5 3 4.5522847 3 4 C 3 3.4477153 3.4477153 3 4 3 z M 3 6 L 12 6 L 17 6 L 19 6 L 19 10 L 19 11 L 3 11 L 3 6 z M 3 13 L 19 13 L 19 18 L 14 18 L 12 18 L 8 18 L 3 18 L 3 13 z "
        transform="translate(0,1030.3622)"
-       id="path18839-5-2-2" />
+       id="path825" />
   </g>
 </svg>

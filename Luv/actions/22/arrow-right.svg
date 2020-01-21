@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="applications-education.svg">
+   sodipodi:docname="arrow-right.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="11.377968"
-     inkscape:cy="9.3037612"
+     inkscape:zoom="64"
+     inkscape:cx="3.46339"
+     inkscape:cy="9.3933811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -101,8 +101,9 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 5 2 C 3.8919937 2 3 2.892 3 4 L 3 12 L 3 17 L 3 18 C 3 19.108 3.8919937 20 5 20 L 17 20 C 18.108006 20 19 19.108 19 18 L 19 16 L 19 13 L 19 4 C 19 2.892 18.108006 2 17 2 L 5 2 z M 5 4 L 7 4 L 7 12 L 7 17 L 7 18 L 5 18 L 5 17 L 5 12 L 5 11 L 5 4 z M 9 4 L 17 4 L 17 9 L 17 12 L 17 13 L 17 16 L 17 17 L 17 18 L 13 18 L 11 18 L 9 18 L 9 17 L 9 12 L 9 4 z M 12 5 L 12 12 L 14 10 L 16 12 L 16 5 L 12 5 z "
-       transform="translate(0,1030.3622)"
-       id="path18839-5-2-2" />
+       d="m 8,1045.3622 6,-4 -6,-4 v 5 z"
+       id="path14"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

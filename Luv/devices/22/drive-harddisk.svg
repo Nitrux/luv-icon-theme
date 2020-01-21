@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="applications-education.svg">
+   sodipodi:docname="drive-harddisk.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="11.377968"
-     inkscape:cy="9.3037612"
+     inkscape:zoom="32"
+     inkscape:cx="10.351583"
+     inkscape:cy="14.308265"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -101,8 +101,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 5 2 C 3.8919937 2 3 2.892 3 4 L 3 12 L 3 17 L 3 18 C 3 19.108 3.8919937 20 5 20 L 17 20 C 18.108006 20 19 19.108 19 18 L 19 16 L 19 13 L 19 4 C 19 2.892 18.108006 2 17 2 L 5 2 z M 5 4 L 7 4 L 7 12 L 7 17 L 7 18 L 5 18 L 5 17 L 5 12 L 5 11 L 5 4 z M 9 4 L 17 4 L 17 9 L 17 12 L 17 13 L 17 16 L 17 17 L 17 18 L 13 18 L 11 18 L 9 18 L 9 17 L 9 12 L 9 4 z M 12 5 L 12 12 L 14 10 L 16 12 L 16 5 L 12 5 z "
+       d="M 5 2 C 3.89199 2 3 2.892 3 4 L 3 18 C 3 19.108 3.89199 20 5 20 L 17 20 C 18.10801 20 19 19.108 19 18 L 19 4 C 19 2.892 18.10801 2 17 2 L 13 2 L 13 3 L 13 4 L 10 4 L 10 2 L 5 2 z M 5 4 L 6 4 L 6 5 L 6 5.015625 C 6 5.5609688 6.4390313 6 6.984375 6 L 15.015625 6 C 15.560969 6 16 5.5609688 16 5.015625 L 16 5 L 16 4 L 17 4 L 17 5 L 17 18 L 5 18 L 5 17 L 5 5 L 5 4 z M 6 7 L 6 17 L 16 17 L 16 7 L 6 7 z M 7 8 L 15 8 L 15 16 L 7 16 L 7 8 z M 9 9 L 9 10 L 14 10 L 14 9 L 9 9 z M 11 11 L 11 12 L 14 12 L 14 11 L 11 11 z M 10 12 L 8 15 L 12 15 L 10 12 z "
        transform="translate(0,1030.3622)"
-       id="path18839-5-2-2" />
+       id="rect839" />
   </g>
 </svg>
