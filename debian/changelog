@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.47) bionic; urgency=medium
+
+  * add icon.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 30 Jan 2020 03:30:00 -0500
+
 luv-icon-theme (0.4.9.46) bionic; urgency=medium
 
   * add icon.
