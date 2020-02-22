@@ -7,9 +7,9 @@ addons:
     - realpath
 install:
 - docker pull ubuntu:bionic
-- wget https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nomad-repository-util.sh
-  -O nomad-repository-util.sh
-- chmod +x nomad-repository-util.sh
+- wget https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nitrux-repository-util.sh
+  -O nitrux-repository-util.sh
+- chmod +x nitrux-repository-util.sh
 script:
 - docker run --rm -v $(pwd)/:/build/ -w /build/ ubuntu:bionic /bin/bash travis-build.sh
 branches:
@@ -18,15 +18,8 @@ branches:
   - development
 deploy:
 - provider: script
-  script: "./source/nomad-repository-util.sh upload nomad-desktop *.deb"
+  script: ./source/nitrux-repository-util.sh *.deb
   skip_cleanup: true
-  on:
-    branch: master
-- provider: script
-  script: "./source/nomad-repository-util.sh upload nomad-desktop-dev *.deb"
-  skip_cleanup: true
-  on:
-    branch: development
 notifications:
   email: false
   slack:
