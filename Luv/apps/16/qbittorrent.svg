@@ -14,8 +14,8 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="qbittorrent_16.svg">
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="qbittorrent.svg">
   <defs
      id="defs3051">
     <style
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.014757"
-     inkscape:cx="-2.6866353"
-     inkscape:cy="8.7584431"
+     inkscape:zoom="68.059028"
+     inkscape:cx="7.8131226"
+     inkscape:cy="6.7527344"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -44,8 +44,8 @@
      borderlayer="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="2560"
+     inkscape:window-height="1384"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -106,8 +106,9 @@
      id="layer1"
      transform="translate(-3,-1033.3622)">
     <path
-       id="rect826-3"
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="m 14,1043.362 c 0.8224,0 1.5,-0.6777 1.5,-1.5 v -1 c 0,-0.8224 -0.6776,-1.5 -1.5,-1.5 h -1 c -0.1756,0 -0.3428,0.037 -0.5,0.094 v -2.0938 h -1 v 3.5 1 1.5 h 1 v -0.092 c 0.1572,0.057 0.3244,0.092 0.5,0.092 z m 0,-1 h -1 c -0.2856,0 -0.5,-0.2144 -0.5,-0.5 v -1 c 0,-0.2857 0.2144,-0.5 0.5,-0.5 h 1 c 0.2856,0 0.5,0.2143 0.5,0.5 v 1 c 0,0.2856 -0.2144,0.5 -0.5,0.5 z m -6,-2.9996 c -0.8223514,0 -1.5,0.6777 -1.5,1.5 v 1 c 0,0.8224 0.6776486,1.5 1.5,1.5 h 1 c 0.1756317,0 0.3427609,-0.037 0.5,-0.094 v 2.0938 h 1 v -3.5 -1 -1.5 h -1 v 0.092 c -0.1572391,-0.057 -0.3243683,-0.092 -0.5,-0.092 z m 0,1 h 1 c 0.2856486,0 0.5,0.2144 0.5,0.5 v 1 c 0,0.2857 -0.2143514,0.5 -0.5,0.5 H 8 c -0.2856486,0 -0.5,-0.2143 -0.5,-0.5 v -1 c 0,-0.2856 0.2143514,-0.5 0.5,-0.5 z m 3,-6.0011 c -3.8600709,0 -7,3.14 -7,7 0,3.8601 3.1399291,7 7,7 3.860071,0 7,-3.1399 7,-7 0,-3.86 -3.139929,-7 -7,-7 z m 0,1 c 3.319631,0 6,2.6804 6,6 0,3.3197 -2.680369,6 -6,6 -3.3196308,0 -6,-2.6803 -6,-6 0,-3.3196 2.6803692,-6 6,-6 z" />
+       d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 8 2 A 6 6 0 0 1 14 8 A 6 6 0 0 1 8 14 A 6 6 0 0 1 2 8 A 6 6 0 0 1 8 2 z M 9 4 L 9 8 L 9 10 L 10 10 L 10 9.7285156 A 2 2 0 0 0 11 10 A 2 2 0 0 0 13 8 A 2 2 0 0 0 11 6 A 2 2 0 0 0 10 6.2695312 L 10 4 L 9 4 z M 5 6 A 2 2 0 0 0 3 8 A 2 2 0 0 0 5 10 A 2 2 0 0 0 6 9.7304688 L 6 12 L 7 12 L 7 8 L 7 6 L 6 6 L 6 6.2714844 A 2 2 0 0 0 5 6 z M 5 7 A 1 1 0 0 1 6 8 A 1 1 0 0 1 5 9 A 1 1 0 0 1 4 8 A 1 1 0 0 1 5 7 z M 11 7 A 1 1 0 0 1 12 8 A 1 1 0 0 1 11 9 A 1 1 0 0 1 10 8 A 1 1 0 0 1 11 7 z "
+       transform="translate(3,1033.3622)"
+       id="rect822" />
   </g>
 </svg>
