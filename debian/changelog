@@ -1,8 +1,8 @@
-luv-icon-theme (0.4.9.51) bionic; urgency=medium
+luv-icon-theme (0.4.9.51.1) bionic; urgency=medium
 
-  * add kwrite.
+  * add qbtorrent.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Thu, 20 Apr 2020 16:59:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 20 Apr 2020 19:33:00 -0500
 
 luv-icon-theme (0.4.9.50) bionic; urgency=medium
 
