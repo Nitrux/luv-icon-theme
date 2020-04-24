@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.51.2) bionic; urgency=medium
+
+  * Correct qbtorrent-tray.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 24 Apr 2020 01:35:00 -0500
+
 luv-icon-theme (0.4.9.51.1) bionic; urgency=medium
 
   * add qbtorrent.
