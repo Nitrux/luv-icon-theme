@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.53) bionic; urgency=medium
+
+  * Add 16 and 22 icon for Station.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 06 May 2020 00:23:00 -0500
+
 luv-icon-theme (0.4.9.52) bionic; urgency=medium
 
   * Add icons for epoka.
