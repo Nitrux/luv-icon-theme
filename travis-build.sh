@@ -1,11 +1,10 @@
 #!/bin/bash
 
 apt-get --yes update
-apt-get --yes install wget
+apt-get --yes install wget gnupg2
 
 ### Add KDENeon Repository
-echo 'deb http://archive.neon.kde.org/dev/stable/ bionic main' | tee /etc/apt/sources.list.d/neon-stable.list
-wget -qO - 'http://archive.neon.kde.org/public.key' | apt-key add -
+apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 55751E5D
 
 ### Install Dependencies
 apt-get --yes update
