@@ -5,21 +5,31 @@ addons:
   apt:
     packages:
     - realpath
+
 install:
 - docker pull ubuntu:bionic
 - wget https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nitrux-repository-util.sh
   -O nitrux-repository-util.sh
 - chmod +x nitrux-repository-util.sh
+
 script:
+- tar cfJ Source.tar.xz Luv Wallpapers
+- wget -q https://github.com/probonopd/uploadtool/raw/master/upload.sh
+- export UPLOADTOOL_SUFFIX=$TRAVIS_BRANCH
+- bash upload.sh Source.tar.xz
+- rm Source.tar.xz
 - docker run --rm -v $(pwd)/:/build/ -w /build/ ubuntu:bionic /bin/bash travis-build.sh
+
 branches:
   only:
   - master
   - development
+
 deploy:
 - provider: script
   script: ./source/nitrux-repository-util.sh *.deb
   skip_cleanup: true
+
 notifications:
   email: false
   slack:
