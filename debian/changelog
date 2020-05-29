@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.6) bionic; urgency=medium
+
+  * Add icons for doodle component in Maui apps.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 29 May 2020 16:23:00 -0500
+
 luv-icon-theme (0.4.9.55) bionic; urgency=medium
 
   * Add icon for waterfox.

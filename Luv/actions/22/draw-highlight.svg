@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="draw-highlight.svg">
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+    .ColorScheme-Text {
+    color:#4d4d4d;
+    }
+    </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="10.499029"
+     inkscape:cy="13.233374"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1400"
+     inkscape:window-height="1380"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       empspacing="2" />
+    <sodipodi:guide
+       position="0,20"
+       orientation="0,1"
+       id="guide4140"
+       inkscape:label="Icon Max Height"
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,2"
+       orientation="0,1"
+       id="guide4142"
+       inkscape:label="Icon Baseline"
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15,11"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label="Center Horizontal"
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11,0"
+       orientation="1,0"
+       id="guide818"
+       inkscape:locked="false"
+       inkscape:label="Center Vertical"
+       inkscape:color="rgb(221,44,0)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1030.3622)">
+    <path
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Text"
+       d="M 12.984375 3 C 12.724871 3 12.476942 3.1079156 12.292969 3.2910156 L 9.2929688 6.2910156 L 6.2929688 9.2929688 L 4.2929688 11.292969 C 3.9824734 11.603769 3.9111598 12.08065 4.1171875 12.46875 L 2.2929688 14.292969 C 2.105438 14.480469 2.000057 14.7348 2 15 L 2 16 C 2.0000712 16.5523 2.4477494 16.9999 3 17 L 5 17 C 5.265198 17 5.5195184 16.894631 5.7070312 16.707031 L 7 15.414062 L 7.2929688 15.707031 C 7.6834986 16.097431 8.3165013 16.097431 8.7070312 15.707031 L 10.707031 13.707031 L 13.707031 10.707031 L 16.707031 7.7050781 C 17.09737 7.3144781 17.09737 6.6816156 16.707031 6.2910156 L 13.707031 3.2910156 C 13.515391 3.1003156 13.2547 2.9954 12.984375 3 z M 13 5.4121094 L 14.585938 6.9980469 L 12.292969 9.2929688 L 9.2929688 12.292969 L 8 13.585938 L 7.7558594 13.34375 C 7.7336454 13.31875 7.7101769 13.294484 7.6855469 13.271484 L 6.4140625 12 L 7.7070312 10.707031 L 10.707031 7.7070312 L 13 5.4121094 z M 3 18 C 2.446 18 2 18.446 2 19 C 2 19.554 2.446 20 3 20 L 19 20 C 19.554 20 20 19.554 20 19 C 20 18.446 19.554 18 19 18 L 3 18 z "
+       transform="translate(0,1030.3622)"
+       id="path823" />
+  </g>
+</svg>
