@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.62) bionic; urgency=medium
+
+  * Fix icon for lqs.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 03 Jun 2020 14:50:00 -0500
+
 luv-icon-theme (0.4.9.61) bionic; urgency=medium
 
   * Add icons for lqs.
