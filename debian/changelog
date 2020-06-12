@@ -1,5 +1,11 @@
 luv-icon-theme (0.4.9.62) bionic; urgency=medium
 
+  * Fix icon for Plasma Default Applications KCM.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 12 Jun 2020 14:38:00 -0500
+
+luv-icon-theme (0.4.9.62) bionic; urgency=medium
+
   * Fix icon for lqs.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Wed, 03 Jun 2020 14:50:00 -0500
