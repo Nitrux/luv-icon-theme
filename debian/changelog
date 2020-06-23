@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.66) bionic; urgency=medium
+
+  * Remove executable bit from some files.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 23 Jun 2020 16:17:00 -0500
+
 luv-icon-theme (0.4.9.65) bionic; urgency=medium
 
   * Fix icon for Plasma Default Applications KCM.
