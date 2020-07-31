@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.70) bionic; urgency=medium
+
+  * Fix wrong image.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 31 Jun 2020 18:24:00 -0500
+
 luv-icon-theme (0.4.9.69) bionic; urgency=medium
 
   * Replace wallpaperswith uncompressed files.
