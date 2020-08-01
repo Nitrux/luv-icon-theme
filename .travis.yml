@@ -1,36 +1,23 @@
-sudo: required
-services:
-- docker
-addons:
-  apt:
-    packages:
-    - realpath
 
-install:
-- docker pull ubuntu:bionic
-- wget https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/nitrux-repository-util.sh
-  -O nitrux-repository-util.sh
-- chmod +x nitrux-repository-util.sh
-
+dist: bionic
 script:
-- tar cfJ Source.tar.xz Luv Wallpapers
-- wget -q https://github.com/probonopd/uploadtool/raw/master/upload.sh
-- export UPLOADTOOL_SUFFIX=$TRAVIS_BRANCH
-- bash upload.sh Source.tar.xz
-- rm Source.tar.xz
-- docker run --rm -v $(pwd)/:/build/ -w /build/ ubuntu:bionic /bin/bash travis-build.sh
+  - tar cfJ Source.tar.xz Luv Wallpapers
+  - wget -q https://github.com/probonopd/uploadtool/raw/master/upload.sh
+  - export UPLOADTOOL_SUFFIX=$TRAVIS_BRANCH
+  - bash upload.sh Source.tar.xz
+  - rm Source.tar.xz
+  - sudo ./travis-build.sh
 
 branches:
   only:
-  - master
-  - development
+    - master
+    - development
 
 deploy:
-- provider: script
-  script: ./source/nitrux-repository-util.sh *.deb
-  skip_cleanup: true
+  - provider: script
+    script: wget -qO - https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/upload-pkgs | sh -s *.deb
+    skip_cleanup: true
 
 notifications:
   email: false
-  slack:
-    secure: kFXZLcK/+yIomcfrTqmFtIIiBYsM8NTKMMWL1+8EPazqAZ4Dk9BXq/l4+Rqvrxfzvm4ltFn4adkBTZClNLiKndlGf7+a6D6JNdqhf4cFsIvtGAVxaEnhRbMOWi/X2yBHz9A/OMHfn1bu6Kiwrc8e+pveqneDwXvHNkyxS2pmeOkQxjx/8CSSnC/NCYUhyYCeJDEAORVXsZBx0j9g5Qf5epmee6vgdasprve0/BOXDdqWRIOEbMjL9DJ8SFhjLiqTCEuhBrQDeiya4S025+loxlQ4gAYLiiV4a5B+8Sy11HUfO9EQdefGDplZhEreYCSD75AbJr6Ka+m1ldI8S/uf4s5W4/2YTuiOy0FWZPOmbdjiiajiImeqwRJ3C/HDCztAhdn6i/TsRvouuNeYWDIuYoE0ZD13TFlw9n3MYPWTF/4rdJtBt1dpU5fvlbNGsUxJEtMFr7GJIcpl9CjMpnQ0OMHM02RUOguKG2fSDDGJ9NhSindnQVlIcSyGAExTyn4xv0OlKR2kkowkviBvbIKJNZAtYdqWpe59GYSCgpqwNhBTvPtyofurDMgToXNJlInhnuorBr1l7jRX0aOogQFwbr2OzgA8zFYwJR8y10nblIrJ18hPgmOr2xIdEOSndCXTmNp+HBxnHe07x7OCnG/qAiLgHnU8PrBfrId0k8lBQOc=
+  
