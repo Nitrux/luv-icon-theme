@@ -1,4 +1,3 @@
-
 dist: bionic
 script:
   - tar cfJ Source.tar.xz Luv Wallpapers
@@ -16,7 +15,8 @@ deploy:
   - provider: script
     script: wget -qO - https://raw.githubusercontent.com/Nitrux/nitrux-repository-util/master/upload-pkgs | sh -s *.deb
     skip_cleanup: true
+    on:
+      branch: master
 
 notifications:
   email: false
-  
