@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.71) bionic; urgency=medium
+
+  * Add icons for media player status, dialogs.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 25 Nov 2020 12:51:00 -0500
+
 luv-icon-theme (0.4.9.70) bionic; urgency=medium
 
   * Fix wrong image.
@@ -6,7 +12,7 @@ luv-icon-theme (0.4.9.70) bionic; urgency=medium
 
 luv-icon-theme (0.4.9.69) bionic; urgency=medium
 
-  * Replace wallpaperswith uncompressed files.
+  * Replace wallpapers with uncompressed files.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Thu, 30 Jun 2020 21:04:00 -0500
 
