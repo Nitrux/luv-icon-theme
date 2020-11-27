@@ -1,8 +1,8 @@
-luv-icon-theme (0.4.9.72) bionic; urgency=medium
+luv-icon-theme (0.4.9.73) bionic; urgency=medium
 
   * Add about icon for Plasma dialogs.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Thu, 26 Nov 2020 16:31:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 27 Nov 2020 01:20:00 -0500
 
 luv-icon-theme (0.4.9.71) bionic; urgency=medium
 
