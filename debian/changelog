@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.74) bionic; urgency=medium
+
+  * Add about icon for lmms.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 28 Nov 2020 13:41:00 -0500
+
 luv-icon-theme (0.4.9.73) bionic; urgency=medium
 
   * Add about icon for Plasma dialogs.
