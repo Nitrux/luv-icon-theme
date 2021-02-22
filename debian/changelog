@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.75) bionic; urgency=medium
+
+  * Add icon for nx notification and updater.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 21 Nov 2020 19:38:00 -0500
+
 luv-icon-theme (0.4.9.74) bionic; urgency=medium
 
   * Add about icon for lmms.
