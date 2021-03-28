@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.78) bionic; urgency=medium
+
+  * Add for Discover-offline systray icon.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 28 Mar 2021 20:59:00 -0500
+
 luv-icon-theme (0.4.9.77) bionic; urgency=medium
 
   * Add icon for shelf and clip.
