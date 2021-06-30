@@ -1,4 +1,8 @@
 dist: bionic
+
+before_install:
+  - gem install package_cloud
+
 script:
   - tar cfJ Source.tar.xz Luv Wallpapers
   - wget -q https://github.com/probonopd/uploadtool/raw/master/upload.sh
@@ -6,6 +10,7 @@ script:
   - bash upload.sh Source.tar.xz
   - rm Source.tar.xz
   - sudo ./travis-build.sh
+  - package_cloud push nitrux/repo/debian/trixie *.deb
 
 branches:
   only:
