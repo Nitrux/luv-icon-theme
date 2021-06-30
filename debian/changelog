@@ -1,3 +1,9 @@
+luv-icon-theme (0.4.9.84) nitrux; urgency=medium
+
+  * Bump version.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 29 Jun 2021 22:44:00 -0500
+
 luv-icon-theme (0.4.9.83) bionic; urgency=medium
 
   * Add icons for Plasma.
