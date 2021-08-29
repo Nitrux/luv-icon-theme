@@ -2,21 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
    viewBox="0 0 64 64.000003"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="dialer.svg">
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="maui-contacts.svg"
+   inkscape:export-filename="/home/uri/communicator@4x.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
@@ -56,22 +59,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="51.110178"
-     inkscape:cy="24.791393"
+     inkscape:zoom="12.765625"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:document-units="px"
      inkscape:current-layer="g1240"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1378"
+     inkscape:window-width="1407"
+     inkscape:window-height="1412"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4136" />
@@ -124,7 +128,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -151,14 +155,7 @@
              y="1062.4032"
              x="-1.7945495"
              id="image4657"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAArCAYAAADhXXHAAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAAJ2AAACdgBx6C5rQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEHSURB
-VFiF7ZhBasMwEEWf1QR320B6g97/VoWW1JCQRYiplIVkcCGSPHGm9mIeGIRHIz1kefPBMAw1mpn1
-OQRpQ0nGAa/AtjJPSgB64AJ4SWNOwgF74B14maV2n1/gCzggEN5k3jtgx/NPdbz+G/AjacrJDjWt
-O9uk9cd7eCqnXJLVpgU+0tgDHfBNQdj9g1SOhijcEn/kXc1nSdkxDRNc1iI7CZPVwmS1MFktTFYL
-k9XCZLUwWS1MVguT1cJktTBZLZZMZOBv+tJTiUFLsuL8VEgPHNM+HjjxYNYVgHOqa1wVTxT9TOMw
-erKUUsKWmD+1lXlSAjFI7oCrpLEm4SbMeYTh0xur4AZflyk8s/AbhgAAAABJRU5ErkJggg==
-"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAArCAYAAADhXXHAAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAJ2AAACdgBx6C5rQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEHSURB VFiF7ZhBasMwEEWf1QR320B6g97/VoWW1JCQRYiplIVkcCGSPHGm9mIeGIRHIz1kefPBMAw1mpn1 OQRpQ0nGAa/AtjJPSgB64AJ4SWNOwgF74B14maV2n1/gCzggEN5k3jtgx/NPdbz+G/AjacrJDjWt O9uk9cd7eCqnXJLVpgU+0tgDHfBNQdj9g1SOhijcEn/kXc1nSdkxDRNc1iI7CZPVwmS1MFktTFYL k9XCZLUwWS1MVguT1cJktTBZLZZMZOBv+tJTiUFLsuL8VEgPHNM+HjjxYNYVgHOqa1wVTxT9TOMw erKUUsKWmD+1lXlSAjFI7oCrpLEm4SbMeYTh0xur4AZflyk8s/AbhgAAAABJRU5ErkJggg== "
              preserveAspectRatio="none"
              height="64.5"
              width="64.5" />
