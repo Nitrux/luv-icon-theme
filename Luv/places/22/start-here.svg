@@ -2,23 +2,30 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
-   id="svg4359"
+   viewBox="0 0 22 22"
+   id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="emblem-symbolic-link.svg"
-   viewBox="0 0 22 22">
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="start-here.svg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs4361" />
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+    .ColorScheme-Text {
+    color:#4d4d4d;
+    }
+    </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,92 +33,76 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="27.022727"
-     inkscape:cx="25.28799"
-     inkscape:cy="10.455462"
+     inkscape:zoom="52.772727"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     inkscape:window-width="2560"
-     inkscape:window-height="1370"
-     inkscape:window-x="0"
-     inkscape:window-y="33"
-     inkscape:window-maximized="1"
+     units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="false">
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
-       id="grid4105" />
+       id="grid4136"
+       empspacing="2" />
+    <sodipodi:guide
+       position="0,20"
+       orientation="0,1"
+       id="guide4140"
+       inkscape:label="Icon Max Height"
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,2"
+       orientation="0,1"
+       id="guide4142"
+       inkscape:label="Icon Baseline"
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11,0"
+       orientation="1,0"
+       id="guide4144"
+       inkscape:label="Center Vertical"
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15,11"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label="Center Horizontal"
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
-     id="metadata4364">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-26)">
-    <image
-       y="26"
-       x="0"
-       id="image886"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAACwCAYAAACvt+ReAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAB2HAAAdhwBp8J46gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAARbSURB
-VHic7drhUuM2GIZRJbD3f8MN6Y+uZj9UOYAtSl/nnBmNDcQb7+SJkGNaAwAAAAAAAAAAAAAAAAAA
-AAAA4CQuT/rcrHf/iSd9/Y+eZxargM/v26P+7oAvw3bre+S7D9vZz5b7roDHSC+ttWvZv7TtgIX9
-/7YV430yPnvsbt8RcI3z2v7EW7cfRUyWMdy3ybY+dpmVAdfZtsfax0vZH2fjuiXLuGyowb611m6/
-t5f2PuJ6zCGrwhmXCj3aPmrEZuDzmc3At7K9la975K0tiHjFDDzGW8N9be8jHgMe/w2y3If9GvBL
-+yfa+prffj+2R3xpByNetYQY430towZcwxXtudRZtUc8TlpVnYl3OxpwXe/2UH+1x/EK95z669oD
-rm1svfZv5ZhdjgRcT6oH/Nr+PfvO3oEiPqcabt1v7X3gfTsuQb5sxRLi0dLBzPtcZq/xtezPPiu+
-TY75tJedx81m3l/t/fLh0fqH85vdzKqWrIFXBVzD7bOvmZetZeNn7tp9yp6Aa5h12dAj3lr38pxm
-DSwL+PrxQx4eu3WnTbxU482r2s6hVo4E3E9s2clweuOd2trNLnsDHt9RswGj5c0cmYHHXwei5ZHx
-gm68ybHLVwN+9K4x8/IZYzuHZuIVa2DhsseSdo4GDD9qRcD+uoyvWtbM0Ys4WOHHPgeGHyVgogmY
-aAImmoCJJmCiCZhoAiaagIkmYKIJmGgCJpqAiSZgogmYaAImmoCJJmCiCZhoAiaagIkmYKIJmGgC
-JpqAiSZgogmYaAImmoCJJmCiCZhoAiaagIkmYKIJmGgCJpqAiSZgogmYaAImmoCJJmCiCZhoAiaa
-gIkmYKIJmGgCJpqAiSZgogmYaAImmoCJJmCiCZhoAiaagIkmYKIJmGgCJpqAiSZgogmYaAImmoCJ
-JmCiCZhoAiaagIkmYKIJmGgCJpqAiSZgogmYaAImmoCJJmCiCZhoAiaagIkmYKIJmGgCJpqAiSZg
-ogmYaAImmoCJJmCiCZhoAiaagIkmYKIJmGgCJpqAiSZgogmYaAImmoCJJmCiCZhoAiaagIkmYKIJ
-mGhHAr4vOwue3e6WVszA92ELH1nWjCUE0Y4GfC8DvmJJO18N+D4Z48/gkVlDW0196OhF3L219vZ7
-jDFDNZvsDs/CewNe9g7iqSzv5uga+G0yBMyW+hv71hY0cyTg/sT1ZMzEzIxd1IgP9fJy8MQuZVyH
-r+tjeF5juLfW2l+/x639mfz6Y7/kdcHJ1XdTjbjv35uIn1W9YdEbqePwkvPoDNza+xn30uazcJt8
-zbnNZt6t2fdHlhBbS4VZ0LNjOZ/ZR2UfxXvIihl49FGc4j23PTPv7mXEdwS8dTJudJzbVrhjvH17
-aOnQHb2I6/pJj9+rF3nX5pOKs9m6u1Yv7Gu0yy7euhUB908ZasT1P/JSxhiwcM9h/Jy3R3ob9scb
-F4cjXhnQeOF2HcajgIWcqYY4W0LM7tIu/fvxvwFHjjqIfU51lAAAAABJRU5ErkJggg==
-"
-       preserveAspectRatio="none"
-       height="22"
-       width="22" />
-    <rect
-       style="opacity:1;fill:#37474f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect826"
-       width="18"
-       height="18"
-       x="2"
-       y="28"
-       ry="2" />
-    <rect
-       ry="1"
-       y="29"
-       x="3"
-       height="16"
-       width="16"
-       id="rect828"
-       style="opacity:1;fill:#455a64;fill-opacity:1;stroke:none;stroke-width:0.8888889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     id="layer1"
+     transform="translate(0,-1030.3622)">
     <path
        inkscape:connector-curvature="0"
-       style="display:inline;opacity:1;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 7,31 v 10 1 l 1,1 9,-6 -5,-3 H 11 L 14.67383,36.20312 8,40.375 V 32 Z"
+       style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.49998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4,1032.3622 v 15 1.5 l 1.5,1.5 13.500001,-9 -7.500001,-4.5 h -1.499999 l 5.510745,3.3047 L 5.5,1046.4247 v -12.5625 z"
        id="path4810"
        inkscape:export-filename="C:\Users\DeViL\Desktop\favicon.png"
        inkscape:export-xdpi="96"
