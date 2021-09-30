@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
    inkscape:version="1.0.1 (3bc2e81, 2020-09-07)"
-   sodipodi:docname="folder-documents.svg">
+   sodipodi:docname="folder-publicshare.svg">
   <defs
      id="defs3051">
     <style
@@ -31,9 +31,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.203125"
-     inkscape:cx="-2.5213872"
-     inkscape:cy="6.9768672"
+     inkscape:zoom="16.000001"
+     inkscape:cx="11.962783"
+     inkscape:cy="16.225669"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -43,45 +43,43 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1151"
-     inkscape:window-height="450"
+     inkscape:window-height="691"
      inkscape:window-x="1409"
-     inkscape:window-y="961"
+     inkscape:window-y="721"
      inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
-       empspacing="2"
-       originx="-3"
-       originy="-3.0000174" />
+       empspacing="2" />
     <sodipodi:guide
-       position="0,14.999983"
+       position="0,20"
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0.9999826"
+       position="0,2"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="8,-1.74e-05"
+       position="11,18"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="17,7.9999826"
+       position="15,11"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -99,12 +97,11 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3,-1033.3622)">
+     transform="translate(0,-1030.3622)">
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="m 7,1034.3622 c -1.1080193,0 -2,0.892 -2,2 v 10 c 0,1.108 0.8919807,2 2,2 2.6666667,0 5.333333,0 8,0 1.108019,0 2,-0.892 2,-2 0,-2.5 0,-5 0,-7.5 v -0.5 l -3.998047,-3.998 h -0.002 -0.486328 -0.01367 z m 0,1 h 5 v 3.5 c 0,0.277 0.223,0.5 0.5,0.5 H 16 c 0,2.3333 0,4.6667 0,7 0,0.554 -0.445981,1 -1,1 -2.666667,0 -5.3333333,0 -8,0 -0.5540193,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.4459807,-1 1,-1 z m 6,0.4121 2.587891,2.5879 H 13 Z"
-       id="rect3224"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssccccccccccscssccccssscccc" />
+       d="m 10.984375,1034.3622 c -0.259493,0 -0.507416,0.108 -0.691406,0.2911 l -2,2.0019 c -0.6281944,0.6303 -0.1827113,1.7059 0.707031,1.707 h 1 v 1 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -1 h 1 c 0.889742,0 1.335225,-1.0767 0.707031,-1.707 l -2,-2.0019 c -0.191658,-0.1907 -0.452342,-0.2958 -0.722656,-0.2911 z m -3.984375,5 c -0.554003,0 -1,0.446 -1,1 v 7.0001 c 0,0.554 0.445997,1 1,1 h 3 2 3 c 0.554003,0 1,-0.446 1,-1 v -7.0001 c 0,-0.554 -0.445997,-1 -1,-1 h -1 -1 v 2 h 1 v 5.0001 H 12 10 8 v -5.0001 h 1 v -2 H 8 Z"
+       id="path4223"
+       sodipodi:nodetypes="cccccssscccccssssccssssccccccccccccs" />
   </g>
 </svg>

@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
    inkscape:version="1.0.1 (3bc2e81, 2020-09-07)"
-   sodipodi:docname="folder-documents.svg">
+   sodipodi:docname="audio-input-microphone.svg">
   <defs
      id="defs3051">
     <style
@@ -31,9 +31,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.203125"
-     inkscape:cx="-2.5213872"
-     inkscape:cy="6.9768672"
+     inkscape:zoom="1"
+     inkscape:cx="14.432377"
+     inkscape:cy="15.083658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -43,45 +43,43 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1151"
-     inkscape:window-height="450"
+     inkscape:window-height="691"
      inkscape:window-x="1409"
-     inkscape:window-y="961"
+     inkscape:window-y="721"
      inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
-       empspacing="2"
-       originx="-3"
-       originy="-3.0000174" />
+       empspacing="2" />
     <sodipodi:guide
-       position="0,14.999983"
+       position="0,20"
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0.9999826"
+       position="0,2"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="8,-1.74e-05"
+       position="11,0"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
     <sodipodi:guide
-       position="17,7.9999826"
+       position="15,11"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -99,12 +97,11 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3,-1033.3622)">
+     transform="translate(0,-1030.3622)">
     <path
+       id="rect852"
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="m 7,1034.3622 c -1.1080193,0 -2,0.892 -2,2 v 10 c 0,1.108 0.8919807,2 2,2 2.6666667,0 5.333333,0 8,0 1.108019,0 2,-0.892 2,-2 0,-2.5 0,-5 0,-7.5 v -0.5 l -3.998047,-3.998 h -0.002 -0.486328 -0.01367 z m 0,1 h 5 v 3.5 c 0,0.277 0.223,0.5 0.5,0.5 H 16 c 0,2.3333 0,4.6667 0,7 0,0.554 -0.445981,1 -1,1 -2.666667,0 -5.3333333,0 -8,0 -0.5540193,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.4459807,-1 1,-1 z m 6,0.4121 2.587891,2.5879 H 13 Z"
-       id="rect3224"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssccccccccccscssccccssscccc" />
+       d="M 13.482422 2 C 12.328669 2 11.175081 2.4421219 10.291016 3.3261719 L 6.390625 7.2265625 L 5.3261719 8.2910156 C 3.5580421 10.059116 3.5580421 12.905628 5.3261719 14.673828 C 6.5954514 15.943086 8.4170355 16.285477 10 15.732422 L 10 18 L 8 18 C 7.446 18 7 18.446 7 19 C 7 19.554 7.446 20 8 20 L 14 20 C 14.554 20 15 19.554 15 19 C 15 18.446 14.554 18 14 18 L 12 18 L 12 15 L 12 14.382812 L 12.773438 13.609375 L 16.673828 9.7089844 C 18.441958 7.9408844 18.441958 5.0943719 16.673828 3.3261719 C 15.789763 2.4421219 14.636175 2 13.482422 2 z M 13.378906 4.1113281 C 14.083977 4.0472281 14.764712 4.2529906 15.255859 4.7441406 C 16.238153 5.7264406 16.079145 7.4657313 14.900391 8.6445312 L 12.064453 11.482422 L 8.5175781 7.9355469 L 11.355469 5.0996094 C 11.944846 4.5102594 12.673835 4.1754281 13.378906 4.1113281 z M 7.0996094 9.3554688 L 10.644531 12.900391 C 9.4657767 14.079091 7.7264351 14.238259 6.7441406 13.255859 C 5.761846 12.273659 5.9208555 10.534169 7.0996094 9.3554688 z "
+       transform="translate(0,1030.3622)" />
   </g>
 </svg>
