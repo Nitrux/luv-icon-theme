@@ -110,7 +110,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight"
+       style="fill:currentColor;fill-opacity:0.5;stroke:none" class="ColorScheme-Text"
        d="m 18,1044.3622 c -2.209139,0 -4,1.3431 -4,3 h 1 c 5.5e-4,-0.5909 0.393077,-1.1515 1.072266,-1.5312 -0.04782,0.173 -0.07213,0.3517 -0.07227,0.5312 0,1.1046 0.895431,2 2,2 1.104569,0 2,-0.8954 2,-2 -0.708464,0 -1.363001,-0.3787 -1.720703,-0.9902 1.541287,0.096 2.719845,0.9582 2.720707,1.9902 h 1 c 0,-1.6569 -1.790861,-3 -4,-3 z"
        id="path1444" />
     <path
