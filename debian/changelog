@@ -1,14 +1,20 @@
+luv-icon-theme (0.5.1) nitrux; urgency=medium
+
+  * Fix link.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 26 Feb 2022 12:26:00 -0500
+ 
 luv-icon-theme (0.5.0) nitrux; urgency=medium
 
   * Add icons.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Sat, 25 Feb 2022 22:22:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 25 Feb 2022 22:22:00 -0500
  
 luv-icon-theme (0.4.9.99) nitrux; urgency=medium
 
   * Add icons.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Sat, 25 Dec 2021 16:37:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 25 Dec 2021 16:37:00 -0500
 
 luv-icon-theme (0.4.9.98) nitrux; urgency=medium
 
