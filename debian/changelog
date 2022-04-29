@@ -1,3 +1,9 @@
+luv-icon-theme (0.5.3) nitrux; urgency=medium
+
+  * Update icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 28 Abr 2022 20:02:00 -0500
+ 
 luv-icon-theme (0.5.2) nitrux; urgency=medium
 
   * Add icons.
