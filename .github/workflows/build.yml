@@ -1,0 +1,28 @@
+name: Build and push packages to PackageCloud.
+
+on:
+  push:
+    branches:
+      - 'master'
+    paths-ignore:
+      - 'README.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install dependencies.
+        run: |
+          sudo gem install package_cloud
+
+      - name: Build.
+        run: |
+          sudo ./gh-build.sh
+
+      - name: Push package.
+        env:
+          PACKAGECLOUD_TOKEN: ${{ secrets.PACKAGECLOUD_TOKEN }}
+        run: |
+          package_cloud push nitrux/repo/debian/trixie *.deb
