@@ -1,5 +1,6 @@
-#!/bin/bash
+#! /bin/bash
 
+set -x
 
 ### Upload to GitHub Releases.
 tar cfJ Source.tar.xz Luv Wallpapers
@@ -8,17 +9,15 @@ export UPLOADTOOL_SUFFIX=master
 bash upload.sh Source.tar.xz
 rm Source.tar.xz
 
+### Basic Packages
+apt -qq -yy install equivs git devscripts lintian --no-install-recommends
 
-### Install build dependencies.
-apt -qq update
-apt -qq -yy install equivs curl git
-
-### Install dependencies.
-apt -qq -yy install devscripts lintian build-essential automake autotools-dev
+### Install Dependencies
 mk-build-deps -i -t "apt-get --yes" -r
 
-### Build deb package.
-mkdir source
-mv ./* source/ # Hack for debuild
-cd source
+### Build Deb
 debuild -b -uc -us
+
+### Move Deb to current directory because debuild decided
+### that it was a GREAT IDEA TO PUT THE FILE ONE LEVEL ABOVE
+mv ../*.deb .

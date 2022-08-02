@@ -1,4 +1,4 @@
-# Lüv icon theme [![Build Status](https://travis-ci.org/Nitrux/luv-icon-theme.svg?branch=master)](https://travis-ci.org/Nitrux/luv-icon-theme)
+# Lüv
 
 Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
 
