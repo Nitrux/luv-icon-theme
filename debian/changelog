@@ -1,3 +1,9 @@
+luv-icon-theme (0.5.6) nitrux; urgency=medium
+
+  * Add icon for Bottles, agenda, strike.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 05 Aug 2022 01:18:00 -0500
+ 
 luv-icon-theme (0.5.5) nitrux; urgency=medium
 
   * Add icon for bonsai.
