@@ -2,6 +2,9 @@
 
 set -x
 
+./svg-to-png.sh
+find . -name '*.svg' -delete
+
 ### Upload to GitHub Releases.
 tar cfJ Source.tar.xz Luv Wallpapers
 wget -q https://github.com/probonopd/uploadtool/raw/master/upload.sh
