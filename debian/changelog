@@ -1,3 +1,9 @@
+luv-icon-theme (0.5.8) nitrux; urgency=medium
+
+  * Add icon for Plasma Firewall.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 22 Jun 2023 21:47:00 -0500
+ 
 luv-icon-theme (0.5.7) nitrux; urgency=medium
 
   * Add icon for Wayland.
