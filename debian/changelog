@@ -1,4 +1,10 @@
-luv-icon-theme (0.5.8) nitrux; urgency=medium
+luv-icon-theme (0.5.9) nitrux; urgency=medium
+
+  * Add icon for Flatpak KCM.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 25 Jun 2023 12:11:00 -0500
+ 
+ luv-icon-theme (0.5.8) nitrux; urgency=medium
 
   * Add icon for Plasma Firewall.
 
