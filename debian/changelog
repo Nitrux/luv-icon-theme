@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.0) nitrux; urgency=medium
+
+  * Add icons for KGpg, improve icons for Git, JSON, YAML and C-Sharp mimetypes.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 25 Jun 2023 12:11:00 -0500
+ 
 luv-icon-theme (0.5.9) nitrux; urgency=medium
 
   * Add icon for Flatpak KCM.
