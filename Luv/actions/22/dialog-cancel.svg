@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   inkscape:version="1.3.1 (91b66b0, 2023-11-16)"
    sodipodi:docname="dialog-cancel.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,10 +21,10 @@
     <style
        type="text/css"
        id="current-color-scheme">
-    .ColorScheme-Text {
-    color:#4d4d4d;
-    }
-    </style>
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64"
-     inkscape:cx="9.1796875"
-     inkscape:cy="8.8046875"
+     inkscape:zoom="45.254834"
+     inkscape:cx="11.921378"
+     inkscape:cy="9.8442522"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -44,40 +44,51 @@
      borderlayer="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1328"
+     inkscape:window-width="2558"
      inkscape:window-height="1412"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
-       empspacing="2" />
+       empspacing="2"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
     <sodipodi:guide
        position="0,20"
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,2"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="11,0"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="15,11"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -96,15 +107,15 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
+       style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-Text"
-       d="M 2.3671731,1033.3622 1,1034.8171 l 0.7274688,0.6847 16.1778902,15.1778 0.727468,0.6826 1.367173,-1.4549 -0.727469,-0.6847 -16.1778892,-15.1778 -0.7274687,-0.6826 z"
+       d="M 2.3671731,1033.3622 1,1034.8171 l 0.7274688,0.6847 16.1778902,15.1778 0.727468,0.6826 L 20,1049.9073 19.272531,1049.2226 3.0946418,1034.0448 Z"
        id="path4146"
        inkscape:connector-curvature="0" />
     <path
        id="path936"
-       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 11 2 A 9 9 0 0 0 5.9160156 3.59375 L 7.4238281 5.0078125 A 7 7 0 0 1 11 4 A 7 7 0 0 1 18 11 A 7 7 0 0 1 17.222656 14.199219 L 18.714844 15.599609 A 9 9 0 0 0 20 11 A 9 9 0 0 0 11 2 z M 4.3964844 4.9082031 A 9 9 0 0 0 2 11 A 9 9 0 0 0 11 20 A 9 9 0 0 0 17.498047 17.197266 L 16.046875 15.835938 A 7 7 0 0 1 11 18 A 7 7 0 0 1 4 11 A 7 7 0 0 1 5.8574219 6.2773438 L 4.3964844 4.9082031 z "
-       transform="translate(0,1030.3622)" />
+       style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Text"
+       d="m 11,1032.3622 a 9,9 0 0 0 -5.0839844,1.5938 l 1.5078125,1.414 A 7,7 0 0 1 11,1034.3622 a 7,7 0 0 1 7,7 7,7 0 0 1 -0.777344,3.1992 l 1.492188,1.4004 A 9,9 0 0 0 20,1041.3622 a 9,9 0 0 0 -9,-9 z m -6.6035156,2.9082 A 9,9 0 0 0 2,1041.3622 a 9,9 0 0 0 9,9 9,9 0 0 0 6.498047,-2.8027 l -1.451172,-1.3614 A 7,7 0 0 1 11,1048.3622 a 7,7 0 0 1 -7,-7 7,7 0 0 1 1.8574219,-4.7227 z" />
   </g>
 </svg>

@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.1) nitrux; urgency=medium
+
+  * Fix render problems is some icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 23 Jun 2023 18:19:00 -0500
+ 
 luv-icon-theme (0.6.0) nitrux; urgency=medium
 
   * Add icons for KGpg, improve icons for Git, JSON, YAML and C-Sharp mimetypes.
