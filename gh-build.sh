@@ -10,6 +10,7 @@ bash upload.sh Source.tar.xz
 rm Source.tar.xz
 
 ### Basic Packages
+apt -qq update
 apt -qq -yy install equivs git devscripts lintian --no-install-recommends
 
 ### Install Dependencies
