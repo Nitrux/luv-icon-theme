@@ -1,3 +1,10 @@
+luv-icon-theme (0.6.2) nitrux; urgency=medium
+
+  * Change icon for nvidia-settings.
+  * Add icon for corectrl.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 May 2024 19:10:00 -0500
+ 
 luv-icon-theme (0.6.1) nitrux; urgency=medium
 
   * Fix render problems is some icons.
