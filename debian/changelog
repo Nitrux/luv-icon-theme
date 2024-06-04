@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.3) nitrux; urgency=medium
+
+  * Add 22px icon for cpu.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 03 Jun 2024 01:49:00 -0500
+ 
 luv-icon-theme (0.6.2) nitrux; urgency=medium
 
   * Change icon for nvidia-settings.
