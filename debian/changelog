@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.3.1) nitrux; urgency=medium
+
+  * Add 32px icon for corectrl.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 23 Oct 2024 15:36:00 -0500
+ 
 luv-icon-theme (0.6.3) nitrux; urgency=medium
 
   * Add 22px icon for cpu.
