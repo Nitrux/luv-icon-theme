@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.3.2) nitrux; urgency=medium
+
+  * Add link for folder-public.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 21 Mar 2025 21:54:00 -0500
+ 
 luv-icon-theme (0.6.3.1) nitrux; urgency=medium
 
   * Add 32px icon for corectrl.
