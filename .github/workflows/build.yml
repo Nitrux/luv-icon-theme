@@ -25,4 +25,4 @@ jobs:
         env:
           PACKAGECLOUD_TOKEN: ${{ secrets.PACKAGECLOUD_TOKEN }}
         run: |
-          package_cloud push nitrux/testing/debian/forky $(pwd)/*.deb
+          package_cloud push nitrux/testing/debian/duke $(pwd)/*.deb
