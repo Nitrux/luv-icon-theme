@@ -10,7 +10,7 @@ Homepage: https://github.com/Nitrux/luv-icon-theme
 
 Package: luv-icon-theme
 Architecture: all
-Depends: hicolor-icon-theme, librsvg2-common
+Depends: hicolor-icon-theme, librsvg2-common, qt6-svg-plugins
 Description: Lüv is an icon theme for freedesktop environments.
  .
  Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.

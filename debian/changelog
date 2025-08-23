@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.3.5) nitrux; urgency=medium
+
+  * Add package dependency.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 23 Aug 2025 13:44:00 -0500
+ 
 luv-icon-theme (0.6.3.4) nitrux; urgency=medium
 
   * Add package dependency.
