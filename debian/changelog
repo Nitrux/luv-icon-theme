@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.4) nitrux; urgency=medium
+
+  * Add fiery icon.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 26 Sep 2025 07:04:00 -0500
+ 
 luv-icon-theme (0.6.3.5) nitrux; urgency=medium
 
   * Add package dependency.
