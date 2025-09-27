@@ -1,3 +1,33 @@
+luv-icon-theme (0.6.4) nitrux; urgency=medium
+
+  * Add fiery icon.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 26 Sep 2025 07:04:00 -0500
+ 
+luv-icon-theme (0.6.3.5) nitrux; urgency=medium
+
+  * Add package dependency.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 23 Aug 2025 13:44:00 -0500
+ 
+luv-icon-theme (0.6.3.4) nitrux; urgency=medium
+
+  * Add package dependency.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 22 Aug 2025 01:52:00 -0500
+ 
+luv-icon-theme (0.6.3.3) nitrux; urgency=medium
+
+  * Add link for folder-public in places/.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 22 Mar 2025 01:33:00 -0500
+ 
+luv-icon-theme (0.6.3.1) nitrux; urgency=medium
+
+  * Add 32px icon for corectrl.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 23 Oct 2024 15:36:00 -0500
+ 
 luv-icon-theme (0.6.3) nitrux; urgency=medium
 
   * Add 22px icon for cpu.
