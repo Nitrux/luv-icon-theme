@@ -2,7 +2,7 @@ Source: luv-icon-theme
 Section: x11
 Priority: optional
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
-Build-Depends: debhelper (>=13)
+Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.2
 Homepage: https://github.com/Nitrux/luv-icon-theme
 #Vcs-Git: git://anonscm.debian.org/collab-maint/luv-icon-theme.git
