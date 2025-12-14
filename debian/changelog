@@ -1,118 +1,124 @@
+luv-icon-theme (0.6.5) nitrux; urgency=medium
+
+  * Add cinderward and wirecloak icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 14 Dec 2025 02:55:00 -0500
+
 luv-icon-theme (0.6.4) nitrux; urgency=medium
 
   * Add fiery icon.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Fri, 26 Sep 2025 07:04:00 -0500
- 
+
 luv-icon-theme (0.6.3.5) nitrux; urgency=medium
 
   * Add package dependency.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sat, 23 Aug 2025 13:44:00 -0500
- 
+
 luv-icon-theme (0.6.3.4) nitrux; urgency=medium
 
   * Add package dependency.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Fri, 22 Aug 2025 01:52:00 -0500
- 
+
 luv-icon-theme (0.6.3.3) nitrux; urgency=medium
 
   * Add link for folder-public in places/.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sat, 22 Mar 2025 01:33:00 -0500
- 
+
 luv-icon-theme (0.6.3.1) nitrux; urgency=medium
 
   * Add 32px icon for corectrl.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Wed, 23 Oct 2024 15:36:00 -0500
- 
+
 luv-icon-theme (0.6.3) nitrux; urgency=medium
 
   * Add 22px icon for cpu.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Tue, 03 Jun 2024 01:49:00 -0500
- 
+
 luv-icon-theme (0.6.2) nitrux; urgency=medium
 
   * Change icon for nvidia-settings.
   * Add icon for corectrl.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Thu, 23 May 2024 19:10:00 -0500
- 
+
 luv-icon-theme (0.6.1) nitrux; urgency=medium
 
   * Fix render problems is some icons.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sat, 23 Jun 2023 18:19:00 -0500
- 
+
 luv-icon-theme (0.6.0) nitrux; urgency=medium
 
   * Add icons for KGpg, improve icons for Git, JSON, YAML and C-Sharp mimetypes.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sun, 25 Jun 2023 12:11:00 -0500
- 
+
 luv-icon-theme (0.5.9) nitrux; urgency=medium
 
   * Add icon for Flatpak KCM.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sun, 25 Jun 2023 12:11:00 -0500
- 
- luv-icon-theme (0.5.8) nitrux; urgency=medium
+
+luv-icon-theme (0.5.8) nitrux; urgency=medium
 
   * Add icon for Plasma Firewall.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Thu, 22 Jun 2023 21:47:00 -0500
- 
+
 luv-icon-theme (0.5.7) nitrux; urgency=medium
 
   * Add icon for Wayland.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Tue, 30 May 2023 20:18:00 -0500
- 
+
 luv-icon-theme (0.5.6) nitrux; urgency=medium
 
   * Add icon for Bottles, agenda, strike.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Fri, 05 Aug 2022 01:18:00 -0500
- 
+
 luv-icon-theme (0.5.5) nitrux; urgency=medium
 
   * Add icon for bonsai.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sun, 15 May 2022 04:05:00 -0500
- 
+
 luv-icon-theme (0.5.4) nitrux; urgency=medium
 
   * Update icons.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sun, 01 May 2022 02:51:00 -0500
- 
+
 luv-icon-theme (0.5.3) nitrux; urgency=medium
 
   * Update icons.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Thu, 28 Abr 2022 20:02:00 -0500
- 
+
 luv-icon-theme (0.5.2) nitrux; urgency=medium
 
   * Add icons.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Mon, 11 Abr 2022 00:52:00 -0500
- 
+
 luv-icon-theme (0.5.1) nitrux; urgency=medium
 
   * Fix link.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sat, 26 Feb 2022 12:26:00 -0500
- 
+
 luv-icon-theme (0.5.0) nitrux; urgency=medium
 
   * Add icons.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Fri, 25 Feb 2022 22:22:00 -0500
- 
+
 luv-icon-theme (0.4.9.99) nitrux; urgency=medium
 
   * Add icons.
