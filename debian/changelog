@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.7) nitrux; urgency=medium
+
+  * Add icon for wireless networks.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 14 Dec 2025 08:55:00 -0500
+
 luv-icon-theme (0.6.6) nitrux; urgency=medium
 
   * Update cinderward and wirecloak icons.
