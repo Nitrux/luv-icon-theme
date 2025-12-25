@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.8) nitrux; urgency=medium
+
+  * Update icon-theme.cache and add inherits for fallback.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 24 Dec 2025 19:40:00 -0500
+
 luv-icon-theme (0.6.7) nitrux; urgency=medium
 
   * Add icon for wireless networks.
