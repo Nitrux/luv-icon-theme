@@ -1,3 +1,9 @@
+luv-icon-theme (0.6.9) nitrux; urgency=medium
+
+  * Fix icons positioning.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 30 Mar 2026 16:39:00 -0500
+
 luv-icon-theme (0.6.8) nitrux; urgency=medium
 
   * Update icon-theme.cache and add inherits for fallback.

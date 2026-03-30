@@ -2,30 +2,30 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="ktip.svg">
-<defs
-    id="defs3051">
-<style
-    type="text/css"
-    id="current-color-scheme">
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="computer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
     </style>
-</defs>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -34,8 +34,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="26.40625"
-     inkscape:cx="16.522267"
-     inkscape:cy="8.3219215"
+     inkscape:cx="10.300592"
+     inkscape:cy="4.7147929"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -44,45 +44,54 @@
      borderlayer="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2496"
-     inkscape:window-height="956"
+     inkscape:window-width="1263"
+     inkscape:window-height="648"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
        empspacing="2"
        originx="-3"
-       originy="-3.0000174" />
+       originy="-3.0000174"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
     <sodipodi:guide
        position="0,14.999983"
        orientation="0,1"
        id="guide4140"
        inkscape:label="Icon Max Height"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,0.9999826"
        orientation="0,1"
        id="guide4142"
        inkscape:label="Icon Baseline"
-       inkscape:color="rgb(233,30,99)" />
+       inkscape:color="rgb(233,30,99)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="8,-1.74e-05"
        orientation="1,0"
        id="guide4144"
        inkscape:label="Center Vertical"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="16,7.9999826"
        orientation="0,1"
        id="guide4146"
        inkscape:label="Center Horizontal"
-       inkscape:color="rgb(221,44,0)" />
+       inkscape:color="rgb(221,44,0)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -102,9 +111,11 @@
      id="layer1"
      transform="translate(-3,-1033.3622)">
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 11 0 C 9.8919807 0 9 0.89198072 9 2 L 9 13 C 9 14.108019 9.8919807 15 11 15 L 14 15 C 15.108019 15 16 14.108019 16 13 L 16 2 C 16 0.89198072 15.108019 0 14 0 L 11 0 z M 11 1 L 14 1 C 14.554019 1 15 1.4459807 15 2 L 15 13 C 15 13.554019 14.554019 14 14 14 L 11 14 C 10.445981 14 10 13.554019 10 13 L 10 2 C 10 1.4459807 10.445981 1 11 1 z M 2 3 C 0.8919807 3 0 3.892 0 5 L 0 11 C 0 12.108 0.8919807 13 2 13 L 6 13 L 6 14 L 5 15 L 9 15 L 8 14 L 8 13 L 8 12 L 2 12 C 1.4459807 12 1 11.554 1 11 L 1 5 C 1 4.446 1.4459807 4 2 4 L 8 4 L 8 3 L 2 3 z M 11 3 L 11 4 L 14 4 L 14 3 L 11 3 z M 11 5 L 11 6 L 14 6 L 14 5 L 11 5 z M 13.5 8 A 0.5 0.5 0 0 0 13 8.5 A 0.5 0.5 0 0 0 13.5 9 A 0.5 0.5 0 0 0 14 8.5 A 0.5 0.5 0 0 0 13.5 8 z "
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Text"
+       d="m 11,0.9999826 c -1.1080193,0 -2,0.8919807 -2,2 V 13 c 0,1.108019 0.8919807,2 2,2 h 3 c 1.108019,0 2,-0.891981 2,-2 V 2.9999826 c 0,-1.1080193 -0.891981,-2 -2,-2 z m 0,1 h 3 c 0.554019,0 1,0.4459807 1,1 V 13 c 0,0.554019 -0.445981,1 -1,1 h -3 c -0.554019,0 -1,-0.445981 -1,-1 V 2.9999826 c 0,-0.5540193 0.445981,-1 1,-1 z M 2,3 C 0.8919807,3 0,3.892 0,5 v 6 c 0,1.108 0.8919807,2 2,2 h 4 v 1 L 5,15 H 9 L 8,14 V 13 12 H 2 C 1.4459807,12 1,11.554 1,11 V 5 C 1,4.446 1.4459807,4 2,4 H 8 V 3 Z m 9,0.9999826 v 1 h 3 v -1 z m 0,2 v 1 h 3 v -1 z M 13.5,8 C 13.223858,8 13,8.2238576 13,8.5 13,8.7761424 13.223858,9 13.5,9 13.776142,9 14,8.7761424 14,8.5 14,8.2238576 13.776142,8 13.5,8 Z"
        transform="translate(3,1033.3622)"
-       id="rect4140" />
+       id="rect4140"
+       sodipodi:nodetypes="sssssssssssssssssssssscccccccssssccsccccccccccsssss" />
   </g>
 </svg>
