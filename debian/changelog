@@ -1,6 +1,12 @@
+luv-icon-theme (0.7.0) nitrux; urgency=medium
+
+  * Add 16px media-playback-stop.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 02 Apr 2026 01:02:00 -0500
+
 luv-icon-theme (0.6.9) nitrux; urgency=medium
 
-  * Fix icons positioning.
+  * Fix 16px icons positioning.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Mon, 30 Mar 2026 16:39:00 -0500
 
