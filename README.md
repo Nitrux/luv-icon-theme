@@ -48,6 +48,7 @@ When reporting missing icons make sure to follow these steps so we can resolve i
 Some software uses absolute paths in their launchers, as such even when we add the icon the system will not load it, you may use [Hardcoded Icon Fixer](https://github.com/Foggalong/hardcode-fixer) to resolve this problem.
 
 # Issues
+
 If you find problems with the contents of this repository please create an issue.
 
 ©2019 Nitrux Latinoamericana S.C.
