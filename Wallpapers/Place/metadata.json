@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "uri_herrera@nitrux.in",
+                "Name": "Uri Herrera"
+            }
+        ],
+        "Id": "Place",
+        "License": "CC BY-SA 4.0",
+        "Name": "Place",
+        "Name[es]": "Lugar"
+    }
+}
