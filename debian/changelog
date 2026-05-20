@@ -1,3 +1,9 @@
+luv-icon-theme (0.7.1) nitrux; urgency=medium
+
+  * All wallpaper metadata was migrated from metadata.desktop to metadata.json so Plasma can index them as KPackage metadata.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 20 May 2026 15:41:00 -0500
+
 luv-icon-theme (0.7.0) nitrux; urgency=medium
 
   * Add 16px media-playback-stop.

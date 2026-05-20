@@ -28,9 +28,9 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-#################################################################################
-#   This makes compatible icons follow the selected color scheme in Plasma 5    #
-#################################################################################
+###############################################################################
+#   This makes compatible icons follow the selected color scheme in Plasma    #
+###############################################################################
 FollowsColorScheme=true
 
 #################################
@@ -311,13 +311,13 @@ Type=Fixed
 
 ##############
 
-#########################################################################################################
-#       Symbolic icons cause issues when used on KDE as the environment sometimes uses these            #
-#       icons instead of regular icons, thus they're disabled by default. All you have to do            #
-#       to enable them is remove the # character and add the text between [] at the end of the          #
-#       list of directories (at the beginning of this file). These icons are for GTK 3 based            #
-#       environments like Gnome Shell, Cinnamon, Budgie, etc.                                           #
-#########################################################################################################
+#######################################################################################################
+#       Symbolic icons cause issues when used on KDE as the environment sometimes uses these          #
+#       icons instead of regular icons, thus they're disabled by default. All you have to do          #
+#       to enable them is remove the # character and add the text between [] at the end of the        #
+#       list of directories (at the beginning of this file). These icons are for GTK based            #
+#       environments.                                                                                 #
+#######################################################################################################
 
 #[actions/symbolic]
 #Size=16
