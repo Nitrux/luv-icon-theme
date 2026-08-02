@@ -1,3 +1,9 @@
+luv-icon-theme (0.7.4) nitrux; urgency=medium
+
+  * Add icon for maui-settings.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 02 Aug 2026 16:03:00 -0500
+
 luv-icon-theme (0.7.3) nitrux; urgency=medium
 
   * Add more icons for maui-settings.
