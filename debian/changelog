@@ -1,3 +1,9 @@
+luv-icon-theme (0.7.6) nitrux; urgency=medium
+
+  * Add visibility icons in actions/16.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 05 Aug 2026 07:39:00 -0500
+
 luv-icon-theme (0.7.5) nitrux; urgency=medium
 
   * Fix audio icons in actions/16.
