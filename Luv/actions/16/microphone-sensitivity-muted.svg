@@ -8,7 +8,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="audio-volume-muted.svg"
+   sodipodi:docname="microphone-sensitivity-muted.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,19 @@
     }
     </style><style
        type="text/css"
-       id="current-color-scheme-0">
+       id="current-color-scheme-9">
+    .ColorScheme-Text {
+    color:#4d4d4d;
+    }
+    </style><style
+       type="text/css"
+       id="current-color-scheme-3">
+    .ColorScheme-Text {
+    color:#4d4d4d;
+    }
+    </style><style
+       type="text/css"
+       id="current-color-scheme-37">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
@@ -36,19 +48,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="5.03125"
-     inkscape:cy="11.8125"
+     inkscape:zoom="64"
+     inkscape:cx="6.1328125"
+     inkscape:cy="7.453125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1266"
-     inkscape:window-height="638"
+     inkscape:window-width="2542"
+     inkscape:window-height="1286"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -66,7 +78,7 @@
        spacingy="1"
        spacingx="1"
        units="px"
-       visible="false" /><sodipodi:guide
+       visible="true" /><sodipodi:guide
        position="0,14.999983"
        orientation="0,1"
        id="guide4140"
@@ -98,6 +110,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-3,-1033.3622)"><path
-       id="path1"
+       id="rect1"
        style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 10.949219 1034.3622 C 10.706831 1034.3752 10.471728 1034.4765 10.292969 1034.6552 L 7.7929688 1037.1552 L 12 1041.3622 L 12 1039.3622 L 12 1035.3622 C 11.999963 1034.9578 11.756391 1034.5932 11.382812 1034.4384 C 11.242676 1034.3804 11.094651 1034.3542 10.949219 1034.3622 z M 4 1035.3622 L 3 1036.3622 L 5 1038.3622 C 4.446 1038.3622 4 1038.8082 4 1039.3622 L 4 1043.3622 C 4 1043.9162 4.446 1044.3622 5 1044.3622 L 6.5859375 1044.3622 L 10.292969 1048.0692 C 10.922987 1048.6988 11.999712 1048.2529 12 1047.3622 L 12 1045.3622 L 16 1049.3622 L 17 1048.3622 L 12 1043.3622 L 6.7929688 1038.1552 L 4 1035.3622 z M 15.949219 1036.413 L 15.242188 1037.12 A 5.9999828 6.0000348 0 0 1 17 1041.3622 A 5.9999828 6.0000348 0 0 1 15.712891 1045.0751 L 16.423828 1045.786 A 6.9999743 7.0000348 0 0 0 18 1041.3622 A 6.9999743 7.0000348 0 0 0 15.949219 1036.413 z M 14.535156 1037.827 L 13.828125 1038.5341 A 4.0000072 4.0000348 0 0 1 15 1041.3622 A 4.0000072 4.0000348 0 0 1 14.283203 1043.6454 L 15 1044.3622 A 5 5.0000348 0 0 0 16 1041.3622 A 5 5.0000348 0 0 0 14.535156 1037.827 z M 5 1039.3622 L 6 1039.3622 L 6 1043.3622 L 5 1043.3622 L 5 1042.7763 L 5 1039.9481 L 5 1039.3622 z " /></g></svg>
+       d="M 4 1035.3622 L 3 1036.3622 L 7 1040.3622 L 7 1041.3622 C 7 1043.2327 8.2710112 1044.7953 10 1045.2372 L 10 1046.3622 C 10 1046.9162 10.446 1047.3622 11 1047.3622 C 11.554 1047.3622 12 1046.9162 12 1046.3622 L 12 1045.3622 L 16 1049.3622 L 17 1048.3622 L 13.287109 1044.6493 L 12.5625 1043.9247 L 11.824219 1043.1864 L 9 1040.3622 L 5 1036.3622 L 4 1035.3622 z M 11 1035.3622 C 9.892 1035.3622 9 1036.2542 9 1037.3622 L 9 1038.3622 L 12.824219 1042.1864 C 12.937264 1041.9354 13 1041.6563 13 1041.3622 L 13 1037.3622 C 13 1036.2542 12.108 1035.3622 11 1035.3622 z M 14 1040.3622 L 14 1041.3622 C 14 1041.9359 13.83985 1042.4702 13.5625 1042.9247 L 14.287109 1043.6493 C 14.737043 1043.0019 15 1042.2137 15 1041.3622 L 15 1040.3622 L 14 1040.3622 z M 8 1041.3622 L 11 1044.3622 C 10.649048 1044.3622 10.31251 1044.3022 10 1044.1923 C 8.8325747 1043.7822 8 1042.6732 8 1041.3622 z " /></g></svg>
