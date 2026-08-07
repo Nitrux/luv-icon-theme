@@ -1,3 +1,9 @@
+luv-icon-theme (0.7.7) nitrux; urgency=medium
+
+  * Add couple icons for maui-settings.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 07 Aug 2026 07:12:00 -0500
+
 luv-icon-theme (0.7.6) nitrux; urgency=medium
 
   * Add visibility icons in actions/16.
