@@ -2,30 +2,30 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="smartphone.svg">
-<defs
-    id="defs3051">
-<style
-    type="text/css"
-    id="current-color-scheme">
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="smartphone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
     .ColorScheme-Text {
     color:#4d4d4d;
     }
     </style>
-</defs>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="37.5"
-     inkscape:cx="10.782551"
-     inkscape:cy="8.4319365"
+     inkscape:zoom="64"
+     inkscape:cx="6.8984375"
+     inkscape:cy="7.53125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -44,21 +44,27 @@
      borderlayer="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1018"
+     inkscape:window-width="1266"
+     inkscape:window-height="1286"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
        empspacing="2"
        originx="-3"
-       originy="-3.0000174" />
+       originy="-3.0000174"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
     <sodipodi:guide
        position="6,14.999983"
        orientation="0,1"
@@ -106,9 +112,10 @@
      id="layer1"
      transform="translate(-3,-1033.3622)">
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
-       d="M 5 1 C 3.8919807 1 3 1.8919807 3 3 L 3 13 C 3 14.108019 3.8919807 15 5 15 L 11 15 C 12.108019 15 13 14.108019 13 13 L 13 3 C 13 1.8919807 12.108019 1 11 1 L 5 1 z M 5 2 L 11 2 C 11.554019 2 12 2.4459807 12 3 L 12 12 L 4 12 L 4 3 C 4 2.4459807 4.4459807 2 5 2 z M 7 3 L 7 4 L 9 4 L 9 3 L 7 3 z M 4 13 L 12 13 C 12 13.554019 11.554019 14 11 14 L 5 14 C 4.4459807 14 4 13.554019 4 13 z "
-       transform="translate(3,1033.3622)"
-       id="rect824" />
+       id="rect824"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Text"
+       d="M 6 1 C 4.8919807 1 4 1.8919807 4 3 L 4 13 C 4 14.108019 4.8919807 15 6 15 L 10 15 C 11.108019 15 12 14.108019 12 13 L 12 3 C 12 1.8919807 11.108019 1 10 1 L 6 1 z M 6 2 L 10 2 C 10.554019 2 11 2.4459807 11 3 L 11 5 L 11 12 L 11 13 C 11 13.554019 10.554019 14 10 14 L 10 13 L 6 13 L 6 14 C 5.8961261 14 5.7952242 13.984208 5.7011719 13.955078 C 5.6698199 13.945378 5.639305 13.934485 5.609375 13.921875 C 5.2502219 13.770467 5.000007 13.415494 5 13 L 5 12 L 5 5 L 5 3 C 5 2.4459807 5.4459807 2 6 2 z M 7 3 L 7 4 L 9 4 L 9 3 L 7 3 z "
+       transform="translate(3,1033.3622)" />
   </g>
 </svg>

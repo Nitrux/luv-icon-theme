@@ -1,3 +1,10 @@
+luv-icon-theme (0.7.8) nitrux; urgency=medium
+
+  * Add 16px device icons for memory, battery states, Bluetooth, and disconnected networks.
+  * Add 16px power-profile status icons for performance, balanced, and power-saver modes.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 09 Aug 2026 09:02:00 -0500
+
 luv-icon-theme (0.7.7) nitrux; urgency=medium
 
   * Add couple icons for maui-settings.

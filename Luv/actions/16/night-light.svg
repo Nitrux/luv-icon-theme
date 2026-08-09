@@ -8,7 +8,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="view-split-left-right.svg"
+   sodipodi:docname="night-light.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="52.546873"
-     inkscape:cx="9.2013088"
-     inkscape:cy="7.2887306"
+     inkscape:zoom="43.125"
+     inkscape:cx="8.5913044"
+     inkscape:cy="3.5478261"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -63,7 +63,8 @@
        originy="-3.0000174"
        spacingy="1"
        spacingx="1"
-       units="px" />
+       units="px"
+       visible="true" />
     <sodipodi:guide
        position="0,14.999983"
        orientation="0,1"
@@ -111,17 +112,8 @@
      id="layer1"
      transform="translate(-3,-1033.3622)">
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text"
-       d="M 3 2 C 1.8954305 2 1 2.8954305 1 4 L 1 12 C 1 13.104569 1.8954305 14 3 14 L 13 14 C 14.104569 14 15 13.104569 15 12 L 15 4 C 15 2.8954305 14.104569 2 13 2 L 3 2 z M 13.5 3 A 0.5 0.5 0 0 1 14 3.5 A 0.5 0.5 0 0 1 13.5 4 A 0.5 0.5 0 0 1 13 3.5 A 0.5 0.5 0 0 1 13.5 3 z M 2 5 L 8 5 L 8 12 L 8 13 L 7 13 L 3 13 C 2.445981 13 2 12.554 2 12 L 2 5 z M 9 5 L 14 5 L 14 12 C 14 12.554 13.554019 13 13 13 L 9 13 L 9 12 L 9 5 z "
-       transform="translate(3,1033.3622)"
-       id="rect4140" />
-    <rect
-       style="fill:currentColor;fill-opacity:0.5;stroke:none" class="ColorScheme-Text"
-       id="rect1"
-       width="3"
-       height="6"
-       x="13"
-       y="1039.3622" />
+       id="path3"
+       style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"
+       d="M 11 1034.4286 C 8.2385763 1034.4286 6 1036.6672 6 1039.4286 C 5.9996881 1041.2152 6.9527245 1042.8672 8.5 1043.7606 L 8.5 1043.1786 L 13.5 1043.1786 L 13.5 1043.7606 C 15.047275 1042.8672 16.000312 1041.2152 16 1039.4286 C 16 1036.6672 13.761424 1034.4286 11 1034.4286 z M 11 1035.3622 L 11.5 1035.3622 C 11.777 1035.3622 12 1035.5852 12 1035.8622 C 12 1036.1392 11.777 1036.3622 11.5 1036.3622 L 11 1036.3622 A 3 2.9999895 0 0 0 8 1039.3622 L 8 1039.8622 C 8 1040.1392 7.777 1040.3622 7.5 1040.3622 C 7.223 1040.3622 7 1040.1392 7 1039.8622 L 7 1039.3622 A 4 3.9999862 0 0 1 11 1035.3622 z M 9 1044.3622 L 9 1045.3622 L 10 1045.3622 L 10 1046.3622 L 9 1046.3622 C 9 1046.9162 9.446 1047.3622 10 1047.3622 L 10 1047.8622 C 10 1048.1392 10.223 1048.3622 10.5 1048.3622 L 11.5 1048.3622 C 11.777 1048.3622 12 1048.1392 12 1047.8622 L 12 1047.3622 C 12.554 1047.3622 13 1046.9162 13 1046.3622 L 12 1046.3622 L 12 1045.3622 L 13 1045.3622 L 13 1044.3622 L 9 1044.3622 z " />
   </g>
 </svg>

@@ -8,7 +8,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="audio-input-microphone.svg"
+   sodipodi:docname="network-disconnect.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,6 +23,12 @@
     .ColorScheme-Text {
     color:#4d4d4d;
     }
+    </style><style
+       type="text/css"
+       id="current-color-scheme-7">
+    .ColorScheme-Text {
+    color:#4d4d4d;
+    }
     </style></defs><sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -30,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="4.4967572"
-     inkscape:cy="9.2586794"
+     inkscape:zoom="32"
+     inkscape:cx="5.171875"
+     inkscape:cy="6.53125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -50,7 +56,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:pagecheckerboard="1"
+     inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"><inkscape:grid
        type="xygrid"
        id="grid4136"
@@ -92,8 +98,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-3,-1033.3622)"><path
-       id="rect1"
+       id="rect837"
        style="fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-Text"
-       d="m 11,1034.3622 c -1.108,0 -2,0.892 -2,2 v 6 c 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 v -6 c 0,-1.108 -0.892,-2 -2,-2 z m -4,7 v 1 c 0,1.8705 1.2710112,3.4331 3,3.875 v 1.125 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -1.125 c 1.728989,-0.4419 3,-2.0045 3,-3.875 v -1 h -1 v 1 c 0,1.311 -0.832575,2.42 -2,2.8301 -0.31252,0.1098 -0.649036,0.1699 -1,0.1699 -0.350952,0 -0.68749,-0.06 -1,-0.1699 -1.1674253,-0.4101 -2,-1.5191 -2,-2.8301 v -1 z"
-       sodipodi:nodetypes="ssssssscscssscsccscscscc" /></g></svg>
+       d="M 4 1035.3622 L 3 1036.3622 L 4.5839844 1037.9462 C 4.2224847 1038.3077 4 1038.8082 4 1039.3622 L 4 1040.3622 C 4 1041.4702 4.8919807 1042.3622 6 1042.3622 L 7 1042.3622 L 7 1041.3622 L 6 1041.3622 C 5.4459807 1041.3622 5 1040.9162 5 1040.3622 L 5 1039.3622 C 5 1039.0852 5.112219 1038.8359 5.2929688 1038.6552 L 8.1757812 1041.538 C 8.0627365 1041.789 8 1042.0681 8 1042.3622 L 8 1043.3622 C 8 1044.4702 8.8919807 1045.3622 10 1045.3622 L 12 1045.3622 L 16 1049.3622 L 17 1048.3622 L 14 1045.3622 L 13 1044.3622 L 10 1041.3622 L 9.1757812 1040.538 L 7 1038.3622 L 6 1037.3622 L 4 1035.3622 z M 8 1037.3622 L 9 1038.3622 L 12 1038.3622 C 12.554019 1038.3622 13 1038.8082 13 1039.3622 L 13 1040.3622 C 13 1040.9162 12.554019 1041.3622 12 1041.3622 L 12.824219 1042.1864 C 13.51887 1041.8735 14 1041.1761 14 1040.3622 L 14 1039.3622 C 14 1038.2542 13.108019 1037.3622 12 1037.3622 L 8 1037.3622 z M 15 1040.3622 L 15 1041.3622 L 16 1041.3622 C 16.554019 1041.3622 17 1041.8082 17 1042.3622 L 17 1043.3622 C 17 1043.9162 16.554019 1044.3622 16 1044.3622 L 15 1044.3622 L 16 1045.3622 C 17.108019 1045.3622 18 1044.4702 18 1043.3622 L 18 1042.3622 C 18 1041.2542 17.108019 1040.3622 16 1040.3622 L 15 1040.3622 z M 9 1042.3622 L 11 1044.3622 L 10 1044.3622 C 9.4459807 1044.3622 9 1043.9162 9 1043.3622 L 9 1042.3622 z " /></g></svg>
