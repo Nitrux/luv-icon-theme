@@ -1,8 +1,14 @@
+luv-icon-theme (0.8.0) nitrux; urgency=medium
+
+  * Add 16px icons for maui-settings sidebar.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 13 Aug 2026 01:23:00 -0500
+
 luv-icon-theme (0.7.9) nitrux; urgency=medium
 
   * Add 16px icon for maui-settings sidebar.
 
- -- Uri Herrera <uri_herrera@nxos.org>  MOn, 10 Aug 2026 06:52:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 10 Aug 2026 06:52:00 -0500
 
 luv-icon-theme (0.7.8) nitrux; urgency=medium
 
