@@ -1,3 +1,9 @@
+luv-icon-theme (0.8.1) nitrux; urgency=medium
+
+  * Add 16px icons for mauikit-imagetools editor.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 18 Aug 2026 15:16:00 -0500
+
 luv-icon-theme (0.8.0) nitrux; urgency=medium
 
   * Add 16px icons for maui-settings sidebar.
