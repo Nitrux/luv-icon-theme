@@ -1,3 +1,9 @@
+luv-icon-theme (0.8.2) nitrux; urgency=medium
+
+  * Add 16px icons for valenz.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 20 Aug 2026 03:17:00 -0500
+
 luv-icon-theme (0.8.1) nitrux; urgency=medium
 
   * Add 16px icons for mauikit-imagetools editor.
