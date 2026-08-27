@@ -1,6 +1,6 @@
 luv-icon-theme (0.8.4) nitrux; urgency=medium
 
-  * Use corrcet icons for vvave and remove unused icons.
+  * Use correct icons for vvave and remove unused icons.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Mon, 24 Aug 2026 17:57:00 -0500
 
