@@ -1,3 +1,9 @@
+luv-icon-theme (0.8.5) nitrux; urgency=medium
+
+  * Add icons for appfinder.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 10 Sep 2026 14:41:00 -0500
+
 luv-icon-theme (0.8.4) nitrux; urgency=medium
 
   * Use correct icons for vvave and remove unused icons.
