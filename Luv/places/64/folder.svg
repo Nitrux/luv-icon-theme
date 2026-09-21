@@ -18,7 +18,18 @@
    sodipodi:docname="folder.svg"
    viewBox="0 0 64 64">
   <defs
-     id="defs5455" />
+     id="defs5455">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Highlight {
+      color:#00bcd4;
+      }
+      .ColorScheme-Accent {
+      color:#00bcd4;
+      }
+    </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -107,11 +118,16 @@
        height="64"
        width="64" />
     <path
-       style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 417.57136,496.7981 26.00009,0 c 1.66196,0 2.99995,1.3379 2.99995,2.9999 l 0,6 c 0,1.662 -1.33799,2.9999 -2.99995,2.9999 l -26.00009,0 c -1.66197,0 -2.99995,-1.3379 -2.99995,-2.9999 l 0,-6 c 0,-1.662 1.33798,-2.9999 2.99995,-2.9999 z"
        id="rect4194"
+       class="ColorScheme-Highlight ColorScheme-Accent"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.09;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 417.57136,496.7981 26.00009,0 c 1.66196,0 2.99995,1.3379 2.99995,2.9999 l 0,6 c 0,1.662 -1.33799,2.9999 -2.99995,2.9999 l -26.00009,0 c -1.66197,0 -2.99995,-1.3379 -2.99995,-2.9999 l 0,-6 c 0,-1.662 1.33798,-2.9999 2.99995,-2.9999 z"
+       id="rect4194-shadow" />
     <path
        style="opacity:1;fill:#e8e5dc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 418.57142,498.798 24,0 c 1.108,0 2,0.892 2,2 l 0,3 c 0,1.108 -0.892,2 -2,2 l -24,0 c -1.108,0 -2,-0.892 -2,-2 l 0,-3 c 0,-1.108 0.892,-2 2,-2 z"
@@ -126,12 +142,13 @@
        sodipodi:nodetypes="sssssssss" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#00bcd4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 389.57141,493.798 c -1.66197,0 -3,1.338 -3,3 l 0,43 c 0,1.662 1.33803,3 3,3 l 27,0 27,0 c 1.66197,0 3,-1.338 3,-3 l 0,-34 c 0,-1.662 -1.33803,-3 -3,-3 l -24,0 -2,-8 c -0.13437,-0.5375 -0.446,-1 -1,-1 l -18,0 -9,0 z"
-       id="path4220" />
+       id="path4220"
+       class="ColorScheme-Highlight ColorScheme-Accent" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#4dd0e1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 389.57141,494.798 c -1.108,0 -2,0.892 -2,2 l 0,43 c 0,1.108 0.892,2 2,2 l 27,0 27,0 c 1.108,0 2,-0.892 2,-2 l 0,-34 c 0,-1.108 -0.892,-2 -2,-2 l -25,0 -2,-8 c -0.13437,-0.5375 -0.446,-1 -1,-1 l -20,0 -6,0 z"
        id="path4223" />
   </g>
