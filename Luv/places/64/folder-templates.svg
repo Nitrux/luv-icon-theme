@@ -18,7 +18,18 @@
    sodipodi:docname="folder-templates.svg"
    viewBox="0 0 64 64">
   <defs
-     id="defs5455" />
+     id="defs5455">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Highlight {
+      color:#00bcd4;
+      }
+      .ColorScheme-Accent {
+      color:#00bcd4;
+      }
+    </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -113,8 +124,13 @@
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
          id="rect4194"
+         class="ColorScheme-Highlight ColorScheme-Accent"
          d="m 417.57136,496.7981 26.00009,0 c 1.66196,0 2.99995,1.3379 2.99995,2.9999 l 0,6 c 0,1.662 -1.33799,2.9999 -2.99995,2.9999 l -26.00009,0 c -1.66197,0 -2.99995,-1.3379 -2.99995,-2.9999 l 0,-6 c 0,-1.662 1.33798,-2.9999 2.99995,-2.9999 z"
-         style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:0.09;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 417.57136,496.7981 26.00009,0 c 1.66196,0 2.99995,1.3379 2.99995,2.9999 l 0,6 c 0,1.662 -1.33799,2.9999 -2.99995,2.9999 l -26.00009,0 c -1.66197,0 -2.99995,-1.3379 -2.99995,-2.9999 l 0,-6 c 0,-1.662 1.33798,-2.9999 2.99995,-2.9999 z"
+         id="rect4194-shadow" />
       <path
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
@@ -129,13 +145,14 @@
          style="opacity:1;fill:#fffbec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="path4220"
+         class="ColorScheme-Highlight ColorScheme-Accent"
          d="m 389.57141,493.798 c -1.66197,0 -3,1.338 -3,3 l 0,43 c 0,1.662 1.33803,3 3,3 l 27,0 27,0 c 1.66197,0 3,-1.338 3,-3 l 0,-34 c 0,-1.662 -1.33803,-3 -3,-3 l -24,0 -2,-8 c -0.13437,-0.5375 -0.446,-1 -1,-1 l -18,0 -9,0 z"
-         style="opacity:1;fill:#00bcd4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path4223"
          d="m 389.57141,494.798 c -1.108,0 -2,0.892 -2,2 l 0,43 c 0,1.108 0.892,2 2,2 l 27,0 27,0 c 1.108,0 2,-0.892 2,-2 l 0,-34 c 0,-1.108 -0.892,-2 -2,-2 l -25,0 -2,-8 c -0.13437,-0.5375 -0.446,-1 -1,-1 l -20,0 -6,0 z"
-         style="opacity:1;fill:#4dd0e1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
     <image
@@ -201,9 +218,16 @@ WcU2hv7ihRBCCCHEtPwPEfBZ8xUzsjAAAAAASUVORK5CYII=
        height="24"
        width="24" />
     <path
-       style="color:#4d4d4d;fill:#b2ebf2;fill-opacity:1;stroke:none"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
        d="M 28.996094 28 C 28.730864 27.99988 28.476473 28.105289 28.289062 28.292969 L 24.294922 32.287109 C 24.108432 32.474359 24.003786 32.727908 24.003906 32.992188 L 24.003906 33.980469 C 24.003906 33.987369 24 33.993 24 34 C 24 34.0069 24.003776 34.012531 24.003906 34.019531 L 24.003906 35 L 24 35 L 24 46 C 24 47.10801 24.892 48 26 48 L 30 48 L 30 46 L 26 46 L 26 35.988281 L 26 35 L 30 35 C 30.55384 34.98615 31 34.554 31 34 L 31 30 L 38 30 L 38 35 L 39.5 35 L 40 35 L 40 30 C 40 28.89199 39.10801 28 38 28 L 31 28 L 28.996094 28 z M 39.5 35 A 0.5 0.5 0 0 0 39 35.5 A 0.5 0.5 0 0 0 39.5 36 A 0.5 0.5 0 0 0 40 35.5 A 0.5 0.5 0 0 0 39.5 35 z M 29 30.404297 L 29 33 L 26.408203 33 L 29 30.404297 z M 38.5 36 A 0.5 0.5 0 0 0 38 36.5 A 0.5 0.5 0 0 0 38.5 37 A 0.5 0.5 0 0 0 39 36.5 A 0.5 0.5 0 0 0 38.5 36 z M 39.5 37 A 0.5 0.5 0 0 0 39 37.5 A 0.5 0.5 0 0 0 39.5 38 A 0.5 0.5 0 0 0 40 37.5 A 0.5 0.5 0 0 0 39.5 37 z M 38.5 38 A 0.5 0.5 0 0 0 38 38.5 A 0.5 0.5 0 0 0 38.5 39 A 0.5 0.5 0 0 0 39 38.5 A 0.5 0.5 0 0 0 38.5 38 z M 39.5 39 A 0.5 0.5 0 0 0 39 39.5 A 0.5 0.5 0 0 0 39.5 40 A 0.5 0.5 0 0 0 40 39.5 A 0.5 0.5 0 0 0 39.5 39 z M 38.5 40 A 0.5 0.5 0 0 0 38 40.5 A 0.5 0.5 0 0 0 38.5 41 A 0.5 0.5 0 0 0 39 40.5 A 0.5 0.5 0 0 0 38.5 40 z M 39.5 41 A 0.5 0.5 0 0 0 39 41.5 A 0.5 0.5 0 0 0 39.5 42 A 0.5 0.5 0 0 0 40 41.5 A 0.5 0.5 0 0 0 39.5 41 z M 38.5 42 A 0.5 0.5 0 0 0 38 42.5 A 0.5 0.5 0 0 0 38.5 43 A 0.5 0.5 0 0 0 39 42.5 A 0.5 0.5 0 0 0 38.5 42 z M 39.5 43 A 0.5 0.5 0 0 0 39 43.5 A 0.5 0.5 0 0 0 39.5 44 A 0.5 0.5 0 0 0 40 43.5 A 0.5 0.5 0 0 0 39.5 43 z M 38.5 44 A 0.5 0.5 0 0 0 38 44.5 A 0.5 0.5 0 0 0 38.5 45 A 0.5 0.5 0 0 0 39 44.5 A 0.5 0.5 0 0 0 38.5 44 z M 39.5 45 A 0.5 0.5 0 0 0 39 45.5 A 0.5 0.5 0 0 0 39.5 46 A 0.5 0.5 0 0 0 40 45.5 A 0.5 0.5 0 0 0 39.5 45 z M 32.5 46 A 0.5 0.5 0 0 0 32 46.5 A 0.5 0.5 0 0 0 32.5 47 A 0.5 0.5 0 0 0 33 46.5 A 0.5 0.5 0 0 0 32.5 46 z M 34.5 46 A 0.5 0.5 0 0 0 34 46.5 A 0.5 0.5 0 0 0 34.5 47 A 0.5 0.5 0 0 0 35 46.5 A 0.5 0.5 0 0 0 34.5 46 z M 36.5 46 A 0.5 0.5 0 0 0 36 46.5 A 0.5 0.5 0 0 0 36.5 47 A 0.5 0.5 0 0 0 37 46.5 A 0.5 0.5 0 0 0 36.5 46 z M 38.5 46 A 0.5 0.5 0 0 0 38 46.5 A 0.5 0.5 0 0 0 38.5 47 A 0.5 0.5 0 0 0 39 46.5 A 0.5 0.5 0 0 0 38.5 46 z M 31.5 47 A 0.5 0.5 0 0 0 31 47.5 A 0.5 0.5 0 0 0 31.5 48 A 0.5 0.5 0 0 0 32 47.5 A 0.5 0.5 0 0 0 31.5 47 z M 33.5 47 A 0.5 0.5 0 0 0 33 47.5 A 0.5 0.5 0 0 0 33.5 48 A 0.5 0.5 0 0 0 34 47.5 A 0.5 0.5 0 0 0 33.5 47 z M 35.5 47 A 0.5 0.5 0 0 0 35 47.5 A 0.5 0.5 0 0 0 35.5 48 A 0.5 0.5 0 0 0 36 47.5 A 0.5 0.5 0 0 0 35.5 47 z M 37.5 47 A 0.5 0.5 0 0 0 37 47.5 A 0.5 0.5 0 0 0 37.5 48 A 0.5 0.5 0 0 0 38 47.5 A 0.5 0.5 0 0 0 37.5 47 z "
        transform="translate(384.57143,483.798)"
-       id="rect4141" />
+       id="rect4141"
+       class="ColorScheme-Highlight ColorScheme-Accent" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.7;stroke:none"
+       d="M 28.996094 28 C 28.730864 27.99988 28.476473 28.105289 28.289062 28.292969 L 24.294922 32.287109 C 24.108432 32.474359 24.003786 32.727908 24.003906 32.992188 L 24.003906 33.980469 C 24.003906 33.987369 24 33.993 24 34 C 24 34.0069 24.003776 34.012531 24.003906 34.019531 L 24.003906 35 L 24 35 L 24 46 C 24 47.10801 24.892 48 26 48 L 30 48 L 30 46 L 26 46 L 26 35.988281 L 26 35 L 30 35 C 30.55384 34.98615 31 34.554 31 34 L 31 30 L 38 30 L 38 35 L 39.5 35 L 40 35 L 40 30 C 40 28.89199 39.10801 28 38 28 L 31 28 L 28.996094 28 z M 39.5 35 A 0.5 0.5 0 0 0 39 35.5 A 0.5 0.5 0 0 0 39.5 36 A 0.5 0.5 0 0 0 40 35.5 A 0.5 0.5 0 0 0 39.5 35 z M 29 30.404297 L 29 33 L 26.408203 33 L 29 30.404297 z M 38.5 36 A 0.5 0.5 0 0 0 38 36.5 A 0.5 0.5 0 0 0 38.5 37 A 0.5 0.5 0 0 0 39 36.5 A 0.5 0.5 0 0 0 38.5 36 z M 39.5 37 A 0.5 0.5 0 0 0 39 37.5 A 0.5 0.5 0 0 0 39.5 38 A 0.5 0.5 0 0 0 40 37.5 A 0.5 0.5 0 0 0 39.5 37 z M 38.5 38 A 0.5 0.5 0 0 0 38 38.5 A 0.5 0.5 0 0 0 38.5 39 A 0.5 0.5 0 0 0 39 38.5 A 0.5 0.5 0 0 0 38.5 38 z M 39.5 39 A 0.5 0.5 0 0 0 39 39.5 A 0.5 0.5 0 0 0 39.5 40 A 0.5 0.5 0 0 0 40 39.5 A 0.5 0.5 0 0 0 39.5 39 z M 38.5 40 A 0.5 0.5 0 0 0 38 40.5 A 0.5 0.5 0 0 0 38.5 41 A 0.5 0.5 0 0 0 39 40.5 A 0.5 0.5 0 0 0 38.5 40 z M 39.5 41 A 0.5 0.5 0 0 0 39 41.5 A 0.5 0.5 0 0 0 39.5 42 A 0.5 0.5 0 0 0 40 41.5 A 0.5 0.5 0 0 0 39.5 41 z M 38.5 42 A 0.5 0.5 0 0 0 38 42.5 A 0.5 0.5 0 0 0 38.5 43 A 0.5 0.5 0 0 0 39 42.5 A 0.5 0.5 0 0 0 38.5 42 z M 39.5 43 A 0.5 0.5 0 0 0 39 43.5 A 0.5 0.5 0 0 0 39.5 44 A 0.5 0.5 0 0 0 40 43.5 A 0.5 0.5 0 0 0 39.5 43 z M 38.5 44 A 0.5 0.5 0 0 0 38 44.5 A 0.5 0.5 0 0 0 38.5 45 A 0.5 0.5 0 0 0 39 44.5 A 0.5 0.5 0 0 0 38.5 44 z M 39.5 45 A 0.5 0.5 0 0 0 39 45.5 A 0.5 0.5 0 0 0 39.5 46 A 0.5 0.5 0 0 0 40 45.5 A 0.5 0.5 0 0 0 39.5 45 z M 32.5 46 A 0.5 0.5 0 0 0 32 46.5 A 0.5 0.5 0 0 0 32.5 47 A 0.5 0.5 0 0 0 33 46.5 A 0.5 0.5 0 0 0 32.5 46 z M 34.5 46 A 0.5 0.5 0 0 0 34 46.5 A 0.5 0.5 0 0 0 34.5 47 A 0.5 0.5 0 0 0 35 46.5 A 0.5 0.5 0 0 0 34.5 46 z M 36.5 46 A 0.5 0.5 0 0 0 36 46.5 A 0.5 0.5 0 0 0 36.5 47 A 0.5 0.5 0 0 0 37 46.5 A 0.5 0.5 0 0 0 36.5 46 z M 38.5 46 A 0.5 0.5 0 0 0 38 46.5 A 0.5 0.5 0 0 0 38.5 47 A 0.5 0.5 0 0 0 39 46.5 A 0.5 0.5 0 0 0 38.5 46 z M 31.5 47 A 0.5 0.5 0 0 0 31 47.5 A 0.5 0.5 0 0 0 31.5 48 A 0.5 0.5 0 0 0 32 47.5 A 0.5 0.5 0 0 0 31.5 47 z M 33.5 47 A 0.5 0.5 0 0 0 33 47.5 A 0.5 0.5 0 0 0 33.5 48 A 0.5 0.5 0 0 0 34 47.5 A 0.5 0.5 0 0 0 33.5 47 z M 35.5 47 A 0.5 0.5 0 0 0 35 47.5 A 0.5 0.5 0 0 0 35.5 48 A 0.5 0.5 0 0 0 36 47.5 A 0.5 0.5 0 0 0 35.5 47 z M 37.5 47 A 0.5 0.5 0 0 0 37 47.5 A 0.5 0.5 0 0 0 37.5 48 A 0.5 0.5 0 0 0 38 47.5 A 0.5 0.5 0 0 0 37.5 47 z "
+       transform="translate(384.57143,483.798)"
+       id="rect4141-tint"
+       class="ColorScheme-Highlight ColorScheme-Accent" />
   </g>
 </svg>

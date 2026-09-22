@@ -18,7 +18,18 @@
    sodipodi:docname="folder-publicshare.svg"
    viewBox="0 0 48 48">
   <defs
-     id="defs5455" />
+     id="defs5455">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Highlight {
+      color:#00bcd4;
+      }
+      .ColorScheme-Accent {
+      color:#00bcd4;
+      }
+    </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -139,8 +150,13 @@
          sodipodi:nodetypes="ccccccssccc"
          inkscape:connector-curvature="0"
          id="rect4161"
+         class="ColorScheme-Highlight ColorScheme-Accent"
          d="m 407.57145,499.798 0,3 0,10 0,4.00003 32,0 0,-5.00003 0,-9 c 0,-1.66199 -1.33803,-3.00755 -3,-3 l -22,0 -4,0 z"
-         style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782" />
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:0.09;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+         d="m 407.57145,499.798 0,3 0,10 0,4.00003 32,0 0,-5.00003 0,-9 c 0,-1.66199 -1.33803,-3.00755 -3,-3 l -22,0 -4,0 z"
+         id="rect4161-shadow" />
       <path
          id="rect4188"
          d="m 413.57145,501.79803 22,0 c 1.108,0 2,0.892 2,2 l 0,3 c 0,1.108 -0.892,2 -2,2 l -22,0 c -1.108,0 -2,-0.892 -2,-2 l 0,-3 c 0,-1.108 0.892,-2 2,-2 z"
@@ -155,14 +171,15 @@
       <path
          sodipodi:nodetypes="ssssccsssscssccs"
          id="path4221"
+         class="ColorScheme-Highlight ColorScheme-Accent"
          d="m 396.57145,496.79804 c -1.66199,10e-6 -3,1.33797 -3,2.99991 l 0,32.00017 c 0,1.66194 1.33801,2.99991 3,2.99991 l 15,0 6,0 19,0 c 1.66199,0 3,-1.33797 3,-2.99991 l 0,-24.00017 c 0,-1.66194 -1.33801,-2.99998 -3,-2.99991 l -19,0 -2,-7.00005 c -0.15219,-0.53267 -0.446,-1.00029 -1,-0.99998 l -2,0 -1,0 z"
-         style="opacity:1;fill:#00bcd4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ssssccsssscsscs"
          id="path4183"
          d="m 396.57145,497.79914 c -1.10799,0 -2,0.89198 -2,1.99993 l 0,31.99902 c 0,1.10796 0.89201,1.99994 2,1.99994 l 15,0 5,0 20,0 c 1.108,0 2,-0.89198 2,-1.99994 l 0,-23.99927 c 0,-1.10795 -0.89201,-2.00547 -2,-1.99994 l -20,0 -2,-6.99977 c -0.15219,-0.53267 -0.44669,-1.02764 -1,-0.99997 l -2,0 z"
-         style="opacity:1;fill:#4dd0e1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
          inkscape:connector-curvature="0" />
     </g>
     <image
@@ -218,9 +235,16 @@ YII=
        height="20"
        width="20" />
     <path
-       style="opacity:1;fill:#b2ebf2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 23.984375 20 A 1.0001966 1.0001 0 0 0 23.292969 20.292969 L 21.292969 22.292969 A 1.0001966 1.0001 0 0 0 22 24 L 23 24 L 23 26 C 23 26.554 23.446 27 24 27 C 24.554 27 25 26.554 25 26 L 25 24 L 26 24 A 1.0001966 1.0001 0 0 0 26.707031 22.292969 L 24.707031 20.292969 A 1.0001966 1.0001 0 0 0 23.984375 20 z M 19 24 C 17.89199 24 17 24.89199 17 26 L 17 34 C 17 35.10801 17.89199 36 19 36 L 29 36 C 30.10801 36 31 35.10801 31 34 L 31 26 C 31 24.89199 30.10801 24 29 24 L 27 24 L 27 26 L 29 26 L 29 34 L 19 34 L 19 26 L 21 26 L 21 24 L 19 24 z "
        transform="translate(392.57144,491.798)"
-       id="rect4168" />
+       id="rect4168"
+       class="ColorScheme-Highlight ColorScheme-Accent" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.7;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.984375 20 A 1.0001966 1.0001 0 0 0 23.292969 20.292969 L 21.292969 22.292969 A 1.0001966 1.0001 0 0 0 22 24 L 23 24 L 23 26 C 23 26.554 23.446 27 24 27 C 24.554 27 25 26.554 25 26 L 25 24 L 26 24 A 1.0001966 1.0001 0 0 0 26.707031 22.292969 L 24.707031 20.292969 A 1.0001966 1.0001 0 0 0 23.984375 20 z M 19 24 C 17.89199 24 17 24.89199 17 26 L 17 34 C 17 35.10801 17.89199 36 19 36 L 29 36 C 30.10801 36 31 35.10801 31 34 L 31 26 C 31 24.89199 30.10801 24 29 24 L 27 24 L 27 26 L 29 26 L 29 34 L 19 34 L 19 26 L 21 26 L 21 24 L 19 24 z "
+       transform="translate(392.57144,491.798)"
+       id="rect4168-tint"
+       class="ColorScheme-Highlight ColorScheme-Accent" />
   </g>
 </svg>

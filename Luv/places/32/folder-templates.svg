@@ -25,6 +25,12 @@
       .ColorScheme-Text {
         color:#4d4d4d;
       }
+      .ColorScheme-Highlight {
+      color:#00bcd4;
+      }
+      .ColorScheme-Accent {
+      color:#00bcd4;
+      }
       </style>
   </defs>
   <sodipodi:namedview
@@ -111,8 +117,17 @@
        height="32"
        width="32" />
     <rect
-       style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
        id="rect4264"
+       class="ColorScheme-Highlight ColorScheme-Accent"
+       width="20"
+       height="8.9999828"
+       x="11"
+       y="1027.3622"
+       ry="2.00002" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.09;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+       id="rect4264-shadow"
        width="20"
        height="8.9999828"
        x="11"
@@ -135,19 +150,27 @@
        y="1029.3622"
        ry="0" />
     <path
-       style="opacity:1;fill:#00bcd4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
        d="M 3 5 C 1.8919904 5 1 5.89199 1 7 L 1 28 C 1 29.10801 1.8919904 30 3 30 L 14 30 L 29 30 C 30.10801 30 31 29.10801 31 28 L 31 12 C 31 10.89199 30.10801 10 29 10 L 17.75 10 L 17 7 C 16.731271 5.9250821 16.108009 5 15 5 L 14 5 L 3 5 z "
        transform="translate(0,1020.3622)"
-       id="path4288" />
+       id="path4288"
+       class="ColorScheme-Highlight ColorScheme-Accent" />
     <path
-       style="opacity:1;fill:#4dd0e1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52777782"
        d="M 3 6 C 2.4459904 6 2 6.44599 2 7 L 2 28 C 2 28.55401 2.4459904 29 3 29 L 14 29 L 29 29 C 29.55401 29 30 28.55401 30 28 L 30 12 C 30 11.44599 29.55401 11 29 11 L 17 11 L 16 7 C 15.865635 6.4625411 15.554011 6 15 6 L 14 6 L 12 6 L 3 6 z "
        transform="translate(0,1020.3622)"
        id="path4285" />
     <path
-       style="opacity:1;fill:#b2ebf2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 14 14 C 13.733531 14.0015 13.478803 14.109781 13.292969 14.300781 L 11.306641 16.289062 C 11.112552 16.474863 11.0019 16.7313 11 17 L 11 25 C 11 25.5541 11.445855 26 12 26 L 15 26 L 15 24.5 L 15 24 L 13 24 L 13 20 L 15 20 C 15.554 20 16 19.554 16 19 L 16 18 L 16 17 L 16 16 L 19 16 L 19 18 L 19.5 18 L 21 18 L 21 15 C 21 14.4459 20.554145 14 20 14 L 14.005859 14 L 14 14 z M 19.5 18 A 0.5 0.5 0 0 0 19 18.5 A 0.5 0.5 0 0 0 19.5 19 A 0.5 0.5 0 0 0 20 18.5 A 0.5 0.5 0 0 0 19.5 18 z M 15 24.5 A 0.5 0.5 0 0 0 15.5 25 A 0.5 0.5 0 0 0 16 24.5 A 0.5 0.5 0 0 0 15.5 24 A 0.5 0.5 0 0 0 15 24.5 z M 14 16.40625 L 14 17 L 14 18 L 13 18 L 13 17.404297 L 14 16.40625 z M 20.5 19 A 0.5 0.5 0 0 0 20 19.5 A 0.5 0.5 0 0 0 20.5 20 A 0.5 0.5 0 0 0 21 19.5 A 0.5 0.5 0 0 0 20.5 19 z M 19.5 20 A 0.5 0.5 0 0 0 19 20.5 A 0.5 0.5 0 0 0 19.5 21 A 0.5 0.5 0 0 0 20 20.5 A 0.5 0.5 0 0 0 19.5 20 z M 20.5 21 A 0.5 0.5 0 0 0 20 21.5 A 0.5 0.5 0 0 0 20.5 22 A 0.5 0.5 0 0 0 21 21.5 A 0.5 0.5 0 0 0 20.5 21 z M 19.5 22 A 0.5 0.5 0 0 0 19 22.5 A 0.5 0.5 0 0 0 19.5 23 A 0.5 0.5 0 0 0 20 22.5 A 0.5 0.5 0 0 0 19.5 22 z M 20.5 23 A 0.5 0.5 0 0 0 20 23.5 A 0.5 0.5 0 0 0 20.5 24 A 0.5 0.5 0 0 0 21 23.5 A 0.5 0.5 0 0 0 20.5 23 z M 17.5 24 A 0.5 0.5 0 0 0 17 24.5 A 0.5 0.5 0 0 0 17.5 25 A 0.5 0.5 0 0 0 18 24.5 A 0.5 0.5 0 0 0 17.5 24 z M 19.5 24 A 0.5 0.5 0 0 0 19 24.5 A 0.5 0.5 0 0 0 19.5 25 A 0.5 0.5 0 0 0 20 24.5 A 0.5 0.5 0 0 0 19.5 24 z M 16.5 25 A 0.5 0.5 0 0 0 16 25.5 A 0.5 0.5 0 0 0 16.5 26 A 0.5 0.5 0 0 0 17 25.5 A 0.5 0.5 0 0 0 16.5 25 z M 18.5 25 A 0.5 0.5 0 0 0 18 25.5 A 0.5 0.5 0 0 0 18.5 26 A 0.5 0.5 0 0 0 19 25.5 A 0.5 0.5 0 0 0 18.5 25 z M 20.5 25 A 0.5 0.5 0 0 0 20 25.5 A 0.5 0.5 0 0 0 20.5 26 A 0.5 0.5 0 0 0 21 25.5 A 0.5 0.5 0 0 0 20.5 25 z "
        transform="translate(0,1020.3622)"
-       id="rect4201-6" />
+       id="rect4201-6"
+       class="ColorScheme-Highlight ColorScheme-Accent" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.7;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 14 14 C 13.733531 14.0015 13.478803 14.109781 13.292969 14.300781 L 11.306641 16.289062 C 11.112552 16.474863 11.0019 16.7313 11 17 L 11 25 C 11 25.5541 11.445855 26 12 26 L 15 26 L 15 24.5 L 15 24 L 13 24 L 13 20 L 15 20 C 15.554 20 16 19.554 16 19 L 16 18 L 16 17 L 16 16 L 19 16 L 19 18 L 19.5 18 L 21 18 L 21 15 C 21 14.4459 20.554145 14 20 14 L 14.005859 14 L 14 14 z M 19.5 18 A 0.5 0.5 0 0 0 19 18.5 A 0.5 0.5 0 0 0 19.5 19 A 0.5 0.5 0 0 0 20 18.5 A 0.5 0.5 0 0 0 19.5 18 z M 15 24.5 A 0.5 0.5 0 0 0 15.5 25 A 0.5 0.5 0 0 0 16 24.5 A 0.5 0.5 0 0 0 15.5 24 A 0.5 0.5 0 0 0 15 24.5 z M 14 16.40625 L 14 17 L 14 18 L 13 18 L 13 17.404297 L 14 16.40625 z M 20.5 19 A 0.5 0.5 0 0 0 20 19.5 A 0.5 0.5 0 0 0 20.5 20 A 0.5 0.5 0 0 0 21 19.5 A 0.5 0.5 0 0 0 20.5 19 z M 19.5 20 A 0.5 0.5 0 0 0 19 20.5 A 0.5 0.5 0 0 0 19.5 21 A 0.5 0.5 0 0 0 20 20.5 A 0.5 0.5 0 0 0 19.5 20 z M 20.5 21 A 0.5 0.5 0 0 0 20 21.5 A 0.5 0.5 0 0 0 20.5 22 A 0.5 0.5 0 0 0 21 21.5 A 0.5 0.5 0 0 0 20.5 21 z M 19.5 22 A 0.5 0.5 0 0 0 19 22.5 A 0.5 0.5 0 0 0 19.5 23 A 0.5 0.5 0 0 0 20 22.5 A 0.5 0.5 0 0 0 19.5 22 z M 20.5 23 A 0.5 0.5 0 0 0 20 23.5 A 0.5 0.5 0 0 0 20.5 24 A 0.5 0.5 0 0 0 21 23.5 A 0.5 0.5 0 0 0 20.5 23 z M 17.5 24 A 0.5 0.5 0 0 0 17 24.5 A 0.5 0.5 0 0 0 17.5 25 A 0.5 0.5 0 0 0 18 24.5 A 0.5 0.5 0 0 0 17.5 24 z M 19.5 24 A 0.5 0.5 0 0 0 19 24.5 A 0.5 0.5 0 0 0 19.5 25 A 0.5 0.5 0 0 0 20 24.5 A 0.5 0.5 0 0 0 19.5 24 z M 16.5 25 A 0.5 0.5 0 0 0 16 25.5 A 0.5 0.5 0 0 0 16.5 26 A 0.5 0.5 0 0 0 17 25.5 A 0.5 0.5 0 0 0 16.5 25 z M 18.5 25 A 0.5 0.5 0 0 0 18 25.5 A 0.5 0.5 0 0 0 18.5 26 A 0.5 0.5 0 0 0 19 25.5 A 0.5 0.5 0 0 0 18.5 25 z M 20.5 25 A 0.5 0.5 0 0 0 20 25.5 A 0.5 0.5 0 0 0 20.5 26 A 0.5 0.5 0 0 0 21 25.5 A 0.5 0.5 0 0 0 20.5 25 z "
+       transform="translate(0,1020.3622)"
+       id="rect4201-6-tint"
+       class="ColorScheme-Highlight ColorScheme-Accent" />
   </g>
 </svg>

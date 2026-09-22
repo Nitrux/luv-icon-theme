@@ -25,6 +25,12 @@
       .ColorScheme-Text {
         color:#4d4d4d;
       }
+      .ColorScheme-Highlight {
+      color:#00bcd4;
+      }
+      .ColorScheme-Accent {
+      color:#00bcd4;
+      }
       </style>
     <style
        type="text/css"
@@ -112,8 +118,13 @@
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
          id="rect4194-9"
+         class="ColorScheme-Highlight ColorScheme-Accent"
          d="m 417.57136,496.7981 26.00009,0 c 1.66196,0 2.99995,1.3379 2.99995,2.9999 l 0,6 c 0,1.662 -1.33799,2.9999 -2.99995,2.9999 l -26.00009,0 c -1.66197,0 -2.99995,-1.3379 -2.99995,-2.9999 l 0,-6 c 0,-1.662 1.33798,-2.9999 2.99995,-2.9999 z"
-         style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:0.09;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 417.57136,496.7981 26.00009,0 c 1.66196,0 2.99995,1.3379 2.99995,2.9999 l 0,6 c 0,1.662 -1.33799,2.9999 -2.99995,2.9999 l -26.00009,0 c -1.66197,0 -2.99995,-1.3379 -2.99995,-2.9999 l 0,-6 c 0,-1.662 1.33798,-2.9999 2.99995,-2.9999 z"
+         id="rect4194-shadow" />
       <path
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
@@ -128,13 +139,14 @@
          style="opacity:1;fill:#fffbec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="path4220-7"
+         class="ColorScheme-Highlight ColorScheme-Accent"
          d="m 389.57141,493.798 c -1.66197,0 -3,1.338 -3,3 l 0,43 c 0,1.662 1.33803,3 3,3 l 27,0 27,0 c 1.66197,0 3,-1.338 3,-3 l 0,-34 c 0,-1.662 -1.33803,-3 -3,-3 l -24,0 -2,-8 c -0.13437,-0.5375 -0.446,-1 -1,-1 l -18,0 -9,0 z"
-         style="opacity:1;fill:#00bcd4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path4223-0"
          d="m 389.57141,494.798 c -1.108,0 -2,0.892 -2,2 l 0,43 c 0,1.108 0.892,2 2,2 l 27,0 27,0 c 1.108,0 2,-0.892 2,-2 l 0,-34 c 0,-1.108 -0.892,-2 -2,-2 l -25,0 -2,-8 c -0.13437,-0.5375 -0.446,-1 -1,-1 l -20,0 -6,0 z"
-         style="opacity:1;fill:#4dd0e1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
     <image
@@ -200,10 +212,17 @@ gg==
        width="24" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#4d4d4d;fill:#b2ebf2;fill-opacity:1;stroke:none"
-       class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       class="ColorScheme-Highlight ColorScheme-Accent"
        d="m 416.54213,511.79789 c -0.12149,0.004 -0.24128,0.0295 -0.35351,0.0762 -0.005,0.002 -0.009,0.004 -0.0137,0.006 -0.11574,0.0495 -0.2211,0.1204 -0.31055,0.20899 l 0,0.002 -2,2 c -0.62841,0.63029 -0.18282,1.70608 0.70703,1.70703 l 1,0 0,4 c 0,0.5539 0.44631,1 1,1 0.55369,0 1,-0.4461 1,-1 l 0,-4 0.99805,0 c 0.89025,-4e-4 1.33631,-1.07703 0.70703,-1.70703 l -1.99805,-2 -0.002,-0.002 c -0.0899,-0.0895 -0.19591,-0.16108 -0.3125,-0.21094 l -0.004,-0.002 c -10e-4,-4.9e-4 -0.003,4.9e-4 -0.004,0 -0.12061,-0.0507 -0.25,-0.0772 -0.38082,-0.0781 l -0.006,0 c -0.009,-1.2e-4 -0.0182,-1.2e-4 -0.0273,0 z m -6.9707,5 c -1.10814,0 -2,0.89186 -2,2 l 0,11.00011 c 0,1.10815 0.89186,2 2,2 l 14,0 c 1.10814,0 2,-0.89185 2,-2 l 0,-11.00011 c 0,-1.10814 -0.89186,-2 -2,-2 l -3,0 0,2 3,0 0,11.00011 -4,0 -6,0 -4,0 0,-11.00011 3,0 0,-2 z"
        id="rect3217"
+       sodipodi:nodetypes="ccccccccsssccccccccccccssssssssccccccccccs" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.7;stroke:none"
+       class="ColorScheme-Highlight ColorScheme-Accent"
+       d="m 416.54213,511.79789 c -0.12149,0.004 -0.24128,0.0295 -0.35351,0.0762 -0.005,0.002 -0.009,0.004 -0.0137,0.006 -0.11574,0.0495 -0.2211,0.1204 -0.31055,0.20899 l 0,0.002 -2,2 c -0.62841,0.63029 -0.18282,1.70608 0.70703,1.70703 l 1,0 0,4 c 0,0.5539 0.44631,1 1,1 0.55369,0 1,-0.4461 1,-1 l 0,-4 0.99805,0 c 0.89025,-4e-4 1.33631,-1.07703 0.70703,-1.70703 l -1.99805,-2 -0.002,-0.002 c -0.0899,-0.0895 -0.19591,-0.16108 -0.3125,-0.21094 l -0.004,-0.002 c -10e-4,-4.9e-4 -0.003,4.9e-4 -0.004,0 -0.12061,-0.0507 -0.25,-0.0772 -0.38082,-0.0781 l -0.006,0 c -0.009,-1.2e-4 -0.0182,-1.2e-4 -0.0273,0 z m -6.9707,5 c -1.10814,0 -2,0.89186 -2,2 l 0,11.00011 c 0,1.10815 0.89186,2 2,2 l 14,0 c 1.10814,0 2,-0.89185 2,-2 l 0,-11.00011 c 0,-1.10814 -0.89186,-2 -2,-2 l -3,0 0,2 3,0 0,11.00011 -4,0 -6,0 -4,0 0,-11.00011 3,0 0,-2 z"
+       id="rect3217-tint"
        sodipodi:nodetypes="ccccccccsssccccccccccccssssssssccccccccccs" />
   </g>
 </svg>
