@@ -1,3 +1,9 @@
+luv-icon-theme (0.8.9) nitrux; urgency=medium
+
+  * Add 16 px sidebar icons.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 22 Sep 2026 21:57:56 -0600
+
 luv-icon-theme (0.8.8) nitrux; urgency=medium
 
   * Make additional folder icons follow the color scheme accent color.
