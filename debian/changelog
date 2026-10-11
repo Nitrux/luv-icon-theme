@@ -1,3 +1,9 @@
+luv-icon-theme (0.9.0) nitrux; urgency=medium
+
+  * Fix dialog-warning@64.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 11 Oct 2026 02:29:00 -0600
+
 luv-icon-theme (0.8.9) nitrux; urgency=medium
 
   * Add 16 px sidebar icons.
